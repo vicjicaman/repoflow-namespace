@@ -2,14 +2,14 @@
   "baselineid":"master",
   "modules": [
     {
-      "moduleid": "app-remove",
+      "moduleid": "nodeflow-local-pull",
       "type": "npm",
-      "fullname": "@nebulario/app-remove",
+      "fullname": "@nebulario/nodeflow-local-pull",
       "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
-        "type": "patch"
+        "type": "mayor"
       }
     }
   ]
