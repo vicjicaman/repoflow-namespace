@@ -1,0 +1,203 @@
+{
+  "baselineid":"master",
+  "modules": [
+    {
+      "moduleid": "nodeflow-local-common",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "mayor"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "minor"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "core-render-stateful-web",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-web",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-server",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "app-request",
+      "type": "npm",
+      "fullname": "@nebulario/app-request",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "dll-redux",
+      "type": "npm",
+      "fullname": "@nebulario/dll-redux",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "dll-apollo",
+      "type": "npm",
+      "fullname": "@nebulario/dll-apollo",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "dll-utils",
+      "type": "npm",
+      "fullname": "@nebulario/dll-utils",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "dll-vendor",
+      "type": "npm",
+      "fullname": "@nebulario/dll-vendor",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "repoflow-local-events",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-local-events",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "core-process",
+      "type": "npm",
+      "fullname": "@nebulario/core-process",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "app-notify",
+      "type": "npm",
+      "fullname": "@nebulario/app-notify",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "app-layout",
+      "type": "npm",
+      "fullname": "@nebulario/app-layout",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "core-logger",
+      "type": "npm",
+      "fullname": "@nebulario/core-logger",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "repoflow-server",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-server",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    },
+    {
+      "moduleid": "app-graphql",
+      "type": "npm",
+      "fullname": "@nebulario/app-graphql",
+      "version": "1.0.25-local-ui-graph-dev",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      }
+    }
+  ]
+}
