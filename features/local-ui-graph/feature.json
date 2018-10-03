@@ -13,7 +13,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "4c072fb8e060badfc86f378eef60b4383da6a33c"
+        "commitid": "2d982aa45839d9ceb6d023326b0fc78ba7c3f8a6"
       }
     },
     {
@@ -28,7 +28,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "395ddc96a9cef5181baaae9a5bd165f68246a641"
+        "commitid": "dff7e708b422e315252545fe781301162b4ef339"
       }
     },
     {
@@ -227,21 +227,6 @@
       }
     },
     {
-      "moduleid": "core-logger",
-      "type": "npm",
-      "fullname": "@nebulario/core-logger",
-      "version": "1.0.25-local-ui-graph-dev",
-      "upstream": {},
-      "labels": [],
-      "release": {
-        "type": "patch"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/core-logger.git",
-        "commitid": "b3711606f196dfef06bcf690f55b0f90a90ea6b2"
-      }
-    },
-    {
       "moduleid": "repoflow-server",
       "type": "npm",
       "fullname": "@nebulario/repoflow-server",
@@ -254,21 +239,6 @@
       "repository": {
         "url": "github.com:vicjicaman/repoflow-server.git",
         "commitid": "e43bb05242733c9cbb6c8d2da493d26041141b00"
-      }
-    },
-    {
-      "moduleid": "app-graphql",
-      "type": "npm",
-      "fullname": "@nebulario/app-graphql",
-      "version": "1.0.25-local-ui-graph-dev",
-      "upstream": {},
-      "labels": [],
-      "release": {
-        "type": "mayor"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/app-graphql.git",
-        "commitid": "06bddbe77896847fe4af111a8f54ea0f1bade2eb"
       }
     }
   ]
