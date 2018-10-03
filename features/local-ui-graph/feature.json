@@ -13,7 +13,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "2d982aa45839d9ceb6d023326b0fc78ba7c3f8a6"
+        "commitid": "1609995368f929ba1a2a9d9d8206bf03be0aeec1"
       }
     },
     {
@@ -28,7 +28,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "dff7e708b422e315252545fe781301162b4ef339"
+        "commitid": "649a5aa38c07e4ef672df37a208777a92739c621"
       }
     },
     {
@@ -244,9 +244,9 @@
     {
       "moduleid": "core-logger",
       "url": "github.com:vicjicaman/core-logger.git",
-      "type": "",
-      "version": "",
-      "fullname": "",
+      "type": "npm",
+      "version": "1.0.0",
+      "fullname": "nebulario/core-logger",
       "release": {
         "type": "patch"
       },
