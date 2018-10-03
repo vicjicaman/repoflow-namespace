@@ -240,6 +240,21 @@
         "url": "github.com:vicjicaman/repoflow-server.git",
         "commitid": "e43bb05242733c9cbb6c8d2da493d26041141b00"
       }
+    },
+    {
+      "moduleid": "core-logger",
+      "url": "github.com:vicjicaman/core-logger.git",
+      "type": "",
+      "version": "",
+      "fullname": "",
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/core-logger.git",
+        "commitid": "b3711606f196dfef06bcf690f55b0f90a90ea6b2"
+      },
+      "labels": []
     }
   ]
 }
