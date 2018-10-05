@@ -10,6 +10,9 @@
       "release": {
         "type": "mayor"
       },
+      "iteration": {
+        "mode": "dev"
+      },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
         "commitid": "b7d25166518a9a35f7e12e4a276d71d4e4625fef"
@@ -24,9 +27,12 @@
       "release": {
         "type": "minor"
       },
+      "iteration": {
+        "mode": "dev"
+      },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "882cdc98b3eafc9b879552f8b91d6a0e1c003e01"
+        "commitid": "c3695003e3e1a8f95888f3376092695ba6ef9294"
       }
     },
     {
@@ -37,6 +43,9 @@
       "labels": [],
       "release": {
         "type": "patch"
+      },
+      "iteration": {
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
@@ -52,6 +61,9 @@
       "release": {
         "type": "patch"
       },
+      "iteration": {
+        "mode": "dev"
+      },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
         "commitid": "e13b0493945205772ee1ab7b778e565e18ea6765"
@@ -65,6 +77,9 @@
       "labels": [],
       "release": {
         "type": "patch"
+      },
+      "iteration": {
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-web.git",
@@ -80,6 +95,9 @@
       "release": {
         "type": "patch"
       },
+      "iteration": {
+        "mode": "dev"
+      },
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-server.git",
         "commitid": "39f14ea4d4e0650b96b8704309e7701c8255f2e1"
@@ -93,6 +111,9 @@
       "labels": [],
       "release": {
         "type": "patch"
+      },
+      "iteration": {
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/app-request.git",
@@ -108,6 +129,9 @@
       "release": {
         "type": "patch"
       },
+      "iteration": {
+        "mode": "dev"
+      },
       "repository": {
         "url": "github.com:vicjicaman/dll-redux.git",
         "commitid": "2f70f00de1a47dcf547068bf9b802ce4fef84eb1"
@@ -121,6 +145,9 @@
       "labels": [],
       "release": {
         "type": "patch"
+      },
+      "iteration": {
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-apollo.git",
@@ -136,6 +163,9 @@
       "release": {
         "type": "patch"
       },
+      "iteration": {
+        "mode": "dev"
+      },
       "repository": {
         "url": "github.com:vicjicaman/dll-utils.git",
         "commitid": "d7dbb99c770116d64cc15d20f6cdeda9bb3f5696"
@@ -149,6 +179,9 @@
       "labels": [],
       "release": {
         "type": "patch"
+      },
+      "iteration": {
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-vendor.git",
@@ -164,6 +197,9 @@
       "release": {
         "type": "patch"
       },
+      "iteration": {
+        "mode": "dev"
+      },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-local-events.git",
         "commitid": "5745aa530ba5669a41158690e6e458a355a70292"
@@ -177,6 +213,9 @@
       "labels": [],
       "release": {
         "type": "patch"
+      },
+      "iteration": {
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-process.git",
@@ -192,6 +231,9 @@
       "release": {
         "type": "patch"
       },
+      "iteration": {
+        "mode": "dev"
+      },
       "repository": {
         "url": "github.com:vicjicaman/app-notify.git",
         "commitid": "d62979c25fa2e865d4b586d687b7d8f4829e8fc3"
@@ -205,6 +247,9 @@
       "labels": [],
       "release": {
         "type": "patch"
+      },
+      "iteration": {
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/app-layout.git",
@@ -220,6 +265,9 @@
       "release": {
         "type": "patch"
       },
+      "iteration": {
+        "mode": "dev"
+      },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-server.git",
         "commitid": "e43bb05242733c9cbb6c8d2da493d26041141b00"
@@ -232,6 +280,9 @@
       "fullname": "@nebulario/core-logger",
       "release": {
         "type": "patch"
+      },
+      "iteration": {
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-logger.git",
