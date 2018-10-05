@@ -5,7 +5,6 @@
       "moduleid": "nodeflow-local-common",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-common",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -13,14 +12,13 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "bc3c41b040c55f8d5143296bfb2d6c59b045a740"
+        "commitid": "b7d25166518a9a35f7e12e4a276d71d4e4625fef"
       }
     },
     {
       "moduleid": "nodeflow-local-graph",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-graph",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -28,14 +26,13 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "74c3dbf12345d0869e1bb1b4cac17977074bc311"
+        "commitid": "882cdc98b3eafc9b879552f8b91d6a0e1c003e01"
       }
     },
     {
       "moduleid": "nodeflow-local-web",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-web",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -50,7 +47,6 @@
       "moduleid": "nodeflow-local-server",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-server",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -65,7 +61,6 @@
       "moduleid": "core-render-stateful-web",
       "type": "npm",
       "fullname": "@nebulario/core-render-stateful-web",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -80,7 +75,6 @@
       "moduleid": "core-render-stateful-server",
       "type": "npm",
       "fullname": "@nebulario/core-render-stateful-server",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -95,7 +89,6 @@
       "moduleid": "app-request",
       "type": "npm",
       "fullname": "@nebulario/app-request",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -110,7 +103,6 @@
       "moduleid": "dll-redux",
       "type": "npm",
       "fullname": "@nebulario/dll-redux",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -125,7 +117,6 @@
       "moduleid": "dll-apollo",
       "type": "npm",
       "fullname": "@nebulario/dll-apollo",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -140,7 +131,6 @@
       "moduleid": "dll-utils",
       "type": "npm",
       "fullname": "@nebulario/dll-utils",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -155,7 +145,6 @@
       "moduleid": "dll-vendor",
       "type": "npm",
       "fullname": "@nebulario/dll-vendor",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -170,7 +159,6 @@
       "moduleid": "repoflow-local-events",
       "type": "npm",
       "fullname": "@nebulario/repoflow-local-events",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -185,7 +173,6 @@
       "moduleid": "core-process",
       "type": "npm",
       "fullname": "@nebulario/core-process",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -200,7 +187,6 @@
       "moduleid": "app-notify",
       "type": "npm",
       "fullname": "@nebulario/app-notify",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -215,7 +201,6 @@
       "moduleid": "app-layout",
       "type": "npm",
       "fullname": "@nebulario/app-layout",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -230,7 +215,6 @@
       "moduleid": "repoflow-server",
       "type": "npm",
       "fullname": "@nebulario/repoflow-server",
-      "version": "1.0.25-local-ui-graph-dev",
       "upstream": {},
       "labels": [],
       "release": {
@@ -245,8 +229,7 @@
       "moduleid": "core-logger",
       "url": "github.com:vicjicaman/core-logger.git",
       "type": "npm",
-      "version": "1.0.3",
-      "fullname": "nebulario/core-logger",
+      "fullname": "@nebulario/core-logger",
       "release": {
         "type": "patch"
       },
