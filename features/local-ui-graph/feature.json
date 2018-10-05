@@ -15,7 +15,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "f9abbbe5e6e2042fe0bd074a2315b0606d8f0379"
+        "commitid": "b4d650b591cb45fc7f7a52d59ef1477394de926c"
       }
     },
     {
@@ -28,11 +28,11 @@
         "type": "minor"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "3eb3a7be0ec175c14c60237091e1ce3a617a8784"
+        "commitid": "77291155daf1f1990ab3658d753813af2011c3fb"
       }
     },
     {
@@ -62,7 +62,7 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
@@ -130,7 +130,7 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-redux.git",
@@ -147,7 +147,7 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-apollo.git",
@@ -164,7 +164,7 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-utils.git",
@@ -181,7 +181,7 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-vendor.git",
@@ -215,7 +215,7 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-process.git",
@@ -282,7 +282,7 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-logger.git",
