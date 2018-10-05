@@ -28,7 +28,7 @@
         "type": "minor"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
