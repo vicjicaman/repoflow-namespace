@@ -11,11 +11,11 @@
         "type": "mayor"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "05ae75118dc1561256323f59d6472644ea86e5a8"
+        "commitid": "db75f030dabad05db83b8ac6b0b204343b7a3717"
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "38fc413cd677809e1a0420e34b1f4957fde952ae"
+        "commitid": "400416c5b609026c6ebe47dd5e1825c92f66e708"
       }
     },
     {
