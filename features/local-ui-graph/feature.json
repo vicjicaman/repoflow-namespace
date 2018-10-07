@@ -32,7 +32,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "45a2d7b6e9868c86153426a4cf8e3c57b707470a"
+        "commitid": "5efdd6bb36d5cb3a31d8e10379e96d0d77f03728"
       }
     },
     {
@@ -66,7 +66,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "9ac9c4cde18bfb0b9fcc00674eca3c7d88357ad4"
+        "commitid": "745d02b80b66f3f657512b80208b11af9e8e34b8"
       }
     },
     {
