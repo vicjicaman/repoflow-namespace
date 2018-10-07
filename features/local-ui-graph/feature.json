@@ -11,11 +11,11 @@
         "type": "mayor"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "a19fa8a8827a7ce308ca8b140e62f33840d5a6b0"
+        "commitid": "05ae75118dc1561256323f59d6472644ea86e5a8"
       }
     },
     {
@@ -28,11 +28,11 @@
         "type": "minor"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "5e71855911b1b9006a5960d2af5a48a78104aa98"
+        "commitid": "45a2d7b6e9868c86153426a4cf8e3c57b707470a"
       }
     },
     {
@@ -45,11 +45,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "fbb202f30b36c4089cf221044220964f68af5692"
+        "commitid": "38fc413cd677809e1a0420e34b1f4957fde952ae"
       }
     },
     {
@@ -66,7 +66,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "93567ed3fad175ed7b09bcedbf0ced903de72c05"
+        "commitid": "9ac9c4cde18bfb0b9fcc00674eca3c7d88357ad4"
       }
     },
     {
@@ -96,11 +96,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-server.git",
-        "commitid": "f5ce3e3bc6d8f6fe4654c21a81a6c8a4bc0ac69f"
+        "commitid": "fdee5c162c0c0626c57842172fb3a91627946165"
       }
     },
     {
@@ -113,11 +113,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/app-request.git",
-        "commitid": "524ce9d2ee7d9ca3b3b49a477f09d9488cc23368"
+        "commitid": "7fac895becf48059543b7796a43f76b2718e7acc"
       }
     },
     {
