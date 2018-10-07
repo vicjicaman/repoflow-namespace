@@ -15,7 +15,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "d26b09cffc4b4c636bd6951f5ec1a1c38722d9b2"
+        "commitid": "a19fa8a8827a7ce308ca8b140e62f33840d5a6b0"
       }
     },
     {
@@ -32,7 +32,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "fe335d257c1249f322570f226ec5dc69d602503a"
+        "commitid": "5e71855911b1b9006a5960d2af5a48a78104aa98"
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "2a90feff5ed7c852b353ca06983f94134a9e8033"
+        "commitid": "fbb202f30b36c4089cf221044220964f68af5692"
       }
     },
     {
@@ -66,7 +66,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "11dba9334e7e2377e7aef597e2148e5a674083c9"
+        "commitid": "93567ed3fad175ed7b09bcedbf0ced903de72c05"
       }
     },
     {
@@ -83,7 +83,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-web.git",
-        "commitid": "067196c24fe60e899af14427c55ec96f05843331"
+        "commitid": "732e3f5570b76f67ac5388b859adc260debd9f5b"
       }
     },
     {
@@ -100,7 +100,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-server.git",
-        "commitid": "3f1c9a895ff252b7b59771ab4d03d33ae8bfeecd"
+        "commitid": "f5ce3e3bc6d8f6fe4654c21a81a6c8a4bc0ac69f"
       }
     },
     {
@@ -117,7 +117,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/app-request.git",
-        "commitid": "760438e5a9ffec4fc70a1b3d993aad9fe3972622"
+        "commitid": "524ce9d2ee7d9ca3b3b49a477f09d9488cc23368"
       }
     },
     {
@@ -134,7 +134,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-redux.git",
-        "commitid": "42963ceec6702cde65a3f2fc381c11f330ac7bcd"
+        "commitid": "760fa3991478f1b4a7ada55fd528650ce8593dd1"
       }
     },
     {
@@ -151,7 +151,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-apollo.git",
-        "commitid": "627a15f2ce8eb53a4f410037648d0e4fa05fff34"
+        "commitid": "c035e08b32f4cb4555fcf958effb0da3f16cde25"
       }
     },
     {
@@ -168,7 +168,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-utils.git",
-        "commitid": "aa473eb8b6e0dc3913e29645ee4afee794d9f706"
+        "commitid": "e3d951ffb895fe6925067ef7b095cbec25a1cb35"
       }
     },
     {
@@ -185,7 +185,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-vendor.git",
-        "commitid": "c1b570a3a82898b11e7ea6879333beaef33b12fb"
+        "commitid": "8253c02679d70aba544c668d158c4739d63d835d"
       }
     },
     {
@@ -202,7 +202,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-local-events.git",
-        "commitid": "7c0ee512d7cd07fd42061e360f67bbcbf20845ec"
+        "commitid": "bcee4e9d77994cf5378e7ff03e83cea193e886ec"
       }
     },
     {
@@ -219,7 +219,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/core-process.git",
-        "commitid": "e323f96ec27a2f34b38ed522d4d52c0309092005"
+        "commitid": "8d70643131f5f19ea0b5691653c4fe71dc315e48"
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/app-notify.git",
-        "commitid": "07346e706552866f9453d2b1ca863519dee7e99e"
+        "commitid": "17906b0f69ea4a9480fbd3b5210ae5ea9e0415f7"
       }
     },
     {
@@ -253,7 +253,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/app-layout.git",
-        "commitid": "a97cfd7dfe6bd482f95236d1f9fc3314718067e0"
+        "commitid": "af8161bd19f627a9129d77240ff239c92b9e5de4"
       }
     },
     {
@@ -270,7 +270,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-server.git",
-        "commitid": "9baeeb9717ddf8c8260b342b57dbf1be18196826"
+        "commitid": "2cab57c08288f451c80ac34efbdd7e0930307df4"
       }
     },
     {
@@ -286,7 +286,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/core-logger.git",
-        "commitid": "d8198ce515b6a8cbe1a04b163713f4554bb72a64"
+        "commitid": "5641b350ba1d09efff6063cdec6692a794da379f"
       },
       "labels": []
     }
