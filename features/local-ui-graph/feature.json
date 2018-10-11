@@ -11,11 +11,11 @@
         "type": "mayor"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "e30bce5daf8aea78d75b5bde722e897992c13f36"
+        "commitid": "3920df19920f37aae8ebaae04a7214dbd5c6e7a7"
       }
     },
     {
@@ -28,11 +28,11 @@
         "type": "minor"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "4be4856ef6e18cfef2af907d4919c4963c042713"
+        "commitid": "c399378a44f8cb9e5eb1b8f18fb58ab89b28f6bb"
       }
     },
     {
@@ -45,11 +45,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "24319773aa003e96c43ca099b65fd51ad5c9ac89"
+        "commitid": "a1f3d15019a04cf08c34b0f282df9f8019216d5d"
       }
     },
     {
@@ -62,11 +62,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "88b413829ea44299f35a46e962b042c466f4939e"
+        "commitid": "4b3f93e9263fc124b5626035f514df7e17c0e813"
       }
     },
     {
@@ -130,11 +130,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-redux.git",
-        "commitid": "760fa3991478f1b4a7ada55fd528650ce8593dd1"
+        "commitid": "6e2b3557afd9d24268351255bbd1666e61058a9c"
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/app-notify.git",
-        "commitid": "a931fb7e549db154f6107872ed7f2f99e0e77dbf"
+        "commitid": "0ddd750b62a529da0ce424e73dbefd8fc1613d19"
       }
     },
     {
@@ -249,11 +249,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/app-layout.git",
-        "commitid": "dad3c53e5fb0c2b14c7a040f3cc133c0e4ec31f7"
+        "commitid": "16af06575525d1b3019f39dec0c96dd48e1a5246"
       }
     },
     {
@@ -266,11 +266,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-server.git",
-        "commitid": "2cab57c08288f451c80ac34efbdd7e0930307df4"
+        "commitid": "d309b9f4355c25cc9cd6272399b39ef9a34f1897"
       }
     },
     {
