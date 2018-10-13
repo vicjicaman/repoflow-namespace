@@ -189,23 +189,6 @@
       }
     },
     {
-      "moduleid": "repoflow-local-events",
-      "type": "npm",
-      "fullname": "@nebulario/repoflow-local-events",
-      "upstream": {},
-      "labels": [],
-      "release": {
-        "type": "patch"
-      },
-      "iteration": {
-        "mode": "dev"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/repoflow-local-events.git",
-        "commitid": "a595a87f00047ab48e5113a9917c556fd32c1ea7"
-      }
-    },
-    {
       "moduleid": "core-process",
       "type": "npm",
       "fullname": "@nebulario/core-process",
