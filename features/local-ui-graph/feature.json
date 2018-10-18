@@ -11,11 +11,11 @@
         "type": "mayor"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "761a394e7b17c484dbb4d159bef2bb2f9efa2c02"
+        "commitid": "4c0b08242a95ae940d7a503e599fa65baec621b1"
       }
     },
     {
@@ -45,11 +45,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "b588f71b15e4ee74922d25e11846dc64f244e00a"
+        "commitid": "d481b1694288f1bce7aa34fa58ab7a31a9ed0701"
       }
     },
     {
@@ -66,7 +66,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "bb376420d3db77472267962d5df0a8a664663807"
+        "commitid": "b2197b5950adf1cdb9eb523dd98e3974364640ea"
       }
     },
     {
@@ -280,14 +280,14 @@
       "version": "",
       "fullname": "@nebulario/dll-react",
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "release": {
         "type": "patch"
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-react.git",
-        "commitid": "5210c11a76ee8e93dc53b82e576477a1d7911b12"
+        "commitid": "c9f28f6719e7b4f8716d6dad68396290cfa5f30f"
       },
       "labels": []
     }
