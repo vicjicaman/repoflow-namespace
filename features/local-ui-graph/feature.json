@@ -15,7 +15,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "4f97f5535b87fc10e9699c9ee39f5f4ffd78d411"
+        "commitid": "b5eac6202ddf5e7b594d8c92332a6908b33d24b4"
       }
     },
     {
@@ -32,7 +32,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "a0cdba52fc4d429d07cf04d588cb9a5635aeb5af"
+        "commitid": "c5e031d448694dcdf87868ab99ec059062447829"
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "1520594c27ada1679631027a6640285fae9b1bce"
+        "commitid": "9d794621686ed0fd63b6fdbff383497d586b9c52"
       }
     },
     {
@@ -66,7 +66,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "43e53ce55448ccd2bc1509ae4daaef0063ce3959"
+        "commitid": "b6f29b37f071accbd35b9dbf86fbcb6387a8da5c"
       }
     },
     {
@@ -101,23 +101,6 @@
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-server.git",
         "commitid": "2dc1359c5ff71bdf126123ff63c7a639ecebc184"
-      }
-    },
-    {
-      "moduleid": "app-request",
-      "type": "npm",
-      "fullname": "@nebulario/app-request",
-      "upstream": {},
-      "labels": [],
-      "release": {
-        "type": "patch"
-      },
-      "iteration": {
-        "mode": "dev"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/app-request.git",
-        "commitid": "c6a2033b20e7d678788adcb6ac4fd38c20897a31"
       }
     },
     {
@@ -271,24 +254,6 @@
       "repository": {
         "url": "github.com:vicjicaman/dll-react.git",
         "commitid": "95c961e9f461d5d95284a47a70ccf1867b89199f"
-      },
-      "labels": []
-    },
-    {
-      "moduleid": "repoflow-plugin-server",
-      "url": "github.com:vicjicaman/repoflow-plugin-server.git",
-      "type": "npm",
-      "version": "",
-      "fullname": "@nebulario/repoflow-plugin-server",
-      "iteration": {
-        "mode": "dev"
-      },
-      "release": {
-        "type": "patch"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/repoflow-plugin-server.git",
-        "commitid": "09e77f60db219e526fbcd3dd98515c4d655e71e2"
       },
       "labels": []
     }
