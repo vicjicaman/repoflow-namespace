@@ -15,7 +15,12 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "756e087e46c5f5c07b3369869018bc108f6f9658"
+        "commitid": "fb38fbd018782e52969e5cfc79accb2f6c553dde"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -32,7 +37,12 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "2ab4fc95a4c77eff7fef41cefaa6732bf248f3d9"
+        "commitid": "ff91c5a7e4d120bde9768291fb38cf5ecbb50cd9"
+      },
+      "runtime": {
+        "run": {
+          "runnable": true
+        }
       }
     },
     {
@@ -49,7 +59,12 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "6b70cfefee0dac041610e90f802e7ef41cace4d9"
+        "commitid": "24fba7acd61c03f13ba488228be1383f6913258b"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -66,7 +81,12 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "e5bc309e3d4ce9d403b79526cf5b1511157559a9"
+        "commitid": "67a9492e3d9504f2702fab02a3d6753a22b81294"
+      },
+      "runtime": {
+        "run": {
+          "runnable": true
+        }
       }
     },
     {
@@ -84,6 +104,11 @@
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-web.git",
         "commitid": "976a6f7db9a3f113a5dd307c970262ce2b7ed069"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -101,6 +126,11 @@
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-server.git",
         "commitid": "2dc1359c5ff71bdf126123ff63c7a639ecebc184"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -118,6 +148,11 @@
       "repository": {
         "url": "github.com:vicjicaman/dll-redux.git",
         "commitid": "b1565719450d3a0f1fec23128b46250d8e7da8a0"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -135,6 +170,11 @@
       "repository": {
         "url": "github.com:vicjicaman/dll-apollo.git",
         "commitid": "749ae1ecc2b2a900b479281afa3629c3fbd5ddd5"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -152,6 +192,11 @@
       "repository": {
         "url": "github.com:vicjicaman/dll-utils.git",
         "commitid": "cfbded223e93c49d170e2757fc8b0ddda94d1012"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -169,6 +214,11 @@
       "repository": {
         "url": "github.com:vicjicaman/dll-vendor.git",
         "commitid": "75c06faeb2e9bbf79f663c280049f5bd53c2468d"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -186,6 +236,11 @@
       "repository": {
         "url": "github.com:vicjicaman/core-process.git",
         "commitid": "7567a859080e7322c7dee897688e11d809ea723e"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -203,6 +258,11 @@
       "repository": {
         "url": "github.com:vicjicaman/app-notify.git",
         "commitid": "ea4bb440603d535db1c08072ac89ba143ed10458"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -220,6 +280,11 @@
       "repository": {
         "url": "github.com:vicjicaman/app-layout.git",
         "commitid": "64d3fe21eb2b5fce17a131b196a9a34259207baa"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
       }
     },
     {
@@ -237,7 +302,12 @@
         "url": "github.com:vicjicaman/core-logger.git",
         "commitid": "d94af2347d7b53c7d21df2eb1ce1cd3ce832a8d8"
       },
-      "labels": []
+      "labels": [],
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
     },
     {
       "moduleid": "dll-react",
@@ -255,7 +325,12 @@
         "url": "github.com:vicjicaman/dll-react.git",
         "commitid": "95c961e9f461d5d95284a47a70ccf1867b89199f"
       },
-      "labels": []
+      "labels": [],
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
     }
   ]
 }
