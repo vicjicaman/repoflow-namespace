@@ -11,11 +11,11 @@
         "type": "mayor"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "57d7feb67127f9aca7177797b2c9d51aaf7f190c"
+        "commitid": "3913d0e7af2243f1877776bfd34b38226484fa57"
       },
       "runtime": {
         "run": {
@@ -33,11 +33,11 @@
         "type": "minor"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "f4135d28e2dc0c17a408cc557b8f9099e7e73967"
+        "commitid": "c9a73607466d61cce2791809b9c24cbdcf105342"
       },
       "runtime": {
         "run": {
@@ -55,11 +55,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "4daf444efd54176cdba89118cf205263a2048d5b"
+        "commitid": "de0bf4348d4733b1287249a9a935965f2616370e"
       },
       "runtime": {
         "run": {
@@ -77,11 +77,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "bb4af0842a20f8aa818c38dcd8755a96562fa76f"
+        "commitid": "a2369765aaba5ad6410ee77351b39a1f2feaa5a0"
       },
       "runtime": {
         "run": {
@@ -99,11 +99,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-web.git",
-        "commitid": "976a6f7db9a3f113a5dd307c970262ce2b7ed069"
+        "commitid": "afb2bf736a22e981fa658a3e55fef37f661626b1"
       },
       "runtime": {
         "run": {
@@ -121,11 +121,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-server.git",
-        "commitid": "2dc1359c5ff71bdf126123ff63c7a639ecebc184"
+        "commitid": "e325cd7055a8bf2dc24caaede54113976d5c9780"
       },
       "runtime": {
         "run": {
@@ -143,11 +143,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/dll-redux.git",
-        "commitid": "b1565719450d3a0f1fec23128b46250d8e7da8a0"
+        "commitid": "b5199be3c6a1de7da3d1b21b715c6b146e2edd4c"
       },
       "runtime": {
         "run": {
@@ -231,11 +231,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-process.git",
-        "commitid": "7567a859080e7322c7dee897688e11d809ea723e"
+        "commitid": "27a249c8ac36a0134e6129f7d3ed027794aa2c46"
       },
       "runtime": {
         "run": {
@@ -275,11 +275,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/app-layout.git",
-        "commitid": "64d3fe21eb2b5fce17a131b196a9a34259207baa"
+        "commitid": "57cb1ed4a1d6734a45a58ddd70a972224d9c62e3"
       },
       "runtime": {
         "run": {
@@ -296,11 +296,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-logger.git",
-        "commitid": "d94af2347d7b53c7d21df2eb1ce1cd3ce832a8d8"
+        "commitid": "6ce422ad72538cca19edf626141799a08ae8e24a"
       },
       "labels": [],
       "runtime": {
