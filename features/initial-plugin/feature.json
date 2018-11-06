@@ -15,7 +15,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-plugin-container.git",
-        "commitid": null
+        "commitid": "2c7dc995fa71d5aeec5e515a706e2c1e54162533"
       },
       "runtime": {
         "run": {
@@ -38,7 +38,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
-        "commitid": null
+        "commitid": "b3b92c425f0ec44641f2281614bdaa2637935d82"
       },
       "runtime": {
         "run": {
