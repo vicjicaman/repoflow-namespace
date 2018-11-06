@@ -11,11 +11,11 @@
         "type": "mayor"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "3913d0e7af2243f1877776bfd34b38226484fa57"
+        "commitid": "21f08e33bb8357ed3420136d9278dc22a14dae16"
       },
       "runtime": {
         "run": {
@@ -33,11 +33,11 @@
         "type": "minor"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "c9a73607466d61cce2791809b9c24cbdcf105342"
+        "commitid": "9ddceff876cb0b3e53475c33be7017e6e2a694b6"
       },
       "runtime": {
         "run": {
@@ -55,11 +55,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "de0bf4348d4733b1287249a9a935965f2616370e"
+        "commitid": "47ec8b2d8de5ca17bec6028e56378efed03ce832"
       },
       "runtime": {
         "run": {
@@ -77,11 +77,11 @@
         "type": "patch"
       },
       "iteration": {
-        "mode": "prod"
+        "mode": "dev"
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "a2369765aaba5ad6410ee77351b39a1f2feaa5a0"
+        "commitid": "16a6f31246738cca83449580155600e8ae53d318"
       },
       "runtime": {
         "run": {
@@ -331,6 +331,29 @@
           "runnable": false
         }
       }
+    },
+    {
+      "moduleid": "repoflow-container-graph",
+      "url": "github.com:vicjicaman/repoflow-container-graph.git",
+      "type": "container",
+      "version": "",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow.com/graph",
+      "iteration": {
+        "mode": "dev"
+      },
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-container-graph.git",
+        "commitid": "fedd294b9aa974c0c047eba229d3ad4ebd17c4e8"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      },
+      "labels": []
     }
   ]
 }
