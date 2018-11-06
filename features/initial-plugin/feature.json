@@ -1,0 +1,51 @@
+{
+  "baselineid": "master",
+  "modules": [
+    {
+      "moduleid": "repoflow-plugin-container",
+      "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+      "type": "npm",
+      "version": "",
+      "fullname": "@nebulario/repoflow-plugin-container",
+      "iteration": {
+        "mode": "dev"
+      },
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+        "commitid": null
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      },
+      "labels": []
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+      "type": "npm",
+      "version": "",
+      "fullname": "@nebulario/repoflow-plugin-npm",
+      "iteration": {
+        "mode": "dev"
+      },
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+        "commitid": null
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      },
+      "labels": []
+    }
+  ]
+}
