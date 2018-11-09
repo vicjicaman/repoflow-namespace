@@ -337,7 +337,7 @@
       "url": "github.com:vicjicaman/repoflow-container-graph.git",
       "type": "container",
       "version": "",
-      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow.com/graph",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow.com-container-graph",
       "iteration": {
         "mode": "dev"
       },
@@ -350,7 +350,7 @@
       },
       "runtime": {
         "run": {
-          "runnable": false
+          "runnable": true
         }
       },
       "labels": []
