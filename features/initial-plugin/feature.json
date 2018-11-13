@@ -15,7 +15,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-plugin-container.git",
-        "commitid": "2c7dc995fa71d5aeec5e515a706e2c1e54162533"
+        "commitid": "4efa7bc4b71a5c56534feb23ec63eb903d82fbbc"
       },
       "runtime": {
         "run": {
@@ -38,11 +38,34 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
-        "commitid": "b3b92c425f0ec44641f2281614bdaa2637935d82"
+        "commitid": "137245121e5cf897cdae4ef126532ae40297f610"
       },
       "runtime": {
         "run": {
           "runnable": false
+        }
+      },
+      "labels": []
+    },
+    {
+      "moduleid": "repoflow-build-server",
+      "url": "github.com:vicjicaman/repoflow-build-server.git",
+      "type": "npm",
+      "version": "",
+      "fullname": "@nebulario/repoflow-build-server",
+      "iteration": {
+        "mode": "dev"
+      },
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-build-server.git",
+        "commitid": "9d629ec016683e79e8684d237e6ec7cf0e5db9a5"
+      },
+      "runtime": {
+        "run": {
+          "runnable": true
         }
       },
       "labels": []
