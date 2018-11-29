@@ -15,7 +15,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "bf62059484216c776e790f993cbe5e923ef76160"
+        "commitid": "671f23716a939ed6b85c010133ade28e02029718"
       },
       "runtime": {
         "run": {
@@ -37,7 +37,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "ec89d877a14731238b93e321de4638f1da6c2a5d"
+        "commitid": "c2afef376d77ec1e123ee9c86be5806823f7a904"
       },
       "runtime": {
         "run": {
@@ -59,7 +59,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "58a5604a65b38bf5ae5c9214735b6096dfba12d2"
+        "commitid": "4c0f2c1a0d43fbd3a2a7c1562a3acbddcc1f1588"
       },
       "runtime": {
         "run": {
@@ -81,7 +81,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "f9d8d1bced462af453a680a121f2239bc21f3a10"
+        "commitid": "aa9c73c93ae9e5ee99ba0205f3aa9144f421b0a0"
       },
       "runtime": {
         "run": {
@@ -235,7 +235,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/core-process.git",
-        "commitid": "55bd08316720c2865db58fc292adb89112ef168d"
+        "commitid": "d8df754feb3a9ced7be513fdf44ca1972fc93c27"
       },
       "runtime": {
         "run": {
@@ -333,29 +333,6 @@
       }
     },
     {
-      "moduleid": "repoflow-container-graph",
-      "url": "github.com:vicjicaman/repoflow-container-graph.git",
-      "type": "container",
-      "version": "",
-      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
-      "iteration": {
-        "mode": "dev"
-      },
-      "release": {
-        "type": "patch"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/repoflow-container-graph.git",
-        "commitid": "40f09f3209f6fab54ffa8a6289c8728bddea2843"
-      },
-      "runtime": {
-        "run": {
-          "runnable": true
-        }
-      },
-      "labels": []
-    },
-    {
       "moduleid": "repoflow-container-server",
       "url": "github.com:vicjicaman/repoflow-container-server.git",
       "type": "container",
@@ -369,7 +346,30 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-container-server.git",
-        "commitid": "37d6760658876968babb8412ff11e928dca9c226"
+        "commitid": "ea84d3b51043197d4611c0cb582113cafc0246c8"
+      },
+      "runtime": {
+        "run": {
+          "runnable": true
+        }
+      },
+      "labels": []
+    },
+    {
+      "moduleid": "repoflow-container-graph",
+      "url": "github.com:vicjicaman/repoflow-container-graph.git",
+      "type": "container",
+      "version": "",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+      "iteration": {
+        "mode": "dev"
+      },
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-container-graph.git",
+        "commitid": "c0df0a2a4262d2a4397e15c55d128ae6ba5b64e4"
       },
       "runtime": {
         "run": {
