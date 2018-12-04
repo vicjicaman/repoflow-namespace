@@ -37,7 +37,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "c769bae3b3a8f9d4a0cb7902f85f5d79eb78083a"
+        "commitid": "05886165062fbc95e0f998f6edb73159ad9765cb"
       },
       "runtime": {
         "run": {
@@ -59,7 +59,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "30434a0472120cfeae10d65abc2898667fcc3a78"
+        "commitid": "7c677d1c9e73d469cd6aebf339448ab5bec98a9b"
       },
       "runtime": {
         "run": {
@@ -81,7 +81,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "fbcba25489bae212628ff9496c21cd0859fb3f25"
+        "commitid": "60b990c22b0628a445e7b42859f1c871816993f0"
       },
       "runtime": {
         "run": {
@@ -346,7 +346,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-container-server.git",
-        "commitid": "f35212def3253d54d41ab858b832418bdc9c2b89"
+        "commitid": "0d43c074206a58e835e7e167f1a5b2584d403fde"
       },
       "runtime": {
         "run": {
@@ -369,7 +369,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-container-graph.git",
-        "commitid": "379623f019cd52d557b861cdaa879ef6651b6494"
+        "commitid": "3afc73dbc8f9a2a175ea66b709400fa3b7685f4a"
       },
       "runtime": {
         "run": {
@@ -385,14 +385,14 @@
       "version": "",
       "fullname": "@nebulario/core-node",
       "iteration": {
-        "mode": "dev"
+        "mode": "prod"
       },
       "release": {
         "type": "patch"
       },
       "repository": {
         "url": "github.com:vicjicaman/core-node.git",
-        "commitid": "520f4b4d1bc88ccddbde597287f66230ff273c95"
+        "commitid": "09bf937e71b292492efce83902087382f1d68376"
       },
       "runtime": {
         "run": {
