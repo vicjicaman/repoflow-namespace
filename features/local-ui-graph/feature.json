@@ -37,7 +37,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "0d9b4aca6f4bd9c87da413e8a0183e7c25a27d06"
+        "commitid": "76a34fec430bea01b5c9e06aedb9d873e12aca47"
       },
       "runtime": {
         "run": {
@@ -374,6 +374,29 @@
       "runtime": {
         "run": {
           "runnable": true
+        }
+      },
+      "labels": []
+    },
+    {
+      "moduleid": "core-node",
+      "url": "github.com:vicjicaman/core-node.git",
+      "type": "npm",
+      "version": "",
+      "fullname": "@nebulario/core-node",
+      "iteration": {
+        "mode": "dev"
+      },
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/core-node.git",
+        "commitid": "2b5c26dd0d65191a63341d03aef052b428b94d3f"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
         }
       },
       "labels": []
