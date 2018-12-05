@@ -1,0 +1,232 @@
+{
+  "modules": [
+    {
+      "moduleid": "repoflow-container-graph",
+      "mode": "dev",
+      "version": "1.1.7-local-ui-graph-dev",
+      "type": "container",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-container-graph.git",
+        "commitid": "b288ffb162152203663a8331e34b7eb01143b377",
+        "message": "Move request error to event waiter"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "repoflow-container-server",
+      "mode": "dev",
+      "version": "1.1.4-local-ui-graph-dev",
+      "type": "container",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-container-server.git",
+        "commitid": "98c66ac13c9528cccd480d6d6a35a40959098dc2",
+        "message": "Move request error to event waiter"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "mode": "dev",
+      "version": "1.1.17-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-server.git",
+        "commitid": "76f1242b03c1281500a14e0714163d31bd22438b",
+        "message": "Next iteration for container publish test"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "mode": "dev",
+      "version": "1.1.17-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-web.git",
+        "commitid": "3be4564a63b2870610fb42f631a001970024362a",
+        "message": "Refactor streams functionality for build operation"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "mode": "prod",
+      "version": "1.1.3-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-server",
+      "repository": {
+        "url": "github.com:vicjicaman/core-render-stateful-server.git",
+        "commitid": "7f3c51f5c667b5e7568f99ee9400a61b2b982273",
+        "message": "Sync to the latest iteration version"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "mode": "dev",
+      "version": "1.1.15-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-common.git",
+        "commitid": "a8dfc24f9d39e5502949356d1160ea693c37c119",
+        "message": "Improve UI sync for running modules"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "core-render-stateful-web",
+      "mode": "prod",
+      "version": "1.1.3-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-web",
+      "repository": {
+        "url": "github.com:vicjicaman/core-render-stateful-web.git",
+        "commitid": "a93571dd33caf66e8b7f4104be9908895aee4054",
+        "message": "Sync to the latest iteration version"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "dll-redux",
+      "mode": "prod",
+      "version": "1.1.2-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/dll-redux",
+      "repository": {
+        "url": "github.com:vicjicaman/dll-redux.git",
+        "commitid": "b5199be3c6a1de7da3d1b21b715c6b146e2edd4c",
+        "message": "Change build configuration and version to production"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "dll-apollo",
+      "mode": "prod",
+      "version": "1.1.1-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/dll-apollo",
+      "repository": {
+        "url": "github.com:vicjicaman/dll-apollo.git",
+        "commitid": "749ae1ecc2b2a900b479281afa3629c3fbd5ddd5",
+        "message": "SEt dependencies to next iteration target"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "dll-utils",
+      "mode": "prod",
+      "version": "1.1.1-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/dll-utils",
+      "repository": {
+        "url": "github.com:vicjicaman/dll-utils.git",
+        "commitid": "cfbded223e93c49d170e2757fc8b0ddda94d1012",
+        "message": "SEt dependencies to next iteration target"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "dll-vendor",
+      "mode": "prod",
+      "version": "1.1.1-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/dll-vendor",
+      "repository": {
+        "url": "github.com:vicjicaman/dll-vendor.git",
+        "commitid": "75c06faeb2e9bbf79f663c280049f5bd53c2468d",
+        "message": "SEt dependencies to next iteration target"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "dll-react",
+      "mode": "prod",
+      "version": "1.1.2-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/dll-react",
+      "repository": {
+        "url": "github.com:vicjicaman/dll-react.git",
+        "commitid": "95c961e9f461d5d95284a47a70ccf1867b89199f",
+        "message": "SEt dependencies to next iteration target"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "mode": "dev",
+      "version": "1.1.14-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+        "commitid": "766c966030878ea45bf8c2674f429336a73ac984",
+        "message": "Move request error to event waiter"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "app-notify",
+      "mode": "prod",
+      "version": "1.1.1-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/app-notify",
+      "repository": {
+        "url": "github.com:vicjicaman/app-notify.git",
+        "commitid": "ea4bb440603d535db1c08072ac89ba143ed10458",
+        "message": "SEt dependencies to next iteration target"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "app-layout",
+      "mode": "prod",
+      "version": "1.1.2-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/app-layout",
+      "repository": {
+        "url": "github.com:vicjicaman/app-layout.git",
+        "commitid": "57cb1ed4a1d6734a45a58ddd70a972224d9c62e3",
+        "message": "Change build configuration and version to production"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "core-process",
+      "mode": "prod",
+      "version": "1.1.3-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/core-process",
+      "repository": {
+        "url": "github.com:vicjicaman/core-process.git",
+        "commitid": "18b9fcbf6f883cde0fc430923b9b431d97c8f40a",
+        "message": "Add type and label for stream's frames"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "core-logger",
+      "mode": "prod",
+      "version": "1.1.2-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/core-logger",
+      "repository": {
+        "url": "github.com:vicjicaman/core-logger.git",
+        "commitid": "6ce422ad72538cca19edf626141799a08ae8e24a",
+        "message": "Change build configuration and version to production"
+      },
+      "release": false
+    }
+  ]
+}

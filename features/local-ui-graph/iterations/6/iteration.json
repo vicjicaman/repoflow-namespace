@@ -3,41 +3,40 @@
     {
       "moduleid": "nodeflow-local-server",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.5-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-server",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "5e2d331ca806c3592a3e3ad3ab7a640fb72c540d",
-        "message": "Set to next iterated version"
+        "commitid": "43e53ce55448ccd2bc1509ae4daaef0063ce3959",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
     },
     {
-      "moduleid": "repoflow-server",
+      "moduleid": "repoflow-plugin-server",
       "mode": "dev",
       "version": "1.1.0-local-ui-graph-dev",
       "type": "npm",
-      "fullname": "@nebulario/repoflow-server",
+      "fullname": "@nebulario/repoflow-plugin-server",
       "repository": {
-        "url": "github.com:vicjicaman/repoflow-server.git",
-        "commitid": "580666c694d6a7d7a9d38a8c62f5bf942d76b955",
-        "message": "Add type and fullname to iteration's module"
+        "url": "github.com:vicjicaman/repoflow-plugin-server.git",
+        "commitid": "09e77f60db219e526fbcd3dd98515c4d655e71e2",
+        "message": "Initial commit"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "nodeflow-local-web",
-      "mode": "prod",
-      "version": "1.1.0-local-ui-graph-prod",
+      "mode": "dev",
+      "version": "1.1.5-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-web",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "303ef5983800f218e10868190f46bfe3b77f62c5",
-        "message": "Set to next iterated version"
+        "commitid": "1520594c27ada1679631027a6640285fae9b1bce",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
@@ -45,27 +44,27 @@
     {
       "moduleid": "core-render-stateful-server",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.1-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/core-render-stateful-server",
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-server.git",
-        "commitid": "d0cb6c43155884e6c49b9d7c47a05e97f19ffb02",
-        "message": "Add type and fullname to iteration's module"
+        "commitid": "2dc1359c5ff71bdf126123ff63c7a639ecebc184",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
     },
     {
       "moduleid": "nodeflow-local-common",
-      "mode": "prod",
-      "version": "1.1.0-local-ui-graph-prod",
+      "mode": "dev",
+      "version": "1.1.5-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-common",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "f862f53083dd2d60840f7a201569dab041eca1f4",
-        "message": "First iteration"
+        "commitid": "4f97f5535b87fc10e9699c9ee39f5f4ffd78d411",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
@@ -73,13 +72,13 @@
     {
       "moduleid": "nodeflow-local-graph",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.2-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-graph",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "d40554bc1158218ff9c580fb915148625bd442ea",
-        "message": "First iteration"
+        "commitid": "a0cdba52fc4d429d07cf04d588cb9a5635aeb5af",
+        "message": "Fix bug with iteration release flag"
       },
       "release": true,
       "published": true
@@ -87,13 +86,13 @@
     {
       "moduleid": "core-render-stateful-web",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.1-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/core-render-stateful-web",
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-web.git",
-        "commitid": "7c0bcc33201eac1913d1ab0cca188d00b636e530",
-        "message": "Add type and fullname to iteration's module"
+        "commitid": "976a6f7db9a3f113a5dd307c970262ce2b7ed069",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
@@ -101,13 +100,13 @@
     {
       "moduleid": "dll-redux",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.1-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/dll-redux",
       "repository": {
         "url": "github.com:vicjicaman/dll-redux.git",
-        "commitid": "e4899a4cc01fc8edb210ea4cbfb71777161b0112",
-        "message": "Add type and fullname to iteration's module"
+        "commitid": "b1565719450d3a0f1fec23128b46250d8e7da8a0",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
@@ -115,13 +114,13 @@
     {
       "moduleid": "dll-apollo",
       "mode": "prod",
-      "version": "1.1.0-local-ui-graph-prod",
+      "version": "1.1.1-local-ui-graph-prod",
       "type": "npm",
       "fullname": "@nebulario/dll-apollo",
       "repository": {
         "url": "github.com:vicjicaman/dll-apollo.git",
-        "commitid": "e9fcfc71f981cb3e53d08828df45bfae26f35dd7",
-        "message": "Add type and fullname to iteration's module"
+        "commitid": "749ae1ecc2b2a900b479281afa3629c3fbd5ddd5",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
@@ -129,13 +128,13 @@
     {
       "moduleid": "dll-utils",
       "mode": "prod",
-      "version": "1.1.0-local-ui-graph-prod",
+      "version": "1.1.1-local-ui-graph-prod",
       "type": "npm",
       "fullname": "@nebulario/dll-utils",
       "repository": {
         "url": "github.com:vicjicaman/dll-utils.git",
-        "commitid": "2e45529f79a34124e92ff12f0db8e1d5a36910d0",
-        "message": "Add type and fullname to iteration's module"
+        "commitid": "cfbded223e93c49d170e2757fc8b0ddda94d1012",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
@@ -143,27 +142,27 @@
     {
       "moduleid": "dll-vendor",
       "mode": "prod",
-      "version": "1.1.0-local-ui-graph-prod",
+      "version": "1.1.1-local-ui-graph-prod",
       "type": "npm",
       "fullname": "@nebulario/dll-vendor",
       "repository": {
         "url": "github.com:vicjicaman/dll-vendor.git",
-        "commitid": "c215450acfbf733bb7bcb136642900d8cb0f3e41",
-        "message": "Add type and fullname to iteration's module"
+        "commitid": "75c06faeb2e9bbf79f663c280049f5bd53c2468d",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
     },
     {
       "moduleid": "dll-react",
-      "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "mode": "prod",
+      "version": "1.1.2-local-ui-graph-prod",
       "type": "npm",
       "fullname": "@nebulario/dll-react",
       "repository": {
         "url": "github.com:vicjicaman/dll-react.git",
-        "commitid": "5210c11a76ee8e93dc53b82e576477a1d7911b12",
-        "message": "Set to next iterated version"
+        "commitid": "95c961e9f461d5d95284a47a70ccf1867b89199f",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
@@ -171,41 +170,13 @@
     {
       "moduleid": "app-request",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.1-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/app-request",
       "repository": {
         "url": "github.com:vicjicaman/app-request.git",
-        "commitid": "15bd3441d61f018835368d8c07139bf4505bda62",
-        "message": "Add type and fullname to iteration's module"
-      },
-      "release": true,
-      "published": true
-    },
-    {
-      "moduleid": "app-notify",
-      "mode": "prod",
-      "version": "1.1.0-local-ui-graph-prod",
-      "type": "npm",
-      "fullname": "@nebulario/app-notify",
-      "repository": {
-        "url": "github.com:vicjicaman/app-notify.git",
-        "commitid": "3affc779bd4e9cb162704431573a14c707995643",
-        "message": "Add type and fullname to iteration's module"
-      },
-      "release": true,
-      "published": true
-    },
-    {
-      "moduleid": "app-layout",
-      "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
-      "type": "npm",
-      "fullname": "@nebulario/app-layout",
-      "repository": {
-        "url": "github.com:vicjicaman/app-layout.git",
-        "commitid": "acad50b67e78a251a4e3743fa21db84c48348eac",
-        "message": "Add type and fullname to iteration's module"
+        "commitid": "c6a2033b20e7d678788adcb6ac4fd38c20897a31",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
@@ -213,13 +184,41 @@
     {
       "moduleid": "core-process",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.1-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/core-process",
       "repository": {
         "url": "github.com:vicjicaman/core-process.git",
-        "commitid": "764d7c98409f7496efc6237ab244d2b7f08963d8",
-        "message": "Add type and fullname to iteration's module"
+        "commitid": "7567a859080e7322c7dee897688e11d809ea723e",
+        "message": "SEt dependencies to next iteration target"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "app-notify",
+      "mode": "prod",
+      "version": "1.1.1-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/app-notify",
+      "repository": {
+        "url": "github.com:vicjicaman/app-notify.git",
+        "commitid": "ea4bb440603d535db1c08072ac89ba143ed10458",
+        "message": "SEt dependencies to next iteration target"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "app-layout",
+      "mode": "dev",
+      "version": "1.1.1-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/app-layout",
+      "repository": {
+        "url": "github.com:vicjicaman/app-layout.git",
+        "commitid": "64d3fe21eb2b5fce17a131b196a9a34259207baa",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true
@@ -227,13 +226,13 @@
     {
       "moduleid": "core-logger",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.1-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/core-logger",
       "repository": {
         "url": "github.com:vicjicaman/core-logger.git",
-        "commitid": "8e633ab32af463ab48c1065eecf247ab001beff7",
-        "message": "Add type and fullname to iteration's module"
+        "commitid": "d94af2347d7b53c7d21df2eb1ce1cd3ce832a8d8",
+        "message": "SEt dependencies to next iteration target"
       },
       "release": true,
       "published": true

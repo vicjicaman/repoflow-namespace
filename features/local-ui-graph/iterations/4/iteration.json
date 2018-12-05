@@ -3,13 +3,13 @@
     {
       "moduleid": "nodeflow-local-server",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.3-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-server",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "5e2d331ca806c3592a3e3ad3ab7a640fb72c540d",
-        "message": "Set to next iterated version"
+        "commitid": "b2197b5950adf1cdb9eb523dd98e3974364640ea",
+        "message": "Set mode action"
       },
       "release": true,
       "published": true
@@ -25,19 +25,18 @@
         "commitid": "580666c694d6a7d7a9d38a8c62f5bf942d76b955",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "nodeflow-local-web",
-      "mode": "prod",
-      "version": "1.1.0-local-ui-graph-prod",
+      "mode": "dev",
+      "version": "1.1.3-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-web",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "303ef5983800f218e10868190f46bfe3b77f62c5",
-        "message": "Set to next iterated version"
+        "commitid": "d481b1694288f1bce7aa34fa58ab7a31a9ed0701",
+        "message": "Set mode action"
       },
       "release": true,
       "published": true
@@ -53,19 +52,18 @@
         "commitid": "d0cb6c43155884e6c49b9d7c47a05e97f19ffb02",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "nodeflow-local-common",
-      "mode": "prod",
-      "version": "1.1.0-local-ui-graph-prod",
+      "mode": "dev",
+      "version": "1.1.3-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-common",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "f862f53083dd2d60840f7a201569dab041eca1f4",
-        "message": "First iteration"
+        "commitid": "4c0b08242a95ae940d7a503e599fa65baec621b1",
+        "message": "Set mode action"
       },
       "release": true,
       "published": true
@@ -73,16 +71,15 @@
     {
       "moduleid": "nodeflow-local-graph",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.1-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-graph",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "d40554bc1158218ff9c580fb915148625bd442ea",
-        "message": "First iteration"
+        "commitid": "984d8761a1f646c3c4edb0db283a9ccb545e106b",
+        "message": "Fix save feature and add module actions"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "core-render-stateful-web",
@@ -95,8 +92,7 @@
         "commitid": "7c0bcc33201eac1913d1ab0cca188d00b636e530",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "dll-redux",
@@ -109,8 +105,7 @@
         "commitid": "e4899a4cc01fc8edb210ea4cbfb71777161b0112",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "dll-apollo",
@@ -123,8 +118,7 @@
         "commitid": "e9fcfc71f981cb3e53d08828df45bfae26f35dd7",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "dll-utils",
@@ -137,8 +131,7 @@
         "commitid": "2e45529f79a34124e92ff12f0db8e1d5a36910d0",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "dll-vendor",
@@ -151,19 +144,18 @@
         "commitid": "c215450acfbf733bb7bcb136642900d8cb0f3e41",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "dll-react",
-      "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "mode": "prod",
+      "version": "1.1.1-local-ui-graph-prod",
       "type": "npm",
       "fullname": "@nebulario/dll-react",
       "repository": {
         "url": "github.com:vicjicaman/dll-react.git",
-        "commitid": "5210c11a76ee8e93dc53b82e576477a1d7911b12",
-        "message": "Set to next iterated version"
+        "commitid": "c9f28f6719e7b4f8716d6dad68396290cfa5f30f",
+        "message": "Set mode action"
       },
       "release": true,
       "published": true
@@ -179,8 +171,7 @@
         "commitid": "15bd3441d61f018835368d8c07139bf4505bda62",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "app-notify",
@@ -193,8 +184,7 @@
         "commitid": "3affc779bd4e9cb162704431573a14c707995643",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "app-layout",
@@ -207,8 +197,7 @@
         "commitid": "acad50b67e78a251a4e3743fa21db84c48348eac",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "core-process",
@@ -221,8 +210,7 @@
         "commitid": "764d7c98409f7496efc6237ab244d2b7f08963d8",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     },
     {
       "moduleid": "core-logger",
@@ -235,8 +223,7 @@
         "commitid": "8e633ab32af463ab48c1065eecf247ab001beff7",
         "message": "Add type and fullname to iteration's module"
       },
-      "release": true,
-      "published": true
+      "release": false
     }
   ]
 }
