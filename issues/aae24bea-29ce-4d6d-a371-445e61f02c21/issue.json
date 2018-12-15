@@ -4,5 +4,13 @@
   "description": "Check the device",
   "created": 1544145443,
   "author": "Victor Jimenez",
-  "modules": []
+  "comments": [
+    {
+      "commentid": "84595b9a-7145-41a3-963a-91c6e601370a",
+      "status": "active",
+      "comment": "Check device",
+      "created": 1544832551,
+      "author": "Victor Jimenez"
+    }
+  ]
 }
