@@ -1,5 +1,7 @@
 {
   "baselineid": "master",
+  "status": "active",
+  "description": "Testing changes on features",
   "modules": [
     {
       "moduleid": "nodeflow-local-common",
@@ -15,7 +17,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "3929bb17a25a85681b6d6d91672747b981895a83"
+        "commitid": "4eb9fbef3511d08a85218f49ae289027e39721b0"
       },
       "runtime": {
         "run": {
@@ -37,7 +39,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "05886165062fbc95e0f998f6edb73159ad9765cb"
+        "commitid": "9ab55d703a8a702d2fb24f04edb0468e7bc6cd5e"
       },
       "runtime": {
         "run": {
@@ -235,7 +237,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/core-process.git",
-        "commitid": "d8df754feb3a9ced7be513fdf44ca1972fc93c27"
+        "commitid": "6932da1f1aa7cc9902f49b1727998000bc0c35af"
       },
       "runtime": {
         "run": {
