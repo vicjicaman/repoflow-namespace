@@ -4,5 +4,13 @@
   "description": "Testing the device",
   "created": 1544145968,
   "author": "Victor Jimenez",
-  "modules": []
+  "comments": [
+    {
+      "commentid": "6b6de2a0-d99a-4ac3-aff9-6c9cd44ff62e",
+      "status": "active",
+      "comment": "Fixed comment issue",
+      "created": 1544831537,
+      "author": "Victor Jimenez"
+    }
+  ]
 }

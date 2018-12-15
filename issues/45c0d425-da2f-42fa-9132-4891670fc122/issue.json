@@ -4,13 +4,5 @@
   "description": "Check the functionality for issues and their comments",
   "author": "Victor Jimenez",
   "created": 1544135863,
-  "comments": [
-    {
-      "commentid": "3e050957-8764-408a-b709-a29f8461e281",
-      "status": "active",
-      "comment": "Test comment",
-      "created": 1544820193,
-      "author": "Victor Jimenez"
-    }
-  ]
+  "comments": []
 }
