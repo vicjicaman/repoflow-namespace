@@ -17,7 +17,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "33cca9ca48634f360b0479c66f9a10a6b1490846"
+        "commitid": "8bcf636c170bdd1c6e852dcc235d8b961d2bb1fa"
       },
       "runtime": {
         "run": {
@@ -39,7 +39,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "1e72921935e524c2f7a3eb656db213ea2ed5ede0"
+        "commitid": "fa464c797c8cefbbb51feb0eea84f2ea58c480b3"
       },
       "runtime": {
         "run": {
@@ -61,7 +61,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "7c677d1c9e73d469cd6aebf339448ab5bec98a9b"
+        "commitid": "b03d9344e36c25aca2bbc8e97e516c0e26e0f1d4"
       },
       "runtime": {
         "run": {
@@ -83,7 +83,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "60b990c22b0628a445e7b42859f1c871816993f0"
+        "commitid": "87dc435f1b1135fba209653cdf6665226eb5a14f"
       },
       "runtime": {
         "run": {
@@ -237,7 +237,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/core-process.git",
-        "commitid": "6932da1f1aa7cc9902f49b1727998000bc0c35af"
+        "commitid": "3853f6dbf0a2659bf0639b2b088ed71df12286ce"
       },
       "runtime": {
         "run": {
@@ -348,7 +348,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-container-server.git",
-        "commitid": "0d43c074206a58e835e7e167f1a5b2584d403fde"
+        "commitid": "61c915b9761f076e0a97553b6292b187e765d0ef"
       },
       "runtime": {
         "run": {
@@ -371,7 +371,7 @@
       },
       "repository": {
         "url": "github.com:vicjicaman/repoflow-container-graph.git",
-        "commitid": "3afc73dbc8f9a2a175ea66b709400fa3b7685f4a"
+        "commitid": "3242c80460d4d1ebf88fc96ce54d2e6d754ccae0"
       },
       "runtime": {
         "run": {
