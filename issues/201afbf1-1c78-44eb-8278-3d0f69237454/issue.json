@@ -1,0 +1,9 @@
+{
+  "status": "active",
+  "subject": "Add test the commit summary",
+  "description": "Check if the summary is working as expected",
+  "created": 1544990840,
+  "author": "Victor Jimenez",
+  "comments": [],
+  "labels": []
+}
