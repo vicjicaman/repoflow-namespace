@@ -1,83 +1,94 @@
 {
+  "status":"valid",
   "modules": [
     {
-      "moduleid": "nodeflow-local-server",
+      "moduleid": "repoflow-container-server",
       "mode": "dev",
-      "version": "1.1.11-local-ui-graph-dev",
-      "type": "npm",
-      "fullname": "@nebulario/nodeflow-local-server",
+      "version": "1.1.12-local-ui-graph-dev",
+      "type": "container",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
       "repository": {
-        "url": "github.com:vicjicaman/nodeflow-local-server.git",
-        "commitid": "16a6f31246738cca83449580155600e8ae53d318",
-        "message": "Sync to iteration version"
+        "url": "github.com:vicjicaman/repoflow-container-server.git",
+        "commitid": "61c915b9761f076e0a97553b6292b187e765d0ef",
+        "message": "Sync to next iteration"
       },
-      "release": true,
-      "published": true
+      "release": true
     },
     {
       "moduleid": "repoflow-container-graph",
       "mode": "dev",
-      "version": "1.1.0-local-ui-graph-dev",
+      "version": "1.1.15-local-ui-graph-dev",
       "type": "container",
-      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow.com/graph",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
       "repository": {
         "url": "github.com:vicjicaman/repoflow-container-graph.git",
-        "commitid": "fedd294b9aa974c0c047eba229d3ad4ebd17c4e8",
-        "message": "Sync to iteration version"
+        "commitid": "3242c80460d4d1ebf88fc96ce54d2e6d754ccae0",
+        "message": "Sync to next iteration"
       },
-      "release": false
+      "release": true
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "mode": "dev",
+      "version": "1.1.25-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-server.git",
+        "commitid": "87dc435f1b1135fba209653cdf6665226eb5a14f",
+        "message": "Sync to next iteration"
+      },
+      "release": true
     },
     {
       "moduleid": "nodeflow-local-web",
       "mode": "dev",
-      "version": "1.1.11-local-ui-graph-dev",
+      "version": "1.1.25-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-web",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "47ec8b2d8de5ca17bec6028e56378efed03ce832",
-        "message": "Sync to iteration version"
+        "commitid": "b03d9344e36c25aca2bbc8e97e516c0e26e0f1d4",
+        "message": "Sync to next iteration"
       },
-      "release": true,
-      "published": true
+      "release": true
     },
     {
       "moduleid": "core-render-stateful-server",
       "mode": "prod",
-      "version": "1.1.2-local-ui-graph-prod",
+      "version": "1.1.3-local-ui-graph-prod",
       "type": "npm",
       "fullname": "@nebulario/core-render-stateful-server",
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-server.git",
-        "commitid": "e325cd7055a8bf2dc24caaede54113976d5c9780",
-        "message": "Change build configuration and version to production"
+        "commitid": "7f3c51f5c667b5e7568f99ee9400a61b2b982273",
+        "message": "Sync to the latest iteration version"
       },
       "release": false
     },
     {
       "moduleid": "nodeflow-local-common",
       "mode": "dev",
-      "version": "1.1.11-local-ui-graph-dev",
+      "version": "1.1.22-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-common",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-common.git",
-        "commitid": "21f08e33bb8357ed3420136d9278dc22a14dae16",
-        "message": "Sync to iteration version"
+        "commitid": "8bcf636c170bdd1c6e852dcc235d8b961d2bb1fa",
+        "message": "Sync to next iteration"
       },
-      "release": true,
-      "published": true
+      "release": true
     },
     {
       "moduleid": "core-render-stateful-web",
       "mode": "prod",
-      "version": "1.1.2-local-ui-graph-prod",
+      "version": "1.1.3-local-ui-graph-prod",
       "type": "npm",
       "fullname": "@nebulario/core-render-stateful-web",
       "repository": {
         "url": "github.com:vicjicaman/core-render-stateful-web.git",
-        "commitid": "afb2bf736a22e981fa658a3e55fef37f661626b1",
-        "message": "Change build configuration and version to production"
+        "commitid": "a93571dd33caf66e8b7f4104be9908895aee4054",
+        "message": "Sync to the latest iteration version"
       },
       "release": false
     },
@@ -149,16 +160,15 @@
     {
       "moduleid": "nodeflow-local-graph",
       "mode": "dev",
-      "version": "1.1.8-local-ui-graph-dev",
+      "version": "1.1.22-local-ui-graph-dev",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-graph",
       "repository": {
         "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "9ddceff876cb0b3e53475c33be7017e6e2a694b6",
-        "message": "Sync to iteration version"
+        "commitid": "a1d442e9c7ac5979c62eb1befdaaa9d2ae49ae69",
+        "message": "Fix iteration number to string"
       },
-      "release": true,
-      "published": true
+      "release": true
     },
     {
       "moduleid": "app-notify",
@@ -176,39 +186,52 @@
     {
       "moduleid": "app-layout",
       "mode": "prod",
-      "version": "1.1.2-local-ui-graph-prod",
+      "version": "1.1.3-local-ui-graph-prod",
       "type": "npm",
       "fullname": "@nebulario/app-layout",
       "repository": {
         "url": "github.com:vicjicaman/app-layout.git",
-        "commitid": "57cb1ed4a1d6734a45a58ddd70a972224d9c62e3",
-        "message": "Change build configuration and version to production"
+        "commitid": "7d43b37619e75cf883709dff0a5639cd9f43031d",
+        "message": "Synn to iteration version"
       },
       "release": false
     },
     {
       "moduleid": "core-process",
       "mode": "prod",
-      "version": "1.1.2-local-ui-graph-prod",
+      "version": "1.1.7-local-ui-graph-prod",
       "type": "npm",
       "fullname": "@nebulario/core-process",
       "repository": {
         "url": "github.com:vicjicaman/core-process.git",
-        "commitid": "27a249c8ac36a0134e6129f7d3ed027794aa2c46",
-        "message": "Change build configuration and version to production"
+        "commitid": "3853f6dbf0a2659bf0639b2b088ed71df12286ce",
+        "message": "Sync to next iteration"
       },
-      "release": false
+      "release": true
     },
     {
       "moduleid": "core-logger",
       "mode": "prod",
-      "version": "1.1.2-local-ui-graph-prod",
+      "version": "1.1.3-local-ui-graph-prod",
       "type": "npm",
       "fullname": "@nebulario/core-logger",
       "repository": {
         "url": "github.com:vicjicaman/core-logger.git",
-        "commitid": "6ce422ad72538cca19edf626141799a08ae8e24a",
-        "message": "Change build configuration and version to production"
+        "commitid": "0c8a323173510e736f151c3ffb2725134f050e7a",
+        "message": "Synn to iteration version"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "core-node",
+      "mode": "prod",
+      "version": "1.1.1-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/core-node",
+      "repository": {
+        "url": "github.com:vicjicaman/core-node.git",
+        "commitid": "09bf937e71b292492efce83902087382f1d68376",
+        "message": "Change core-node to prod, sync to iteration release"
       },
       "release": false
     }
