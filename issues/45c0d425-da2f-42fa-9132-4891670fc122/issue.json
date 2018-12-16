@@ -4,5 +4,13 @@
   "description": "Check the functionality for issues and their comments",
   "author": "Victor Jimenez",
   "created": 1544135863,
-  "comments": []
+  "comments": [
+    {
+      "commentid": "fd426c6d-b991-4787-a363-dc632ff01364",
+      "status": "active",
+      "comment": "Commet on namespace issue",
+      "created": 1544897985,
+      "author": "Victor Jimenez"
+    }
+  ]
 }
