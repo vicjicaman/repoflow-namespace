@@ -1,0 +1,17 @@
+{
+  "status": "active",
+  "subject": "Create the labels for the issues and features",
+  "description": "Create the labels for the issues and features",
+  "created": 1545087203,
+  "author": "Victor Jimenez",
+  "comments": [
+    {
+      "commentid": "3fb26434-8120-41b1-a08a-c0f080bffd2b",
+      "status": "active",
+      "comment": "Separate this task in enitites",
+      "created": 1545087233,
+      "author": "Victor Jimenez"
+    }
+  ],
+  "labels": []
+}
