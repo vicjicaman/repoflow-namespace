@@ -11,6 +11,13 @@
       "comment": "Separate this task in enitites",
       "created": 1545087233,
       "author": "Victor Jimenez"
+    },
+    {
+      "commentid": "21442f02-7bfa-476f-a68f-f2d891b7ec52",
+      "status": "active",
+      "comment": "Add comment to issue",
+      "created": 1545091990,
+      "author": "Victor Jimenez"
     }
   ],
   "labels": []

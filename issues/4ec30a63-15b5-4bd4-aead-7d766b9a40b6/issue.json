@@ -1,0 +1,17 @@
+{
+  "status": "active",
+  "subject": "Add change for reset test",
+  "description": "Check the device",
+  "created": 1545108879,
+  "author": "Victor Jimenez",
+  "comments": [
+    {
+      "commentid": "cb815735-c1cc-4322-a20d-ac7ec0409679",
+      "status": "active",
+      "comment": "Should improve the issue page",
+      "created": 1545108902,
+      "author": "Victor Jimenez"
+    }
+  ],
+  "labels": []
+}
