@@ -1,5 +1,5 @@
 {
   "status": "active",
-  "description":"Production baseline",
-  "modules":[]
+  "description": "Live production baseline.",
+  "modules": []
 }
