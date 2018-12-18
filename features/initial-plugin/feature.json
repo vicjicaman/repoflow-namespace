@@ -1,6 +1,5 @@
 {
   "status":"active",
   "baselineid":"master",
-  "description":"GraphQL and UI for initial release",
-  "modules":[]
+  "description":"GraphQL and UI for initial release"
 }

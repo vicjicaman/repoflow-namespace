@@ -1,6 +1,5 @@
 {
   "status":"active",
   "baselineid":"master",
-  "description":"Plugins and common code for initial release",
-  "modules":[]
+  "description":"Plugins and common code for initial release"
 }
