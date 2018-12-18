@@ -1,3 +1,404 @@
 {
-  "modules": []
+  "modules": [
+    {
+      "moduleid": "nodeflow-local-common",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "mayor"
+      },
+      "iteration": {
+        "mode": "dev"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-common.git",
+        "commitid": "1ad6317c8c8f1503b6717f6214a6c50c5225730f"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "minor"
+      },
+      "iteration": {
+        "mode": "dev"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+        "commitid": "7a17fa4cb5523486281316e3219978da9c403f92"
+      },
+      "runtime": {
+        "run": {
+          "runnable": true
+        }
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "dev"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-web.git",
+        "commitid": "d14f1928b2f4665db7babf3e04daf7bb57c53174"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "dev"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-server.git",
+        "commitid": "aac50728a91fe86cfc00dc6fb3be6b3b0afdb4a3"
+      },
+      "runtime": {
+        "run": {
+          "runnable": true
+        }
+      }
+    },
+    {
+      "moduleid": "core-render-stateful-web",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-web",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/core-render-stateful-web.git",
+        "commitid": "a93571dd33caf66e8b7f4104be9908895aee4054"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-server",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/core-render-stateful-server.git",
+        "commitid": "7f3c51f5c667b5e7568f99ee9400a61b2b982273"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "dll-redux",
+      "type": "npm",
+      "fullname": "@nebulario/dll-redux",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/dll-redux.git",
+        "commitid": "b5199be3c6a1de7da3d1b21b715c6b146e2edd4c"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "dll-apollo",
+      "type": "npm",
+      "fullname": "@nebulario/dll-apollo",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/dll-apollo.git",
+        "commitid": "749ae1ecc2b2a900b479281afa3629c3fbd5ddd5"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "dll-utils",
+      "type": "npm",
+      "fullname": "@nebulario/dll-utils",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/dll-utils.git",
+        "commitid": "cfbded223e93c49d170e2757fc8b0ddda94d1012"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "dll-vendor",
+      "type": "npm",
+      "fullname": "@nebulario/dll-vendor",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/dll-vendor.git",
+        "commitid": "75c06faeb2e9bbf79f663c280049f5bd53c2468d"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "core-process",
+      "type": "npm",
+      "fullname": "@nebulario/core-process",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/core-process.git",
+        "commitid": "3853f6dbf0a2659bf0639b2b088ed71df12286ce"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "app-notify",
+      "type": "npm",
+      "fullname": "@nebulario/app-notify",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/app-notify.git",
+        "commitid": "ea4bb440603d535db1c08072ac89ba143ed10458"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "app-layout",
+      "type": "npm",
+      "fullname": "@nebulario/app-layout",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/app-layout.git",
+        "commitid": "7d43b37619e75cf883709dff0a5639cd9f43031d"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "core-logger",
+      "url": "github.com:vicjicaman/core-logger.git",
+      "type": "npm",
+      "fullname": "@nebulario/core-logger",
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/core-logger.git",
+        "commitid": "0c8a323173510e736f151c3ffb2725134f050e7a"
+      },
+      "labels": [],
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "dll-react",
+      "url": "github.com:vicjicaman/dll-react.git",
+      "type": "npm",
+      "version": "",
+      "fullname": "@nebulario/dll-react",
+      "iteration": {
+        "mode": "prod"
+      },
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/dll-react.git",
+        "commitid": "95c961e9f461d5d95284a47a70ccf1867b89199f"
+      },
+      "labels": [],
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    },
+    {
+      "moduleid": "repoflow-container-server",
+      "url": "github.com:vicjicaman/repoflow-container-server.git",
+      "type": "container",
+      "version": "",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+      "iteration": {
+        "mode": "dev"
+      },
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-container-server.git",
+        "commitid": "e8c4393340c85b54814ea22fc181f255655cc05f"
+      },
+      "runtime": {
+        "run": {
+          "runnable": true
+        }
+      },
+      "labels": []
+    },
+    {
+      "moduleid": "repoflow-container-graph",
+      "url": "github.com:vicjicaman/repoflow-container-graph.git",
+      "type": "container",
+      "version": "",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+      "iteration": {
+        "mode": "dev"
+      },
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-container-graph.git",
+        "commitid": "f99360ddfab370ebac9b124adf8727b8d23b570f"
+      },
+      "runtime": {
+        "run": {
+          "runnable": true
+        }
+      },
+      "labels": []
+    },
+    {
+      "moduleid": "core-node",
+      "url": "github.com:vicjicaman/core-node.git",
+      "type": "npm",
+      "version": "",
+      "fullname": "@nebulario/core-node",
+      "iteration": {
+        "mode": "prod"
+      },
+      "release": {
+        "type": "patch"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/core-node.git",
+        "commitid": "09bf937e71b292492efce83902087382f1d68376"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      },
+      "labels": []
+    }
+  ]
 }
