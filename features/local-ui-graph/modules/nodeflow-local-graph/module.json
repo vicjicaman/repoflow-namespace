@@ -1,0 +1,22 @@
+{
+      "moduleid": "nodeflow-local-graph",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "upstream": {},
+      "labels": [],
+      "release": {
+        "type": "minor"
+      },
+      "iteration": {
+        "mode": "dev"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+        "commitid": "2fa34bfff98d1828822c62f7ea3e2692ae6a7308"
+      },
+      "runtime": {
+        "run": {
+          "runnable": true
+        }
+      }
+    }

@@ -1,0 +1,20 @@
+{
+      "url": "github.com:vicjicaman/core-logger.git",
+      "type": "npm",
+      "fullname": "@nebulario/core-logger",
+      "release": {
+        "type": "patch"
+      },
+      "iteration": {
+        "mode": "prod"
+      },
+      "repository": {
+        "url": "github.com:vicjicaman/core-logger.git",
+        "commitid": "0c8a323173510e736f151c3ffb2725134f050e7a"
+      },
+      "runtime": {
+        "run": {
+          "runnable": false
+        }
+      }
+    }
