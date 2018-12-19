@@ -10,11 +10,11 @@
   },
   "repository": {
     "url": "github.com:vicjicaman/nodeflow-local-common.git",
-    "commitid": "1ed79609d87bde71a80288b9131380693d2fc931"
+    "commitid": "008d53f74e4f2b88ca60a4093f87984ea4c8e987"
   },
   "runtime": {
     "run": {
       "runnable": false
     }
   }
- }
+}

@@ -1,22 +1,22 @@
 {
-      "moduleid": "nodeflow-local-graph",
-      "type": "npm",
-      "fullname": "@nebulario/nodeflow-local-graph",
-      "upstream": {},
-      "labels": [],
-      "release": {
-        "type": "minor"
-      },
-      "iteration": {
-        "mode": "dev"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-        "commitid": "2fa34bfff98d1828822c62f7ea3e2692ae6a7308"
-      },
-      "runtime": {
-        "run": {
-          "runnable": true
-        }
-      }
+  "moduleid": "nodeflow-local-graph",
+  "type": "npm",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "upstream": {},
+  "labels": [],
+  "release": {
+    "type": "minor"
+  },
+  "iteration": {
+    "mode": "dev"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+    "commitid": "9f60840d30e23e609bea9263b0d02d616e0d55ed"
+  },
+  "runtime": {
+    "run": {
+      "runnable": true
     }
+  }
+}
