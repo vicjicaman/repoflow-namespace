@@ -1,6 +1,6 @@
 {
   "status": "active",
-  "subject": "Testing issue subject",
+  "subject": "Testing issue subject mod",
   "description": "Check the functionality for issues and their comments",
   "author": "Victor Jimenez",
   "created": 1544135863,
@@ -17,6 +17,13 @@
       "status": "active",
       "comment": "Another comment",
       "created": 1544928388,
+      "author": "Victor Jimenez"
+    },
+    {
+      "commentid": "52b66222-4365-4d75-b689-b2135da9cff6",
+      "status": "active",
+      "comment": "New comment on iissue",
+      "created": 1545237109,
       "author": "Victor Jimenez"
     }
   ]

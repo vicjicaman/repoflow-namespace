@@ -18,6 +18,13 @@
       "comment": "New comment on issue",
       "created": 1544932661,
       "author": "Victor Jimenez"
+    },
+    {
+      "commentid": "5b180a73-1131-48fb-8feb-94db0fe5b27d",
+      "status": "active",
+      "comment": "Test the deterrent",
+      "created": 1545250311,
+      "author": "Victor Jimenez"
     }
   ]
 }
