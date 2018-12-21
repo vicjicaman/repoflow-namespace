@@ -1,20 +1,20 @@
 {
-      "type": "npm",
-      "fullname": "@nebulario/dll-vendor",
-      "upstream": {},
-      "release": {
-        "type": "patch"
-      },
-      "iteration": {
-        "mode": "prod"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/dll-vendor.git",
-        "commitid": "75c06faeb2e9bbf79f663c280049f5bd53c2468d"
-      },
-      "runtime": {
-        "run": {
-          "runnable": false
-        }
-      }
+  "type": "npm",
+  "fullname": "@nebulario/dll-vendor",
+  "upstream": {},
+  "release": {
+    "type": "patch"
+  },
+  "iteration": {
+    "mode": "prod"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/dll-vendor.git",
+    "commitid": "75c06faeb2e9bbf79f663c280049f5bd53c2468d"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
     }
+  }
+}

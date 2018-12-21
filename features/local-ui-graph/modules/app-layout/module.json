@@ -1,20 +1,20 @@
 {
-      "type": "npm",
-      "fullname": "@nebulario/app-layout",
-      "upstream": {},
-      "release": {
-        "type": "patch"
-      },
-      "iteration": {
-        "mode": "prod"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/app-layout.git",
-        "commitid": "7d43b37619e75cf883709dff0a5639cd9f43031d"
-      },
-      "runtime": {
-        "run": {
-          "runnable": false
-        }
-      }
+  "type": "npm",
+  "fullname": "@nebulario/app-layout",
+  "upstream": {},
+  "release": {
+    "type": "patch"
+  },
+  "iteration": {
+    "mode": "prod"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/app-layout.git",
+    "commitid": "7d43b37619e75cf883709dff0a5639cd9f43031d"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
     }
+  }
+}

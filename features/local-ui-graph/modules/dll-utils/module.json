@@ -1,20 +1,20 @@
 {
-      "type": "npm",
-      "fullname": "@nebulario/dll-utils",
-      "upstream": {},
-      "release": {
-        "type": "patch"
-      },
-      "iteration": {
-        "mode": "prod"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/dll-utils.git",
-        "commitid": "cfbded223e93c49d170e2757fc8b0ddda94d1012"
-      },
-      "runtime": {
-        "run": {
-          "runnable": false
-        }
-      }
+  "type": "npm",
+  "fullname": "@nebulario/dll-utils",
+  "upstream": {},
+  "release": {
+    "type": "patch"
+  },
+  "iteration": {
+    "mode": "prod"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/dll-utils.git",
+    "commitid": "cfbded223e93c49d170e2757fc8b0ddda94d1012"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
     }
+  }
+}

@@ -1,20 +1,20 @@
 {
-      "type": "npm",
-      "fullname": "@nebulario/nodeflow-local-web",
-      "upstream": {},
-      "release": {
-        "type": "patch"
-      },
-      "iteration": {
-        "mode": "dev"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/nodeflow-local-web.git",
-        "commitid": "d14f1928b2f4665db7babf3e04daf7bb57c53174"
-      },
-      "runtime": {
-        "run": {
-          "runnable": false
-        }
-      }
+  "type": "npm",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "upstream": {},
+  "release": {
+    "type": "patch"
+  },
+  "iteration": {
+    "mode": "dev"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/nodeflow-local-web.git",
+    "commitid": "d14f1928b2f4665db7babf3e04daf7bb57c53174"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
     }
+  }
+}

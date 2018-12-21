@@ -1,20 +1,20 @@
 {
-      "url": "github.com:vicjicaman/core-node.git",
-      "type": "npm",
-      "fullname": "@nebulario/core-node",
-      "iteration": {
-        "mode": "prod"
-      },
-      "release": {
-        "type": "patch"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/core-node.git",
-        "commitid": "09bf937e71b292492efce83902087382f1d68376"
-      },
-      "runtime": {
-        "run": {
-          "runnable": false
-        }
-      }
+  "url": "github.com:vicjicaman/core-node.git",
+  "type": "npm",
+  "fullname": "@nebulario/core-node",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/core-node.git",
+    "commitid": "09bf937e71b292492efce83902087382f1d68376"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
     }
+  }
+}

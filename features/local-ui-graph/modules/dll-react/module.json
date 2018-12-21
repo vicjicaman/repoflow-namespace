@@ -1,21 +1,21 @@
 {
-      "url": "github.com:vicjicaman/dll-react.git",
-      "type": "npm",
-      "version": "",
-      "fullname": "@nebulario/dll-react",
-      "iteration": {
-        "mode": "prod"
-      },
-      "release": {
-        "type": "patch"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/dll-react.git",
-        "commitid": "95c961e9f461d5d95284a47a70ccf1867b89199f"
-      },
-      "runtime": {
-        "run": {
-          "runnable": false
-        }
-      }
+  "url": "github.com:vicjicaman/dll-react.git",
+  "type": "npm",
+  "version": "",
+  "fullname": "@nebulario/dll-react",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/dll-react.git",
+    "commitid": "95c961e9f461d5d95284a47a70ccf1867b89199f"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
     }
+  }
+}
