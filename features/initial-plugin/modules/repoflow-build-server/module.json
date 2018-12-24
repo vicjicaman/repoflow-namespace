@@ -1,20 +1,20 @@
 {
-      "url": "github.com:vicjicaman/repoflow-build-server.git",
-      "type": "npm",
-      "fullname": "@nebulario/repoflow-build-server",
-      "iteration": {
-        "mode": "dev"
-      },
-      "release": {
-        "type": "patch"
-      },
-      "repository": {
-        "url": "github.com:vicjicaman/repoflow-build-server.git",
-        "commitid": "b892f1f3f3606a114f78964df275fed2c8790f7b"
-      },
-      "runtime": {
-        "run": {
-          "runnable": true
-        }
-      }
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "type": "npm",
+  "fullname": "@nebulario/repoflow-build-server",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/repoflow-build-server.git",
+    "commitid": "101fd918327dcbb49ae6d8dc7f945f27031e200b"
+  },
+  "runtime": {
+    "run": {
+      "runnable": true
     }
+  }
+}
