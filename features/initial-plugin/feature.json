@@ -1,3 +1,5 @@
 {
-  "baselineid": "master"
+  "baselineid": "master",
+  "status": "active",
+  "description": "Testing changes on features"
 }
