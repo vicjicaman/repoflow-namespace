@@ -12,8 +12,7 @@
         "commitid": "c6af19899d86338d791f019290447be0e5d35e86",
         "message": "Remove build and init"
       },
-      "release": true,
-      "published": true
+      "release": true
     },
     {
       "moduleid": "repoflow-plugin-container",
@@ -26,8 +25,7 @@
         "commitid": "9c1f6df32a1581ce8a375bbd958709d9f73039a5",
         "message": "Fix issues with publish undeclared variable"
       },
-      "release": true,
-      "published": true
+      "release": true
     },
     {
       "moduleid": "repoflow-plugin-npm",
@@ -40,8 +38,7 @@
         "commitid": "fa349fa8cbe85866cfecb65b60b5750b72d9c8ed",
         "message": "Fix issues with publish undeclared variable"
       },
-      "release": true,
-      "published": true
+      "release": true
     }
   ]
 }
