@@ -12,7 +12,8 @@
         "commitid": "bb7ab61cac57f0de888edb2c0d219966c6c25034",
         "message": "Sync to latest iteration"
       },
-      "release": true
+      "release": true,
+      "published": true
     },
     {
       "moduleid": "repoflow-container-server",
@@ -25,7 +26,8 @@
         "commitid": "b573a56666d13a541ce5cc32351c9acee2b16714",
         "message": "Sync to latest iteration"
       },
-      "release": true
+      "release": true,
+      "published": true
     },
     {
       "moduleid": "nodeflow-local-server",
@@ -38,7 +40,8 @@
         "commitid": "6c592ed1a72dc124b183c53c8f6b29455e5f8914",
         "message": "Sync to latest iteration"
       },
-      "release": true
+      "release": true,
+      "published": true
     },
     {
       "moduleid": "core-render-stateful-server",
@@ -64,7 +67,8 @@
         "commitid": "ae8bcca604dd5bc34409233bacb66c59628fab90",
         "message": "Sync to latest iteration"
       },
-      "release": true
+      "release": true,
+      "published": true
     },
     {
       "moduleid": "core-render-stateful-web",
@@ -155,7 +159,8 @@
         "commitid": "3f9d4ecca68c22190792d7ca014dddb9da976a40",
         "message": "Sync to latest iteration"
       },
-      "release": true
+      "release": true,
+      "published": true
     },
     {
       "moduleid": "app-layout",
@@ -194,7 +199,8 @@
         "commitid": "1d822b340cf61f7881fa07a014280033e358405e",
         "message": "Sync to latest iteration"
       },
-      "release": true
+      "release": true,
+      "published": true
     },
     {
       "moduleid": "core-logger",
