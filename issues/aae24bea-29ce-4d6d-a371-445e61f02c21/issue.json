@@ -1,0 +1,30 @@
+{
+  "status": "active",
+  "subject": "Test issue",
+  "description": "Check the device",
+  "created": 1544145443,
+  "author": "Victor Jimenez",
+  "comments": [
+    {
+      "commentid": "84595b9a-7145-41a3-963a-91c6e601370a",
+      "status": "active",
+      "comment": "Check device",
+      "created": 1544832551,
+      "author": "Victor Jimenez"
+    },
+    {
+      "commentid": "9134a139-7432-4d86-b5b0-9750fd8513ea",
+      "status": "active",
+      "comment": "New comment on issue",
+      "created": 1544932661,
+      "author": "Victor Jimenez"
+    },
+    {
+      "commentid": "5b180a73-1131-48fb-8feb-94db0fe5b27d",
+      "status": "active",
+      "comment": "Test the deterrent",
+      "created": 1545250311,
+      "author": "Victor Jimenez"
+    }
+  ]
+}
