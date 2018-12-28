@@ -1,0 +1,30 @@
+{
+  "status": "active",
+  "subject": "Testing issue subject modified",
+  "description": "Check the functionality for issues and their comments",
+  "author": "Victor Jimenez",
+  "created": 1544135863,
+  "comments": [
+    {
+      "commentid": "fd426c6d-b991-4787-a363-dc632ff01364",
+      "status": "active",
+      "comment": "Commet on namespace issue",
+      "created": 1544897985,
+      "author": "Victor Jimenez"
+    },
+    {
+      "commentid": "c2d4a171-c411-4054-8e9d-13a0e639a4c4",
+      "status": "active",
+      "comment": "Another comment",
+      "created": 1544928388,
+      "author": "Victor Jimenez"
+    },
+    {
+      "commentid": "52b66222-4365-4d75-b689-b2135da9cff6",
+      "status": "active",
+      "comment": "New comment on iissue",
+      "created": 1545237109,
+      "author": "Victor Jimenez"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "baselineid": "master",
-  "status": "active",
-  "description": "Testing changes on features"
+  "status":"active",
+  "baselineid":"master",
+  "description":"Plugins and common code for initial release"
 }

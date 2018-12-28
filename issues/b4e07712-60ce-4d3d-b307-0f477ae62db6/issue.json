@@ -1,0 +1,9 @@
+{
+  "status": "active",
+  "subject": "Add versioned template repositories",
+  "description": "- Those are regular modules for the plugins\n- Template and regular modules can't be on the same release",
+  "created": 1545866373,
+  "author": "Victor Jimenez",
+  "comments": [],
+  "labels": []
+}
