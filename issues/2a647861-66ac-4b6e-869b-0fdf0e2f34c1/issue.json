@@ -1,0 +1,9 @@
+{
+  "status": "active",
+  "subject": "GraphQL server just for GIT repositories",
+  "description": "- Keep information in cache\n- Graph access to resources\n- Separate repoflow functionality from git ",
+  "created": 1546010502,
+  "author": "Victor Jimenez",
+  "comments": [],
+  "labels": []
+}
