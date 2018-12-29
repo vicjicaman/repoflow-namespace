@@ -1,0 +1,5 @@
+{
+  "status": "ignore",
+  "baselineid": "beta",
+  "description": "Move all the namespace, issue, comment and other components to the UI folder"
+}

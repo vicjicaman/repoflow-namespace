@@ -1,0 +1,17 @@
+{
+  "status": "active",
+  "subject": "Add test the commit summary",
+  "description": "Check if the summary is working as expected",
+  "created": 1544990840,
+  "author": "Victor Jimenez",
+  "comments": [
+    {
+      "commentid": "9d9e8f31-aee3-45c8-86cf-736c050eafa2",
+      "status": "active",
+      "comment": "Single commnet",
+      "created": 1545237324,
+      "author": "Victor Jimenez"
+    }
+  ],
+  "labels": []
+}
