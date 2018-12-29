@@ -1,5 +1,5 @@
 {
   "status": "active",
-  "description": "Live production baseline (Hot fixes).",
+  "description": "Live production baseline\n[Only features from stage or hot fix features]",
   "modules": []
 }
