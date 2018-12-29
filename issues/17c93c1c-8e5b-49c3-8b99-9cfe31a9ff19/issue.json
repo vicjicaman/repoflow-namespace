@@ -1,0 +1,9 @@
+{
+  "status": "active",
+  "subject": "Add baseline and feature diagrams",
+  "description": "- Add a diagram to show the baselines and features at release level\n- Show which feature-releases are moved between baselines",
+  "created": 1545935362,
+  "author": "Victor Jimenez",
+  "comments": [],
+  "labels": []
+}

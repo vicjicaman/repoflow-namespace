@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
   "baselineid": "master",
   "status": "active",
   "description": "Testing changes on features"
+=======
+  "status":"active",
+  "baselineid":"master",
+  "description":"GraphQL and UI for initial release"
+>>>>>>> master
 }
