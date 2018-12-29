@@ -1,7 +1,7 @@
 {
   "status": "active",
-  "subject": "Add change for reset test",
-  "description": "Check the device",
+  "subject": "Add mini-diagrams",
+  "description": "-",
   "created": 1545108879,
   "author": "Victor Jimenez",
   "comments": [
@@ -10,6 +10,13 @@
       "status": "active",
       "comment": "Should improve the issue page",
       "created": 1545108902,
+      "author": "Victor Jimenez"
+    },
+    {
+      "commentid": "7b03f97f-a7d5-47b9-a747-2fe7aa6e83de",
+      "status": "active",
+      "comment": "This will be useful for new users",
+      "created": 1546125874,
       "author": "Victor Jimenez"
     }
   ],
