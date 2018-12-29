@@ -1,7 +1,7 @@
 {
   "status": "active",
-  "subject": "Testing ",
-  "description": "issues changed",
+  "subject": "Add automatic master fetch for namespace and instance",
+  "description": "- For each instance, namespace, module inside the instance: \n  - Fetch the ancestor\n  - Fetch the branch\n  - Merge whenever possible\n",
   "created": 1545108976,
   "author": "Victor Jimenez",
   "comments": [
