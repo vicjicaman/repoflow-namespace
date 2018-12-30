@@ -1,0 +1,7 @@
+{
+  "status": "active",
+  "subject": "Keep modals open on background refresh",
+  "description": "- move open and close state to store",
+  "created": 1546198935,
+  "author": "Victor Jimenez"
+}
