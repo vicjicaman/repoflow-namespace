@@ -3,7 +3,5 @@
   "subject": "Automatically create features to hoist out-dated dependencies",
   "description": "- If a module is a dependant of another that was released\n- Only for patch releases",
   "created": 1546023924,
-  "author": "Victor Jimenez",
-  "comments": [],
-  "labels": []
+  "author": "Victor Jimenez"
 }

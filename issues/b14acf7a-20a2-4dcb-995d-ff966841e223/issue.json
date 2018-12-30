@@ -3,7 +3,5 @@
   "subject": "Index service for read-only and query consulting",
   "description": "- Index will be based on remote\n- Remotes are inmutable\n- Include published fullnames\n- Could be another repo?",
   "created": 1545940890,
-  "author": "Victor Jimenez",
-  "comments": [],
-  "labels": []
+  "author": "Victor Jimenez"
 }
