@@ -3,7 +3,5 @@
   "subject": "Log for instance operations are sometimes upside down",
   "description": "- Reproduction steps: ",
   "created": 1545941001,
-  "author": "Victor Jimenez",
-  "comments": [],
-  "labels": []
+  "author": "Victor Jimenez"
 }

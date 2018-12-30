@@ -3,7 +3,5 @@
   "subject": "Create new Feature by merging two or more",
   "description": "\n- Both Features must have the same Namespace common ancestor (we reccomend HEAD)\n\n- Identify conflicts and create process to follow for each module since the modules have code conflicts that can't be resolved automatically\n\n- ??? Add information to remerge the same feature for continuity, this could lead to have integration features",
   "created": 1545839127,
-  "author": "Victor Jimenez",
-  "comments": [],
-  "labels": []
+  "author": "Victor Jimenez"
 }
