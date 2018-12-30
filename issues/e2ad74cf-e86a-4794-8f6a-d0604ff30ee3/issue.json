@@ -3,14 +3,5 @@
   "subject": "Testing issue subject",
   "description": "Check the functionality for issues and their comments",
   "author": "Victor Jimenez",
-  "created": 1544135883,
-  "comments": [
-    {
-      "commentid": "b01d56ac-eab2-47fe-84cd-ac8dd2d8bdc2",
-      "status": "active",
-      "comment": "Add commet to issue",
-      "created": 1545025779,
-      "author": "Victor Jimenez"
-    }
-  ]
+  "created": 1544135883
 }
