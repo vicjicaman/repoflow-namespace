@@ -1,7 +1,7 @@
 {
   "status": "active",
   "subject": "Add functionality and configuration of timed autofetch",
-  "description": "-",
+  "description": "- There could be a general page just for all the fetch and sync",
   "author": "Victor Jimenez",
   "created": 1544135853
 }
