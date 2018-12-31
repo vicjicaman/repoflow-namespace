@@ -1,7 +1,7 @@
 {
   "status": "active",
-  "subject": "Add test the commit summary",
-  "description": "Check if the summary is working as expected",
+  "subject": "Add more information to operations other than working/busy/loading indication",
+  "description": "-",
   "created": 1544990840,
   "author": "Victor Jimenez"
 }
