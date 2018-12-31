@@ -1,7 +1,8 @@
 {
-  "status": "active",
+  "status": "close",
   "subject": "Test issue",
   "description": "Check the device",
   "created": 1544145443,
-  "author": "Victor Jimenez"
+  "author": "Victor Jimenez",
+  "state": "close"
 }
