@@ -1,6 +1,6 @@
 {
   "status": "active",
   "baselineid": "master",
-  "description": "- Add plugins to active namespaces",
+  "description": "Add plugins to active namespaces",
   "modules": []
 }
