@@ -1,7 +1,7 @@
 {
   "status": "active",
-  "subject": "Testing issue subject 222",
-  "description": "Check the functionality for issues and their comments",
+  "subject": "Add functionality and configuration of timed autofetch",
+  "description": "-",
   "author": "Victor Jimenez",
   "created": 1544135853
 }
