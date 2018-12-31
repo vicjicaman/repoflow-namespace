@@ -1,7 +1,7 @@
 {
   "status": "active",
-  "subject": "Testing issue subject modified",
-  "description": "Check the functionality for issues and their comments",
+  "subject": "A a simple three way merge viewer for base/current/remote conflicts",
+  "description": "- Only viewer for the file content and the highlighted diffs",
   "author": "Victor Jimenez",
   "created": 1544135863
 }
