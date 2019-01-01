@@ -1,5 +1,14 @@
 {
   "status": "active",
   "description": "Live production baseline\n[Only features from stage or hot fix features]",
-  "modules": []
+  "modules": [{
+     "moduleid":"core-process",
+     "version":"1.1.40-master",
+     "fullname":"@nebulario/core-process",
+     "repository": {
+       "url":"github.com:vicjicaman/core-process.git",
+       "commitid":"dd5d97a247a34f69e26908b08aa2f5b464dbfd9e",
+       "message":"manual baseline release"
+     }
+   }]
 }

@@ -1,0 +1,6 @@
+{
+  "status": "active",
+  "baselineid": "beta",
+  "description": "Add a section to automatically sync namespace and instance.\nAdd timing parameter\nBy desing there should not be any manual merge conflict ever",
+  "modules": []
+}
