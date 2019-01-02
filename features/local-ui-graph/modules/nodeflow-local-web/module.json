@@ -6,7 +6,7 @@
     "type": "patch"
   },
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "repository": {
     "url": "github.com:vicjicaman/nodeflow-local-web.git",

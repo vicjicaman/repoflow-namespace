@@ -3,7 +3,7 @@
   "type": "container",
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
