@@ -3,7 +3,7 @@
   "type": "npm",
   "fullname": "@nebulario/core-logger",
   "release": {
-    "type": "patch"
+    "type": "major"
   },
   "iteration": {
     "mode": "prod"
