@@ -1,5 +1,26 @@
 {
   "status": "active",
-  "description": "Live production baseline (Hot fixes).",
-  "modules": []
+  "description": "Live production baseline\n[Only features from stage or hot fix features]",
+  "modules": [{
+     "moduleid":"core-process",
+     "version":"1.1.40-master",
+     "fullname":"@nebulario/core-process",
+     "type":"npm",
+     "repository": {
+       "url":"github.com:vicjicaman/core-process.git",
+       "commitid":"dd5d97a247a34f69e26908b08aa2f5b464dbfd9e",
+       "message":"manual baseline release"
+     }
+   },
+   {
+     "moduleid":"core-logger",
+     "version":"1.1.25-master",
+     "fullname":"@nebulario/core-logger",
+     "type":"npm",
+     "repository": {
+       "url":"github.com:vicjicaman/core-logger.git",
+       "commitid":"dd5d97a247a34f69e26908b08aa2f5b464dbfd9e",
+       "message":"manual baseline release for logger"
+     }
+   }]
 }

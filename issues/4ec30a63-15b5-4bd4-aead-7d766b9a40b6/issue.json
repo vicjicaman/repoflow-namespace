@@ -1,17 +1,7 @@
 {
   "status": "active",
-  "subject": "Add change for reset test",
-  "description": "Check the device",
+  "subject": "Add mini-diagram of the current state according to the flow",
+  "description": "- There is a limited number of posible states for the baselines and features that could be represented in diagrams",
   "created": 1545108879,
-  "author": "Victor Jimenez",
-  "comments": [
-    {
-      "commentid": "cb815735-c1cc-4322-a20d-ac7ec0409679",
-      "status": "active",
-      "comment": "Should improve the issue page",
-      "created": 1545108902,
-      "author": "Victor Jimenez"
-    }
-  ],
-  "labels": []
+  "author": "Victor Jimenez"
 }
