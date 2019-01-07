@@ -1,0 +1,30 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "featureid": "initial-plugin",
+  "branchid": "initial-plugin/master",
+  "type": "npm",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.0.0-master",
+  "feature": {
+    "message": "RELEASE: initial-plugin\n",
+    "commitid": "ffaafdaeb50e984c8b40797a9336faa00f70123e"
+  },
+  "baseline": {
+    "message": "Initial commit",
+    "commitid": "4facacf7885ffb2fc8dfa2d781f2e0955b4fd95a"
+  },
+  "dependencies": [
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "fullname": "@nebulario/repoflow-plugin-npm",
+      "version": "1.0.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ]
+}
