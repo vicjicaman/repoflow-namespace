@@ -1,7 +1,7 @@
 {
   "status": "active",
-  "subject": "Change issue id to subject",
-  "description": "Testing the device",
+  "subject": "Add weak dependencies and service dependencies info",
+  "description": "Those are just information to the user/baseline\n- Dependencies that are not releases by us\n- Service dependencies",
   "created": 1544145968,
   "author": "Victor Jimenez"
 }
