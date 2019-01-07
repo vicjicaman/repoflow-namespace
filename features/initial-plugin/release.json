@@ -1,0 +1,49 @@
+{
+  "modules": [
+    {
+      "moduleid": "repoflow-build-server",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-build-server",
+      "url": "github.com:vicjicaman/repoflow-build-server.git",
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE: initial-plugin\n",
+        "commitid": "a6d38537aef7d6820d5d41401c818ec1d74bddab"
+      },
+      "baseline": {
+        "message": "Initial commit",
+        "commitid": "752c382c92dcee2d635d4b3b9a61c22bab63a039"
+      }
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-plugin-container",
+      "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE: initial-plugin\n",
+        "commitid": "d582295989e76347295160ce913df1629e445504"
+      },
+      "baseline": {
+        "message": "Initial commit",
+        "commitid": "3a64da367e9684f17adc13355010c81989ad8039"
+      }
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-plugin-npm",
+      "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE: initial-plugin\n",
+        "commitid": "ffaafdaeb50e984c8b40797a9336faa00f70123e"
+      },
+      "baseline": {
+        "message": "Initial commit",
+        "commitid": "4facacf7885ffb2fc8dfa2d781f2e0955b4fd95a"
+      }
+    }
+  ]
+}

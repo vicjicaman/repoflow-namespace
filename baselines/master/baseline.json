@@ -1,26 +1,135 @@
 {
   "status": "active",
   "description": "Live production baseline\n[Only features from stage or hot fix features]",
-  "modules": [{
-     "moduleid":"core-process",
-     "version":"1.1.40-master",
-     "fullname":"@nebulario/core-process",
-     "type":"npm",
-     "repository": {
-       "url":"github.com:vicjicaman/core-process.git",
-       "commitid":"dd5d97a247a34f69e26908b08aa2f5b464dbfd9e",
-       "message":"manual baseline release"
-     }
-   },
-   {
-     "moduleid":"core-logger",
-     "version":"1.1.25-master",
-     "fullname":"@nebulario/core-logger",
-     "type":"npm",
-     "repository": {
-       "url":"github.com:vicjicaman/core-logger.git",
-       "commitid":"dd5d97a247a34f69e26908b08aa2f5b464dbfd9e",
-       "message":"manual baseline release for logger"
-     }
-   }]
+  "releaseid": "initial-plugin",
+  "modules": [
+    {
+      "moduleid": "core-process",
+      "featureid": null,
+      "branchid": null,
+      "type": "npm",
+      "fullname": "@nebulario/core-process",
+      "url": "github.com:vicjicaman/core-process.git",
+      "release": {
+        "type": "manual"
+      },
+      "version": "1.1.40-master",
+      "feature": null,
+      "baseline": null,
+      "released": {
+        "commitid": "dd5d97a247a34f69e26908b08aa2f5b464dbfd9e",
+        "message": "manual baseline release"
+      },
+      "dependencies": []
+    },
+    {
+      "moduleid": "core-logger",
+      "featureid": null,
+      "branchid": null,
+      "type": "npm",
+      "fullname": "@nebulario/core-logger",
+      "url": "github.com:vicjicaman/core-logger.git",
+      "release": {
+        "type": "manual"
+      },
+      "version": "1.1.25-master",
+      "feature": null,
+      "baseline": null,
+      "released": {
+        "commitid": "dd5d97a247a34f69e26908b08aa2f5b464dbfd9e",
+        "message": "manual baseline release"
+      },
+      "dependencies": []
+    },
+    {
+      "moduleid": "repoflow-build-server",
+      "featureid": "initial-plugin",
+      "branchid": "initial-plugin/master",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-build-server",
+      "url": "github.com:vicjicaman/repoflow-build-server.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE: initial-plugin\n",
+        "commitid": "a6d38537aef7d6820d5d41401c818ec1d74bddab"
+      },
+      "baseline": {
+        "message": "Initial commit",
+        "commitid": "752c382c92dcee2d635d4b3b9a61c22bab63a039"
+      },
+      "dependencies": [
+        {
+          "moduleid": "repoflow-build-server",
+          "fullname": "@nebulario/repoflow-build-server",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "featureid": "initial-plugin",
+      "branchid": "initial-plugin/master",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-plugin-container",
+      "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE: initial-plugin\n",
+        "commitid": "d582295989e76347295160ce913df1629e445504"
+      },
+      "baseline": {
+        "message": "Initial commit",
+        "commitid": "3a64da367e9684f17adc13355010c81989ad8039"
+      },
+      "dependencies": [
+        {
+          "moduleid": "repoflow-plugin-container",
+          "fullname": "@nebulario/repoflow-plugin-container",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "featureid": "initial-plugin",
+      "branchid": "initial-plugin/master",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-plugin-npm",
+      "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE: initial-plugin\n",
+        "commitid": "ffaafdaeb50e984c8b40797a9336faa00f70123e"
+      },
+      "baseline": {
+        "message": "Initial commit",
+        "commitid": "4facacf7885ffb2fc8dfa2d781f2e0955b4fd95a"
+      },
+      "dependencies": [
+        {
+          "moduleid": "repoflow-plugin-npm",
+          "fullname": "@nebulario/repoflow-plugin-npm",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ]
+    }
+  ]
 }
