@@ -1,8 +1,7 @@
 {
   "releases": [
     {
-      "featureid": "initial-plugin",
-      "finished": false
+      "featureid": "initial-plugin"
     }
   ]
 }
