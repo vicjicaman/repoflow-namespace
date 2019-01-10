@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "type": "npm",
+  "fullname": "@nebulario/repoflow-build-server",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/repoflow-build-server.git",
+    "commitid": "b13e624e1300b72042e74a05c9c44ec7e9fb900c"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}
