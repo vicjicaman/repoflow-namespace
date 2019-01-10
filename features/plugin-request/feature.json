@@ -1,0 +1,6 @@
+{
+  "status": "active",
+  "baselineid": "master",
+  "description": "Separate the request functionality for the plugins",
+  "modules": []
+}
