@@ -1,0 +1,7 @@
+{
+  "status": "active",
+  "subject": "Add instance summary from namespace",
+  "description": "- Add the state of the iteration and repositories per instance",
+  "created": 1547355021,
+  "author": "Victor Jimenez"
+}
