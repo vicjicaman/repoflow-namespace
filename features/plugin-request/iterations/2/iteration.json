@@ -1,0 +1,44 @@
+{
+  "status": "valid",
+  "modules": [
+    {
+      "moduleid": "repoflow-build-server",
+      "mode": "dev",
+      "version": "1.0.1-plugin-request-dev",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-build-server",
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-build-server.git",
+        "commitid": "d7cdfc4d74729132615f306d613512d3300e5855",
+        "message": "Sync to iteration version"
+      },
+      "release": true
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "mode": "dev",
+      "version": "1.0.1-plugin-request-dev",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-plugin-container",
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+        "commitid": "caf162607f03d02957e6db4995e1200b4acee863",
+        "message": "Sync to iteration version"
+      },
+      "release": true
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "mode": "dev",
+      "version": "1.0.1-plugin-request-dev",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-plugin-npm",
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+        "commitid": "17f7f79d7031a0c4c05bffae68d43733cbe7731f",
+        "message": "Sync to iteration version"
+      },
+      "release": true
+    }
+  ]
+}
