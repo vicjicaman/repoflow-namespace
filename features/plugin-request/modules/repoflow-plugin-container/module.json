@@ -6,7 +6,7 @@
     "mode": "dev"
   },
   "release": {
-    "type": "patch"
+    "type": "minor"
   },
   "repository": {
     "url": "github.com:vicjicaman/repoflow-plugin-container.git",
