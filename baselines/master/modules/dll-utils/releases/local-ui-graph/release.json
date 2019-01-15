@@ -1,0 +1,30 @@
+{
+  "moduleid": "dll-utils",
+  "featureid": "local-ui-graph",
+  "branchid": "local-ui-graph/master",
+  "type": "npm",
+  "fullname": "@nebulario/dll-utils",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.0.0-master",
+  "feature": {
+    "message": "RELEASE:local-ui-graph\n",
+    "commitid": "1b234732c27f4e6aa4e5d17dfdae4258e35a5c79"
+  },
+  "baseline": {
+    "message": "RELEASE:1.0.10-master:local-ui-state",
+    "commitid": "1702deef8e3739f91f3cf238ea8c343569e7620d"
+  },
+  "dependencies": [
+    {
+      "moduleid": "dll-utils",
+      "fullname": "@nebulario/dll-utils",
+      "version": "1.0.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ]
+}

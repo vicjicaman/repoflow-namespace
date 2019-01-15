@@ -1,0 +1,30 @@
+{
+  "moduleid": "dll-redux",
+  "featureid": "local-ui-graph",
+  "branchid": "local-ui-graph/master",
+  "type": "npm",
+  "fullname": "@nebulario/dll-redux",
+  "url": "github.com:vicjicaman/dll-redux.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.0.0-master",
+  "feature": {
+    "message": "RELEASE:local-ui-graph\n",
+    "commitid": "f71fb04427f0fa86c236e66f20156d3c776f41dd"
+  },
+  "baseline": {
+    "message": "RELEASE:1.0.0-master:local-ui",
+    "commitid": "2c3260095a69c84b110d149434ba6634d0545eb0"
+  },
+  "dependencies": [
+    {
+      "moduleid": "dll-redux",
+      "fullname": "@nebulario/dll-redux",
+      "version": "1.0.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ]
+}

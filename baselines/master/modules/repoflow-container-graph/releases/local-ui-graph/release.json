@@ -1,0 +1,54 @@
+{
+  "moduleid": "repoflow-container-graph",
+  "featureid": "local-ui-graph",
+  "branchid": "local-ui-graph/master",
+  "type": "container",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.0.0-master",
+  "feature": {
+    "message": "RELEASE:local-ui-graph\n",
+    "commitid": "2d2aac6980f7be8b9b714f0061008b5db0ed11e5"
+  },
+  "baseline": {
+    "message": "Initial commit",
+    "commitid": "457651f7dab244c34d8f321f13fd2476126f8708"
+  },
+  "dependencies": [
+    {
+      "moduleid": "nodeflow-local-graph",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-graph"
+    },
+    {
+      "moduleid": "repoflow-container-graph",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+      "version": "1.0.0-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "moduleid": "repoflow-container-graph",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+      "version": "1.0.0-master",
+      "kind": "inner",
+      "filename": "docker-compose.yml",
+      "path": ".+app:\\s+image:(?:\\s+|)(?:.+):(.+)"
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.0.0-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-graph"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "npm",
+  "fullname": "@nebulario/core-render-stateful-web",
+  "upstream": {},
+  "release": {
+    "type": "patch"
+  },
+  "iteration": {
+    "mode": "prod"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/core-render-stateful-web.git",
+    "commitid": "3eb2df2fa34e6973b6f1ebd038b1b9176c358938"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}

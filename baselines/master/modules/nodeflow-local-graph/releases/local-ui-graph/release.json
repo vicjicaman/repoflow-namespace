@@ -1,0 +1,54 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "featureid": "local-ui-graph",
+  "branchid": "local-ui-graph/master",
+  "type": "npm",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "release": {
+    "type": "minor"
+  },
+  "version": "1.0.0-master",
+  "feature": {
+    "message": "RELEASE:local-ui-graph\n",
+    "commitid": "fec494754a9710d22362581b638b8150b327831b"
+  },
+  "baseline": {
+    "message": "Initial commit",
+    "commitid": "7abd58bbd52bdd233cc74dc36ff15df5d262e56f"
+  },
+  "dependencies": [
+    {
+      "moduleid": "nodeflow-local-graph",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.0.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "moduleid": "core-logger",
+      "fullname": "@nebulario/core-logger",
+      "version": "1.1.26-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-logger"
+    },
+    {
+      "moduleid": "core-node",
+      "fullname": "@nebulario/core-node",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-node"
+    },
+    {
+      "moduleid": "core-process",
+      "fullname": "@nebulario/core-process",
+      "version": "1.1.41-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-process"
+    }
+  ]
+}

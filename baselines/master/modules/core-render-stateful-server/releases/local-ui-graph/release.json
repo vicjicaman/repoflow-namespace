@@ -1,0 +1,30 @@
+{
+  "moduleid": "core-render-stateful-server",
+  "featureid": "local-ui-graph",
+  "branchid": "local-ui-graph/master",
+  "type": "npm",
+  "fullname": "@nebulario/core-render-stateful-server",
+  "url": "github.com:vicjicaman/core-render-stateful-server.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.0.0-master",
+  "feature": {
+    "message": "RELEASE:local-ui-graph\n",
+    "commitid": "03f878b6d0a1c3fc25781d6e9c512964a18f61dd"
+  },
+  "baseline": {
+    "message": "RELEASE:1.0.0-master:local-ui",
+    "commitid": "72916e58f908f66eaaedc7743e73d0d1894b075e"
+  },
+  "dependencies": [
+    {
+      "moduleid": "core-render-stateful-server",
+      "fullname": "@nebulario/core-render-stateful-server",
+      "version": "1.0.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ]
+}

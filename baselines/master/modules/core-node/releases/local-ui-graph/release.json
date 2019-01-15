@@ -1,0 +1,30 @@
+{
+  "moduleid": "core-node",
+  "featureid": "local-ui-graph",
+  "branchid": "local-ui-graph/master",
+  "type": "npm",
+  "fullname": "@nebulario/core-node",
+  "url": "github.com:vicjicaman/core-node.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.0.0-master",
+  "feature": {
+    "message": "RELEASE:local-ui-graph\n",
+    "commitid": "ea39d3ba45121097d975fb2063e60d63f5b680f5"
+  },
+  "baseline": {
+    "message": "RELEASE:1.0.1-master:recheck",
+    "commitid": "b26b7c8f7c56efd862d430b5c892834e0fb3fd36"
+  },
+  "dependencies": [
+    {
+      "moduleid": "core-node",
+      "fullname": "@nebulario/core-node",
+      "version": "1.0.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ]
+}

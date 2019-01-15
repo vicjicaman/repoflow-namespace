@@ -5,6 +5,9 @@
     },
     {
       "featureid": "plugin-request"
+    },
+    {
+      "featureid": "local-ui-graph"
     }
   ]
 }
