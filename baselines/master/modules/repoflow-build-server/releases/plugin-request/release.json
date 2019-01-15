@@ -1,0 +1,30 @@
+{
+  "moduleid": "repoflow-build-server",
+  "featureid": "plugin-request",
+  "branchid": "plugin-request/master",
+  "type": "npm",
+  "fullname": "@nebulario/repoflow-build-server",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.0.1-master",
+  "feature": {
+    "message": "RELEASE:plugin-request\n",
+    "commitid": "4661a1d707851246bb389ec8e60accc07ae515a0"
+  },
+  "baseline": {
+    "message": "RELEASE:initial-plugin:1.0.0-master",
+    "commitid": "b13e624e1300b72042e74a05c9c44ec7e9fb900c"
+  },
+  "dependencies": [
+    {
+      "moduleid": "repoflow-build-server",
+      "fullname": "@nebulario/repoflow-build-server",
+      "version": "1.0.1-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ]
+}
