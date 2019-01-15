@@ -69,7 +69,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "818ff15fbdbfc84f9c27720e8f8a76973d5f5863",
+        "message": "RELEASE:plugin-request:1.0.1-master"
+      }
     },
     {
       "moduleid": "repoflow-plugin-container",
@@ -99,7 +103,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "115aacedbc628724f381bf413673c3f9bd89ba60",
+        "message": "RELEASE:plugin-request:1.0.1-master"
+      }
     },
     {
       "moduleid": "repoflow-plugin-npm",
@@ -129,7 +137,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "f8d5ae3f11c26891d6a2ac4903c1cc2fac9b8d81",
+        "message": "RELEASE:plugin-request:1.0.1-master"
+      }
     }
   ]
 }
