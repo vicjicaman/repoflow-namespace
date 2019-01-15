@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/dll-vendor.git",
+  "type": "npm",
+  "fullname": "@nebulario/dll-vendor",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/dll-vendor.git",
+    "commitid": "4f7e29c187b4acd72f0ce07d6ca7e60351e46413"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}

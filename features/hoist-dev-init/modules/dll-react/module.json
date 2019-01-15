@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/dll-react.git",
+  "type": "npm",
+  "fullname": "@nebulario/dll-react",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/dll-react.git",
+    "commitid": "fd75282af79b02bfa1d169c20a84631009551537"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}

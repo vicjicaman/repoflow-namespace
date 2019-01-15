@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/dll-redux.git",
+  "type": "npm",
+  "fullname": "@nebulario/dll-redux",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/dll-redux.git",
+    "commitid": "db89bbd80aba11c14d25aedcc865b6fdd16b9c11"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}

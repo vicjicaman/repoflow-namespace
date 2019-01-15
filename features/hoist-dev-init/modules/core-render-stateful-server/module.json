@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/core-render-stateful-server.git",
+  "type": "npm",
+  "fullname": "@nebulario/core-render-stateful-server",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/core-render-stateful-server.git",
+    "commitid": "08f508137a25ea5fd38bb1a2b75770da7b4461f5"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}

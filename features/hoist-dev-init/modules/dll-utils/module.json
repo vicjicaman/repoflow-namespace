@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "type": "npm",
+  "fullname": "@nebulario/dll-utils",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/dll-utils.git",
+    "commitid": "613c8391aa348773bd6b3149d8275a10693e7f00"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}
