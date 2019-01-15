@@ -1,45 +1,75 @@
 {
   "status": "active",
   "description": "Live production baseline\n[Only features from stage or hot fix features]",
-  "releaseid": "plugin-request",
+  "releaseid": "local-ui-graph",
   "modules": [
     {
       "moduleid": "core-process",
-      "featureid": null,
-      "branchid": null,
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
       "type": "npm",
       "fullname": "@nebulario/core-process",
       "url": "github.com:vicjicaman/core-process.git",
       "release": {
-        "type": "manual"
+        "type": "patch"
       },
-      "version": "1.1.40-master",
-      "feature": null,
-      "baseline": null,
+      "version": "1.1.41-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "8c60fa51253368803b8ebb810c9d9790f2c51fc1"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.11-master:to-del-2",
+        "commitid": "781543e196ef6eef1cec7e43daef402ff8d8b35f"
+      },
+      "dependencies": [
+        {
+          "moduleid": "core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.1.41-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
       "released": {
-        "commitid": "dd5d97a247a34f69e26908b08aa2f5b464dbfd9e",
-        "message": "manual baseline release"
-      },
-      "dependencies": []
+        "commitid": "499493e3c39b09f4c595ae4cff3908f68d538914",
+        "message": "RELEASE:local-ui-graph:1.1.41-master"
+      }
     },
     {
       "moduleid": "core-logger",
-      "featureid": null,
-      "branchid": null,
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
       "type": "npm",
       "fullname": "@nebulario/core-logger",
       "url": "github.com:vicjicaman/core-logger.git",
       "release": {
-        "type": "manual"
+        "type": "patch"
       },
-      "version": "1.1.25-master",
-      "feature": null,
-      "baseline": null,
+      "version": "1.1.26-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "089d9ba2b7fc0129e3711132ddbe75e697d180af"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.11-master:to-del-2",
+        "commitid": "e3d4d52cade3d646b03050864ff398ac3b8322c1"
+      },
+      "dependencies": [
+        {
+          "moduleid": "core-logger",
+          "fullname": "@nebulario/core-logger",
+          "version": "1.1.26-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
       "released": {
-        "commitid": "dd5d97a247a34f69e26908b08aa2f5b464dbfd9e",
-        "message": "manual baseline release"
-      },
-      "dependencies": []
+        "commitid": "10573f200e917ea836a1ec16bc0a727c679f3119",
+        "message": "RELEASE:local-ui-graph:1.1.26-master"
+      }
     },
     {
       "moduleid": "repoflow-build-server",
@@ -141,6 +171,790 @@
       "released": {
         "commitid": "f8d5ae3f11c26891d6a2ac4903c1cc2fac9b8d81",
         "message": "RELEASE:plugin-request:1.0.1-master"
+      }
+    },
+    {
+      "moduleid": "app-layout",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/app-layout",
+      "url": "github.com:vicjicaman/app-layout.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "8907ab7103d9c3f669ade1fb4d65f4eb61d70c88"
+      },
+      "baseline": {
+        "message": "Initial commit",
+        "commitid": "2a62e328605270bbe5895f7215e45a42cfea963d"
+      },
+      "dependencies": [
+        {
+          "moduleid": "app-layout",
+          "fullname": "@nebulario/app-layout",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "2822613b9d9b7e883ae50241f54a1e48bced5905",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "app-notify",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/app-notify",
+      "url": "github.com:vicjicaman/app-notify.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "c248605b0ee906ac93912fc2084b362552c49ced"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.0-master:local-ui",
+        "commitid": "003eb3dcab6496d05f6ca14b5e7e09ebb77dde09"
+      },
+      "dependencies": [
+        {
+          "moduleid": "app-notify",
+          "fullname": "@nebulario/app-notify",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "45ff4ecd0c9882e84ec5eab0a966dbc89b2215bb",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "core-node",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/core-node",
+      "url": "github.com:vicjicaman/core-node.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "ea39d3ba45121097d975fb2063e60d63f5b680f5"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.1-master:recheck",
+        "commitid": "b26b7c8f7c56efd862d430b5c892834e0fb3fd36"
+      },
+      "dependencies": [
+        {
+          "moduleid": "core-node",
+          "fullname": "@nebulario/core-node",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "ab8c7b1c3de698da33fedcc615ee5f3297b0e67c",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-server",
+      "url": "github.com:vicjicaman/core-render-stateful-server.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "03f878b6d0a1c3fc25781d6e9c512964a18f61dd"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.0-master:local-ui",
+        "commitid": "72916e58f908f66eaaedc7743e73d0d1894b075e"
+      },
+      "dependencies": [
+        {
+          "moduleid": "core-render-stateful-server",
+          "fullname": "@nebulario/core-render-stateful-server",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "08f508137a25ea5fd38bb1a2b75770da7b4461f5",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "core-render-stateful-web",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-web",
+      "url": "github.com:vicjicaman/core-render-stateful-web.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "3eb2df2fa34e6973b6f1ebd038b1b9176c358938"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.0-master:local-ui",
+        "commitid": "f9167ba3aea99a0c588bd433c03847d799680f2a"
+      },
+      "dependencies": [
+        {
+          "moduleid": "core-render-stateful-web",
+          "fullname": "@nebulario/core-render-stateful-web",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "949f1f16e3473fe64c7ac6a857319d089fe23a62",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "dll-apollo",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/dll-apollo",
+      "url": "github.com:vicjicaman/dll-apollo.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "0b82bec95f4fd8c12d5e3f815b32bbe5eff3acc7"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.0-master:local-ui",
+        "commitid": "cee865dc3d20be4676f34df5fcf37655224f3676"
+      },
+      "dependencies": [
+        {
+          "moduleid": "dll-apollo",
+          "fullname": "@nebulario/dll-apollo",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "e9b81f88fba853beb2dbd397e12c450c4a4acfbb",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "dll-react",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/dll-react",
+      "url": "github.com:vicjicaman/dll-react.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "da981790aac20957c34a966f097606f0a52befdd"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.0-master:local-ui",
+        "commitid": "964373d6425869ae773695ae3280c90ead4fee56"
+      },
+      "dependencies": [
+        {
+          "moduleid": "dll-react",
+          "fullname": "@nebulario/dll-react",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "fd75282af79b02bfa1d169c20a84631009551537",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "dll-redux",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/dll-redux",
+      "url": "github.com:vicjicaman/dll-redux.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "f71fb04427f0fa86c236e66f20156d3c776f41dd"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.0-master:local-ui",
+        "commitid": "2c3260095a69c84b110d149434ba6634d0545eb0"
+      },
+      "dependencies": [
+        {
+          "moduleid": "dll-redux",
+          "fullname": "@nebulario/dll-redux",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "db89bbd80aba11c14d25aedcc865b6fdd16b9c11",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "dll-utils",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/dll-utils",
+      "url": "github.com:vicjicaman/dll-utils.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "1b234732c27f4e6aa4e5d17dfdae4258e35a5c79"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.10-master:local-ui-state",
+        "commitid": "1702deef8e3739f91f3cf238ea8c343569e7620d"
+      },
+      "dependencies": [
+        {
+          "moduleid": "dll-utils",
+          "fullname": "@nebulario/dll-utils",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "613c8391aa348773bd6b3149d8275a10693e7f00",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "dll-vendor",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/dll-vendor",
+      "url": "github.com:vicjicaman/dll-vendor.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "1c139226ece44eb47599e4869f57acb132cc5531"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.1-master:local-ui-list",
+        "commitid": "4fa5cc4923f095baa01879d8802bd685a99b0377"
+      },
+      "dependencies": [
+        {
+          "moduleid": "dll-vendor",
+          "fullname": "@nebulario/dll-vendor",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "4f7e29c187b4acd72f0ce07d6ca7e60351e46413",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "url": "github.com:vicjicaman/nodeflow-local-common.git",
+      "release": {
+        "type": "mayor"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "baf11d9eb4d20d0e3d31566cb721b7d3dfec8b37"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.11-master:local-ui-mods",
+        "commitid": "6690fbab58e04543e9b3575ee354dfd517b051c6"
+      },
+      "dependencies": [
+        {
+          "moduleid": "nodeflow-local-common",
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        },
+        {
+          "moduleid": "app-layout",
+          "fullname": "@nebulario/app-layout",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/app-layout"
+        },
+        {
+          "moduleid": "app-notify",
+          "fullname": "@nebulario/app-notify",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/app-notify"
+        }
+      ],
+      "released": {
+        "commitid": "1100cc705f7367bb0b17bf0046f9735e598442b3",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+      "release": {
+        "type": "minor"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "fec494754a9710d22362581b638b8150b327831b"
+      },
+      "baseline": {
+        "message": "Initial commit",
+        "commitid": "7abd58bbd52bdd233cc74dc36ff15df5d262e56f"
+      },
+      "dependencies": [
+        {
+          "moduleid": "nodeflow-local-graph",
+          "fullname": "@nebulario/nodeflow-local-graph",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        },
+        {
+          "moduleid": "core-logger",
+          "fullname": "@nebulario/core-logger",
+          "version": "1.1.26-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-logger"
+        },
+        {
+          "moduleid": "core-node",
+          "fullname": "@nebulario/core-node",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-node"
+        },
+        {
+          "moduleid": "core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.1.41-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ],
+      "released": {
+        "commitid": "8257011c8b1c31fe092888a5ed3ceb6e4aac1d8a",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "url": "github.com:vicjicaman/nodeflow-local-server.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "5b25bf3fabbc8e4925c1b36923c88b7d214d2e22"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.13-master:to-del-2",
+        "commitid": "2ebcf63adb5804dc7d01abe68aea11b6fbc4c019"
+      },
+      "dependencies": [
+        {
+          "moduleid": "nodeflow-local-server",
+          "fullname": "@nebulario/nodeflow-local-server",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        },
+        {
+          "moduleid": "core-logger",
+          "fullname": "@nebulario/core-logger",
+          "version": "1.1.26-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-logger"
+        },
+        {
+          "moduleid": "core-node",
+          "fullname": "@nebulario/core-node",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-node"
+        },
+        {
+          "moduleid": "core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.1.41-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        },
+        {
+          "moduleid": "core-render-stateful-server",
+          "fullname": "@nebulario/core-render-stateful-server",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-render-stateful-server"
+        },
+        {
+          "moduleid": "dll-apollo",
+          "fullname": "@nebulario/dll-apollo",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-apollo"
+        },
+        {
+          "moduleid": "dll-react",
+          "fullname": "@nebulario/dll-react",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-react"
+        },
+        {
+          "moduleid": "dll-redux",
+          "fullname": "@nebulario/dll-redux",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-redux"
+        },
+        {
+          "moduleid": "dll-utils",
+          "fullname": "@nebulario/dll-utils",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-utils"
+        },
+        {
+          "moduleid": "dll-vendor",
+          "fullname": "@nebulario/dll-vendor",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-vendor"
+        },
+        {
+          "moduleid": "nodeflow-local-common",
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-common"
+        },
+        {
+          "moduleid": "nodeflow-local-web",
+          "fullname": "@nebulario/nodeflow-local-web",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-web"
+        }
+      ],
+      "released": {
+        "commitid": "cb86824758f8ef5a87b24985417b5b31afa1bdab",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "url": "github.com:vicjicaman/nodeflow-local-web.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "9858fb937daa12373bfc1e143f235e2c9c1ab60a"
+      },
+      "baseline": {
+        "message": "RELEASE:1.0.11-master:local-ui-srv",
+        "commitid": "5b36f84b4df7709351d57b741481c234165b3bbb"
+      },
+      "dependencies": [
+        {
+          "moduleid": "nodeflow-local-web",
+          "fullname": "@nebulario/nodeflow-local-web",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        },
+        {
+          "moduleid": "core-render-stateful-web",
+          "fullname": "@nebulario/core-render-stateful-web",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-render-stateful-web"
+        },
+        {
+          "moduleid": "dll-apollo",
+          "fullname": "@nebulario/dll-apollo",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-apollo"
+        },
+        {
+          "moduleid": "dll-react",
+          "fullname": "@nebulario/dll-react",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-react"
+        },
+        {
+          "moduleid": "dll-redux",
+          "fullname": "@nebulario/dll-redux",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-redux"
+        },
+        {
+          "moduleid": "dll-utils",
+          "fullname": "@nebulario/dll-utils",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-utils"
+        },
+        {
+          "moduleid": "dll-vendor",
+          "fullname": "@nebulario/dll-vendor",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-vendor"
+        },
+        {
+          "moduleid": "nodeflow-local-common",
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-common"
+        },
+        {
+          "moduleid": "nodeflow-local-graph",
+          "fullname": "@nebulario/nodeflow-local-graph",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-graph"
+        }
+      ],
+      "released": {
+        "commitid": "bc5ed18c1dd1986d75fdbdb807444c1edec3a108",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "repoflow-container-graph",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "container",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+      "url": "github.com:vicjicaman/repoflow-container-graph.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "2d2aac6980f7be8b9b714f0061008b5db0ed11e5"
+      },
+      "baseline": {
+        "message": "Initial commit",
+        "commitid": "457651f7dab244c34d8f321f13fd2476126f8708"
+      },
+      "dependencies": [
+        {
+          "moduleid": "nodeflow-local-graph",
+          "fullname": "@nebulario/nodeflow-local-graph",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-graph"
+        },
+        {
+          "moduleid": "repoflow-container-graph",
+          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "container.json",
+          "path": "version"
+        },
+        {
+          "moduleid": "repoflow-container-graph",
+          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "docker-compose.yml",
+          "path": ".+app:\\s+image:(?:\\s+|)(?:.+):(.+)"
+        },
+        {
+          "moduleid": "nodeflow-local-graph",
+          "fullname": "@nebulario/nodeflow-local-graph",
+          "version": "1.0.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-graph"
+        }
+      ],
+      "released": {
+        "commitid": "4d5cedc310b2ce56e8e8e7e9c2afc7d8ba64a5de",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
+    },
+    {
+      "moduleid": "repoflow-container-server",
+      "featureid": "local-ui-graph",
+      "branchid": "local-ui-graph/master",
+      "type": "container",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+      "url": "github.com:vicjicaman/repoflow-container-server.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.0.0-master",
+      "feature": {
+        "message": "RELEASE:local-ui-graph\n",
+        "commitid": "a2273bee8e06678a8180dad7095991789578b1de"
+      },
+      "baseline": {
+        "message": "Initial commit",
+        "commitid": "7dfd5731a1f4b3301b99347eeae0588e61ec0bab"
+      },
+      "dependencies": [
+        {
+          "moduleid": "nodeflow-local-server",
+          "fullname": "@nebulario/nodeflow-local-server",
+          "version": "1.0.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-server"
+        },
+        {
+          "moduleid": "repoflow-container-server",
+          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "container.json",
+          "path": "version"
+        },
+        {
+          "moduleid": "repoflow-container-server",
+          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+          "version": "1.0.0-master",
+          "kind": "inner",
+          "filename": "docker-compose.yml",
+          "path": ".+app:\\s+image:(?:\\s+|)(?:.+):(.+)"
+        },
+        {
+          "moduleid": "nodeflow-local-server",
+          "fullname": "@nebulario/nodeflow-local-server",
+          "version": "1.0.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-server"
+        }
+      ],
+      "released": {
+        "commitid": "592a8d64f50fc13ffcaaeb8b781839ad8d3716e4",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
       }
     }
   ]

@@ -1,0 +1,30 @@
+{
+  "moduleid": "core-logger",
+  "featureid": "local-ui-graph",
+  "branchid": "local-ui-graph/master",
+  "type": "npm",
+  "fullname": "@nebulario/core-logger",
+  "url": "github.com:vicjicaman/core-logger.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.1.26-master",
+  "feature": {
+    "message": "RELEASE:local-ui-graph\n",
+    "commitid": "089d9ba2b7fc0129e3711132ddbe75e697d180af"
+  },
+  "baseline": {
+    "message": "RELEASE:1.0.11-master:to-del-2",
+    "commitid": "e3d4d52cade3d646b03050864ff398ac3b8322c1"
+  },
+  "dependencies": [
+    {
+      "moduleid": "core-logger",
+      "fullname": "@nebulario/core-logger",
+      "version": "1.1.26-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ]
+}

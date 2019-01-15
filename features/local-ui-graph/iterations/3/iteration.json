@@ -1,0 +1,228 @@
+{
+  "modules": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "mode": "dev",
+      "version": "1.1.2-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-server.git",
+        "commitid": "bb376420d3db77472267962d5df0a8a664663807",
+        "message": "sync to iteration"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "repoflow-server",
+      "mode": "dev",
+      "version": "1.1.0-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-server",
+      "repository": {
+        "url": "github.com:vicjicaman/repoflow-server.git",
+        "commitid": "580666c694d6a7d7a9d38a8c62f5bf942d76b955",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "mode": "prod",
+      "version": "1.1.2-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-web.git",
+        "commitid": "b588f71b15e4ee74922d25e11846dc64f244e00a",
+        "message": "sync to iteration"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "mode": "dev",
+      "version": "1.1.0-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-server",
+      "repository": {
+        "url": "github.com:vicjicaman/core-render-stateful-server.git",
+        "commitid": "d0cb6c43155884e6c49b9d7c47a05e97f19ffb02",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "mode": "prod",
+      "version": "1.1.2-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-common.git",
+        "commitid": "761a394e7b17c484dbb4d159bef2bb2f9efa2c02",
+        "message": "Sync to iteration version"
+      },
+      "release": true,
+      "published": true
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "mode": "dev",
+      "version": "1.1.1-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "repository": {
+        "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+        "commitid": "984d8761a1f646c3c4edb0db283a9ccb545e106b",
+        "message": "Fix save feature and add module actions"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "core-render-stateful-web",
+      "mode": "dev",
+      "version": "1.1.0-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-web",
+      "repository": {
+        "url": "github.com:vicjicaman/core-render-stateful-web.git",
+        "commitid": "7c0bcc33201eac1913d1ab0cca188d00b636e530",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "dll-redux",
+      "mode": "dev",
+      "version": "1.1.0-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/dll-redux",
+      "repository": {
+        "url": "github.com:vicjicaman/dll-redux.git",
+        "commitid": "e4899a4cc01fc8edb210ea4cbfb71777161b0112",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "dll-apollo",
+      "mode": "prod",
+      "version": "1.1.0-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/dll-apollo",
+      "repository": {
+        "url": "github.com:vicjicaman/dll-apollo.git",
+        "commitid": "e9fcfc71f981cb3e53d08828df45bfae26f35dd7",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "dll-utils",
+      "mode": "prod",
+      "version": "1.1.0-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/dll-utils",
+      "repository": {
+        "url": "github.com:vicjicaman/dll-utils.git",
+        "commitid": "2e45529f79a34124e92ff12f0db8e1d5a36910d0",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "dll-vendor",
+      "mode": "prod",
+      "version": "1.1.0-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/dll-vendor",
+      "repository": {
+        "url": "github.com:vicjicaman/dll-vendor.git",
+        "commitid": "c215450acfbf733bb7bcb136642900d8cb0f3e41",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "dll-react",
+      "mode": "dev",
+      "version": "1.1.0-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/dll-react",
+      "repository": {
+        "url": "github.com:vicjicaman/dll-react.git",
+        "commitid": "5210c11a76ee8e93dc53b82e576477a1d7911b12",
+        "message": "Set to next iterated version"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "app-request",
+      "mode": "dev",
+      "version": "1.1.0-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/app-request",
+      "repository": {
+        "url": "github.com:vicjicaman/app-request.git",
+        "commitid": "15bd3441d61f018835368d8c07139bf4505bda62",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "app-notify",
+      "mode": "prod",
+      "version": "1.1.0-local-ui-graph-prod",
+      "type": "npm",
+      "fullname": "@nebulario/app-notify",
+      "repository": {
+        "url": "github.com:vicjicaman/app-notify.git",
+        "commitid": "3affc779bd4e9cb162704431573a14c707995643",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "app-layout",
+      "mode": "dev",
+      "version": "1.1.0-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/app-layout",
+      "repository": {
+        "url": "github.com:vicjicaman/app-layout.git",
+        "commitid": "acad50b67e78a251a4e3743fa21db84c48348eac",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "core-process",
+      "mode": "dev",
+      "version": "1.1.0-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/core-process",
+      "repository": {
+        "url": "github.com:vicjicaman/core-process.git",
+        "commitid": "764d7c98409f7496efc6237ab244d2b7f08963d8",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "core-logger",
+      "mode": "dev",
+      "version": "1.1.0-local-ui-graph-dev",
+      "type": "npm",
+      "fullname": "@nebulario/core-logger",
+      "repository": {
+        "url": "github.com:vicjicaman/core-logger.git",
+        "commitid": "8e633ab32af463ab48c1065eecf247ab001beff7",
+        "message": "Add type and fullname to iteration's module"
+      },
+      "release": false
+    }
+  ]
+}
