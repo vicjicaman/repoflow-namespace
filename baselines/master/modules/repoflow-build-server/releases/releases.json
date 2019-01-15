@@ -2,6 +2,9 @@
   "releases": [
     {
       "featureid": "initial-plugin"
+    },
+    {
+      "featureid": "plugin-request"
     }
   ]
 }
