@@ -1,0 +1,118 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "featureid": "local-ui-graph",
+  "branchid": "local-ui-graph/master",
+  "type": "npm",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.0.0-master",
+  "feature": {
+    "message": "RELEASE:local-ui-graph\n",
+    "commitid": "5b25bf3fabbc8e4925c1b36923c88b7d214d2e22"
+  },
+  "baseline": {
+    "message": "RELEASE:1.0.13-master:to-del-2",
+    "commitid": "2ebcf63adb5804dc7d01abe68aea11b6fbc4c019"
+  },
+  "dependencies": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "version": "1.0.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "moduleid": "core-logger",
+      "fullname": "@nebulario/core-logger",
+      "version": "1.1.26-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-logger"
+    },
+    {
+      "moduleid": "core-node",
+      "fullname": "@nebulario/core-node",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-node"
+    },
+    {
+      "moduleid": "core-process",
+      "fullname": "@nebulario/core-process",
+      "version": "1.1.41-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-process"
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "fullname": "@nebulario/core-render-stateful-server",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-render-stateful-server"
+    },
+    {
+      "moduleid": "dll-apollo",
+      "fullname": "@nebulario/dll-apollo",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-apollo"
+    },
+    {
+      "moduleid": "dll-react",
+      "fullname": "@nebulario/dll-react",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-react"
+    },
+    {
+      "moduleid": "dll-redux",
+      "fullname": "@nebulario/dll-redux",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-redux"
+    },
+    {
+      "moduleid": "dll-utils",
+      "fullname": "@nebulario/dll-utils",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-utils"
+    },
+    {
+      "moduleid": "dll-vendor",
+      "fullname": "@nebulario/dll-vendor",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-vendor"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-common"
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "version": "1.0.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-web"
+    }
+  ]
+}
