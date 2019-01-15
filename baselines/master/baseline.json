@@ -31,7 +31,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "499493e3c39b09f4c595ae4cff3908f68d538914",
+        "message": "RELEASE:local-ui-graph:1.1.41-master"
+      }
     },
     {
       "moduleid": "core-logger",
@@ -61,7 +65,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "10573f200e917ea836a1ec16bc0a727c679f3119",
+        "message": "RELEASE:local-ui-graph:1.1.26-master"
+      }
     },
     {
       "moduleid": "repoflow-build-server",
@@ -193,7 +201,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "2822613b9d9b7e883ae50241f54a1e48bced5905",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "app-notify",
@@ -223,7 +235,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "45ff4ecd0c9882e84ec5eab0a966dbc89b2215bb",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "core-node",
@@ -253,7 +269,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "ab8c7b1c3de698da33fedcc615ee5f3297b0e67c",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "core-render-stateful-server",
@@ -283,7 +303,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "08f508137a25ea5fd38bb1a2b75770da7b4461f5",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "core-render-stateful-web",
@@ -313,7 +337,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "949f1f16e3473fe64c7ac6a857319d089fe23a62",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "dll-apollo",
@@ -343,7 +371,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "e9b81f88fba853beb2dbd397e12c450c4a4acfbb",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "dll-react",
@@ -373,7 +405,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "fd75282af79b02bfa1d169c20a84631009551537",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "dll-redux",
@@ -403,7 +439,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "db89bbd80aba11c14d25aedcc865b6fdd16b9c11",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "dll-utils",
@@ -433,7 +473,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "613c8391aa348773bd6b3149d8275a10693e7f00",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "dll-vendor",
@@ -463,7 +507,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "4f7e29c187b4acd72f0ce07d6ca7e60351e46413",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-common",
@@ -509,7 +557,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/app-notify"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "1100cc705f7367bb0b17bf0046f9735e598442b3",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-graph",
@@ -563,7 +615,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-process"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "8257011c8b1c31fe092888a5ed3ceb6e4aac1d8a",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-server",
@@ -681,7 +737,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "cb86824758f8ef5a87b24985417b5b31afa1bdab",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-web",
@@ -775,7 +835,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "bc5ed18c1dd1986d75fdbdb807444c1edec3a108",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "repoflow-container-graph",
@@ -829,7 +893,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "4d5cedc310b2ce56e8e8e7e9c2afc7d8ba64a5de",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     },
     {
       "moduleid": "repoflow-container-server",
@@ -883,7 +951,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "592a8d64f50fc13ffcaaeb8b781839ad8d3716e4",
+        "message": "RELEASE:local-ui-graph:1.0.0-master"
+      }
     }
   ]
 }
