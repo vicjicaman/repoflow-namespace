@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/repoflow-plugin-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/repoflow-plugin-container.git",
-    "commitid": "8aa5ef1402a02b4b4d8cc480a45ab16c959983eb"
+    "commitid": "bbbc3608dc168633af2866b5088b7564ccfff91a"
   },
   "runtime": {
     "run": {
