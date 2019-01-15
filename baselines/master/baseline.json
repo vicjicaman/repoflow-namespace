@@ -183,7 +183,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "8907ab7103d9c3f669ade1fb4d65f4eb61d70c88"
@@ -196,7 +196,7 @@
         {
           "moduleid": "app-layout",
           "fullname": "@nebulario/app-layout",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -217,7 +217,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "c248605b0ee906ac93912fc2084b362552c49ced"
@@ -230,7 +230,7 @@
         {
           "moduleid": "app-notify",
           "fullname": "@nebulario/app-notify",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -251,7 +251,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "ea39d3ba45121097d975fb2063e60d63f5b680f5"
@@ -264,7 +264,7 @@
         {
           "moduleid": "core-node",
           "fullname": "@nebulario/core-node",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -285,7 +285,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "03f878b6d0a1c3fc25781d6e9c512964a18f61dd"
@@ -298,7 +298,7 @@
         {
           "moduleid": "core-render-stateful-server",
           "fullname": "@nebulario/core-render-stateful-server",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -319,7 +319,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "3eb2df2fa34e6973b6f1ebd038b1b9176c358938"
@@ -332,7 +332,7 @@
         {
           "moduleid": "core-render-stateful-web",
           "fullname": "@nebulario/core-render-stateful-web",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -353,7 +353,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "0b82bec95f4fd8c12d5e3f815b32bbe5eff3acc7"
@@ -366,7 +366,7 @@
         {
           "moduleid": "dll-apollo",
           "fullname": "@nebulario/dll-apollo",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -387,7 +387,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "da981790aac20957c34a966f097606f0a52befdd"
@@ -400,7 +400,7 @@
         {
           "moduleid": "dll-react",
           "fullname": "@nebulario/dll-react",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -421,7 +421,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "f71fb04427f0fa86c236e66f20156d3c776f41dd"
@@ -434,7 +434,7 @@
         {
           "moduleid": "dll-redux",
           "fullname": "@nebulario/dll-redux",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -455,7 +455,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "1b234732c27f4e6aa4e5d17dfdae4258e35a5c79"
@@ -468,7 +468,7 @@
         {
           "moduleid": "dll-utils",
           "fullname": "@nebulario/dll-utils",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -489,7 +489,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "1c139226ece44eb47599e4869f57acb132cc5531"
@@ -502,7 +502,7 @@
         {
           "moduleid": "dll-vendor",
           "fullname": "@nebulario/dll-vendor",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -523,7 +523,7 @@
       "release": {
         "type": "mayor"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "baf11d9eb4d20d0e3d31566cb721b7d3dfec8b37"
@@ -536,7 +536,7 @@
         {
           "moduleid": "nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -544,7 +544,7 @@
         {
           "moduleid": "app-layout",
           "fullname": "@nebulario/app-layout",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/app-layout"
@@ -552,7 +552,7 @@
         {
           "moduleid": "app-notify",
           "fullname": "@nebulario/app-notify",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/app-notify"
@@ -573,7 +573,7 @@
       "release": {
         "type": "minor"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "fec494754a9710d22362581b638b8150b327831b"
@@ -586,7 +586,7 @@
         {
           "moduleid": "nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -602,7 +602,7 @@
         {
           "moduleid": "core-node",
           "fullname": "@nebulario/core-node",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-node"
@@ -631,7 +631,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "5b25bf3fabbc8e4925c1b36923c88b7d214d2e22"
@@ -644,7 +644,7 @@
         {
           "moduleid": "nodeflow-local-server",
           "fullname": "@nebulario/nodeflow-local-server",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -660,7 +660,7 @@
         {
           "moduleid": "core-node",
           "fullname": "@nebulario/core-node",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-node"
@@ -676,7 +676,7 @@
         {
           "moduleid": "core-render-stateful-server",
           "fullname": "@nebulario/core-render-stateful-server",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-render-stateful-server"
@@ -684,7 +684,7 @@
         {
           "moduleid": "dll-apollo",
           "fullname": "@nebulario/dll-apollo",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-apollo"
@@ -692,7 +692,7 @@
         {
           "moduleid": "dll-react",
           "fullname": "@nebulario/dll-react",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-react"
@@ -700,7 +700,7 @@
         {
           "moduleid": "dll-redux",
           "fullname": "@nebulario/dll-redux",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-redux"
@@ -708,7 +708,7 @@
         {
           "moduleid": "dll-utils",
           "fullname": "@nebulario/dll-utils",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-utils"
@@ -716,7 +716,7 @@
         {
           "moduleid": "dll-vendor",
           "fullname": "@nebulario/dll-vendor",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-vendor"
@@ -724,7 +724,7 @@
         {
           "moduleid": "nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -732,7 +732,7 @@
         {
           "moduleid": "nodeflow-local-web",
           "fullname": "@nebulario/nodeflow-local-web",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"
@@ -753,7 +753,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "9858fb937daa12373bfc1e143f235e2c9c1ab60a"
@@ -766,7 +766,7 @@
         {
           "moduleid": "nodeflow-local-web",
           "fullname": "@nebulario/nodeflow-local-web",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "package.json",
           "path": "version"
@@ -774,7 +774,7 @@
         {
           "moduleid": "core-render-stateful-web",
           "fullname": "@nebulario/core-render-stateful-web",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-render-stateful-web"
@@ -782,7 +782,7 @@
         {
           "moduleid": "dll-apollo",
           "fullname": "@nebulario/dll-apollo",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-apollo"
@@ -790,7 +790,7 @@
         {
           "moduleid": "dll-react",
           "fullname": "@nebulario/dll-react",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-react"
@@ -798,7 +798,7 @@
         {
           "moduleid": "dll-redux",
           "fullname": "@nebulario/dll-redux",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-redux"
@@ -806,7 +806,7 @@
         {
           "moduleid": "dll-utils",
           "fullname": "@nebulario/dll-utils",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-utils"
@@ -814,7 +814,7 @@
         {
           "moduleid": "dll-vendor",
           "fullname": "@nebulario/dll-vendor",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-vendor"
@@ -822,7 +822,7 @@
         {
           "moduleid": "nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -830,7 +830,7 @@
         {
           "moduleid": "nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
@@ -851,7 +851,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "2d2aac6980f7be8b9b714f0061008b5db0ed11e5"
@@ -864,7 +864,7 @@
         {
           "moduleid": "nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
@@ -872,7 +872,7 @@
         {
           "moduleid": "repoflow-container-graph",
           "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "container.json",
           "path": "version"
@@ -880,7 +880,7 @@
         {
           "moduleid": "repoflow-container-graph",
           "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "docker-compose.yml",
           "path": ".+app:\\s+image:(?:\\s+|)(?:.+):(.+)"
@@ -888,7 +888,7 @@
         {
           "moduleid": "nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
@@ -909,7 +909,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.0.0-master",
+      "version": "1.10.0-master",
       "feature": {
         "message": "RELEASE:local-ui-graph\n",
         "commitid": "a2273bee8e06678a8180dad7095991789578b1de"
@@ -922,7 +922,7 @@
         {
           "moduleid": "nodeflow-local-server",
           "fullname": "@nebulario/nodeflow-local-server",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"
@@ -930,7 +930,7 @@
         {
           "moduleid": "repoflow-container-server",
           "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "container.json",
           "path": "version"
@@ -938,7 +938,7 @@
         {
           "moduleid": "repoflow-container-server",
           "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "inner",
           "filename": "docker-compose.yml",
           "path": ".+app:\\s+image:(?:\\s+|)(?:.+):(.+)"
@@ -946,7 +946,7 @@
         {
           "moduleid": "nodeflow-local-server",
           "fullname": "@nebulario/nodeflow-local-server",
-          "version": "1.0.0-master",
+          "version": "1.10.0-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"
