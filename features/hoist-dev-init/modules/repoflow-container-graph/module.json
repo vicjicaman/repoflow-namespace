@@ -3,14 +3,14 @@
   "type": "container",
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/repoflow-container-graph.git",
-    "commitid": "638dcade263edee16f101a2408909a78c3858ebe"
+    "commitid": "f098b0c7cb299b1e1dc782f1456dfcd07dd79c1a"
   },
   "runtime": {
     "run": {

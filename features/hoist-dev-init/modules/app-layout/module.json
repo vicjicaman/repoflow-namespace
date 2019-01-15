@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/app-layout",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/app-layout.git",
-    "commitid": "e43b5d36a67a3bc6861642630245bb9b90399f0e"
+    "commitid": "d020638bf2dd14f86d7f3e7d0a4af9293858cd1e"
   },
   "runtime": {
     "run": {

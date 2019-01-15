@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/app-notify",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/app-notify.git",
-    "commitid": "fa7ba6636812af5e5887f665658fb164d5f193ea"
+    "commitid": "afa9fda8c71c7288a59a7d95ff213b68963b3ee6"
   },
   "runtime": {
     "run": {

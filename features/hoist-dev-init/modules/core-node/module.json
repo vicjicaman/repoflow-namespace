@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/core-node",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/core-node.git",
-    "commitid": "1c2040d92c7cb99b64d9c62b0a18558471ac0c71"
+    "commitid": "bc472df097fb8335fa6bc1f2979fa1147a50813c"
   },
   "runtime": {
     "run": {

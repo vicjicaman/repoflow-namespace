@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-    "commitid": "f4ab4c37602c6daa3d8debdebebd8270c5fad11d"
+    "commitid": "5af4fe30cfc95944674447f84fd42c7580d7dfeb"
   },
   "runtime": {
     "run": {

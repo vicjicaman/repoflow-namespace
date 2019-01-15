@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/dll-utils",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/dll-utils.git",
-    "commitid": "d0017240a7d0a95689d8eee60d9afec08cf45b4d"
+    "commitid": "f75b03d5b85aa0f7dc8f4de197e3cd9377fdd52b"
   },
   "runtime": {
     "run": {

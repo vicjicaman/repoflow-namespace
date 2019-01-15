@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/dll-vendor",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/dll-vendor.git",
-    "commitid": "7e8dddd6253a0c439104e9734f9349af1f051520"
+    "commitid": "ba9ea49fe119d3221fcaa5ae3eee59cb74cb454f"
   },
   "runtime": {
     "run": {

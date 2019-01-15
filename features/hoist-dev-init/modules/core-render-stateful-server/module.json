@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/core-render-stateful-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/core-render-stateful-server.git",
-    "commitid": "3c3ee13e7c784550711e99e9cd1d504cbe4c6611"
+    "commitid": "160534a4e2a04e888eeb1eec8eaf353b7a6f1672"
   },
   "runtime": {
     "run": {

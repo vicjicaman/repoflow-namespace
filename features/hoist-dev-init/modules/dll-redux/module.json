@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/dll-redux",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/dll-redux.git",
-    "commitid": "05fa373c59390e8a4704f9f00b401d86dc12f49b"
+    "commitid": "c365e9e69262e4817408bcfa9550354d7319a24e"
   },
   "runtime": {
     "run": {

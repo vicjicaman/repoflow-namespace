@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/dll-react",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/dll-react.git",
-    "commitid": "6ae74c67b7226351cb6349bae63e6012618fdea7"
+    "commitid": "5d2891d2d5a652288f8ea4f8bc45960acda32d42"
   },
   "runtime": {
     "run": {
