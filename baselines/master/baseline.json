@@ -201,7 +201,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "e7d3b1bc8ce2e741450fb574f73eebd7599aa21f",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "app-notify",
@@ -231,7 +235,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "69d72b80cc9500daccec2ec9758bd928376784e3",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "core-node",
@@ -261,7 +269,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "eb2b01e547511b31b65868d1faaa71ea9709726f",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "core-render-stateful-server",
@@ -291,7 +303,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "7998491bfa3cdbf78fad8b4fc8ecdf104c83e4ad",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "core-render-stateful-web",
@@ -321,7 +337,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "6e1035261b5493ff9a0431bdf0102a27f846fd6e",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "dll-apollo",
@@ -351,7 +371,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "8924f67dfb9726f3b13f3aa80bf69dfc800fc444",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "dll-react",
@@ -381,7 +405,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "a0ea1aa77775a8f42ef66206eed1a756daf1426b",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "dll-redux",
@@ -411,7 +439,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "5cbc0303985b1558bfbc3176f29daa7d905a8a8a",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "dll-utils",
@@ -441,7 +473,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "64f0f36be2886a5dd60d836b2bd3819f9d0f8595",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "dll-vendor",
@@ -471,7 +507,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "9a4ca1389c197636a3f26ec00a588e2c240a15d2",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-common",
@@ -517,7 +557,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/app-notify"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "e08896d9b4fa113fe22a163b12da2f60622ecdf9",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-graph",
@@ -555,7 +599,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-node"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "958a14ab6335b17257c32ada14669eec3b9f1b54",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-server",
@@ -657,7 +705,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "eb0914ffb44be98a77f2411e9396cdfad0602e32",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-web",
@@ -751,7 +803,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "0e51c5a71f589012cc3c1cea939ffc6788d21676",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "repoflow-container-graph",
@@ -805,7 +861,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "573732f9dc8975e8505633be8eec0bfd17a2f6a9",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     },
     {
       "moduleid": "repoflow-container-server",
@@ -859,7 +919,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "5f6aaee5bdea3d2fccc72db460e6a8517188decf",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
     }
   ]
 }
