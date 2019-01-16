@@ -1,0 +1,64 @@
+{
+  "modules": [
+    {
+      "moduleid": "nodeflow-local-common",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "url": "github.com:vicjicaman/nodeflow-local-common.git",
+      "version": "1.10.2-master",
+      "feature": {
+        "message": "RELEASE:package-labels\n",
+        "commitid": "0cdcfa414c39e048fd4829c9dda2323d1be84ee1"
+      },
+      "baseline": {
+        "message": "RELEASE:hoist-dev-init:1.10.1-master",
+        "commitid": "e08896d9b4fa113fe22a163b12da2f60622ecdf9"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+      "version": "1.10.2-master",
+      "feature": {
+        "message": "RELEASE:package-labels\n",
+        "commitid": "0c818503351cd2b632825097ce766a5102566a50"
+      },
+      "baseline": {
+        "message": "RELEASE:hoist-dev-init:1.10.1-master",
+        "commitid": "958a14ab6335b17257c32ada14669eec3b9f1b54"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "url": "github.com:vicjicaman/nodeflow-local-server.git",
+      "version": "1.10.2-master",
+      "feature": {
+        "message": "RELEASE:package-labels\n",
+        "commitid": "eefea60b8e4d0e2531f6b2e4c4c1bd6df2c37f35"
+      },
+      "baseline": {
+        "message": "RELEASE:hoist-dev-init:1.10.1-master",
+        "commitid": "eb0914ffb44be98a77f2411e9396cdfad0602e32"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "url": "github.com:vicjicaman/nodeflow-local-web.git",
+      "version": "1.10.2-master",
+      "feature": {
+        "message": "RELEASE:package-labels\n",
+        "commitid": "de0d03b45b2a36af7f1f1abce5bfa52c6843160f"
+      },
+      "baseline": {
+        "message": "RELEASE:hoist-dev-init:1.10.1-master",
+        "commitid": "0e51c5a71f589012cc3c1cea939ffc6788d21676"
+      }
+    }
+  ]
+}

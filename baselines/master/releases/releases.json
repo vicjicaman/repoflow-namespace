@@ -11,6 +11,9 @@
     },
     {
       "featureid": "hoist-dev-init"
+    },
+    {
+      "featureid": "package-labels"
     }
   ]
 }
