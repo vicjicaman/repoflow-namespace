@@ -1,0 +1,307 @@
+{
+  "modules": [{
+      "moduleid": "repoflow-container-graph",
+      "type": "container",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+      "url": "github.com:vicjicaman/repoflow-container-graph.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "ffdd201737fc4d530183b0bddf2615b3960ead56"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "4d5cedc310b2ce56e8e8e7e9c2afc7d8ba64a5de"
+      },
+      "released": {
+        "commitid": "573732f9dc8975e8505633be8eec0bfd17a2f6a9",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "repoflow-container-server",
+      "type": "container",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+      "url": "github.com:vicjicaman/repoflow-container-server.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "631331861a322a43cfc9d9ecbe7e6806a766c1af"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "592a8d64f50fc13ffcaaeb8b781839ad8d3716e4"
+      },
+      "released": {
+        "commitid": "5f6aaee5bdea3d2fccc72db460e6a8517188decf",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "url": "github.com:vicjicaman/nodeflow-local-server.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "165dc5542945edd7110f70c8e4781e30819400d6"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "cb86824758f8ef5a87b24985417b5b31afa1bdab"
+      },
+      "released": {
+        "commitid": "eb0914ffb44be98a77f2411e9396cdfad0602e32",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-server",
+      "url": "github.com:vicjicaman/core-render-stateful-server.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "68e45291db5ec2a639592db617f2f06baf56da8d"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "08f508137a25ea5fd38bb1a2b75770da7b4461f5"
+      },
+      "released": {
+        "commitid": "7998491bfa3cdbf78fad8b4fc8ecdf104c83e4ad",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "url": "github.com:vicjicaman/nodeflow-local-web.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "5ebc878f6f5583b5807cf50082a3f487d0614fa2"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "bc5ed18c1dd1986d75fdbdb807444c1edec3a108"
+      },
+      "released": {
+        "commitid": "0e51c5a71f589012cc3c1cea939ffc6788d21676",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "core-render-stateful-web",
+      "type": "npm",
+      "fullname": "@nebulario/core-render-stateful-web",
+      "url": "github.com:vicjicaman/core-render-stateful-web.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "3105c4f71c7b87bd1173759b6481e5073759925b"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "949f1f16e3473fe64c7ac6a857319d089fe23a62"
+      },
+      "released": {
+        "commitid": "6e1035261b5493ff9a0431bdf0102a27f846fd6e",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "dll-apollo",
+      "type": "npm",
+      "fullname": "@nebulario/dll-apollo",
+      "url": "github.com:vicjicaman/dll-apollo.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "497a1ace8dc70ff789a786f5d9727fbc99cb6a09"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "e9b81f88fba853beb2dbd397e12c450c4a4acfbb"
+      },
+      "released": {
+        "commitid": "8924f67dfb9726f3b13f3aa80bf69dfc800fc444",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "dll-react",
+      "type": "npm",
+      "fullname": "@nebulario/dll-react",
+      "url": "github.com:vicjicaman/dll-react.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "8c900e3fe75f20f01b6af4aa3f46b902a76fc418"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "fd75282af79b02bfa1d169c20a84631009551537"
+      },
+      "released": {
+        "commitid": "a0ea1aa77775a8f42ef66206eed1a756daf1426b",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "dll-redux",
+      "type": "npm",
+      "fullname": "@nebulario/dll-redux",
+      "url": "github.com:vicjicaman/dll-redux.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "1d75bfd64d86d79e35eab90d8fe6662ab274ce57"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "db89bbd80aba11c14d25aedcc865b6fdd16b9c11"
+      },
+      "released": {
+        "commitid": "5cbc0303985b1558bfbc3176f29daa7d905a8a8a",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "dll-utils",
+      "type": "npm",
+      "fullname": "@nebulario/dll-utils",
+      "url": "github.com:vicjicaman/dll-utils.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "cfdb2656bbe60f76dcbc23bd4b13d5c813ff4e3f"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "613c8391aa348773bd6b3149d8275a10693e7f00"
+      },
+      "released": {
+        "commitid": "64f0f36be2886a5dd60d836b2bd3819f9d0f8595",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "dll-vendor",
+      "type": "npm",
+      "fullname": "@nebulario/dll-vendor",
+      "url": "github.com:vicjicaman/dll-vendor.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "5f14a64fdf6a0904c5a9ca69f3644b72158e2c98"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "4f7e29c187b4acd72f0ce07d6ca7e60351e46413"
+      },
+      "released": {
+        "commitid": "9a4ca1389c197636a3f26ec00a588e2c240a15d2",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "url": "github.com:vicjicaman/nodeflow-local-common.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "8c15c7309fc2ddba09179a58728743d17b5fb594"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "1100cc705f7367bb0b17bf0046f9735e598442b3"
+      },
+      "released": {
+        "commitid": "e08896d9b4fa113fe22a163b12da2f60622ecdf9",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "app-layout",
+      "type": "npm",
+      "fullname": "@nebulario/app-layout",
+      "url": "github.com:vicjicaman/app-layout.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "1bb752a3fc113e2188b778cac46ef2e7a896c2d9"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "2822613b9d9b7e883ae50241f54a1e48bced5905"
+      },
+      "released": {
+        "commitid": "e7d3b1bc8ce2e741450fb574f73eebd7599aa21f",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "app-notify",
+      "type": "npm",
+      "fullname": "@nebulario/app-notify",
+      "url": "github.com:vicjicaman/app-notify.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "084b531f1c12ea2dfac8f342e3af269a40e1772f"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "45ff4ecd0c9882e84ec5eab0a966dbc89b2215bb"
+      },
+      "released": {
+        "commitid": "69d72b80cc9500daccec2ec9758bd928376784e3",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "d72b15b71040ba86e65afdc8372c4900ce298915"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "8257011c8b1c31fe092888a5ed3ceb6e4aac1d8a"
+      },
+      "released": {
+        "commitid": "958a14ab6335b17257c32ada14669eec3b9f1b54",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    },
+    {
+      "moduleid": "core-node",
+      "type": "npm",
+      "fullname": "@nebulario/core-node",
+      "url": "github.com:vicjicaman/core-node.git",
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "885756989a0ac8c1b70ec3220c433f16489da3b3"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "ab8c7b1c3de698da33fedcc615ee5f3297b0e67c"
+      },
+      "released": {
+        "commitid": "eb2b01e547511b31b65868d1faaa71ea9709726f",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    }
+  ]
+}

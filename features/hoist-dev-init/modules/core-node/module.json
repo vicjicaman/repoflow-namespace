@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/core-node.git",
+  "type": "npm",
+  "fullname": "@nebulario/core-node",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/core-node.git",
+    "commitid": "885756989a0ac8c1b70ec3220c433f16489da3b3"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}
