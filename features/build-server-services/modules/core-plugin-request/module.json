@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "type": "npm",
+  "fullname": "@nebulario/core-plugin-request",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/core-plugin-request.git",
+    "commitid": "7d6715c6aa55d54fe2fa0375476b123d5efd3eeb"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}
