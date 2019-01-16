@@ -1,0 +1,46 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "featureid": "hoist-dev-init",
+  "branchid": "hoist-dev-init/master",
+  "type": "npm",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.10.1-master",
+  "feature": {
+    "message": "RELEASE:hoist-dev-init\n",
+    "commitid": "8c15c7309fc2ddba09179a58728743d17b5fb594"
+  },
+  "baseline": {
+    "message": "RELEASE:local-ui-graph:1.0.0-master",
+    "commitid": "1100cc705f7367bb0b17bf0046f9735e598442b3"
+  },
+  "dependencies": [
+    {
+      "moduleid": "nodeflow-local-common",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "version": "1.10.1-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "moduleid": "app-layout",
+      "fullname": "@nebulario/app-layout",
+      "version": "1.10.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/app-layout"
+    },
+    {
+      "moduleid": "app-notify",
+      "fullname": "@nebulario/app-notify",
+      "version": "1.10.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/app-notify"
+    }
+  ]
+}

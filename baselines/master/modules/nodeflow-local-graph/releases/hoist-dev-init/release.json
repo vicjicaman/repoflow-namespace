@@ -1,0 +1,38 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "featureid": "hoist-dev-init",
+  "branchid": "hoist-dev-init/master",
+  "type": "npm",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.10.1-master",
+  "feature": {
+    "message": "RELEASE:hoist-dev-init\n",
+    "commitid": "d72b15b71040ba86e65afdc8372c4900ce298915"
+  },
+  "baseline": {
+    "message": "RELEASE:local-ui-graph:1.0.0-master",
+    "commitid": "8257011c8b1c31fe092888a5ed3ceb6e4aac1d8a"
+  },
+  "dependencies": [
+    {
+      "moduleid": "nodeflow-local-graph",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.10.1-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "moduleid": "core-node",
+      "fullname": "@nebulario/core-node",
+      "version": "1.10.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-node"
+    }
+  ]
+}

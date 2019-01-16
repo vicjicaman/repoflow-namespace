@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "type": "npm",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/nodeflow-local-web.git",
+    "commitid": "5ebc878f6f5583b5807cf50082a3f487d0614fa2"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}
