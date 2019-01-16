@@ -8,6 +8,9 @@
     },
     {
       "featureid": "local-ui-graph"
+    },
+    {
+      "featureid": "hoist-dev-init"
     }
   ]
 }
