@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "type": "npm",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+    "commitid": "958a14ab6335b17257c32ada14669eec3b9f1b54"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}
