@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "repository": {
     "url": "github.com:vicjicaman/nodeflow-local-server.git",
-    "commitid": "b554d8fae4fbed5f72540e1712dde130d3384eb0"
+    "commitid": "8455a69b4159f653926d9f333bf5a12db57c70ac"
   },
   "runtime": {
     "run": {
