@@ -541,7 +541,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "bb149f005961d1056efcc238bbdf809d718d8aa8",
+        "message": "RELEASE:package-labels:1.10.2-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-graph",
@@ -571,7 +575,11 @@
           "filename": "package.json",
           "path": "version"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "542d5b99d24c4ec8792a2c8b158fedb54dc9af10",
+        "message": "RELEASE:package-labels:1.10.2-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-server",
@@ -617,7 +625,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "59cee01f51edd73bb53eee90eced6c90c7603299",
+        "message": "RELEASE:package-labels:1.10.2-master"
+      }
     },
     {
       "moduleid": "nodeflow-local-web",
@@ -663,7 +675,11 @@
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
         }
-      ]
+      ],
+      "released": {
+        "commitid": "7009feb9c2c65e883cfc73a080cb3e9775d0273e",
+        "message": "RELEASE:package-labels:1.10.2-master"
+      }
     },
     {
       "moduleid": "repoflow-container-graph",
