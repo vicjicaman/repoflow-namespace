@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "type": "npm",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+    "commitid": "f8d5ae3f11c26891d6a2ac4903c1cc2fac9b8d81"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}
