@@ -1,0 +1,30 @@
+{
+  "moduleid": "core-node",
+  "featureid": "hoist-dev-init",
+  "branchid": "hoist-dev-init/master",
+  "type": "npm",
+  "fullname": "@nebulario/core-node",
+  "url": "github.com:vicjicaman/core-node.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.10.1-master",
+  "feature": {
+    "message": "RELEASE:hoist-dev-init\n",
+    "commitid": "885756989a0ac8c1b70ec3220c433f16489da3b3"
+  },
+  "baseline": {
+    "message": "RELEASE:local-ui-graph:1.0.0-master",
+    "commitid": "ab8c7b1c3de698da33fedcc615ee5f3297b0e67c"
+  },
+  "dependencies": [
+    {
+      "moduleid": "core-node",
+      "fullname": "@nebulario/core-node",
+      "version": "1.10.1-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ]
+}

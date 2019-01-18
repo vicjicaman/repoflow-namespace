@@ -1,0 +1,30 @@
+{
+  "moduleid": "dll-utils",
+  "featureid": "hoist-dev-init",
+  "branchid": "hoist-dev-init/master",
+  "type": "npm",
+  "fullname": "@nebulario/dll-utils",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.10.1-master",
+  "feature": {
+    "message": "RELEASE:hoist-dev-init\n",
+    "commitid": "cfdb2656bbe60f76dcbc23bd4b13d5c813ff4e3f"
+  },
+  "baseline": {
+    "message": "RELEASE:local-ui-graph:1.0.0-master",
+    "commitid": "613c8391aa348773bd6b3149d8275a10693e7f00"
+  },
+  "dependencies": [
+    {
+      "moduleid": "dll-utils",
+      "fullname": "@nebulario/dll-utils",
+      "version": "1.10.1-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ]
+}
