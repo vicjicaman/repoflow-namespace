@@ -14,7 +14,7 @@
   },
   "runtime": {
     "run": {
-      "runnable": false
+      "runnable": true
     }
   }
 }
