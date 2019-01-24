@@ -1,0 +1,24 @@
+{
+  "modules": [
+    {
+      "moduleid": "repoflow-build-server",
+      "commitid": "a0b0aff46bee294a88b4a8160324789ab47fead0",
+      "message": "Sync to iteration dependency"
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "commitid": "38b6daa7397e845ebbd59035d7d2b5260a37ce64",
+      "message": "Publish modifications"
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "commitid": "fe692632fb2955164beee578ac6112d454b6f3ef",
+      "message": "Publish modifications"
+    },
+    {
+      "moduleid": "core-plugin-request",
+      "commitid": "479f72f88bc66309e585cde4d22b6e23762e84fb",
+      "message": "Sync to iteration dependency"
+    }
+  ]
+}
