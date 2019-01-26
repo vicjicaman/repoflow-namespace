@@ -1,0 +1,57 @@
+{
+  "status": "valid",
+  "modules": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "mode": "dev",
+      "version": "1.0.5-runtime-rebuild-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "url": "github.com:vicjicaman/nodeflow-local-server.git",
+      "iterated": {
+        "commitid": "50ac896079e82a1a42b6280f43813659bc3debcf",
+        "message": "ITERATION:5"
+      },
+      "release": true
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "mode": "dev",
+      "version": "1.0.5-runtime-rebuild-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "url": "github.com:vicjicaman/nodeflow-local-web.git",
+      "iterated": {
+        "commitid": "ff86ad74779a06a99d9b8ef29dffdeed507d3cac",
+        "message": "ITERATION:5"
+      },
+      "release": true
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "mode": "dev",
+      "version": "1.0.5-runtime-rebuild-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "url": "github.com:vicjicaman/nodeflow-local-common.git",
+      "iterated": {
+        "commitid": "031a37e8227c00f34f43ff76565921bc9b3fcdc9",
+        "message": "Release message for iteration"
+      },
+      "release": true
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "mode": "dev",
+      "version": "1.0.4-runtime-rebuild-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+      "iterated": {
+        "commitid": "08c3b32f43a1520745087c22093b80c480518312",
+        "message": "ITERATION:5"
+      },
+      "release": false
+    }
+  ]
+}
