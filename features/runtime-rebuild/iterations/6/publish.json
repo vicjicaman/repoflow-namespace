@@ -1,0 +1,19 @@
+{
+  "modules": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "commitid": "1948e6b9a0cd6257a72f1d79c870dd383ed6db31",
+      "message": "Publish modifications"
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "commitid": "afb11c5e68b027f7315b8adf4f1f2b28a44f3fe2",
+      "message": "Publish modifications"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "commitid": "95a0b4eedd2c84d0430a0be36ef2c3e24e22c5a4",
+      "message": "Sync to latest"
+    }
+  ]
+}
