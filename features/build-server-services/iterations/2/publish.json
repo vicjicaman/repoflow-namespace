@@ -1,0 +1,14 @@
+{
+  "modules": [
+    {
+      "moduleid": "repoflow-build-server",
+      "commitid": "aa09f34d661f80467708b574c00d193800462788",
+      "message": "Sync to iteration version"
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "commitid": "4b68a0f0b3b9e45bfba75c2cb491f0e18a769178",
+      "message": "Sync to iteration version"
+    }
+  ]
+}
