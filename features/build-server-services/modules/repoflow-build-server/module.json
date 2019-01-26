@@ -8,8 +8,8 @@
   "release": {
     "type": "patch"
   },
-  "repository": {
-    "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "commit": {
+    "message": "DEV_CHANGES",
     "commitid": "07574ded060ed21d658f4803aac34fea0b1a98a3"
   },
   "runtime": {

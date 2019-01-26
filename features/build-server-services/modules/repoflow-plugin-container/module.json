@@ -8,8 +8,8 @@
   "release": {
     "type": "patch"
   },
-  "repository": {
-    "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "commit": {
+    "message": "DEV_CHANGES",
     "commitid": "28a045affd64dc79223a2e6ff673a3e2e89ed11c"
   },
   "runtime": {
