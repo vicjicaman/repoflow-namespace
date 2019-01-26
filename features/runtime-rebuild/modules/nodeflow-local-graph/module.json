@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "1e4c2c328f72da9610cb97b51022c20c489ffa9a",
-    "message": "Add sync commit when pull a module"
+    "commitid": "d3b2b666fc7ed1038214e948ce9b671d0132e338",
+    "message": "Fix old repository reference"
   },
   "runtime": {
     "run": {
