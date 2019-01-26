@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "message": "DEV_CHANGES",
-    "commitid": "07574ded060ed21d658f4803aac34fea0b1a98a3"
+    "commitid": "07574ded060ed21d658f4803aac34fea0b1a98a3",
+    "message": "Merge readme changes"
   },
   "runtime": {
     "run": {
