@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "ffd311b03dd3a686041d808f58ae82986e4439b5",
-    "message": "Get commit info from summary"
+    "commitid": "27c6062f87f135cf3817c514ddd7e7b69a892fb3",
+    "message": "Rollback the commit source for pull update"
   },
   "runtime": {
     "run": {
