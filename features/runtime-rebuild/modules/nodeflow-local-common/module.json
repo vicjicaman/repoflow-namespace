@@ -2,7 +2,6 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-common",
-  "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "iteration": {
     "mode": "dev"
   },
@@ -10,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "message":"DEV_CHANGE",
-    "commitid": "6d0f6e69b9346b066ff7672a5eff3cc27760489c"
+    "commitid": "c19eb197a7f3afc096e20ac9bb447c6f443f7364",
+    "message": "Restructure module repository information"
   },
   "runtime": {
     "run": {
