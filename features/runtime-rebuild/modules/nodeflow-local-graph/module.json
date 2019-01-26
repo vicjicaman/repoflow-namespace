@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "a969e199cd5070565a33025a1f651a02a595b3ab",
-    "message": "ITERATION:4"
+    "commitid": "ff6f7b81c38b19bf9497d95663eb4291eafcf39d",
+    "message": "Fix pull issue"
   },
   "runtime": {
     "run": {
