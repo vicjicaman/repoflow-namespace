@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "ff6f7b81c38b19bf9497d95663eb4291eafcf39d",
-    "message": "Fix pull issue"
+    "commitid": "5461fbcac79d0e1e6f3d5fec1e4183ac772b6ae7",
+    "message": "Fix iteration process and refetch module pull"
   },
   "runtime": {
     "run": {
