@@ -1,0 +1,57 @@
+{
+  "status": "valid",
+  "modules": [
+    {
+      "moduleid": "repoflow-build-server",
+      "mode": "dev",
+      "version": "1.0.1-build-server-services-dev",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-build-server",
+      "url": "github.com:vicjicaman/repoflow-build-server.git",
+      "iterated": {
+        "commitid": "07574ded060ed21d658f4803aac34fea0b1a98a3",
+        "message": "Merge readme changes"
+      },
+      "release": true
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "mode": "dev",
+      "version": "1.0.0-build-server-services-dev",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-plugin-container",
+      "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+      "iterated": {
+        "commitid": "9c980c0625bc2b0bfedf3d25f1b77b635ac88348",
+        "message": "ITERATION:1"
+      },
+      "release": false
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "mode": "dev",
+      "version": "1.0.1-build-server-services-dev",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-plugin-npm",
+      "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+      "iterated": {
+        "commitid": "deda75b15a0cb61c1a5c20e20c61b6c00b826c1a",
+        "message": "Remove artifact code"
+      },
+      "release": true
+    },
+    {
+      "moduleid": "core-plugin-request",
+      "mode": "dev",
+      "version": "1.0.0-build-server-services-dev",
+      "type": "npm",
+      "fullname": "@nebulario/core-plugin-request",
+      "url": "github.com:vicjicaman/core-plugin-request.git",
+      "iterated": {
+        "commitid": "233d458a16fb8cdc89311e748c2ea8885dcecdb3",
+        "message": "ITERATION:1"
+      },
+      "release": false
+    }
+  ]
+}
