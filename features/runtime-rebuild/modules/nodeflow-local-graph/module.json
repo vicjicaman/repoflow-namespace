@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "27c6062f87f135cf3817c514ddd7e7b69a892fb3",
-    "message": "Rollback the commit source for pull update"
+    "commitid": "f4b44fe1bcbefd8e75dd0c7bd2b3751b8aeb8cf0",
+    "message": "Fix next iteration version calculation"
   },
   "runtime": {
     "run": {
