@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "3543dcda9deda6061a89a916ced1c55b2b03eacd",
-    "message": "Add log exception to push"
+    "commitid": "ffd311b03dd3a686041d808f58ae82986e4439b5",
+    "message": "Get commit info from summary"
   },
   "runtime": {
     "run": {
