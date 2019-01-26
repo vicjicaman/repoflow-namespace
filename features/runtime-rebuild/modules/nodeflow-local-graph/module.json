@@ -2,14 +2,15 @@
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-graph",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "iteration": {
     "mode": "dev"
   },
   "release": {
     "type": "patch"
   },
-  "repository": {
-    "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "commit": {
+    "message":"DEV_CHANGE",
     "commitid": "825aee27a8d08a2d9af35690904440b2fb8aa13e"
   },
   "runtime": {
