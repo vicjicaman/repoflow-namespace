@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "d3b2b666fc7ed1038214e948ce9b671d0132e338",
-    "message": "Fix old repository reference"
+    "commitid": "6893890cbd711de3edced5a8e44f6d2466c7486c",
+    "message": "Add missing comma"
   },
   "runtime": {
     "run": {
