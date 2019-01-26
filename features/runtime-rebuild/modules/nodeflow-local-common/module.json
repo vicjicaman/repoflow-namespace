@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "a2f4256bf8447be5d86f70c3ac722a2c052074eb",
-    "message": "Add sync commit when pull a module"
+    "commitid": "e0416379d3faa07de3a6d7433345cb744aa4123c",
+    "message": "Add pending publish message on iteration process"
   },
   "runtime": {
     "run": {
