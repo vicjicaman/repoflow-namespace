@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "commit": {
-    "commitid": "f4b44fe1bcbefd8e75dd0c7bd2b3751b8aeb8cf0",
-    "message": "Fix next iteration version calculation"
+    "commitid": "e0cc8b8c8dc745d855c76b4fb83a60a2fdba0756",
+    "message": "Fix pull cache issue"
   },
   "runtime": {
     "run": {

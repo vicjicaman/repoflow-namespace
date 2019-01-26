@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "commit": {
-    "commitid": "f88e841c5da1b64f270259605c46cf7d76053b37",
-    "message": "ITERATION:6"
+    "commitid": "a8176c70292f6ae34b805d8e1f5b5f4d2ec59e74",
+    "message": "ITERATION:7"
   },
   "runtime": {
     "run": {

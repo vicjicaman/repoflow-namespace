@@ -3,14 +3,14 @@
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "commit": {
-    "commitid": "d48e6f01bcaace7fbfaf906134aa670c4f9da21c",
-    "message": "ITERATION:6"
+    "commitid": "c53fb3fb24d3aa66c3955ac47dd2982ae9f6a869",
+    "message": "Fix pull cache issue"
   },
   "runtime": {
     "run": {
