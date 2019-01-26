@@ -2,7 +2,6 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-web",
-  "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "iteration": {
     "mode": "dev"
   },
@@ -10,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "message":"DEV_CHANGE",
-    "commitid": "6282fadfbfb0a5390f83233ef8c9a408918c5e87"
+    "commitid": "591403444bcd4da7820704fe9b32f9da214b3df3",
+    "message": "ITERATION:2"
   },
   "runtime": {
     "run": {
