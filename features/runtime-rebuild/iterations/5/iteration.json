@@ -1,0 +1,57 @@
+{
+  "status": "valid",
+  "modules": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "mode": "dev",
+      "version": "1.0.4-runtime-rebuild-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "url": "github.com:vicjicaman/nodeflow-local-server.git",
+      "iterated": {
+        "commitid": "db481ea63a700b26a40ae3648319c10c92899c74",
+        "message": "ITERATION:4"
+      },
+      "release": true
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "mode": "dev",
+      "version": "1.0.4-runtime-rebuild-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "url": "github.com:vicjicaman/nodeflow-local-web.git",
+      "iterated": {
+        "commitid": "5b4ac755678d812c4063644f0a156fb606b25b4a",
+        "message": "ITERATION:4"
+      },
+      "release": true
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "mode": "dev",
+      "version": "1.0.4-runtime-rebuild-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "url": "github.com:vicjicaman/nodeflow-local-common.git",
+      "iterated": {
+        "commitid": "ee806a8b0a53e87aa957480150f611eaaa2a6e20",
+        "message": "Fix iteration process and refetch module pull"
+      },
+      "release": true
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "mode": "dev",
+      "version": "1.0.4-runtime-rebuild-dev",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+      "iterated": {
+        "commitid": "5461fbcac79d0e1e6f3d5fec1e4183ac772b6ae7",
+        "message": "Fix iteration process and refetch module pull"
+      },
+      "release": true
+    }
+  ]
+}
