@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "c19eb197a7f3afc096e20ac9bb447c6f443f7364",
-    "message": "Restructure module repository information"
+    "commitid": "a2f4256bf8447be5d86f70c3ac722a2c052074eb",
+    "message": "Add sync commit when pull a module"
   },
   "runtime": {
     "run": {
