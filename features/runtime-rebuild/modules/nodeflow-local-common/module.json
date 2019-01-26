@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "e0416379d3faa07de3a6d7433345cb744aa4123c",
-    "message": "Add pending publish message on iteration process"
+    "commitid": "bd9254cb80d64df27e58bb70724fcb30e7f6d280",
+    "message": "Add diverged message to iteration process"
   },
   "runtime": {
     "run": {
