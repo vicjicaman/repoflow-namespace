@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "e0cc8b8c8dc745d855c76b4fb83a60a2fdba0756",
-    "message": "Fix pull cache issue"
+    "commitid": "59434552f615ff510d94f3797ca6ee5cf61281cc",
+    "message": "Ignore repository cache in all the mutations"
   },
   "runtime": {
     "run": {
