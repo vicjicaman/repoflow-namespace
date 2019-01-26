@@ -1,0 +1,24 @@
+{
+  "modules": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "commitid": "50ac896079e82a1a42b6280f43813659bc3debcf",
+      "message": "ITERATION:5"
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "commitid": "ff86ad74779a06a99d9b8ef29dffdeed507d3cac",
+      "message": "ITERATION:5"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "commitid": "d8c4040c532db3e0c76c9b621cf3a5361e9c53a8",
+      "message": "ITERATION:5"
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "commitid": "08c3b32f43a1520745087c22093b80c480518312",
+      "message": "ITERATION:5"
+    }
+  ]
+}
