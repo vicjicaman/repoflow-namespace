@@ -1,0 +1,34 @@
+{
+      "moduleid": "dll-redux",
+      "featureid": "hoist-dev-init",
+      "branchid": "hoist-dev-init/master",
+      "type": "npm",
+      "fullname": "@nebulario/dll-redux",
+      "url": "github.com:vicjicaman/dll-redux.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "1d75bfd64d86d79e35eab90d8fe6662ab274ce57"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "db89bbd80aba11c14d25aedcc865b6fdd16b9c11"
+      },
+      "dependencies": [
+        {
+          "moduleid": "dll-redux",
+          "fullname": "@nebulario/dll-redux",
+          "version": "1.10.1-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "5cbc0303985b1558bfbc3176f29daa7d905a8a8a",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    }
