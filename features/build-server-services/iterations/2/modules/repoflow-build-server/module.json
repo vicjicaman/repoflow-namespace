@@ -1,0 +1,13 @@
+{
+      "moduleid": "repoflow-build-server",
+      "mode": "dev",
+      "version": "1.0.1-build-server-services-dev",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-build-server",
+      "url": "github.com:vicjicaman/repoflow-build-server.git",
+      "iterated": {
+        "commitid": "07574ded060ed21d658f4803aac34fea0b1a98a3",
+        "message": "Merge readme changes"
+      },
+      "release": true
+    }

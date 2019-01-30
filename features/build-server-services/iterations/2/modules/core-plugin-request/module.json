@@ -1,0 +1,13 @@
+{
+      "moduleid": "core-plugin-request",
+      "mode": "dev",
+      "version": "1.0.0-build-server-services-dev",
+      "type": "npm",
+      "fullname": "@nebulario/core-plugin-request",
+      "url": "github.com:vicjicaman/core-plugin-request.git",
+      "iterated": {
+        "commitid": "233d458a16fb8cdc89311e748c2ea8885dcecdb3",
+        "message": "ITERATION:1"
+      },
+      "release": false
+    }

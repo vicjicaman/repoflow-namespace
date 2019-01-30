@@ -1,0 +1,13 @@
+{
+      "moduleid": "repoflow-plugin-container",
+      "mode": "dev",
+      "version": "1.0.0-build-server-services-dev",
+      "type": "npm",
+      "fullname": "@nebulario/repoflow-plugin-container",
+      "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+      "iterated": {
+        "commitid": "9c980c0625bc2b0bfedf3d25f1b77b635ac88348",
+        "message": "ITERATION:1"
+      },
+      "release": false
+    }
