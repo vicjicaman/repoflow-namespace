@@ -1,0 +1,34 @@
+{
+      "moduleid": "dll-vendor",
+      "featureid": "hoist-dev-init",
+      "branchid": "hoist-dev-init/master",
+      "type": "npm",
+      "fullname": "@nebulario/dll-vendor",
+      "url": "github.com:vicjicaman/dll-vendor.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.10.1-master",
+      "feature": {
+        "message": "RELEASE:hoist-dev-init\n",
+        "commitid": "5f14a64fdf6a0904c5a9ca69f3644b72158e2c98"
+      },
+      "baseline": {
+        "message": "RELEASE:local-ui-graph:1.0.0-master",
+        "commitid": "4f7e29c187b4acd72f0ce07d6ca7e60351e46413"
+      },
+      "dependencies": [
+        {
+          "moduleid": "dll-vendor",
+          "fullname": "@nebulario/dll-vendor",
+          "version": "1.10.1-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        }
+      ],
+      "released": {
+        "commitid": "9a4ca1389c197636a3f26ec00a588e2c240a15d2",
+        "message": "RELEASE:hoist-dev-init:1.10.1-master"
+      }
+    }

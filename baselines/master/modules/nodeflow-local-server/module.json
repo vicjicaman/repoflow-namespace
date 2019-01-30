@@ -1,0 +1,50 @@
+{
+      "moduleid": "nodeflow-local-server",
+      "featureid": "package-labels",
+      "branchid": "package-labels/master",
+      "type": "npm",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "url": "github.com:vicjicaman/nodeflow-local-server.git",
+      "release": {
+        "type": "patch"
+      },
+      "version": "1.10.2-master",
+      "feature": {
+        "message": "RELEASE:package-labels\n",
+        "commitid": "eefea60b8e4d0e2531f6b2e4c4c1bd6df2c37f35"
+      },
+      "baseline": {
+        "message": "RELEASE:hoist-dev-init:1.10.1-master",
+        "commitid": "eb0914ffb44be98a77f2411e9396cdfad0602e32"
+      },
+      "dependencies": [
+        {
+          "moduleid": "nodeflow-local-server",
+          "fullname": "@nebulario/nodeflow-local-server",
+          "version": "1.10.2-master",
+          "kind": "inner",
+          "filename": "package.json",
+          "path": "version"
+        },
+        {
+          "moduleid": "nodeflow-local-common",
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.10.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-common"
+        },
+        {
+          "moduleid": "nodeflow-local-web",
+          "fullname": "@nebulario/nodeflow-local-web",
+          "version": "1.10.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-web"
+        }
+      ],
+      "released": {
+        "commitid": "59cee01f51edd73bb53eee90eced6c90c7603299",
+        "message": "RELEASE:package-labels:1.10.2-master"
+      }
+    }
