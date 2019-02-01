@@ -8,7 +8,7 @@
       "release": {
         "type": "patch"
       },
-      "version": "1.10.1-master",
+      "version": "1.11.1-master",
       "feature": {
         "message": "RELEASE:hoist-dev-init\n",
         "commitid": "5f14a64fdf6a0904c5a9ca69f3644b72158e2c98"

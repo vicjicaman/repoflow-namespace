@@ -5,9 +5,7 @@
       "type": "npm",
       "fullname": "@nebulario/repoflow-plugin-npm",
       "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
-      "release": {
-        "type": "patch"
-      },
+      "release":"patch",
       "version": "1.0.1-master",
       "feature": {
         "message": "RELEASE:plugin-request\n",
