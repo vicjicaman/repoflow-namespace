@@ -1,7 +1,7 @@
 {
   "labelid": "check",
-  "type": "info",
-  "created": 1549505133,
-  "updated": 1549505133,
+  "type": "danger",
+  "created": 1549505141,
+  "updated": 1549505141,
   "status": "active"
 }
