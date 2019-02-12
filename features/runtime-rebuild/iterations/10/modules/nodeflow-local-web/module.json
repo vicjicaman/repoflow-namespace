@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.0.9-runtime-rebuild-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "eef908a64251896ce0a47f5549ad956cd7654ed5",
+    "message": "Add runtime build configuration\n"
+  },
+  "mergeback": null,
+  "releasedOn": 10,
+  "created": 1549986462,
+  "updated": 1549986462,
+  "status": "active"
+}
