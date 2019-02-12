@@ -1,0 +1,17 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "version": "1.0.8-runtime-rebuild-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "16f551f46497f55b1c626804c8434d64a3f8e7b3",
+    "message": "Refetch next iteration on repository changes\n"
+  },
+  "mergeback": null,
+  "releasedOn": 10,
+  "created": 1549985367,
+  "updated": 1549985367,
+  "status": "active"
+}

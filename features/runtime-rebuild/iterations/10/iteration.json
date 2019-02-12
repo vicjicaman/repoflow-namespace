@@ -1,0 +1,35 @@
+{
+  "iterationid": 10,
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.0.9-runtime-rebuild-dev",
+      "iterationid": 10
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "version": "1.0.9-runtime-rebuild-prod",
+      "iterationid": 10
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.0.8-runtime-rebuild-prod",
+      "iterationid": 10
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "version": "1.0.8-runtime-rebuild-prod",
+      "iterationid": 10
+    }
+  ],
+  "created": 1549985367,
+  "updated": 1549985367,
+  "status": "active"
+}
