@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "c531119d97c6ff85afb56c9d2278b0e6e9ead499",
-    "message": "Merge remote-tracking branch 'origin/runtime-rebuild/master' into runtime-rebuild/master\n"
+    "commitid": "5e011c6c494035dbf0f06f7567f21421039f82f7",
+    "message": "test\n"
   },
   "runtime": {
     "run": {
