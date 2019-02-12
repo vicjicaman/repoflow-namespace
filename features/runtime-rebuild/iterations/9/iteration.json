@@ -1,4 +1,17 @@
 {
   "status": "valid",
-  "hierarchy": ["nodeflow-local-server", "nodeflow-local-web", "nodeflow-local-common", "nodeflow-local-graph"]
+  "hierarchy": ["nodeflow-local-server", "nodeflow-local-web", "nodeflow-local-common", "nodeflow-local-graph"],
+  "latest": [{"moduleid": "nodeflow-local-server", "iterationid": 9, "version": "1.0.7-runtime-rebuild-prod"},
+
+{"moduleid": "nodeflow-local-web", "iterationid": 9, "version": "1.0.7-runtime-rebuild-prod"}
+
+ ,
+
+{"moduleid": "nodeflow-local-common", "iterationid": 9, "version": "1.0.7-runtime-rebuild-prod"}
+
+ , 
+
+{"moduleid": "nodeflow-local-graph", "iterationid": 9, "version": "1.0.7-runtime-rebuild-prod"}
+
+]
 }
