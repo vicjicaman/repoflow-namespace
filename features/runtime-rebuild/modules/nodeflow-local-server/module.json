@@ -3,7 +3,7 @@
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "prod"
+    "mode": "dev"
   },
   "release": {
     "type": "patch"
