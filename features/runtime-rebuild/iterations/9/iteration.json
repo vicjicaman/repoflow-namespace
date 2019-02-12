@@ -1,3 +1,4 @@
 {
-  "status": "valid"
+  "status": "valid",
+  "hierarchy": ["nodeflow-local-server", "nodeflow-local-web", "nodeflow-local-common", "nodeflow-local-graph"]
 }
