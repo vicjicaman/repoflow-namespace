@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "eac59ae8e289c5287bb72b6f6097fc1a5ba6da06",
-    "message": "ITERATION:10\n"
+    "commitid": "6d7570329e8d237f42d13705bff4b2a3e3c7916c",
+    "message": "Fix iteration releasing issue with UI and Model\n"
   },
   "runtime": {
     "run": {

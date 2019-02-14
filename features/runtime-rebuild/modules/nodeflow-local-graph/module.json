@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "1481d64854cb4f508efc955dc2c7690d3efaa4b9",
-    "message": "-\n"
+    "commitid": "0baf44469ef81110fdb1ce9d8d0a2177d68903ea",
+    "message": "Merge branch 'runtime-rebuild/master' of github.com:vicjicaman/nodeflow-local-graph into runtime-rebuild/master\n"
   },
   "runtime": {
     "run": {
