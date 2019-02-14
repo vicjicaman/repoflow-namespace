@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.0.9-runtime-rebuild-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6d7570329e8d237f42d13705bff4b2a3e3c7916c",
+    "message": "Fix iteration releasing issue with UI and Model\n"
+  },
+  "mergeback": null,
+  "releasedOn": 12,
+  "created": 1550158186,
+  "updated": 1550158186,
+  "status": "active"
+}
