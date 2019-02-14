@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.0.10-runtime-rebuild-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "fd8949a111f22f5fbe5935fc6c87a503987caa81",
+    "message": "Merge remote-tracking branch 'origin/runtime-rebuild/master' into runtime-rebuild/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 14,
+  "created": 1550176585,
+  "updated": 1550176585,
+  "status": "active"
+}
