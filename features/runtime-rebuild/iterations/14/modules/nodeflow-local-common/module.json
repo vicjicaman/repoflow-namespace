@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-common",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f518298418487edc4e54acdd885b8d0dc9aa23e9",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "fd8949a111f22f5fbe5935fc6c87a503987caa81",
     "message": "Merge remote-tracking branch 'origin/runtime-rebuild/master' into runtime-rebuild/master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "aeafaa441e8b10d0f6fc0007b02372a79d3da55e",
+    "message": "ITERATION:14\n"
+  },
   "releasedOn": 14,
   "created": 1550176585,
   "updated": 1550176585,
