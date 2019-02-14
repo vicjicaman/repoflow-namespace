@@ -1,6 +1,6 @@
 {
   "iterationid": 12,
-  "phase": "releasing",
+  "phase": "iterated",
   "hierarchy": [
     "nodeflow-local-server",
     "nodeflow-local-web",
