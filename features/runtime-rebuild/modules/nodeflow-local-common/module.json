@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "c2bba314e38aa074b68ae6a9433bbb41b5ff181e",
-    "message": "Merge remote-tracking branch 'origin/runtime-rebuild/master' into runtime-rebuild/master\n"
+    "commitid": "b693927aa957ef99b712d9ed9f6f10f95b132e30",
+    "message": "Change size of text area\n"
   },
   "runtime": {
     "run": {
