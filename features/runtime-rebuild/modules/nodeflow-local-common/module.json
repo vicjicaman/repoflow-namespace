@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "b693927aa957ef99b712d9ed9f6f10f95b132e30",
-    "message": "Change size of text area\n"
+    "commitid": "bb509bbac4fad64e2b10ce323313f2508dd8bef1",
+    "message": "Fix issue with baseline module fragment\n"
   },
   "runtime": {
     "run": {
