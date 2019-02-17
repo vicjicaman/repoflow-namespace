@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "8c3af5282ff81210faa125458376fdebc1c74876",
-    "message": "Change size of text area\n"
+    "commitid": "240e5f1fb005eec3758ac95209e823af1fc5a5d1",
+    "message": "Fix identation\n"
   },
   "runtime": {
     "run": {
