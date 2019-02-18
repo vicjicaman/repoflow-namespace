@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "bb509bbac4fad64e2b10ce323313f2508dd8bef1",
-    "message": "Fix issue with baseline module fragment\n"
+    "commitid": "592039ce91991fd27cfcb05424e495b0ad751e8c",
+    "message": "Get repository queries on runtime configure\n"
   },
   "runtime": {
     "run": {
