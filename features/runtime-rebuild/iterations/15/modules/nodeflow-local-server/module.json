@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.0.14-runtime-rebuild-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b2ea7ea535b9ccc89ee3ecbf2f55d375d6e6498c",
+    "message": "Increase rebuild rate\n"
+  },
+  "mergeback": null,
+  "releasedOn": 15,
+  "created": 1550539859,
+  "updated": 1550539859,
+  "status": "active"
+}
