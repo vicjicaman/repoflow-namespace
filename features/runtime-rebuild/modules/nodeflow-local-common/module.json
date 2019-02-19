@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "230bc9a0d4573c3376c531a759d7605747d9222d",
-    "message": "Refactor cache and add cache to hierachy\n"
+    "commitid": "8d533da4f947c9296ae48e9351c008eb67ab5cd0",
+    "message": "Add ping instead of direct hash call\n"
   },
   "runtime": {
     "run": {
