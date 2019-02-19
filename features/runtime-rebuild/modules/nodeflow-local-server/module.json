@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "b2ea7ea535b9ccc89ee3ecbf2f55d375d6e6498c",
-    "message": "Increase rebuild rate\n"
+    "commitid": "36fc19439522346739493bb806ec1ff600c8884f",
+    "message": "Fix form field for all actions\n"
   },
   "runtime": {
     "run": {
