@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.0.14-runtime-rebuild-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0968d128f2d245a8e8a68cd7f3ce75c0a18d5c8f",
+    "message": "Fix form field for all actions\n"
+  },
+  "mergeback": null,
+  "releasedOn": 16,
+  "created": 1550617225,
+  "updated": 1550617225,
+  "status": "active"
+}

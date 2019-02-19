@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.0.12-runtime-rebuild-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6adbf571a35f6815f8ce783a372b1f89faefbaf9",
+    "message": "Fix form remount for dot env runtime\n"
+  },
+  "mergeback": null,
+  "releasedOn": 16,
+  "created": 1550617225,
+  "updated": 1550617225,
+  "status": "active"
+}
