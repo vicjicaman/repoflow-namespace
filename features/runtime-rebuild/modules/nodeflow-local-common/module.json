@@ -9,8 +9,8 @@
     "type": "patch"
   },
   "commit": {
-    "commitid": "592039ce91991fd27cfcb05424e495b0ad751e8c",
-    "message": "Get repository queries on runtime configure\n"
+    "commitid": "230bc9a0d4573c3376c531a759d7605747d9222d",
+    "message": "Refactor cache and add cache to hierachy\n"
   },
   "runtime": {
     "run": {
