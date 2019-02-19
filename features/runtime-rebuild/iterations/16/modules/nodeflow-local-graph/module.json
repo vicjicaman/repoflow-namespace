@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "ac14f47fc4f80a6b8ce3821e9ca164efd6beb4e5",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "df6b6dc842da3d2fc82b4b44ad1a5ca427889ecf",
     "message": "Remove .env file\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "93c54771b0602fc7c6671a14e7fdbccd30145be6",
+    "message": "ITERATION:16\n"
+  },
   "releasedOn": 16,
   "created": 1550617225,
   "updated": 1550617225,

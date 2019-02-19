@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-common",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "46938fd49aaf8c407a984b5f38bad6acb3e72cb3",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "6adbf571a35f6815f8ce783a372b1f89faefbaf9",
     "message": "Fix form remount for dot env runtime\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "932ef7133f31af345690f1d5539764ddd6ddd7b2",
+    "message": "ITERATION:16\n"
+  },
   "releasedOn": 16,
   "created": 1550617225,
   "updated": 1550617225,
