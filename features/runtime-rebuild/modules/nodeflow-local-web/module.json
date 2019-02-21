@@ -6,11 +6,11 @@
     "mode": "prod"
   },
   "release": {
-    "type": "minor"
+    "type": "patch"
   },
   "commit": {
-    "commitid": "eb5a592465f554eb33eae560afdb7abce5f0ec97",
-    "message": "ITERATION:16\n"
+    "commitid": "fde5ee31c32e703673a834d4cb1d091112b36b66",
+    "message": "ITERATION:17\n"
   },
   "runtime": {
     "run": {
