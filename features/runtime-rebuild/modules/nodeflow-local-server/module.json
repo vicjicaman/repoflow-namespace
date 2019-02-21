@@ -2,7 +2,9 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-server",
-  "iteration": {},
+  "iteration": {
+    "mode": "prod"
+  },
   "release": {
     "type": "major"
   },
