@@ -1,0 +1,10 @@
+{
+  "releaseid": "web-integration",
+  "phase": "released",
+  "hierarchy": [
+    "nodeflow-local-web"
+  ],
+  "created": 1550619711,
+  "updated": 1550619711,
+  "status": "active"
+}

@@ -1,6 +1,6 @@
 {
       "moduleid": "nodeflow-local-web",
-      "featureid": "package-labels",
+      "releaseid": "package-labels",
       "branchid": "package-labels/master",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-web",
