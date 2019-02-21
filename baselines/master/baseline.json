@@ -1,4 +1,5 @@
 {
   "status": "active",
-  "description": "Live production baseline\n[Only features from stage/hot fix features]"
+  "description": "Live production baseline\n[Only features from stage/hot fix features]",
+  "releases" :[{"releaseid":"web-integration"}, {"releaseid":"initial-graph"}, {"releaseid":"core-pkg"}]
 }
