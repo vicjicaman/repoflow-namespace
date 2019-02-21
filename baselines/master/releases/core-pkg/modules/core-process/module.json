@@ -1,5 +1,6 @@
 {
   "moduleid": "core-process",
+  "releaseid": "core-pkg",
   "version": "1.40.0-master",
   "fullname": "@nebulario/core-process",
   "type": "npm",

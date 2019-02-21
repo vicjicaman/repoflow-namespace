@@ -1,5 +1,6 @@
 {
   "moduleid": "nodeflow-local-graph",
+  "releaseid": "initial-graph",
   "version": "1.40.0-master",
   "fullname": "@nebulario/nodeflow-local-graph",
   "type": "npm",
