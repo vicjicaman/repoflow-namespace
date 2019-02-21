@@ -2,11 +2,9 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-server",
-  "iteration": {
-    "mode": "prod"
-  },
+  "iteration": {},
   "release": {
-    "type": "patch"
+    "type": "major"
   },
   "commit": {
     "commitid": "0a7580e8e4b8ec4c58ad7136166057983ad1308c",
