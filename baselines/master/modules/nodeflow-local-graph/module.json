@@ -1,6 +1,6 @@
 {
       "moduleid": "nodeflow-local-graph",
-      "featureid": "package-labels",
+      "featureid": "initial-graph",
       "branchid": "package-labels/master",
       "type": "npm",
       "fullname": "@nebulario/nodeflow-local-graph",
