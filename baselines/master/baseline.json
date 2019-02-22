@@ -1,5 +1,18 @@
 {
   "status": "active",
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
-  "releases" :[{"releaseid":"web-integration"}, {"releaseid":"initial-graph"}, {"releaseid":"core-pkg"}]
+  "releases": [
+    {
+      "releaseid": "runtime-rebuild"
+    },
+    {
+      "releaseid": "web-integration"
+    },
+    {
+      "releaseid": "initial-graph"
+    },
+    {
+      "releaseid": "core-pkg"
+    }
+  ]
 }

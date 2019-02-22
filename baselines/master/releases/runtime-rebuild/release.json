@@ -1,0 +1,13 @@
+{
+  "releaseid": "runtime-rebuild",
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1550802918,
+  "updated": 1550802918,
+  "status": "active"
+}
