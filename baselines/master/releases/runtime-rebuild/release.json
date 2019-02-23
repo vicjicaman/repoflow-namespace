@@ -1,6 +1,6 @@
 {
   "releaseid": "runtime-rebuild",
-  "phase": "releasing",
+  "phase": "invalid",
   "hierarchy": [
     "nodeflow-local-server",
     "nodeflow-local-web",
