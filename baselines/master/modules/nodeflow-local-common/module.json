@@ -8,7 +8,7 @@
   "release": {
     "type": "patch"
   },
-  "version": "1.0.0-master",
+  "version": "1.50.0-master",
   "feature": {
     "message": "RELEASE:package-labels\n",
     "commitid": "0cdcfa414c39e048fd4829c9dda2323d1be84ee1"

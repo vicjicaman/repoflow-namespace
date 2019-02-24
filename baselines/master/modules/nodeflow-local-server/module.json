@@ -8,7 +8,7 @@
   "release": {
     "type": "patch"
   },
-  "version": "1.0.0-master",
+  "version": "1.50.0-master",
   "feature": {
     "message": "RELEASE:package-labels\n",
     "commitid": "eefea60b8e4d0e2531f6b2e4c4c1bd6df2c37f35"
@@ -21,7 +21,7 @@
     {
       "moduleid": "nodeflow-local-server",
       "fullname": "@nebulario/nodeflow-local-server",
-      "version": "1.0.0-master",
+      "version": "1.50.0-master",
       "kind": "inner",
       "filename": "package.json",
       "path": "version"
