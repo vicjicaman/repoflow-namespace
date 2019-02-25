@@ -4,12 +4,16 @@
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "created": 1551046217,
   "updated": 1551046217,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "45b73a66a6de4b13d1a383ebcead9c6d5b03d8ef",
+    "message": "Merge remote-tracking branch 'origin/runtime-rebuild/master' into license-layout/master\n"
+  }
 }
