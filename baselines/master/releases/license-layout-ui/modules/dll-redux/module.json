@@ -1,0 +1,17 @@
+{
+  "releaseid": "license-layout-ui",
+  "moduleid": "dll-redux",
+  "version": "1.55.0-master",
+  "fullname": "@nebulario/dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-redux.git",
+  "publish": null,
+  "released": {
+    "commitid": "4697fb607f0d02b5b398075ee1187537cec3ccc1",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "created": 1551136172,
+  "updated": 1551136172,
+  "status": "active"
+}

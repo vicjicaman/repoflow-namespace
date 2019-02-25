@@ -1,0 +1,17 @@
+{
+  "releaseid": "license-layout-ui",
+  "moduleid": "dll-react",
+  "version": "1.55.0-master",
+  "fullname": "@nebulario/dll-react",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-react.git",
+  "publish": null,
+  "released": {
+    "commitid": "131e233c9e908fdccb08bdc0dc579c3c63bc1a58",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "created": 1551136172,
+  "updated": 1551136172,
+  "status": "active"
+}

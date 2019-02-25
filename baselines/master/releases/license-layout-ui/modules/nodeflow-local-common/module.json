@@ -1,0 +1,17 @@
+{
+  "releaseid": "license-layout-ui",
+  "moduleid": "nodeflow-local-common",
+  "version": "1.51.1-master",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "released": {
+    "commitid": "302a40b075ef3e9c9921436e35ada3c70c0e391e",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "created": 1551136172,
+  "updated": 1551136172,
+  "status": "active"
+}

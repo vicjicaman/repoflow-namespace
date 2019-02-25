@@ -1,0 +1,17 @@
+{
+  "releaseid": "license-layout-ui",
+  "moduleid": "nodeflow-local-server",
+  "version": "1.51.1-master",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "85310dfa71e056799d48ceaec2ee82fef678819b",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "created": 1551136172,
+  "updated": 1551136172,
+  "status": "active"
+}
