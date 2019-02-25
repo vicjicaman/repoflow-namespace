@@ -1,7 +1,7 @@
 {
   "releaseid": "runtime-rebuild",
   "moduleid": "nodeflow-local-common",
-  "version": "1.0.0-master",
+  "version": "1.51.0-master",
   "fullname": "@nebulario/nodeflow-local-common",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
