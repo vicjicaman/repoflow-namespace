@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-react",
+  "mode": "prod",
+  "version": "1.0.0-license-layout-ui-prod",
+  "fullname": "@nebulario/dll-react",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-react.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "da743d26c7015d0d95664c6c260ad7d3e2bfb5a8",
+    "message": "Change react version to 16.4.0\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1551110851,
+  "updated": 1551110851,
+  "status": "active"
+}

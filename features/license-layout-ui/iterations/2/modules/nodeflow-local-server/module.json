@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.0.0-license-layout-ui-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "702398f80551dc24f91e625063341a4b3b63696a",
+    "message": "Merge remote-tracking branch 'origin/runtime-rebuild/master' into license-layout-ui/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1551110851,
+  "updated": 1551110851,
+  "status": "active"
+}

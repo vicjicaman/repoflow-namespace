@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-apollo",
+  "mode": "prod",
+  "version": "1.0.0-license-layout-ui-prod",
+  "fullname": "@nebulario/dll-apollo",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-apollo.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "87ce9eae51a49f8aab6ab53a24742034792f877e",
+    "message": "Change react version to 16.4.0\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1551110851,
+  "updated": 1551110851,
+  "status": "active"
+}

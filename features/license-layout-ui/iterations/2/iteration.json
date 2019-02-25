@@ -1,0 +1,77 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "dll-apollo",
+    "dll-react",
+    "dll-redux",
+    "nodeflow-local-common"
+  ],
+  "latest": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.0.0-license-layout-ui-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "version": "1.0.0-license-layout-ui-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "dll-apollo",
+      "version": "1.0.0-license-layout-ui-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "dll-react",
+      "version": "1.0.0-license-layout-ui-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "dll-redux",
+      "version": "1.0.0-license-layout-ui-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.0.0-license-layout-ui-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "iterationid": 2,
+      "version": "1.0.0-license-layout-ui-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "iterationid": 2,
+      "version": "1.0.0-license-layout-ui-prod"
+    },
+    {
+      "moduleid": "dll-apollo",
+      "iterationid": 2,
+      "version": "1.0.0-license-layout-ui-prod"
+    },
+    {
+      "moduleid": "dll-react",
+      "iterationid": 2,
+      "version": "1.0.0-license-layout-ui-prod"
+    },
+    {
+      "moduleid": "dll-redux",
+      "iterationid": 2,
+      "version": "1.0.0-license-layout-ui-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "iterationid": 2,
+      "version": "1.0.0-license-layout-ui-prod"
+    }
+  ],
+  "created": 1551110851,
+  "updated": 1551110851,
+  "status": "active"
+}
