@@ -12,36 +12,6 @@
   "latest": [
     {
       "moduleid": "nodeflow-local-server",
-      "version": "1.0.0-license-layout-ui-prod",
-      "iterationid": 1
-    },
-    {
-      "moduleid": "nodeflow-local-web",
-      "version": "1.0.0-license-layout-ui-prod",
-      "iterationid": 1
-    },
-    {
-      "moduleid": "dll-apollo",
-      "version": "1.0.0-license-layout-ui-prod",
-      "iterationid": 1
-    },
-    {
-      "moduleid": "dll-react",
-      "version": "1.0.0-license-layout-ui-prod",
-      "iterationid": 1
-    },
-    {
-      "moduleid": "dll-redux",
-      "version": "1.0.0-license-layout-ui-prod",
-      "iterationid": 1
-    },
-    {
-      "moduleid": "nodeflow-local-common",
-      "version": "1.0.0-license-layout-ui-prod",
-      "iterationid": 1
-    },
-    {
-      "moduleid": "nodeflow-local-server",
       "iterationid": 2,
       "version": "1.0.0-license-layout-ui-prod"
     },
