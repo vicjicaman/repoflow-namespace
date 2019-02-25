@@ -4,12 +4,16 @@
   "url": "github.com:vicjicaman/dll-redux.git",
   "fullname": "@nebulario/dll-redux",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "created": 1551067537,
   "updated": 1551067537,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "79ed86bce7fc3c5beb67396c8f43ad0824383901",
+    "message": "Change react version to 16.4.0\n"
+  }
 }

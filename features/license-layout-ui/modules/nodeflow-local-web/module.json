@@ -4,12 +4,16 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "created": 1551065400,
   "updated": 1551065400,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "203b67c45556eb413d2c33a4a5ba9bf02f1c6552",
+    "message": "Merge remote-tracking branch 'origin/runtime-rebuild/master' into license-layout-ui/master\n"
+  }
 }

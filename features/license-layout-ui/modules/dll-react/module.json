@@ -4,12 +4,16 @@
   "url": "github.com:vicjicaman/dll-react.git",
   "fullname": "@nebulario/dll-react",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "created": 1551067531,
   "updated": 1551067531,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "da743d26c7015d0d95664c6c260ad7d3e2bfb5a8",
+    "message": "Change react version to 16.4.0\n"
+  }
 }

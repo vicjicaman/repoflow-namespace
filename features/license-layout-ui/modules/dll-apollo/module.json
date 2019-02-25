@@ -4,12 +4,16 @@
   "url": "github.com:vicjicaman/dll-apollo.git",
   "fullname": "@nebulario/dll-apollo",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
   "created": 1551067544,
   "updated": 1551067544,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "87ce9eae51a49f8aab6ab53a24742034792f877e",
+    "message": "Change react version to 16.4.0\n"
+  }
 }
