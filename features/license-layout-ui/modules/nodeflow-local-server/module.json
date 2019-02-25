@@ -1,0 +1,15 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "created": 1551063483,
+  "updated": 1551063483,
+  "status": "active"
+}
