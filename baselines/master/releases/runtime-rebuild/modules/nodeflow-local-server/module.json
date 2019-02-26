@@ -1,0 +1,17 @@
+{
+  "releaseid": "runtime-rebuild",
+  "moduleid": "nodeflow-local-server",
+  "version": "1.0.0-master",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "39479e6c762ab6b05e03c20e1e60b8a7c9fb7d81",
+    "message": "ITERATION:17\n"
+  },
+  "mergeback": null,
+  "created": 1550802918,
+  "updated": 1550802918,
+  "status": "active"
+}

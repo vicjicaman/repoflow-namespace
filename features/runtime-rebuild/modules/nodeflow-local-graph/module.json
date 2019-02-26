@@ -6,11 +6,11 @@
     "mode": "prod"
   },
   "release": {
-    "type": "patch"
+    "type": "minor"
   },
   "commit": {
-    "commitid": "716d39f1085359d084e77c23a724626776bd5528",
-    "message": "Merge remote-tracking branch 'origin/runtime-rebuild/master' into runtime-rebuild/master\n"
+    "commitid": "b3920e86e841f260a0c13970d2f95e3e441e595e",
+    "message": "ITERATION:17\n"
   },
   "runtime": {
     "run": {

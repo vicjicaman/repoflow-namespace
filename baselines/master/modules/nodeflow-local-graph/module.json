@@ -1,34 +1,34 @@
 {
+  "moduleid": "nodeflow-local-graph",
+  "releaseid": "runtime-rebuild",
+  "branchid": "package-labels/master",
+  "type": "npm",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.41.0-master",
+  "feature": {
+    "message": "RELEASE:package-labels\n",
+    "commitid": "0c818503351cd2b632825097ce766a5102566a50"
+  },
+  "baseline": {
+    "message": "RELEASE:hoist-dev-init:1.10.1-master",
+    "commitid": "958a14ab6335b17257c32ada14669eec3b9f1b54"
+  },
+  "dependencies": [
+    {
       "moduleid": "nodeflow-local-graph",
-      "featureid": "package-labels",
-      "branchid": "package-labels/master",
-      "type": "npm",
       "fullname": "@nebulario/nodeflow-local-graph",
-      "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-      "release": {
-        "type": "patch"
-      },
-      "version": "1.10.2-master",
-      "feature": {
-        "message": "RELEASE:package-labels\n",
-        "commitid": "0c818503351cd2b632825097ce766a5102566a50"
-      },
-      "baseline": {
-        "message": "RELEASE:hoist-dev-init:1.10.1-master",
-        "commitid": "958a14ab6335b17257c32ada14669eec3b9f1b54"
-      },
-      "dependencies": [
-        {
-          "moduleid": "nodeflow-local-graph",
-          "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.10.2-master",
-          "kind": "inner",
-          "filename": "package.json",
-          "path": "version"
-        }
-      ],
-      "released": {
-        "commitid": "542d5b99d24c4ec8792a2c8b158fedb54dc9af10",
-        "message": "RELEASE:package-labels:1.10.2-master"
-      }
+      "version": "1.41.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
     }
+  ],
+  "released": {
+    "commitid": "542d5b99d24c4ec8792a2c8b158fedb54dc9af10",
+    "message": "RELEASE:package-labels:1.10.2-master"
+  }
+}
