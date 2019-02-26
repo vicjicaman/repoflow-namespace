@@ -8,7 +8,7 @@
   "release": {
     "type": "patch"
   },
-  "version": "1.50.0-master",
+  "version": "1.51.1-master",
   "feature": {
     "message": "RELEASE:package-labels\n",
     "commitid": "0cdcfa414c39e048fd4829c9dda2323d1be84ee1"
@@ -21,7 +21,7 @@
     {
       "moduleid": "nodeflow-local-common",
       "fullname": "@nebulario/nodeflow-local-common",
-      "version": "1.0.0-master",
+      "version": "1.51.1-master",
       "kind": "inner",
       "filename": "package.json",
       "path": "version"
@@ -31,5 +31,5 @@
     "commitid": "bb149f005961d1056efcc238bbdf809d718d8aa8",
     "message": "RELEASE:package-labels:1.10.2-master"
   },
-  "releaseid": "runtime-rebuild"
+  "releaseid": "license-layout-ui"
 }

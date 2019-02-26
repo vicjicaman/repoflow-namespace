@@ -1,34 +1,35 @@
 {
+  "moduleid": "dll-react",
+  "featureid": "hoist-dev-init",
+  "branchid": "hoist-dev-init/master",
+  "type": "npm",
+  "fullname": "@nebulario/dll-react",
+  "url": "github.com:vicjicaman/dll-react.git",
+  "release": {
+    "type": "patch"
+  },
+  "version": "1.55.0-master",
+  "feature": {
+    "message": "RELEASE:hoist-dev-init\n",
+    "commitid": "8c900e3fe75f20f01b6af4aa3f46b902a76fc418"
+  },
+  "baseline": {
+    "message": "RELEASE:local-ui-graph:1.0.0-master",
+    "commitid": "fd75282af79b02bfa1d169c20a84631009551537"
+  },
+  "dependencies": [
+    {
       "moduleid": "dll-react",
-      "featureid": "hoist-dev-init",
-      "branchid": "hoist-dev-init/master",
-      "type": "npm",
       "fullname": "@nebulario/dll-react",
-      "url": "github.com:vicjicaman/dll-react.git",
-      "release": {
-        "type": "patch"
-      },
-      "version": "1.10.1-master",
-      "feature": {
-        "message": "RELEASE:hoist-dev-init\n",
-        "commitid": "8c900e3fe75f20f01b6af4aa3f46b902a76fc418"
-      },
-      "baseline": {
-        "message": "RELEASE:local-ui-graph:1.0.0-master",
-        "commitid": "fd75282af79b02bfa1d169c20a84631009551537"
-      },
-      "dependencies": [
-        {
-          "moduleid": "dll-react",
-          "fullname": "@nebulario/dll-react",
-          "version": "1.10.1-master",
-          "kind": "inner",
-          "filename": "package.json",
-          "path": "version"
-        }
-      ],
-      "released": {
-        "commitid": "a0ea1aa77775a8f42ef66206eed1a756daf1426b",
-        "message": "RELEASE:hoist-dev-init:1.10.1-master"
-      }
+      "version": "1.55.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
     }
+  ],
+  "released": {
+    "commitid": "a0ea1aa77775a8f42ef66206eed1a756daf1426b",
+    "message": "RELEASE:hoist-dev-init:1.10.1-master"
+  },
+  "releaseid": "license-layout-ui"
+}

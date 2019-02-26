@@ -8,7 +8,7 @@
   "release": {
     "type": "patch"
   },
-  "version": "1.50.0-master",
+  "version": "1.51.1-master",
   "feature": {
     "message": "RELEASE:package-labels\n",
     "commitid": "eefea60b8e4d0e2531f6b2e4c4c1bd6df2c37f35"
@@ -21,15 +21,39 @@
     {
       "moduleid": "nodeflow-local-server",
       "fullname": "@nebulario/nodeflow-local-server",
-      "version": "1.50.0-master",
+      "version": "1.51.1-master",
       "kind": "inner",
       "filename": "package.json",
       "path": "version"
     },
     {
+      "moduleid": "dll-apollo",
+      "fullname": "@nebulario/dll-apollo",
+      "version": "1.55.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-apollo"
+    },
+    {
+      "moduleid": "dll-react",
+      "fullname": "@nebulario/dll-react",
+      "version": "1.55.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-react"
+    },
+    {
+      "moduleid": "dll-redux",
+      "fullname": "@nebulario/dll-redux",
+      "version": "1.55.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-redux"
+    },
+    {
       "moduleid": "nodeflow-local-common",
       "fullname": "@nebulario/nodeflow-local-common",
-      "version": "1.0.0-master",
+      "version": "1.51.1-master",
       "kind": "dependency",
       "filename": "package.json",
       "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -37,7 +61,7 @@
     {
       "moduleid": "nodeflow-local-web",
       "fullname": "@nebulario/nodeflow-local-web",
-      "version": "1.0.0-master",
+      "version": "1.51.1-master",
       "kind": "dependency",
       "filename": "package.json",
       "path": "dependencies.@nebulario/nodeflow-local-web"
@@ -47,5 +71,5 @@
     "commitid": "59cee01f51edd73bb53eee90eced6c90c7603299",
     "message": "RELEASE:package-labels:1.10.2-master"
   },
-  "releaseid": "runtime-rebuild"
+  "releaseid": "license-layout-ui"
 }

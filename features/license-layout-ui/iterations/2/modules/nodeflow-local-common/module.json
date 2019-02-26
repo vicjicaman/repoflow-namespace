@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.0.0-license-layout-ui-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": {
+    "commitid": "81a1d7582a8a4fdaa6f323fa9a63c100e781d524",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "60a493dee04ceaf387f22db1ad02a4c5bdd1012e",
+    "message": "Change react version to 16.4.0\n"
+  },
+  "mergeback": {
+    "commitid": "302a40b075ef3e9c9921436e35ada3c70c0e391e",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1551110852,
+  "updated": 1551110852,
+  "status": "active"
+}

@@ -1,0 +1,19 @@
+{
+  "moduleid": "dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-redux.git",
+  "fullname": "@nebulario/dll-redux",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "created": 1551067537,
+  "updated": 1551067537,
+  "status": "active",
+  "commit": {
+    "commitid": "4697fb607f0d02b5b398075ee1187537cec3ccc1",
+    "message": "ITERATION:2\n"
+  }
+}
