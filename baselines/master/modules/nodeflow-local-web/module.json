@@ -1,6 +1,6 @@
 {
   "moduleid": "nodeflow-local-web",
-  "releaseid": "runtime-rebuild",
+  "releaseid": "license-layout-ui",
   "branchid": "package-labels/master",
   "type": "npm",
   "fullname": "@nebulario/nodeflow-local-web",
@@ -8,7 +8,7 @@
   "release": {
     "type": "patch"
   },
-  "version": "1.50.0-master",
+  "version": "1.51.1-master",
   "feature": {
     "message": "RELEASE:package-labels\n",
     "commitid": "de0d03b45b2a36af7f1f1abce5bfa52c6843160f"
@@ -21,26 +21,42 @@
     {
       "moduleid": "nodeflow-local-web",
       "fullname": "@nebulario/nodeflow-local-web",
-      "version": "1.0.0-master",
+      "version": "1.51.1-master",
       "kind": "inner",
       "filename": "package.json",
       "path": "version"
     },
     {
+      "moduleid": "dll-apollo",
+      "fullname": "@nebulario/dll-apollo",
+      "version": "1.55.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-apollo"
+    },
+    {
+      "moduleid": "dll-react",
+      "fullname": "@nebulario/dll-react",
+      "version": "1.55.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-react"
+    },
+    {
+      "moduleid": "dll-redux",
+      "fullname": "@nebulario/dll-redux",
+      "version": "1.55.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-redux"
+    },
+    {
       "moduleid": "nodeflow-local-common",
       "fullname": "@nebulario/nodeflow-local-common",
-      "version": "1.0.0-master",
+      "version": "1.51.1-master",
       "kind": "dependency",
       "filename": "package.json",
       "path": "dependencies.@nebulario/nodeflow-local-common"
-    },
-    {
-      "moduleid": "nodeflow-local-graph",
-      "fullname": "@nebulario/nodeflow-local-graph",
-      "version": "1.41.0-master",
-      "kind": "dependency",
-      "filename": "package.json",
-      "path": "dependencies.@nebulario/nodeflow-local-graph"
     }
   ],
   "released": {

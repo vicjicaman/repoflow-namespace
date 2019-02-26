@@ -5,12 +5,18 @@
   "fullname": "@nebulario/dll-redux",
   "type": "npm",
   "url": "github.com:vicjicaman/dll-redux.git",
-  "publish": null,
+  "publish": {
+    "commitid": "349e69e38bb01782529e5e9f14d212975f7bf238",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "4697fb607f0d02b5b398075ee1187537cec3ccc1",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "90d1d4e508ed33c5cfcf496332bb0dbfa2559d0c",
+    "message": "RELEASE:license-layout-ui:1.55.0-master\n"
+  },
   "created": 1551136172,
   "updated": 1551136172,
   "status": "active"
