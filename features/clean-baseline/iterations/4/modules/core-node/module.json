@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-node",
   "type": "npm",
   "url": "github.com:vicjicaman/core-node.git",
-  "publish": null,
+  "publish": {
+    "commitid": "4b26b1a6bb270d2d3d02f0c1a8b6df1c74c7af88",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "7c7337b4709d23433dea6295807e9a5fc2cce8df",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "542f92d502eb543f9e617b694061cbc3684a4e3a",
+    "message": "ITERATION:4\n"
+  },
   "releasedOn": 4,
   "created": 1551395262,
   "updated": 1551395262,
