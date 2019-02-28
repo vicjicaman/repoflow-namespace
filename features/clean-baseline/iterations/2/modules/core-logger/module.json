@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-logger",
   "type": "npm",
   "url": "github.com:vicjicaman/core-logger.git",
-  "publish": null,
+  "publish": {
+    "commitid": "5632bdea87471686ab9dd8db0d9f230c875e4959",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "10573f200e917ea836a1ec16bc0a727c679f3119",
     "message": "RELEASE:local-ui-graph:1.1.26-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a8d2c2fb23984a2dde4dd6c5139d24cd7c1fca06",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1551380797,
   "updated": 1551380797,

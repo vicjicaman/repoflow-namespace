@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-logger.git",
   "fullname": "@nebulario/core-logger",
   "iteration": {
-    "mode": "prod"
+    "mode": "dev"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1551377462,
   "status": "active",
   "commit": {
-    "commitid": "10573f200e917ea836a1ec16bc0a727c679f3119",
-    "message": "RELEASE:local-ui-graph:1.1.26-master\n"
+    "commitid": "a8d2c2fb23984a2dde4dd6c5139d24cd7c1fca06",
+    "message": "ITERATION:2\n"
   }
 }
