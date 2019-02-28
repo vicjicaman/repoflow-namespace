@@ -1,0 +1,20 @@
+{
+  "releaseid": "clean-baseline",
+  "moduleid": "core-process",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/core-process",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-process.git",
+  "publish": null,
+  "released": {
+    "commitid": "267e341b5f45daf6edb82755aafbd0b963c18dbe",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "dependencies": [],
+  "dependants": [],
+  "created": 1551398328,
+  "updated": 1551398328,
+  "status": "active"
+}
