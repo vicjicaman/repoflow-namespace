@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-process.git",
   "fullname": "@nebulario/core-process",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Promise process for node\n- Retry and wait utils",
   "created": 1551378058,
   "updated": 1551378058,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "499493e3c39b09f4c595ae4cff3908f68d538914",
+    "message": "RELEASE:local-ui-graph:1.1.41-master\n"
+  }
 }
