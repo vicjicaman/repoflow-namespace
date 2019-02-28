@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-logger",
+  "mode": "dev",
+  "version": "1.70.2-clean-baseline-dev",
+  "fullname": "@nebulario/core-logger",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-logger.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a8d2c2fb23984a2dde4dd6c5139d24cd7c1fca06",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1551393204,
+  "updated": 1551393204,
+  "status": "active"
+}
