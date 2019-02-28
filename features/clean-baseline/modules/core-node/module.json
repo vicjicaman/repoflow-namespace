@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-node.git",
   "fullname": "@nebulario/core-node",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1551378146,
   "status": "active",
   "commit": {
-    "commitid": "7c7337b4709d23433dea6295807e9a5fc2cce8df",
-    "message": "ITERATION:2\n"
+    "commitid": "542f92d502eb543f9e617b694061cbc3684a4e3a",
+    "message": "ITERATION:4\n"
   }
 }
