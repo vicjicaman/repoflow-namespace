@@ -1,0 +1,16 @@
+{
+  "moduleid": "core-node",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-node.git",
+  "fullname": "@nebulario/core-node",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Bare functionality for a service node\n- Request ID, Express setup, Logger setup",
+  "created": 1551378146,
+  "updated": 1551378146,
+  "status": "active"
+}
