@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-node",
+  "mode": "prod",
+  "version": "1.70.3-clean-baseline-prod",
+  "fullname": "@nebulario/core-node",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-node.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "542f92d502eb543f9e617b694061cbc3684a4e3a",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1551395996,
+  "updated": 1551395996,
+  "status": "active"
+}

@@ -1,0 +1,27 @@
+{
+  "iterationid": 5,
+  "phase": "releasing",
+  "hierarchy": [
+    "core-node"
+  ],
+  "latest": [
+    {
+      "moduleid": "core-logger",
+      "version": "1.70.3-clean-baseline-prod",
+      "iterationid": 4
+    },
+    {
+      "moduleid": "core-node",
+      "version": "1.70.3-clean-baseline-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "core-process",
+      "version": "1.70.1-clean-baseline-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1551395996,
+  "updated": 1551395996,
+  "status": "active"
+}
