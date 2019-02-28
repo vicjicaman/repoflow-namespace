@@ -1,21 +1,5 @@
 {
   "status": "active",
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
-  "releases": [
-    {
-      "releaseid": "license-layout-ui"
-    },
-    {
-      "releaseid": "runtime-rebuild"
-    },
-    {
-      "releaseid": "web-integration"
-    },
-    {
-      "releaseid": "initial-graph"
-    },
-    {
-      "releaseid": "core-pkg"
-    }
-  ]
+  "releases": []
 }
