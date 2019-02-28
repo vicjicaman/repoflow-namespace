@@ -14,7 +14,7 @@
   "updated": 1551378146,
   "status": "active",
   "commit": {
-    "commitid": "eb2b01e547511b31b65868d1faaa71ea9709726f",
-    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+    "commitid": "9dec4db2ec4eee2eda87cfb9c6fcd41ef87e8f0c",
+    "message": "Add yarn lock changes\n"
   }
 }
