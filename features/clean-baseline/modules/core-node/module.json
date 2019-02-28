@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-node.git",
   "fullname": "@nebulario/core-node",
   "iteration": {
-    "mode": "prod"
+    "mode": "dev"
   },
   "release": {
     "type": "patch"
