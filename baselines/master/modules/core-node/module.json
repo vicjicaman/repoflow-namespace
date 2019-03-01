@@ -1,0 +1,11 @@
+{
+  "moduleid": "core-node",
+  "releases": [
+    {
+      "releaseid": "clean-baseline"
+    }
+  ],
+  "created": 1551413873,
+  "updated": 1551413873,
+  "status": "active"
+}
