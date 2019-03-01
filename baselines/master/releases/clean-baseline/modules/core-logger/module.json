@@ -18,6 +18,7 @@
     "message": "RELEASE:clean-baseline:1.70.0-master\n"
   },
   "releaseType": "patch",
+  "description":"- Specific config of logger package \n- Common logger configuration across the namespace",
   "dependencies": [
     {
       "moduleid": "core-logger",

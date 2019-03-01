@@ -18,6 +18,7 @@
     "message": "RELEASE:clean-baseline:1.70.0-master\n"
   },
   "releaseType": "patch",
+  "description":"- Bare functionality for a service node \n - Request ID, Express setup, Logger setup",
   "dependencies": [
     {
       "moduleid": "core-node",
