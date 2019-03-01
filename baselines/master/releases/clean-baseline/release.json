@@ -1,6 +1,6 @@
 {
   "releaseid": "clean-baseline",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "core-logger",
     "core-node",

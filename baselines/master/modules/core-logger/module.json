@@ -1,0 +1,11 @@
+{
+  "moduleid": "core-logger",
+  "releases": [
+    {
+      "releaseid": "clean-baseline"
+    }
+  ],
+  "created": 1551413872,
+  "updated": 1551413872,
+  "status": "active"
+}

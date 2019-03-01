@@ -5,14 +5,29 @@
   "fullname": "@nebulario/core-logger",
   "type": "npm",
   "url": "github.com:vicjicaman/core-logger.git",
-  "publish": null,
+  "publish": {
+    "commitid": "ff1fdc30e9522ba075684f133ace27e91ab11637",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "09572ef37bbcf790e4307f2dd018b0a8365ad5d8",
     "message": "ITERATION:4\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "73c5a31974497580b404dc9fc4264cd68a835e5d",
+    "message": "RELEASE:clean-baseline:1.70.0-master\n"
+  },
   "releaseType": "patch",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "moduleid": "core-logger",
+      "fullname": "@nebulario/core-logger",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ],
   "dependants": [],
   "created": 1551398328,
   "updated": 1551398328,
