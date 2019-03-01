@@ -18,7 +18,7 @@
     "message": "RELEASE:clean-baseline:1.70.0-master\n"
   },
   "releaseType": "patch",
-"description":"- Promise process for node \n - Retry and wait utils",
+  "description":"- Promise process for node \n - Retry and wait utils",
   "dependencies": [
     {
       "moduleid": "core-process",
@@ -30,6 +30,7 @@
     }
   ],
   "dependants": [],
+  "dependents": [],
   "created": 1551398328,
   "updated": 1551398328,
   "status": "active"
