@@ -14,7 +14,7 @@
   "updated": 1551640352,
   "status": "active",
   "commit": {
-    "commitid": "e7d3b1bc8ce2e741450fb574f73eebd7599aa21f",
-    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+    "commitid": "6e5c0aeaee4b90c8094d12ef3bf179e75c6d3318",
+    "message": "Improve the menu layout and add code-fork logo\n"
   }
 }
