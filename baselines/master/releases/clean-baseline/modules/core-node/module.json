@@ -31,5 +31,6 @@
   "dependants": [],
   "created": 1551398328,
   "updated": 1551398328,
-  "status": "active"
+  "status": "active",
+  "description": "- Bare functionality for a service node\n- Request ID, Express setup, Logger setup"
 }

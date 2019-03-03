@@ -31,5 +31,6 @@
   "dependants": [],
   "created": 1551398328,
   "updated": 1551398328,
-  "status": "active"
+  "status": "active",
+  "description": "- Specific config of logger package\n- Common logger configuration across the namespace"
 }
