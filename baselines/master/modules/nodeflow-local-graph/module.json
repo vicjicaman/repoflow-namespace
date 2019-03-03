@@ -1,0 +1,11 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "releases": [
+    {
+      "releaseid": "graphql-normalization"
+    }
+  ],
+  "created": 1551639719,
+  "updated": 1551639719,
+  "status": "active"
+}
