@@ -1,0 +1,16 @@
+{
+  "moduleid": "app-notify",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-notify.git",
+  "fullname": "@nebulario/app-notify",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Notification functionality for UI",
+  "created": 1551640440,
+  "updated": 1551640440,
+  "status": "active"
+}
