@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/app-layout.git",
   "fullname": "@nebulario/app-layout",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- General layout components for all the repoflow tool pages",
   "created": 1551640352,
   "updated": 1551640352,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e7d3b1bc8ce2e741450fb574f73eebd7599aa21f",
+    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+  }
 }

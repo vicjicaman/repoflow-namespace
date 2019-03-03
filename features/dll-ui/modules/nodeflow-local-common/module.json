@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1551640591,
   "updated": 1551640591,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "acce68a0ca5f26a0b0e41543ae43fd8362599221",
+    "message": "RELEASE:license-layout-ui:1.51.1-master\n"
+  }
 }
