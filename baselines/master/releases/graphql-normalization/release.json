@@ -1,6 +1,6 @@
 {
   "releaseid": "graphql-normalization",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "nodeflow-local-graph"
   ],
