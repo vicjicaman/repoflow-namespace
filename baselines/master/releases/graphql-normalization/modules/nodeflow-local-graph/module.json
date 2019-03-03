@@ -1,0 +1,22 @@
+{
+  "releaseid": "graphql-normalization",
+  "moduleid": "nodeflow-local-graph",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "e1acf6917caf0d81bd9992a5f78f3756147d3cca",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "dependencies": [],
+  "dependents": [],
+  "dependants": [],
+  "created": 1551638811,
+  "updated": 1551638811,
+  "status": "active"
+}
