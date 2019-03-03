@@ -1,0 +1,18 @@
+{
+  "moduleid": "app-notify",
+  "mode": "prod",
+  "version": "1.70.0-dll-ui-prod",
+  "fullname": "@nebulario/app-notify",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-notify.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "69d72b80cc9500daccec2ec9758bd928376784e3",
+    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551654360,
+  "updated": 1551654360,
+  "status": "active"
+}

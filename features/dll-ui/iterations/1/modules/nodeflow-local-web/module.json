@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.0-dll-ui-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "fc9e374441430860708a0e0214e11d63f5f3b6f1",
+    "message": "Sync to latest dependencies\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551654360,
+  "updated": 1551654360,
+  "status": "active"
+}

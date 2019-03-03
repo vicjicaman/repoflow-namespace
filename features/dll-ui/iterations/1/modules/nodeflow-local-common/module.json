@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.0-dll-ui-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "928422ae453a5c3f61a8797b5af2db24095d8b35",
+    "message": "Improve the menu layout and add code-fork logo\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551654360,
+  "updated": 1551654360,
+  "status": "active"
+}

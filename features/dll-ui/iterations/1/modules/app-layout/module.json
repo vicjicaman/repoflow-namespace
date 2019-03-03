@@ -1,0 +1,18 @@
+{
+  "moduleid": "app-layout",
+  "mode": "prod",
+  "version": "1.70.0-dll-ui-prod",
+  "fullname": "@nebulario/app-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-layout.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6e5c0aeaee4b90c8094d12ef3bf179e75c6d3318",
+    "message": "Improve the menu layout and add code-fork logo\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551654360,
+  "updated": 1551654360,
+  "status": "active"
+}
