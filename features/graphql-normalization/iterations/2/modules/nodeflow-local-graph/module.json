@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "dev",
+  "version": "1.70.1-graphql-normalization-dev",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "89d89a719d49446ac63c794f551b9bc5e36de54e",
+    "message": "RELEASE:runtime-rebuild:1.41.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1551636897,
+  "updated": 1551636897,
+  "status": "active"
+}
