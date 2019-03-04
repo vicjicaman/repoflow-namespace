@@ -1,0 +1,16 @@
+{
+  "moduleid": "dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "fullname": "@nebulario/dll-utils",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Group misc JS libraries and functionality, for dates, numbers, etc...",
+  "created": 1551719378,
+  "updated": 1551719378,
+  "status": "active"
+}

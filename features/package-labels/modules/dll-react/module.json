@@ -1,0 +1,16 @@
+{
+  "moduleid": "dll-react",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-react.git",
+  "fullname": "@nebulario/dll-react",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- DLL to group all the common React libraries, versions and functionality",
+  "created": 1551719251,
+  "updated": 1551719251,
+  "status": "active"
+}

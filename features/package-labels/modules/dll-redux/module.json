@@ -1,0 +1,16 @@
+{
+  "moduleid": "dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-redux.git",
+  "fullname": "@nebulario/dll-redux",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- DLL to group all the common Redux libraries, versions and functionality",
+  "created": 1551719298,
+  "updated": 1551719298,
+  "status": "active"
+}
