@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-redux",
+  "mode": "prod",
+  "version": "1.70.2-package-labels-prod",
+  "fullname": "@nebulario/dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-redux.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "90d1d4e508ed33c5cfcf496332bb0dbfa2559d0c",
+    "message": "RELEASE:license-layout-ui:1.55.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1551720223,
+  "updated": 1551720223,
+  "status": "active"
+}
