@@ -1,6 +1,5 @@
 {
   "status": "active",
   "baselineid": "master",
-  "description": "- Add labels functionality for published packages\n- Add next iteration condition if the previous iteration module have a invalid label",
-  "modules": []
+  "description": "- Add labels functionality for published packages\n- Add next iteration condition if the previous iteration module have a invalid label"
 }
