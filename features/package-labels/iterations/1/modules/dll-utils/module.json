@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-utils",
+  "mode": "prod",
+  "version": "1.70.0-package-labels-prod",
+  "fullname": "@nebulario/dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "64f0f36be2886a5dd60d836b2bd3819f9d0f8595",
+    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551719887,
+  "updated": 1551719887,
+  "status": "active"
+}

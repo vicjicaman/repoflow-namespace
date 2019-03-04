@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-vendor",
+  "mode": "prod",
+  "version": "1.70.0-package-labels-prod",
+  "fullname": "@nebulario/dll-vendor",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-vendor.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9a4ca1389c197636a3f26ec00a588e2c240a15d2",
+    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551719887,
+  "updated": 1551719887,
+  "status": "active"
+}

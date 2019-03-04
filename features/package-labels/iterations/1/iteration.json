@@ -1,0 +1,41 @@
+{
+  "iterationid": 1,
+  "phase": "invalid",
+  "hierarchy": [
+    "dll-apollo",
+    "dll-react",
+    "dll-redux",
+    "dll-utils",
+    "dll-vendor"
+  ],
+  "latest": [
+    {
+      "moduleid": "dll-apollo",
+      "iterationid": 1,
+      "version": "1.70.0-package-labels-prod"
+    },
+    {
+      "moduleid": "dll-react",
+      "iterationid": 1,
+      "version": "1.70.0-package-labels-prod"
+    },
+    {
+      "moduleid": "dll-redux",
+      "iterationid": 1,
+      "version": "1.70.0-package-labels-prod"
+    },
+    {
+      "moduleid": "dll-utils",
+      "iterationid": 1,
+      "version": "1.70.0-package-labels-prod"
+    },
+    {
+      "moduleid": "dll-vendor",
+      "iterationid": 1,
+      "version": "1.70.0-package-labels-prod"
+    }
+  ],
+  "created": 1551719887,
+  "updated": 1551719887,
+  "status": "active"
+}
