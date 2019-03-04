@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-utils.git",
   "fullname": "@nebulario/dll-utils",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-vendor.git",
   "fullname": "@nebulario/dll-vendor",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
