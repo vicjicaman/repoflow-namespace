@@ -5,5 +5,6 @@
     {
       "releaseid": "clean-baseline"
     }
-  ]
+  ],
+  "hierarchy": ["core-logger", "core-process", "core-node"]
 }
