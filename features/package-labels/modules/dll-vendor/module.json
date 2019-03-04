@@ -12,5 +12,9 @@
   "description": "- DLL for vendor libraries like Jquery, bootstrap, etc...",
   "created": 1551719500,
   "updated": 1551719500,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9a4ca1389c197636a3f26ec00a588e2c240a15d2",
+    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+  }
 }

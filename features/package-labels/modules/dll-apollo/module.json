@@ -12,5 +12,9 @@
   "description": "- DLL to group all the Graphql and Apollo functionality",
   "created": 1551719168,
   "updated": 1551719168,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "3265926877e2db5b3263e4320412a01226f71ebc",
+    "message": "RELEASE:license-layout-ui:1.55.0-master\n"
+  }
 }

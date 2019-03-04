@@ -12,5 +12,9 @@
   "description": "- Group misc JS libraries and functionality, for dates, numbers, etc...",
   "created": 1551719378,
   "updated": 1551719378,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "64f0f36be2886a5dd60d836b2bd3819f9d0f8595",
+    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+  }
 }

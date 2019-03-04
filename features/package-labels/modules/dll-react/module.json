@@ -12,5 +12,9 @@
   "description": "- DLL to group all the common React libraries, versions and functionality",
   "created": 1551719251,
   "updated": 1551719251,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "dd3419c739a14a2df794b7b9679fdedfd75b127c",
+    "message": "RELEASE:license-layout-ui:1.55.0-master\n"
+  }
 }
