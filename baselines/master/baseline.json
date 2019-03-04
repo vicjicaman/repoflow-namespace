@@ -11,5 +11,16 @@
     {
       "releaseid": "clean-baseline"
     }
+  ],
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-graph",
+    "nodeflow-local-common",
+    "core-process",
+    "core-node",
+    "core-logger",
+    "app-notify",
+    "app-layout"
   ]
 }

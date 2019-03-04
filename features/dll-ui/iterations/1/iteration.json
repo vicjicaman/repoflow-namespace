@@ -1,0 +1,41 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "app-layout",
+    "app-notify"
+  ],
+  "latest": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "iterationid": 1,
+      "version": "1.70.0-dll-ui-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "iterationid": 1,
+      "version": "1.70.0-dll-ui-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "iterationid": 1,
+      "version": "1.70.0-dll-ui-prod"
+    },
+    {
+      "moduleid": "app-layout",
+      "iterationid": 1,
+      "version": "1.70.0-dll-ui-prod"
+    },
+    {
+      "moduleid": "app-notify",
+      "iterationid": 1,
+      "version": "1.70.0-dll-ui-prod"
+    }
+  ],
+  "created": 1551654360,
+  "updated": 1551654360,
+  "status": "active"
+}

@@ -5,17 +5,74 @@
   "fullname": "@nebulario/nodeflow-local-web",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3940b36ffb0cfa1d1227c959c1d5ff11df92b633",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "d66fe261bb0f5cac9796dd88a3b93f1a3368d3f6",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d5ae3c12c1f50b7d0120fa553ac93d9e9808f786",
+    "message": "RELEASE:dll-ui:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "- Generate web deliberable based on the common code",
-  "dependencies": [],
-  "dependents": [],
-  "dependants": [],
+  "dependencies": [
+    {
+      "moduleid": "nodeflow-local-web",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-common"
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-graph"
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "nodeflow-local-common",
+      "references": [
+        {
+          "moduleid": "nodeflow-local-common",
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-common"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "references": [
+        {
+          "moduleid": "nodeflow-local-graph",
+          "fullname": "@nebulario/nodeflow-local-graph",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-graph"
+        }
+      ]
+    }
+  ],
   "created": 1551666175,
   "updated": 1551666175,
   "status": "active"
