@@ -5,15 +5,30 @@
   "fullname": "@nebulario/app-notify",
   "type": "npm",
   "url": "github.com:vicjicaman/app-notify.git",
-  "publish": null,
+  "publish": {
+    "commitid": "09e0928a2f8e6dd25de6f2286ea32440e0d60ebf",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "eee687b5623d380db2d53728e2ff0816a05e2a14",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c9a52ec4288a469cee27cc9f52dc11e851b07fc6",
+    "message": "RELEASE:dll-ui:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "- Notification functionality for UI",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "moduleid": "app-notify",
+      "fullname": "@nebulario/app-notify",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ],
   "dependents": [],
   "created": 1551666175,
   "updated": 1551666175,

@@ -1,0 +1,39 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "releases": [
+    {
+      "releaseid": "dll-ui"
+    }
+  ],
+  "created": 1551716881,
+  "updated": 1551716881,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "references": [
+        {
+          "moduleid": "nodeflow-local-common",
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-common"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "moduleid": "nodeflow-local-common",
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-common"
+        }
+      ]
+    }
+  ]
+}

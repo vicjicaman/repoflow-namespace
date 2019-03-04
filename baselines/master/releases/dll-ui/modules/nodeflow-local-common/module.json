@@ -5,16 +5,74 @@
   "fullname": "@nebulario/nodeflow-local-common",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6bcc468462c47d5edcd93718c9441d5fe04c8d61",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "6bb85779ba63b2599e969d7b3d5ac38658c5343f",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b25c72cc4f466a534f60397148ad2c554382034c",
+    "message": "RELEASE:dll-ui:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
-  "dependencies": [],
-  "dependents": [],
+  "dependencies": [
+    {
+      "moduleid": "nodeflow-local-common",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "moduleid": "app-layout",
+      "fullname": "@nebulario/app-layout",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/app-layout"
+    },
+    {
+      "moduleid": "app-notify",
+      "fullname": "@nebulario/app-notify",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/app-notify"
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "app-layout",
+      "references": [
+        {
+          "moduleid": "app-layout",
+          "fullname": "@nebulario/app-layout",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/app-layout"
+        }
+      ]
+    },
+    {
+      "moduleid": "app-notify",
+      "references": [
+        {
+          "moduleid": "app-notify",
+          "fullname": "@nebulario/app-notify",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/app-notify"
+        }
+      ]
+    }
+  ],
   "created": 1551666175,
   "updated": 1551666175,
   "status": "active"

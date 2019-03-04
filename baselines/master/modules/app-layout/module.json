@@ -1,0 +1,26 @@
+{
+  "moduleid": "app-layout",
+  "releases": [
+    {
+      "releaseid": "dll-ui"
+    }
+  ],
+  "created": 1551716882,
+  "updated": 1551716882,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-common",
+      "references": [
+        {
+          "moduleid": "app-layout",
+          "fullname": "@nebulario/app-layout",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/app-layout"
+        }
+      ]
+    }
+  ]
+}

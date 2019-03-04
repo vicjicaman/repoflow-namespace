@@ -5,7 +5,21 @@
       "releaseid": "graphql-normalization"
     }
   ],
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "moduleid": "nodeflow-local-graph",
+          "fullname": "@nebulario/nodeflow-local-graph",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-graph"
+        }
+      ]
+    }
+  ],
   "created": 1551639719,
   "updated": 1551639719,
   "status": "active"

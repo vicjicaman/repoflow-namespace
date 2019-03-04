@@ -1,0 +1,12 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "releases": [
+    {
+      "releaseid": "dll-ui"
+    }
+  ],
+  "created": 1551716881,
+  "updated": 1551716881,
+  "status": "active",
+  "dependants": []
+}
