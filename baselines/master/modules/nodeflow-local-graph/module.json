@@ -5,6 +5,7 @@
       "releaseid": "graphql-normalization"
     }
   ],
+  "dependants": [],
   "created": 1551639719,
   "updated": 1551639719,
   "status": "active"
