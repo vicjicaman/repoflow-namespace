@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-apollo",
+  "mode": "prod",
+  "version": "1.70.1-package-labels-prod",
+  "fullname": "@nebulario/dll-apollo",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-apollo.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "3265926877e2db5b3263e4320412a01226f71ebc",
+    "message": "RELEASE:license-layout-ui:1.55.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1551720178,
+  "updated": 1551720178,
+  "status": "active"
+}
