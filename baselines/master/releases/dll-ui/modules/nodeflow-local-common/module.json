@@ -1,0 +1,22 @@
+{
+  "releaseid": "dll-ui",
+  "moduleid": "nodeflow-local-common",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "released": {
+    "commitid": "6bb85779ba63b2599e969d7b3d5ac38658c5343f",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
+  "dependencies": [],
+  "dependents": [],
+  "dependants": [],
+  "created": 1551666175,
+  "updated": 1551666175,
+  "status": "active"
+}

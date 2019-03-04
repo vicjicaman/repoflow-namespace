@@ -1,0 +1,22 @@
+{
+  "releaseid": "dll-ui",
+  "moduleid": "nodeflow-local-server",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "0efadda984980d48da1236f58ae3800c7b586333",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- SSR service for repoflow tool based on common code",
+  "dependencies": [],
+  "dependents": [],
+  "dependants": [],
+  "created": 1551666175,
+  "updated": 1551666175,
+  "status": "active"
+}
