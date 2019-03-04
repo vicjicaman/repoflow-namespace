@@ -1,0 +1,21 @@
+{
+  "releaseid": "package-labels",
+  "moduleid": "dll-utils",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "publish": null,
+  "released": {
+    "commitid": "c5e299c9ea3e7513ce522ce711af0d9610c0ec8e",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Group misc JS libraries and functionality, for dates, numbers, etc...",
+  "dependencies": [],
+  "dependents": [],
+  "created": 1551722728,
+  "updated": 1551722728,
+  "status": "active"
+}
