@@ -1,0 +1,14 @@
+{
+  "releaseid": "dll-ui",
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "app-layout",
+    "app-notify"
+  ],
+  "created": 1551666175,
+  "updated": 1551666175,
+  "status": "active"
+}

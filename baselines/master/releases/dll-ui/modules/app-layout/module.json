@@ -1,0 +1,22 @@
+{
+  "releaseid": "dll-ui",
+  "moduleid": "app-layout",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/app-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-layout.git",
+  "publish": null,
+  "released": {
+    "commitid": "3478edca1be6f7d03a357f2fd03e3a314e37a066",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- General layout components for all the repoflow tool pages",
+  "dependencies": [],
+  "dependents": [],
+  "dependants": [],
+  "created": 1551666175,
+  "updated": 1551666175,
+  "status": "active"
+}

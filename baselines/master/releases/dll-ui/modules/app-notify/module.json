@@ -1,0 +1,22 @@
+{
+  "releaseid": "dll-ui",
+  "moduleid": "app-notify",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/app-notify",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-notify.git",
+  "publish": null,
+  "released": {
+    "commitid": "eee687b5623d380db2d53728e2ff0816a05e2a14",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Notification functionality for UI",
+  "dependencies": [],
+  "dependents": [],
+  "dependants": [],
+  "created": 1551666175,
+  "updated": 1551666175,
+  "status": "active"
+}
