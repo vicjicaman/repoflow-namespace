@@ -5,12 +5,18 @@
   "fullname": "@nebulario/dll-apollo",
   "type": "npm",
   "url": "github.com:vicjicaman/dll-apollo.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6fec8b8ee875543626dbe07df465c12c9ed59876",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "3265926877e2db5b3263e4320412a01226f71ebc",
     "message": "RELEASE:license-layout-ui:1.55.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b549ca9ade5c0cca6c64ff19471d296c80022342",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1551720223,
   "updated": 1551720223,

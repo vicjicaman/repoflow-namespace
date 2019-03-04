@@ -5,12 +5,18 @@
   "fullname": "@nebulario/dll-react",
   "type": "npm",
   "url": "github.com:vicjicaman/dll-react.git",
-  "publish": null,
+  "publish": {
+    "commitid": "1db7050867965447c9bb6f3cec949f522a046721",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "dd3419c739a14a2df794b7b9679fdedfd75b127c",
     "message": "RELEASE:license-layout-ui:1.55.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "4e6508849e44444d323535b30268aca9ba0e5aaa",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1551720223,
   "updated": 1551720223,

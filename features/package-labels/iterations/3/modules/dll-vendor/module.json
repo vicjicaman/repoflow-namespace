@@ -5,12 +5,18 @@
   "fullname": "@nebulario/dll-vendor",
   "type": "npm",
   "url": "github.com:vicjicaman/dll-vendor.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b3849d67a57041f41da95c11bb1aafdcee75fa4c",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "9a4ca1389c197636a3f26ec00a588e2c240a15d2",
     "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "0aa6ff3ed728839720614e7dfecf75c7860a6afe",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1551720223,
   "updated": 1551720223,

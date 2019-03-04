@@ -5,12 +5,18 @@
   "fullname": "@nebulario/dll-utils",
   "type": "npm",
   "url": "github.com:vicjicaman/dll-utils.git",
-  "publish": null,
+  "publish": {
+    "commitid": "d711956041281aad0c119d9ffe387ca5dbaabf57",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "64f0f36be2886a5dd60d836b2bd3819f9d0f8595",
     "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c5e299c9ea3e7513ce522ce711af0d9610c0ec8e",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1551720223,
   "updated": 1551720223,
