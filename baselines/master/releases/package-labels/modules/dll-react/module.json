@@ -1,0 +1,21 @@
+{
+  "releaseid": "package-labels",
+  "moduleid": "dll-react",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/dll-react",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-react.git",
+  "publish": null,
+  "released": {
+    "commitid": "4e6508849e44444d323535b30268aca9ba0e5aaa",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- DLL to group all the common React libraries, versions and functionality",
+  "dependencies": [],
+  "dependents": [],
+  "created": 1551722727,
+  "updated": 1551722727,
+  "status": "active"
+}
