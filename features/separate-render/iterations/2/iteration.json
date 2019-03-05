@@ -1,0 +1,41 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "core-render-stateful-web",
+    "core-render-stateful-server"
+  ],
+  "latest": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.70.1-separate-render-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "version": "1.70.1-separate-render-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.70.1-separate-render-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "core-render-stateful-web",
+      "version": "1.70.1-separate-render-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "version": "1.70.1-separate-render-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1551759010,
+  "updated": 1551759010,
+  "status": "active"
+}
