@@ -5,15 +5,274 @@
   "fullname": "@nebulario/nodeflow-local-web",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "ee0c0a02d0ee6f9ddfb60d984917af0fdbed3b83",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "fa187db1d329aaff4159cb0b6b6c28bfd7a1842d",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b078cc0af045cd7fa1bb7a652690a1c9a5997a21",
+    "message": "RELEASE:separate-render:1.70.1-master\n"
+  },
   "releaseType": "patch",
   "description": "- Generate web deliberable based on the common code",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "fullname": "@nebulario/nodeflow-local-web",
+      "version": "1.70.1-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "fullname": "@nebulario/core-render-stateful-web",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-render-stateful-web"
+    },
+    {
+      "fullname": "@nebulario/dll-apollo",
+      "version": "1.55.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-apollo"
+    },
+    {
+      "fullname": "@nebulario/dll-react",
+      "version": "1.55.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-react"
+    },
+    {
+      "fullname": "@nebulario/dll-redux",
+      "version": "1.55.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-redux"
+    },
+    {
+      "fullname": "@nebulario/dll-utils",
+      "version": "1.10.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-utils"
+    },
+    {
+      "fullname": "@nebulario/dll-vendor",
+      "version": "1.10.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/dll-vendor"
+    },
+    {
+      "fullname": "@nebulario/nodeflow-local-common",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-common"
+    },
+    {
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-graph"
+    },
+    {
+      "fullname": "autoprefixer",
+      "version": "^7.2.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.autoprefixer"
+    },
+    {
+      "fullname": "babel-cli",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-cli"
+    },
+    {
+      "fullname": "babel-core",
+      "version": "6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-core"
+    },
+    {
+      "fullname": "babel-loader",
+      "version": "^7.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "fullname": "babel-plugin-dynamic-import-webpack",
+      "version": "^1.0.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-dynamic-import-webpack"
+    },
+    {
+      "fullname": "babel-plugin-syntax-dynamic-import",
+      "version": "^6.18.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-syntax-dynamic-import"
+    },
+    {
+      "fullname": "babel-plugin-transform-runtime",
+      "version": "^6.23.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-transform-runtime"
+    },
+    {
+      "fullname": "babel-preset-env",
+      "version": "^1.6.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-env"
+    },
+    {
+      "fullname": "babel-preset-es2015",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-es2015"
+    },
+    {
+      "fullname": "babel-preset-react",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-react"
+    },
+    {
+      "fullname": "babel-preset-stage-0",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-0"
+    },
+    {
+      "fullname": "babel-preset-stage-2",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-2"
+    },
+    {
+      "fullname": "babel-runtime",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-runtime"
+    },
+    {
+      "fullname": "chunk-manifest-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.chunk-manifest-webpack-plugin"
+    },
+    {
+      "fullname": "extract-text-webpack-plugin",
+      "version": "^3.0.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.extract-text-webpack-plugin"
+    },
+    {
+      "fullname": "file-loader",
+      "version": "^1.1.5",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.file-loader"
+    },
+    {
+      "fullname": "lodash",
+      "version": "^4.17.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.lodash"
+    },
+    {
+      "fullname": "node-sass",
+      "version": "^4.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.node-sass"
+    },
+    {
+      "fullname": "nodemon-webpack-plugin",
+      "version": "^0.1.5",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.nodemon-webpack-plugin"
+    },
+    {
+      "fullname": "npm-run-all",
+      "version": "^4.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.npm-run-all"
+    },
+    {
+      "fullname": "on-build-webpack",
+      "version": "^0.1.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.on-build-webpack"
+    },
+    {
+      "fullname": "shelljs",
+      "version": "^0.7.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.shelljs"
+    },
+    {
+      "fullname": "uglifyjs-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.uglifyjs-webpack-plugin"
+    },
+    {
+      "fullname": "webpack",
+      "version": "^3.8.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "fullname": "webpack-bundle-analyzer",
+      "version": "^2.9.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-bundle-analyzer"
+    },
+    {
+      "fullname": "webpack-manifest-plugin",
+      "version": "^1.3.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-manifest-plugin"
+    },
+    {
+      "fullname": "webpack-node-externals",
+      "version": "^1.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
   "dependents": [],
   "created": 1551760549,
   "updated": 1551760549,

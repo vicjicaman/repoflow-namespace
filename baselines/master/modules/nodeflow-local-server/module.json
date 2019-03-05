@@ -2,11 +2,88 @@
   "moduleid": "nodeflow-local-server",
   "releases": [
     {
+      "releaseid": "separate-render"
+    },
+    {
       "releaseid": "dll-ui"
     }
   ],
   "created": 1551716881,
   "updated": 1551716881,
   "status": "active",
-  "dependants": []
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "core-logger",
+      "references": [
+        {
+          "fullname": "@nebulario/core-logger",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-logger"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-node",
+      "references": [
+        {
+          "fullname": "@nebulario/core-node",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-node"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-process",
+      "references": [
+        {
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "references": [
+        {
+          "fullname": "@nebulario/core-render-stateful-server",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-render-stateful-server"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "references": [
+        {
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-common"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "fullname": "@nebulario/nodeflow-local-web",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-web"
+        }
+      ]
+    }
+  ]
 }

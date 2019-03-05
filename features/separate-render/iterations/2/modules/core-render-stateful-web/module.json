@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-render-stateful-web",
+  "mode": "prod",
+  "version": "1.70.1-separate-render-prod",
+  "fullname": "@nebulario/core-render-stateful-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-render-stateful-web.git",
+  "publish": {
+    "commitid": "07dc9baaa579c9d3c1ccb78043bce239e06fd739",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "27f734e605dd0f102769f85e4a5cae715c8785f4",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "eac60b4760e7ee5d56139937508b868fd71a9483",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1551759010,
+  "updated": 1551759010,
+  "status": "active"
+}

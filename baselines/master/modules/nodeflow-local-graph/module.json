@@ -10,7 +10,6 @@
       "moduleid": "nodeflow-local-web",
       "references": [
         {
-          "moduleid": "nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
           "version": "1.70.0-master",
           "kind": "dependency",
@@ -22,5 +21,6 @@
   ],
   "created": 1551639719,
   "updated": 1551639719,
-  "status": "active"
+  "status": "active",
+  "dependents": []
 }

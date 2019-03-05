@@ -1,0 +1,26 @@
+{
+  "moduleid": "core-render-stateful-web",
+  "releases": [
+    {
+      "releaseid": "separate-render"
+    }
+  ],
+  "created": 1551814366,
+  "updated": 1551814366,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "fullname": "@nebulario/core-render-stateful-web",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-render-stateful-web"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

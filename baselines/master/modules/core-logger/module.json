@@ -10,7 +10,6 @@
       "moduleid": "nodeflow-local-server",
       "references": [
         {
-          "moduleid": "core-logger",
           "fullname": "@nebulario/core-logger",
           "version": "1.70.0-master",
           "kind": "dependency",
@@ -22,5 +21,6 @@
   ],
   "created": 1551413872,
   "updated": 1551413872,
-  "status": "active"
+  "status": "active",
+  "dependents": []
 }
