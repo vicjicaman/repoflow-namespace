@@ -1,7 +1,7 @@
 {
-  "featureid": "separate-render",
+  "featureid": "local-ui-graph",
   "baselineid": "master",
-  "description": "-Separate the render functionality for SSR into a core package for reuse in other services",
+  "description": "-Interface and graph queries definition for UI",
   "created": 1551741169,
   "updated": 1551741169,
   "status": "active"
