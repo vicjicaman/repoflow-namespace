@@ -12,5 +12,9 @@
   "description": "- DLL for redux and stateful utilities",
   "created": 1551826578,
   "updated": 1551826578,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "721cf9a1b4b574d89b9e4bdf599587c4177ef3a3",
+    "message": "RELEASE:package-labels:1.70.0-master\n"
+  }
 }

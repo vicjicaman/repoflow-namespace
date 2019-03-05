@@ -12,5 +12,9 @@
   "description": "- DLL libraries for react packaged and right version for all the components",
   "created": 1551826488,
   "updated": 1551826488,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7d9d8feaf04d1c07cd96b34ef23dab5b027a4b60",
+    "message": "RELEASE:package-labels:1.70.0-master\n"
+  }
 }

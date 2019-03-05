@@ -12,5 +12,9 @@
   "description": "DLL for utils libraries, lodash, moment, etc",
   "created": 1551826716,
   "updated": 1551826716,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f71575b9152de0d459bdbd4e70e4ea4765c36971",
+    "message": "RELEASE:package-labels:1.70.0-master\n"
+  }
 }

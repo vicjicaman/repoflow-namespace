@@ -12,5 +12,9 @@
   "description": "DLL for vendor libraries bootstrap, jquery, etc.",
   "created": 1551827204,
   "updated": 1551827204,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "603a168b8b20878393572beda0e3fdf3bd5b8559",
+    "message": "RELEASE:package-labels:1.70.0-master\n"
+  }
 }
