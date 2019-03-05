@@ -3,6 +3,9 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "separate-render"
+    },
+    {
       "releaseid": "package-labels"
     },
     {
