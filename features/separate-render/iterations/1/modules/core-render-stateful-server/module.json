@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-render-stateful-server",
+  "mode": "dev",
+  "version": "1.70.0-separate-render-dev",
+  "fullname": "@nebulario/core-render-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-render-stateful-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7998491bfa3cdbf78fad8b4fc8ecdf104c83e4ad",
+    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551755375,
+  "updated": 1551755375,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "dev",
+  "version": "1.70.0-separate-render-dev",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "84b3aa445259c8663514023e7a958b76a53b0357",
+    "message": "RELEASE:dll-ui:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551755375,
+  "updated": 1551755375,
+  "status": "active"
+}
