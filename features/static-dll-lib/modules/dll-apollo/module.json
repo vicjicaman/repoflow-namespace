@@ -12,5 +12,9 @@
   "description": "- DLL for Apollo and GraphQL libraries",
   "created": 1551821794,
   "updated": 1551821794,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f6cd2ff2e3a4691f8a553ee7f91a2445ab5993dd",
+    "message": "RELEASE:package-labels:1.70.0-master\n"
+  }
 }
