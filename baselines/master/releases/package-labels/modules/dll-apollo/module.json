@@ -1,0 +1,21 @@
+{
+  "releaseid": "package-labels",
+  "moduleid": "dll-apollo",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/dll-apollo",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-apollo.git",
+  "publish": null,
+  "released": {
+    "commitid": "b549ca9ade5c0cca6c64ff19471d296c80022342",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- DLL to group all the Graphql and Apollo functionality",
+  "dependencies": [],
+  "dependents": [],
+  "created": 1551722727,
+  "updated": 1551722727,
+  "status": "active"
+}

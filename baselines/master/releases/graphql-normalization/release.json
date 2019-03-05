@@ -1,0 +1,10 @@
+{
+  "releaseid": "graphql-normalization",
+  "phase": "released",
+  "hierarchy": [
+    "nodeflow-local-graph"
+  ],
+  "created": 1551638811,
+  "updated": 1551638811,
+  "status": "active"
+}

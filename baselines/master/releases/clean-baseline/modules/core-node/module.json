@@ -1,0 +1,35 @@
+{
+  "releaseid": "clean-baseline",
+  "moduleid": "core-node",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/core-node",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-node.git",
+  "publish": {
+    "commitid": "28f92aa4c279d9a5ad7bba9ecc956a0502188e96",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "2e3a46b1fbb760107c01ef2e89397fb4e09a6b89",
+    "message": "ITERATION:5\n"
+  },
+  "mergeback": {
+    "commitid": "ce3811538dfd98bcb5abbf29ca08a480f47185eb",
+    "message": "RELEASE:clean-baseline:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "dependencies": [
+    {
+      "moduleid": "core-node",
+      "fullname": "@nebulario/core-node",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ],
+  "created": 1551398328,
+  "updated": 1551398328,
+  "status": "active",
+  "description": "- Bare functionality for a service node\n- Request ID, Express setup, Logger setup"
+}

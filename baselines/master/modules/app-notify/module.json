@@ -1,0 +1,26 @@
+{
+  "moduleid": "app-notify",
+  "releases": [
+    {
+      "releaseid": "dll-ui"
+    }
+  ],
+  "created": 1551716882,
+  "updated": 1551716882,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-common",
+      "references": [
+        {
+          "fullname": "@nebulario/app-notify",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/app-notify"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

@@ -1,0 +1,26 @@
+{
+  "moduleid": "core-node",
+  "releases": [
+    {
+      "releaseid": "clean-baseline"
+    }
+  ],
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "references": [
+        {
+          "fullname": "@nebulario/core-node",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-node"
+        }
+      ]
+    }
+  ],
+  "created": 1551413873,
+  "updated": 1551413873,
+  "status": "active",
+  "dependents": []
+}

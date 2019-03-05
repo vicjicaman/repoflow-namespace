@@ -1,0 +1,14 @@
+{
+  "releaseid": "separate-render",
+  "phase": "released",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "core-render-stateful-web",
+    "core-render-stateful-server"
+  ],
+  "created": 1551760549,
+  "updated": 1551760549,
+  "status": "active"
+}
