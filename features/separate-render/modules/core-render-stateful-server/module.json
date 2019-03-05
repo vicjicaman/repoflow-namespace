@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-render-stateful-server.git",
   "fullname": "@nebulario/core-render-stateful-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1551741531,
   "status": "active",
   "commit": {
-    "commitid": "7998491bfa3cdbf78fad8b4fc8ecdf104c83e4ad",
-    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+    "commitid": "5359f3c948ed3137a3389a9bd15479ab2a935dc5",
+    "message": "ITERATION:1\n"
   }
 }
