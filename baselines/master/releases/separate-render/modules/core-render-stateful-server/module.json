@@ -1,0 +1,21 @@
+{
+  "releaseid": "separate-render",
+  "moduleid": "core-render-stateful-server",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/core-render-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-render-stateful-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "f85958a78eadbcdf4f24b19c1ebaa3d330089394",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Core server part for a stateful web app",
+  "dependencies": [],
+  "dependents": [],
+  "created": 1551760549,
+  "updated": 1551760549,
+  "status": "active"
+}
