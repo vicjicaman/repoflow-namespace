@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "dev",
+  "version": "1.70.0-static-dll-lib-dev",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2583cf3986ead2aa0869fc57e4bfbc1259b391cf",
+    "message": "RELEASE:separate-render:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551829762,
+  "updated": 1551829762,
+  "status": "active"
+}
