@@ -1,0 +1,20 @@
+{
+  "url": "github.com:vicjicaman/dll-apollo.git",
+  "type": "npm",
+  "fullname": "@nebulario/dll-apollo",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "repository": {
+    "url": "github.com:vicjicaman/dll-apollo.git",
+    "commitid": "497a1ace8dc70ff789a786f5d9727fbc99cb6a09"
+  },
+  "runtime": {
+    "run": {
+      "runnable": false
+    }
+  }
+}

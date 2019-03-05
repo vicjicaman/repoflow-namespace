@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.0.11-runtime-rebuild-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8d533da4f947c9296ae48e9351c008eb67ab5cd0",
+    "message": "Add ping instead of direct hash call\n"
+  },
+  "mergeback": null,
+  "releasedOn": 15,
+  "created": 1550539859,
+  "updated": 1550539859,
+  "status": "active"
+}

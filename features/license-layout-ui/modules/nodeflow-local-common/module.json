@@ -1,0 +1,19 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "created": 1551063476,
+  "updated": 1551063476,
+  "status": "active",
+  "commit": {
+    "commitid": "302a40b075ef3e9c9921436e35ada3c70c0e391e",
+    "message": "ITERATION:2\n"
+  }
+}

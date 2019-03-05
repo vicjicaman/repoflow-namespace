@@ -1,0 +1,8 @@
+{
+  "featureid": "graphql-normalization",
+  "baselineid": "master",
+  "description": "- Clear separation on the graph for instance and workspace ",
+  "created": 1551631856,
+  "updated": 1551631856,
+  "status": "active"
+}

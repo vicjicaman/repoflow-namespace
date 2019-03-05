@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.0.10-runtime-rebuild-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": {
+    "commitid": "de0ee21dd0130f6ba817dcb0f438604d5e38d62e",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "0baf44469ef81110fdb1ce9d8d0a2177d68903ea",
+    "message": "Merge branch 'runtime-rebuild/master' of github.com:vicjicaman/nodeflow-local-graph into runtime-rebuild/master\n"
+  },
+  "mergeback": {
+    "commitid": "7adf96744e52e1136d610c19b121a1e79b5818e2",
+    "message": "ITERATION:12\n"
+  },
+  "releasedOn": 12,
+  "created": 1550158186,
+  "updated": 1550158186,
+  "status": "active"
+}

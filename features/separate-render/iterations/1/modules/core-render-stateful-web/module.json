@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-render-stateful-web",
+  "mode": "dev",
+  "version": "1.70.0-separate-render-dev",
+  "fullname": "@nebulario/core-render-stateful-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-render-stateful-web.git",
+  "publish": {
+    "commitid": "30bf250f1c4aee36d4345a13b3a582d491817f38",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "6e1035261b5493ff9a0431bdf0102a27f846fd6e",
+    "message": "RELEASE:hoist-dev-init:1.10.1-master\n"
+  },
+  "mergeback": {
+    "commitid": "27f734e605dd0f102769f85e4a5cae715c8785f4",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1551755375,
+  "updated": 1551755375,
+  "status": "active"
+}

@@ -1,0 +1,8 @@
+{
+  "featureid": "separate-render",
+  "baselineid": "master",
+  "description": "-Separate the render functionality for SSR into a core package for reuse in other services",
+  "created": 1551741169,
+  "updated": 1551741169,
+  "status": "active"
+}

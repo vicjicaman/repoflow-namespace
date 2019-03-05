@@ -1,5 +1,5 @@
 {
   "status": "active",
   "description": "Small patches, fixes, features and changes that goes as a service pack to master. [Should be always in sync with master]",
-  "modules": []
+  "releases": []
 }
