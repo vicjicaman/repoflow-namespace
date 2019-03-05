@@ -1,26 +1,26 @@
 {
-  "moduleid": "core-node",
+  "moduleid": "core-render-stateful-server",
   "releases": [
     {
-      "releaseid": "clean-baseline"
+      "releaseid": "separate-render"
     }
   ],
+  "created": 1551814366,
+  "updated": 1551814366,
+  "status": "active",
   "dependants": [
     {
       "moduleid": "nodeflow-local-server",
       "references": [
         {
-          "fullname": "@nebulario/core-node",
+          "fullname": "@nebulario/core-render-stateful-server",
           "version": "1.70.0-master",
           "kind": "dependency",
           "filename": "package.json",
-          "path": "dependencies.@nebulario/core-node"
+          "path": "dependencies.@nebulario/core-render-stateful-server"
         }
       ]
     }
   ],
-  "created": 1551413873,
-  "updated": 1551413873,
-  "status": "active",
   "dependents": []
 }

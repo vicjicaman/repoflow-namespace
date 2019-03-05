@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-common",
   "releases": [
     {
+      "releaseid": "separate-render"
+    },
+    {
       "releaseid": "dll-ui"
     }
   ],
@@ -13,9 +16,8 @@
       "moduleid": "nodeflow-local-server",
       "references": [
         {
-          "moduleid": "nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -26,12 +28,37 @@
       "moduleid": "nodeflow-local-web",
       "references": [
         {
-          "moduleid": "nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "app-layout",
+      "references": [
+        {
+          "fullname": "@nebulario/app-layout",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/app-layout"
+        }
+      ]
+    },
+    {
+      "moduleid": "app-notify",
+      "references": [
+        {
+          "fullname": "@nebulario/app-notify",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/app-notify"
         }
       ]
     }

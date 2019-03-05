@@ -20,12 +20,14 @@
   ],
   "hierarchy": [
     "nodeflow-local-server",
-    "nodeflow-local-web",
-    "nodeflow-local-graph",
-    "nodeflow-local-common",
-    "core-process",
-    "core-node",
+    "core-render-stateful-server",
     "core-logger",
+    "core-node",
+    "core-process",
+    "nodeflow-local-web",
+    "core-render-stateful-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph",
     "app-notify",
     "app-layout"
   ]

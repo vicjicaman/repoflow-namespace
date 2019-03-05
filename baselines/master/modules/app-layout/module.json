@@ -13,7 +13,6 @@
       "moduleid": "nodeflow-local-common",
       "references": [
         {
-          "moduleid": "app-layout",
           "fullname": "@nebulario/app-layout",
           "version": "1.70.0-master",
           "kind": "dependency",
@@ -22,5 +21,6 @@
         }
       ]
     }
-  ]
+  ],
+  "dependents": []
 }

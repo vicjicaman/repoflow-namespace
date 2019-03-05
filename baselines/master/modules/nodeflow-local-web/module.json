@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-web",
   "releases": [
     {
+      "releaseid": "separate-render"
+    },
+    {
       "releaseid": "dll-ui"
     }
   ],
@@ -13,12 +16,49 @@
       "moduleid": "nodeflow-local-server",
       "references": [
         {
-          "moduleid": "nodeflow-local-web",
           "fullname": "@nebulario/nodeflow-local-web",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "core-render-stateful-web",
+      "references": [
+        {
+          "fullname": "@nebulario/core-render-stateful-web",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-render-stateful-web"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "references": [
+        {
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-common"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "references": [
+        {
+          "fullname": "@nebulario/nodeflow-local-graph",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-graph"
         }
       ]
     }

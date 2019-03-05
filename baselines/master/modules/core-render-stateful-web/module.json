@@ -1,26 +1,26 @@
 {
-  "moduleid": "nodeflow-local-graph",
+  "moduleid": "core-render-stateful-web",
   "releases": [
     {
-      "releaseid": "graphql-normalization"
+      "releaseid": "separate-render"
     }
   ],
+  "created": 1551814366,
+  "updated": 1551814366,
+  "status": "active",
   "dependants": [
     {
       "moduleid": "nodeflow-local-web",
       "references": [
         {
-          "fullname": "@nebulario/nodeflow-local-graph",
+          "fullname": "@nebulario/core-render-stateful-web",
           "version": "1.70.0-master",
           "kind": "dependency",
           "filename": "package.json",
-          "path": "dependencies.@nebulario/nodeflow-local-graph"
+          "path": "dependencies.@nebulario/core-render-stateful-web"
         }
       ]
     }
   ],
-  "created": 1551639719,
-  "updated": 1551639719,
-  "status": "active",
   "dependents": []
 }
