@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.3-static-dll-lib-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6c6a5a03af7df9d0f955a8ffc13f2220fc23adb7",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1551840219,
+  "updated": 1551840219,
+  "status": "active"
+}

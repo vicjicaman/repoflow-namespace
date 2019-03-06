@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.3-static-dll-lib-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9756ff8c5f0c93321e28108da2e6512c519897f6",
+    "message": "Merge branch 'runtime-rebuild/master' of github.com:vicjicaman/nodeflow-local-common into static-dll-lib/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1551840219,
+  "updated": 1551840219,
+  "status": "active"
+}
