@@ -7,6 +7,19 @@
   ],
   "dependants": [
     {
+      "moduleid": "nodeflow-local-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-logger",
+          "fullname": "@nebulario/core-logger",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-logger"
+        }
+      ]
+    },
+    {
       "moduleid": "nodeflow-local-server",
       "references": [
         {
