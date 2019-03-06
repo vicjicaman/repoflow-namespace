@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-common",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "ba550bbff999c56eb8380e46ab38fa1c806a8f5f",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "2583cf3986ead2aa0869fc57e4bfbc1259b391cf",
     "message": "RELEASE:separate-render:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "bf5247886298f23348e7edc191287aae5d1932e4",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1551830401,
   "updated": 1551830401,
