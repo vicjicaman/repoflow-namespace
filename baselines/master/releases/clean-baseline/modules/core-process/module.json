@@ -1,0 +1,35 @@
+{
+  "releaseid": "clean-baseline",
+  "moduleid": "core-process",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/core-process",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-process.git",
+  "publish": {
+    "commitid": "3b06e79d07520ca009122e889e3d54ee64495413",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "267e341b5f45daf6edb82755aafbd0b963c18dbe",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "7135f28b23a16c7162d3e3af3cf38a4afec3316b",
+    "message": "RELEASE:clean-baseline:1.70.0-master\n"
+  },
+  "description": "- Promise process for node\n- Retry and wait utils",
+  "releaseType": "patch",
+  "dependencies": [
+    {
+      "moduleid": "core-process",
+      "fullname": "@nebulario/core-process",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    }
+  ],
+  "created": 1551398328,
+  "updated": 1551398328,
+  "status": "active"
+}

@@ -1,34 +1,40 @@
 {
-      "moduleid": "dll-utils",
-      "featureid": "hoist-dev-init",
-      "branchid": "hoist-dev-init/master",
-      "type": "npm",
-      "fullname": "@nebulario/dll-utils",
-      "url": "github.com:vicjicaman/dll-utils.git",
-      "release": {
-        "type": "patch"
-      },
-      "version": "1.10.1-master",
-      "feature": {
-        "message": "RELEASE:hoist-dev-init\n",
-        "commitid": "cfdb2656bbe60f76dcbc23bd4b13d5c813ff4e3f"
-      },
-      "baseline": {
-        "message": "RELEASE:local-ui-graph:1.0.0-master",
-        "commitid": "613c8391aa348773bd6b3149d8275a10693e7f00"
-      },
-      "dependencies": [
-        {
-          "moduleid": "dll-utils",
-          "fullname": "@nebulario/dll-utils",
-          "version": "1.10.1-master",
-          "kind": "inner",
-          "filename": "package.json",
-          "path": "version"
-        }
-      ],
-      "released": {
-        "commitid": "64f0f36be2886a5dd60d836b2bd3819f9d0f8595",
-        "message": "RELEASE:hoist-dev-init:1.10.1-master"
-      }
+  "moduleid": "dll-utils",
+  "releases": [
+    {
+      "releaseid": "static-dll-lib"
     }
+  ],
+  "created": 1551844535,
+  "updated": 1551844535,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-utils",
+          "fullname": "@nebulario/dll-utils",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-utils"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-utils",
+          "fullname": "@nebulario/dll-utils",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-utils"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

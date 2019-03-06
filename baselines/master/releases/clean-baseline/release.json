@@ -1,0 +1,12 @@
+{
+  "releaseid": "clean-baseline",
+  "phase": "released",
+  "hierarchy": [
+    "core-logger",
+    "core-node",
+    "core-process"
+  ],
+  "created": 1551398328,
+  "updated": 1551398328,
+  "status": "active"
+}

@@ -1,34 +1,27 @@
 {
-      "moduleid": "core-render-stateful-server",
-      "featureid": "hoist-dev-init",
-      "branchid": "hoist-dev-init/master",
-      "type": "npm",
-      "fullname": "@nebulario/core-render-stateful-server",
-      "url": "github.com:vicjicaman/core-render-stateful-server.git",
-      "release": {
-        "type": "patch"
-      },
-      "version": "1.10.1-master",
-      "feature": {
-        "message": "RELEASE:hoist-dev-init\n",
-        "commitid": "68e45291db5ec2a639592db617f2f06baf56da8d"
-      },
-      "baseline": {
-        "message": "RELEASE:local-ui-graph:1.0.0-master",
-        "commitid": "08f508137a25ea5fd38bb1a2b75770da7b4461f5"
-      },
-      "dependencies": [
-        {
-          "moduleid": "core-render-stateful-server",
-          "fullname": "@nebulario/core-render-stateful-server",
-          "version": "1.10.1-master",
-          "kind": "inner",
-          "filename": "package.json",
-          "path": "version"
-        }
-      ],
-      "released": {
-        "commitid": "7998491bfa3cdbf78fad8b4fc8ecdf104c83e4ad",
-        "message": "RELEASE:hoist-dev-init:1.10.1-master"
-      }
+  "moduleid": "core-render-stateful-server",
+  "releases": [
+    {
+      "releaseid": "separate-render"
     }
+  ],
+  "created": 1551814366,
+  "updated": 1551814366,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-render-stateful-server",
+          "fullname": "@nebulario/core-render-stateful-server",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-render-stateful-server"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

@@ -1,0 +1,19 @@
+{
+  "moduleid": "dll-react",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-react.git",
+  "fullname": "@nebulario/dll-react",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "created": 1551067531,
+  "updated": 1551067531,
+  "status": "active",
+  "commit": {
+    "commitid": "131e233c9e908fdccb08bdc0dc579c3c63bc1a58",
+    "message": "ITERATION:2\n"
+  }
+}

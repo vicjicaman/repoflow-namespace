@@ -1,51 +1,163 @@
 {
   "moduleid": "nodeflow-local-server",
-  "featureid": "package-labels",
-  "branchid": "package-labels/master",
-  "type": "npm",
-  "fullname": "@nebulario/nodeflow-local-server",
-  "url": "github.com:vicjicaman/nodeflow-local-server.git",
-  "release": {
-    "type": "patch"
-  },
-  "version": "1.50.0-master",
-  "feature": {
-    "message": "RELEASE:package-labels\n",
-    "commitid": "eefea60b8e4d0e2531f6b2e4c4c1bd6df2c37f35"
-  },
-  "baseline": {
-    "message": "RELEASE:hoist-dev-init:1.10.1-master",
-    "commitid": "eb0914ffb44be98a77f2411e9396cdfad0602e32"
-  },
-  "dependencies": [
+  "releases": [
     {
-      "moduleid": "nodeflow-local-server",
-      "fullname": "@nebulario/nodeflow-local-server",
-      "version": "1.50.0-master",
-      "kind": "inner",
-      "filename": "package.json",
-      "path": "version"
+      "releaseid": "static-dll-lib"
+    },
+    {
+      "releaseid": "separate-render"
+    },
+    {
+      "releaseid": "dll-ui"
+    }
+  ],
+  "created": 1551716881,
+  "updated": 1551716881,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "core-logger",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-logger",
+          "fullname": "@nebulario/core-logger",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-logger"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-node",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-node",
+          "fullname": "@nebulario/core-node",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-node"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-process",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-render-stateful-server",
+          "fullname": "@nebulario/core-render-stateful-server",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-render-stateful-server"
+        }
+      ]
+    },
+    {
+      "moduleid": "dll-apollo",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-apollo",
+          "fullname": "@nebulario/dll-apollo",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-apollo"
+        }
+      ]
+    },
+    {
+      "moduleid": "dll-react",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-react",
+          "fullname": "@nebulario/dll-react",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-react"
+        }
+      ]
+    },
+    {
+      "moduleid": "dll-redux",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-redux",
+          "fullname": "@nebulario/dll-redux",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-redux"
+        }
+      ]
+    },
+    {
+      "moduleid": "dll-utils",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-utils",
+          "fullname": "@nebulario/dll-utils",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-utils"
+        }
+      ]
+    },
+    {
+      "moduleid": "dll-vendor",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-vendor",
+          "fullname": "@nebulario/dll-vendor",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-vendor"
+        }
+      ]
     },
     {
       "moduleid": "nodeflow-local-common",
-      "fullname": "@nebulario/nodeflow-local-common",
-      "version": "1.0.0-master",
-      "kind": "dependency",
-      "filename": "package.json",
-      "path": "dependencies.@nebulario/nodeflow-local-common"
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-common"
+        }
+      ]
     },
     {
       "moduleid": "nodeflow-local-web",
-      "fullname": "@nebulario/nodeflow-local-web",
-      "version": "1.0.0-master",
-      "kind": "dependency",
-      "filename": "package.json",
-      "path": "dependencies.@nebulario/nodeflow-local-web"
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-web",
+          "fullname": "@nebulario/nodeflow-local-web",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-web"
+        }
+      ]
     }
-  ],
-  "released": {
-    "commitid": "59cee01f51edd73bb53eee90eced6c90c7603299",
-    "message": "RELEASE:package-labels:1.10.2-master"
-  },
-  "releaseid": "runtime-rebuild"
+  ]
 }

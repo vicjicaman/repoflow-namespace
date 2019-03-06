@@ -1,34 +1,40 @@
 {
-      "moduleid": "dll-apollo",
-      "featureid": "hoist-dev-init",
-      "branchid": "hoist-dev-init/master",
-      "type": "npm",
-      "fullname": "@nebulario/dll-apollo",
-      "url": "github.com:vicjicaman/dll-apollo.git",
-      "release": {
-        "type": "patch"
-      },
-      "version": "1.10.1-master",
-      "feature": {
-        "message": "RELEASE:hoist-dev-init\n",
-        "commitid": "497a1ace8dc70ff789a786f5d9727fbc99cb6a09"
-      },
-      "baseline": {
-        "message": "RELEASE:local-ui-graph:1.0.0-master",
-        "commitid": "e9b81f88fba853beb2dbd397e12c450c4a4acfbb"
-      },
-      "dependencies": [
-        {
-          "moduleid": "dll-apollo",
-          "fullname": "@nebulario/dll-apollo",
-          "version": "1.10.1-master",
-          "kind": "inner",
-          "filename": "package.json",
-          "path": "version"
-        }
-      ],
-      "released": {
-        "commitid": "8924f67dfb9726f3b13f3aa80bf69dfc800fc444",
-        "message": "RELEASE:hoist-dev-init:1.10.1-master"
-      }
+  "moduleid": "dll-apollo",
+  "releases": [
+    {
+      "releaseid": "static-dll-lib"
     }
+  ],
+  "created": 1551844534,
+  "updated": 1551844534,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-apollo",
+          "fullname": "@nebulario/dll-apollo",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-apollo"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-apollo",
+          "fullname": "@nebulario/dll-apollo",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-apollo"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

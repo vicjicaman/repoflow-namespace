@@ -1,6 +1,0 @@
-{
-  "status": "active",
-  "baselineid": "master",
-  "description": "- fix the conflict release packages 1.0.0-master generated in development\n- packages begins with 1.10.0-master",
-  "modules": []
-}

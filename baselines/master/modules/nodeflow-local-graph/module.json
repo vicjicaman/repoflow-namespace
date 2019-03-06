@@ -1,34 +1,27 @@
 {
   "moduleid": "nodeflow-local-graph",
-  "releaseid": "runtime-rebuild",
-  "branchid": "package-labels/master",
-  "type": "npm",
-  "fullname": "@nebulario/nodeflow-local-graph",
-  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-  "release": {
-    "type": "patch"
-  },
-  "version": "1.50.0-master",
-  "feature": {
-    "message": "RELEASE:package-labels\n",
-    "commitid": "0c818503351cd2b632825097ce766a5102566a50"
-  },
-  "baseline": {
-    "message": "RELEASE:hoist-dev-init:1.10.1-master",
-    "commitid": "958a14ab6335b17257c32ada14669eec3b9f1b54"
-  },
-  "dependencies": [
+  "releases": [
     {
-      "moduleid": "nodeflow-local-graph",
-      "fullname": "@nebulario/nodeflow-local-graph",
-      "version": "1.41.0-master",
-      "kind": "inner",
-      "filename": "package.json",
-      "path": "version"
+      "releaseid": "graphql-normalization"
     }
   ],
-  "released": {
-    "commitid": "542d5b99d24c4ec8792a2c8b158fedb54dc9af10",
-    "message": "RELEASE:package-labels:1.10.2-master"
-  }
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
+          "fullname": "@nebulario/nodeflow-local-graph",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-graph"
+        }
+      ]
+    }
+  ],
+  "created": 1551639719,
+  "updated": 1551639719,
+  "status": "active",
+  "dependents": []
 }

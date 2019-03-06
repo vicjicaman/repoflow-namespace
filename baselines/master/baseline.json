@@ -3,16 +3,40 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
-      "releaseid": "runtime-rebuild"
+      "releaseid": "static-dll-lib"
     },
     {
-      "releaseid": "web-integration"
+      "releaseid": "separate-render"
     },
     {
-      "releaseid": "initial-graph"
+      "releaseid": "package-labels"
     },
     {
-      "releaseid": "core-pkg"
+      "releaseid": "dll-ui"
+    },
+    {
+      "releaseid": "graphql-normalization"
+    },
+    {
+      "releaseid": "clean-baseline"
     }
+  ],
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "core-logger",
+    "core-node",
+    "core-process",
+    "core-render-stateful-server",
+    "core-render-stateful-web",
+    "dll-apollo",
+    "dll-react",
+    "dll-redux",
+    "dll-utils",
+    "dll-vendor",
+    "nodeflow-local-common",
+    "nodeflow-local-graph",
+    "app-notify",
+    "app-layout"
   ]
 }

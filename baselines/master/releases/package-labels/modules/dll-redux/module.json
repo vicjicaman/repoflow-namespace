@@ -1,0 +1,21 @@
+{
+  "releaseid": "package-labels",
+  "moduleid": "dll-redux",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-redux.git",
+  "publish": null,
+  "released": {
+    "commitid": "61d99d32a18beafda6137587b27722754bf8c37a",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- DLL to group all the common Redux libraries, versions and functionality",
+  "dependencies": [],
+  "dependents": [],
+  "created": 1551722727,
+  "updated": 1551722727,
+  "status": "active"
+}

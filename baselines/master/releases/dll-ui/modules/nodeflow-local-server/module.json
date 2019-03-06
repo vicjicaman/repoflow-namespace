@@ -1,0 +1,142 @@
+{
+  "releaseid": "dll-ui",
+  "moduleid": "nodeflow-local-server",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": {
+    "commitid": "80283d18f631f6e0ec43444cec0b816cf1e39e86",
+    "message": "Publish modifications\n"
+  },
+  "released": {
+    "commitid": "0efadda984980d48da1236f58ae3800c7b586333",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "84b3aa445259c8663514023e7a958b76a53b0357",
+    "message": "RELEASE:dll-ui:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "- SSR service for repoflow tool based on common code",
+  "dependencies": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "moduleid": "core-logger",
+      "fullname": "@nebulario/core-logger",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-logger"
+    },
+    {
+      "moduleid": "core-node",
+      "fullname": "@nebulario/core-node",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-node"
+    },
+    {
+      "moduleid": "core-process",
+      "fullname": "@nebulario/core-process",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-process"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "fullname": "@nebulario/nodeflow-local-common",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-common"
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "fullname": "@nebulario/nodeflow-local-web",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-web"
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "core-logger",
+      "references": [
+        {
+          "moduleid": "core-logger",
+          "fullname": "@nebulario/core-logger",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-logger"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-node",
+      "references": [
+        {
+          "moduleid": "core-node",
+          "fullname": "@nebulario/core-node",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-node"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-process",
+      "references": [
+        {
+          "moduleid": "core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "references": [
+        {
+          "moduleid": "nodeflow-local-common",
+          "fullname": "@nebulario/nodeflow-local-common",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-common"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "moduleid": "nodeflow-local-web",
+          "fullname": "@nebulario/nodeflow-local-web",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-web"
+        }
+      ]
+    }
+  ],
+  "created": 1551666175,
+  "updated": 1551666175,
+  "status": "active"
+}

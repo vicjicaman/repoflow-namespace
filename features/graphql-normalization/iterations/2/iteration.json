@@ -1,0 +1,17 @@
+{
+  "iterationid": 2,
+  "phase": "iterated",
+  "hierarchy": [
+    "nodeflow-local-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "nodeflow-local-graph",
+      "version": "1.70.1-graphql-normalization-dev",
+      "iterationid": 2
+    }
+  ],
+  "created": 1551636897,
+  "updated": 1551636897,
+  "status": "active"
+}
