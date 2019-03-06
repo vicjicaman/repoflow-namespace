@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-plugin-request.git",
   "fullname": "@nebulario/core-plugin-request",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common functionality for repoflow plugins",
   "created": 1551889406,
   "updated": 1551889406,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6ea6ffe03276fad7562b624441ce20e135f9c276",
+    "message": "Add configure option for plugins\n"
+  }
 }

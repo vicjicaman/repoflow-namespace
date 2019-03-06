@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
   "fullname": "@nebulario/repoflow-plugin-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for container image with a NPM package as service",
   "created": 1551890888,
   "updated": 1551890888,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9c980c0625bc2b0bfedf3d25f1b77b635ac88348",
+    "message": "ITERATION:1\n"
+  }
 }
