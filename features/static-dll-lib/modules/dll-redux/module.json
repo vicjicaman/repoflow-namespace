@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-redux.git",
   "fullname": "@nebulario/dll-redux",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1551826578,
   "status": "active",
   "commit": {
-    "commitid": "721cf9a1b4b574d89b9e4bdf599587c4177ef3a3",
-    "message": "RELEASE:package-labels:1.70.0-master\n"
+    "commitid": "53eee4f7a37ed6b4167c7ec7b3e886600a5c6d5d",
+    "message": "ITERATION:2\n"
   }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1551826119,
   "status": "active",
   "commit": {
-    "commitid": "b078cc0af045cd7fa1bb7a652690a1c9a5997a21",
-    "message": "RELEASE:separate-render:1.70.1-master\n"
+    "commitid": "bd2e0b6c36c55d4836f1c7d71e6d22602b75e2f7",
+    "message": "ITERATION:2\n"
   }
 }

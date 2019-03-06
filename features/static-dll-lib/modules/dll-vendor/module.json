@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-vendor.git",
   "fullname": "@nebulario/dll-vendor",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1551827204,
   "status": "active",
   "commit": {
-    "commitid": "603a168b8b20878393572beda0e3fdf3bd5b8559",
-    "message": "RELEASE:package-labels:1.70.0-master\n"
+    "commitid": "210cb1e21cd331e0b56855fc1a0597742a0b82a0",
+    "message": "ITERATION:2\n"
   }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-apollo.git",
   "fullname": "@nebulario/dll-apollo",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1551821794,
   "status": "active",
   "commit": {
-    "commitid": "f6cd2ff2e3a4691f8a553ee7f91a2445ab5993dd",
-    "message": "RELEASE:package-labels:1.70.0-master\n"
+    "commitid": "c35bec387a73a6bad4de9b4f72b7fa2fa0918e65",
+    "message": "ITERATION:2\n"
   }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-utils.git",
   "fullname": "@nebulario/dll-utils",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1551826716,
   "status": "active",
   "commit": {
-    "commitid": "f71575b9152de0d459bdbd4e70e4ea4765c36971",
-    "message": "RELEASE:package-labels:1.70.0-master\n"
+    "commitid": "2dcbe4a3b74b5c8007791ee89ae512d66a619392",
+    "message": "ITERATION:2\n"
   }
 }
