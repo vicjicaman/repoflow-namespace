@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.1-license-layout-ui-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a8f3511edb985b87aa243267bc2273f7902624df",
+    "message": "Sync dependencies to latest baseline release\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1551913242,
+  "updated": 1551913242,
+  "status": "active"
+}

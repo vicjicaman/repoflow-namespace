@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.1-license-layout-ui-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "fd3c361040ee70119e950510b4054f5e12b9aef8",
+    "message": "Sync dependencies to latest baseline release\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1551913242,
+  "updated": 1551913242,
+  "status": "active"
+}
