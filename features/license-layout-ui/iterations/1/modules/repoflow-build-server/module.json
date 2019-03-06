@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.0-license-layout-ui-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d258866c59b1054d0880abb5b664489aa009e916",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551912563,
+  "updated": 1551912563,
+  "status": "active"
+}
