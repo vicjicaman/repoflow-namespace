@@ -1,0 +1,17 @@
+{
+  "releaseid": "static-dll-lib",
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "dll-apollo",
+    "dll-react",
+    "dll-redux",
+    "dll-utils",
+    "dll-vendor",
+    "nodeflow-local-common"
+  ],
+  "created": 1551841915,
+  "updated": 1551841915,
+  "status": "active"
+}
