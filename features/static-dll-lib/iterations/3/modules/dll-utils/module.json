@@ -5,12 +5,18 @@
   "fullname": "@nebulario/dll-utils",
   "type": "npm",
   "url": "github.com:vicjicaman/dll-utils.git",
-  "publish": null,
+  "publish": {
+    "commitid": "0afa75f3d73ffce6e78ed2e2f16cf46ea9de0d7d",
+    "message": "Sync to production iteration version\n"
+  },
   "iterate": {
     "commitid": "2dcbe4a3b74b5c8007791ee89ae512d66a619392",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d83f94844bae0bdc012b51aa6771060231c64b33",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1551838451,
   "updated": 1551838451,

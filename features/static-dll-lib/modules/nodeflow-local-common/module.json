@@ -14,7 +14,7 @@
   "updated": 1551826134,
   "status": "active",
   "commit": {
-    "commitid": "bf5247886298f23348e7edc191287aae5d1932e4",
-    "message": "ITERATION:2\n"
+    "commitid": "9756ff8c5f0c93321e28108da2e6512c519897f6",
+    "message": "Merge branch 'runtime-rebuild/master' of github.com:vicjicaman/nodeflow-local-common into static-dll-lib/master\n"
   }
 }
