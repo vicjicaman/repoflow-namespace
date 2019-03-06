@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "dev",
+  "version": "1.70.1-static-dll-lib-dev",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b078cc0af045cd7fa1bb7a652690a1c9a5997a21",
+    "message": "RELEASE:separate-render:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1551830401,
+  "updated": 1551830401,
+  "status": "active"
+}

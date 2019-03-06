@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-react",
+  "mode": "dev",
+  "version": "1.70.1-static-dll-lib-dev",
+  "fullname": "@nebulario/dll-react",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-react.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "210db5d0dd3b5fa3c8320fc7c1d8f289c40ff184",
+    "message": "Test change\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1551830401,
+  "updated": 1551830401,
+  "status": "active"
+}

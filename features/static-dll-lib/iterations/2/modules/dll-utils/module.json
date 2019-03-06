@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-utils",
+  "mode": "dev",
+  "version": "1.70.1-static-dll-lib-dev",
+  "fullname": "@nebulario/dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f71575b9152de0d459bdbd4e70e4ea4765c36971",
+    "message": "RELEASE:package-labels:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1551830401,
+  "updated": 1551830401,
+  "status": "active"
+}
