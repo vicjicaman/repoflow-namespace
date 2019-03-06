@@ -1,0 +1,20 @@
+{
+  "releaseid": "license-layout",
+  "moduleid": "nodeflow-local-graph",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "bfd8b2d20b1c4a8ce75df954b921157164ec4e61",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "dependencies": [],
+  "created": 1551850401,
+  "updated": 1551850401,
+  "status": "active"
+}
