@@ -14,7 +14,7 @@
   "updated": 1551889406,
   "status": "active",
   "commit": {
-    "commitid": "6ea6ffe03276fad7562b624441ce20e135f9c276",
-    "message": "Add configure option for plugins\n"
+    "commitid": "fd3c361040ee70119e950510b4054f5e12b9aef8",
+    "message": "Sync dependencies to latest baseline release\n"
   }
 }
