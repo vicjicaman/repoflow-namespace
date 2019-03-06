@@ -27,19 +27,19 @@
   "hierarchy": [
     "nodeflow-local-server",
     "nodeflow-local-web",
-    "core-logger",
-    "core-node",
-    "core-process",
     "core-render-stateful-server",
+    "nodeflow-local-graph",
+    "nodeflow-local-common",
+    "dll-react",
     "core-render-stateful-web",
     "dll-apollo",
-    "dll-react",
+    "dll-vendor",
     "dll-redux",
     "dll-utils",
-    "dll-vendor",
-    "nodeflow-local-common",
-    "nodeflow-local-graph",
     "app-notify",
+    "core-process",
+    "core-node",
+    "core-logger",
     "app-layout"
   ]
 }

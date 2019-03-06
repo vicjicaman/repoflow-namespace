@@ -1,6 +1,6 @@
 {
   "releaseid": "license-layout",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "nodeflow-local-graph"
   ],
