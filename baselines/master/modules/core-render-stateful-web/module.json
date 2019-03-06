@@ -13,6 +13,7 @@
       "moduleid": "nodeflow-local-web",
       "references": [
         {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-render-stateful-web",
           "fullname": "@nebulario/core-render-stateful-web",
           "version": "1.70.0-master",
           "kind": "dependency",

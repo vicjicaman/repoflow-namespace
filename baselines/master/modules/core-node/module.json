@@ -10,6 +10,7 @@
       "moduleid": "nodeflow-local-server",
       "references": [
         {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-node",
           "fullname": "@nebulario/core-node",
           "version": "1.70.0-master",
           "kind": "dependency",

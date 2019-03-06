@@ -1,0 +1,24 @@
+{
+  "moduleid": "dll-apollo",
+  "mode": "prod",
+  "version": "1.70.2-static-dll-lib-prod",
+  "fullname": "@nebulario/dll-apollo",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-apollo.git",
+  "publish": {
+    "commitid": "b9cc9ade42eadc58d1192f63400000231ec2f69b",
+    "message": "Sync to production iteration version\n"
+  },
+  "iterate": {
+    "commitid": "c35bec387a73a6bad4de9b4f72b7fa2fa0918e65",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "4225beb838bfb3f528189891b68e62ee18348de6",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1551838451,
+  "updated": 1551838451,
+  "status": "active"
+}

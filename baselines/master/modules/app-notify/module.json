@@ -13,6 +13,7 @@
       "moduleid": "nodeflow-local-common",
       "references": [
         {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/app-notify",
           "fullname": "@nebulario/app-notify",
           "version": "1.70.0-master",
           "kind": "dependency",

@@ -1,0 +1,24 @@
+{
+  "moduleid": "dll-vendor",
+  "mode": "prod",
+  "version": "1.70.2-static-dll-lib-prod",
+  "fullname": "@nebulario/dll-vendor",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-vendor.git",
+  "publish": {
+    "commitid": "47fef516d941f4ff84c8ed480ebc7b5b0b353a93",
+    "message": "Sync to production iteration version\n"
+  },
+  "iterate": {
+    "commitid": "210cb1e21cd331e0b56855fc1a0597742a0b82a0",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "ac51de957cd1c9a4e22be47513ac5f69206543af",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1551838451,
+  "updated": 1551838451,
+  "status": "active"
+}

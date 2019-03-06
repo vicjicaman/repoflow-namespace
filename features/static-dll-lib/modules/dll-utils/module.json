@@ -1,0 +1,20 @@
+{
+  "moduleid": "dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "fullname": "@nebulario/dll-utils",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "DLL for utils libraries, lodash, moment, etc",
+  "created": 1551826716,
+  "updated": 1551826716,
+  "status": "active",
+  "commit": {
+    "commitid": "d83f94844bae0bdc012b51aa6771060231c64b33",
+    "message": "ITERATION:3\n"
+  }
+}

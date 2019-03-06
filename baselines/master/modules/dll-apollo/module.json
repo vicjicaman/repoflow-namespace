@@ -1,0 +1,40 @@
+{
+  "moduleid": "dll-apollo",
+  "releases": [
+    {
+      "releaseid": "static-dll-lib"
+    }
+  ],
+  "created": 1551844534,
+  "updated": 1551844534,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-apollo",
+          "fullname": "@nebulario/dll-apollo",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-apollo"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-apollo",
+          "fullname": "@nebulario/dll-apollo",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-apollo"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}
