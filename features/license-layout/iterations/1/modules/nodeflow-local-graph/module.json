@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.0-license-layout-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "bdc2ad868124858732f1ba59e3937ca159ce50e0",
+    "message": "Merge branch 'runtime-rebuild/master' of github.com:vicjicaman/nodeflow-local-graph into license-layout/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1551849112,
+  "updated": 1551849112,
+  "status": "active"
+}
