@@ -1,0 +1,17 @@
+{
+  "iterationid": 3,
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "nodeflow-local-graph",
+      "version": "1.70.2-license-layout-prod",
+      "iterationid": 3
+    }
+  ],
+  "created": 1551849954,
+  "updated": 1551849954,
+  "status": "active"
+}
