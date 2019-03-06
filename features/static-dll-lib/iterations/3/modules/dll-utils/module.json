@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-utils",
+  "mode": "prod",
+  "version": "1.70.2-static-dll-lib-prod",
+  "fullname": "@nebulario/dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2dcbe4a3b74b5c8007791ee89ae512d66a619392",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1551838451,
+  "updated": 1551838451,
+  "status": "active"
+}

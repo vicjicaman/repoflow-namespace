@@ -1,0 +1,59 @@
+{
+  "iterationid": 3,
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "dll-apollo",
+    "dll-react",
+    "dll-redux",
+    "dll-utils",
+    "dll-vendor",
+    "nodeflow-local-common"
+  ],
+  "latest": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.70.2-static-dll-lib-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "version": "1.70.2-static-dll-lib-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "dll-apollo",
+      "version": "1.70.2-static-dll-lib-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "dll-react",
+      "version": "1.70.2-static-dll-lib-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "dll-redux",
+      "version": "1.70.2-static-dll-lib-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "dll-utils",
+      "version": "1.70.2-static-dll-lib-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "dll-vendor",
+      "version": "1.70.2-static-dll-lib-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.70.2-static-dll-lib-prod",
+      "iterationid": 3
+    }
+  ],
+  "created": 1551838451,
+  "updated": 1551838451,
+  "status": "active"
+}
