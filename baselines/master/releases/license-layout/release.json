@@ -1,0 +1,10 @@
+{
+  "releaseid": "license-layout",
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-graph"
+  ],
+  "created": 1551850401,
+  "updated": 1551850401,
+  "status": "active"
+}
