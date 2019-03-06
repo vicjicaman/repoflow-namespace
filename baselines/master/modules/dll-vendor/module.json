@@ -1,0 +1,40 @@
+{
+  "moduleid": "dll-vendor",
+  "releases": [
+    {
+      "releaseid": "static-dll-lib"
+    }
+  ],
+  "created": 1551844535,
+  "updated": 1551844535,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-vendor",
+          "fullname": "@nebulario/dll-vendor",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-vendor"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-vendor",
+          "fullname": "@nebulario/dll-vendor",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-vendor"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

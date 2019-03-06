@@ -13,6 +13,7 @@
       "moduleid": "nodeflow-local-server",
       "references": [
         {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-render-stateful-server",
           "fullname": "@nebulario/core-render-stateful-server",
           "version": "1.70.0-master",
           "kind": "dependency",

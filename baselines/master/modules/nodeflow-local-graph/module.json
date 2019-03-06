@@ -10,6 +10,7 @@
       "moduleid": "nodeflow-local-web",
       "references": [
         {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
           "version": "1.70.0-master",
           "kind": "dependency",

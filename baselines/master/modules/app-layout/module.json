@@ -13,6 +13,7 @@
       "moduleid": "nodeflow-local-common",
       "references": [
         {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/app-layout",
           "fullname": "@nebulario/app-layout",
           "version": "1.70.0-master",
           "kind": "dependency",

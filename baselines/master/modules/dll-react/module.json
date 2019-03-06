@@ -1,0 +1,40 @@
+{
+  "moduleid": "dll-react",
+  "releases": [
+    {
+      "releaseid": "static-dll-lib"
+    }
+  ],
+  "created": 1551844535,
+  "updated": 1551844535,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-react",
+          "fullname": "@nebulario/dll-react",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-react"
+        }
+      ]
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-react",
+          "fullname": "@nebulario/dll-react",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/dll-react"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}
