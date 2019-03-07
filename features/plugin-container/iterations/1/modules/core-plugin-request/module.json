@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.0-plugin-container-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": {
+    "commitid": "7cf52d3e241197a81ccba7d5f724ceecd84d9fbf",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "8a010e945fe35e1ebdf2be34d466f0930a43f767",
+    "message": "Container plugin update to new schema\n"
+  },
+  "mergeback": {
+    "commitid": "e55296875f6cd947da4cf19831c94de2d702b4e4",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1552000291,
+  "updated": 1552000291,
+  "status": "active"
+}
