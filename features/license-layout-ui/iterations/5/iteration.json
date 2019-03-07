@@ -1,6 +1,6 @@
 {
-  "iterationid": 4,
-  "phase": "invalid",
+  "iterationid": 5,
+  "phase": "iterated",
   "hierarchy": [
     "repoflow-build-server",
     "repoflow-plugin-container",
@@ -10,26 +10,26 @@
   "latest": [
     {
       "moduleid": "repoflow-build-server",
-      "version": "1.70.3-license-layout-ui-prod",
-      "iterationid": 4
+      "version": "1.70.4-license-layout-ui-prod",
+      "iterationid": 5
     },
     {
       "moduleid": "repoflow-plugin-container",
-      "version": "1.70.3-license-layout-ui-prod",
-      "iterationid": 4
+      "version": "1.70.4-license-layout-ui-prod",
+      "iterationid": 5
     },
     {
       "moduleid": "repoflow-plugin-npm",
-      "version": "1.70.3-license-layout-ui-prod",
-      "iterationid": 4
+      "version": "1.70.4-license-layout-ui-prod",
+      "iterationid": 5
     },
     {
       "moduleid": "core-plugin-request",
-      "version": "1.70.3-license-layout-ui-prod",
-      "iterationid": 4
+      "version": "1.70.4-license-layout-ui-prod",
+      "iterationid": 5
     }
   ],
-  "created": 1551915974,
-  "updated": 1551915974,
+  "created": 1551916001,
+  "updated": 1551916001,
   "status": "active"
 }

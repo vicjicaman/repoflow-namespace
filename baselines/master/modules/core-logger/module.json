@@ -31,6 +31,19 @@
           "path": "dependencies.@nebulario/core-logger"
         }
       ]
+    },
+    {
+      "moduleid": "repoflow-build-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-logger",
+          "fullname": "@nebulario/core-logger",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-logger"
+        }
+      ]
     }
   ],
   "created": 1551413872,

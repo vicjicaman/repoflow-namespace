@@ -1,47 +1,35 @@
 {
   "iterationid": 2,
-  "phase": "iterated",
+  "phase": "invalid",
   "hierarchy": [
-    "nodeflow-local-server",
-    "nodeflow-local-web",
-    "dll-apollo",
-    "dll-react",
-    "dll-redux",
-    "nodeflow-local-common"
+    "repoflow-build-server",
+    "repoflow-plugin-container",
+    "repoflow-plugin-npm",
+    "core-plugin-request"
   ],
   "latest": [
     {
-      "moduleid": "nodeflow-local-server",
-      "iterationid": 2,
-      "version": "1.0.0-license-layout-ui-prod"
+      "moduleid": "repoflow-build-server",
+      "version": "1.70.1-license-layout-ui-prod",
+      "iterationid": 2
     },
     {
-      "moduleid": "nodeflow-local-web",
-      "iterationid": 2,
-      "version": "1.0.0-license-layout-ui-prod"
+      "moduleid": "repoflow-plugin-container",
+      "version": "1.70.1-license-layout-ui-prod",
+      "iterationid": 2
     },
     {
-      "moduleid": "dll-apollo",
-      "iterationid": 2,
-      "version": "1.0.0-license-layout-ui-prod"
+      "moduleid": "repoflow-plugin-npm",
+      "version": "1.70.1-license-layout-ui-prod",
+      "iterationid": 2
     },
     {
-      "moduleid": "dll-react",
-      "iterationid": 2,
-      "version": "1.0.0-license-layout-ui-prod"
-    },
-    {
-      "moduleid": "dll-redux",
-      "iterationid": 2,
-      "version": "1.0.0-license-layout-ui-prod"
-    },
-    {
-      "moduleid": "nodeflow-local-common",
-      "iterationid": 2,
-      "version": "1.0.0-license-layout-ui-prod"
+      "moduleid": "core-plugin-request",
+      "version": "1.70.1-license-layout-ui-prod",
+      "iterationid": 2
     }
   ],
-  "created": 1551110851,
-  "updated": 1551110851,
+  "created": 1551913242,
+  "updated": 1551913242,
   "status": "active"
 }

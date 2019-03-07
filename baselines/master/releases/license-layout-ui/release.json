@@ -1,0 +1,13 @@
+{
+  "releaseid": "license-layout-ui",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-build-server",
+    "repoflow-plugin-container",
+    "repoflow-plugin-npm",
+    "core-plugin-request"
+  ],
+  "created": 1551926290,
+  "updated": 1551926290,
+  "status": "active"
+}
