@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-plugin-request.git",
   "fullname": "@nebulario/core-plugin-request",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common functionality for repoflow plugins",
   "created": 1551977073,
   "updated": 1551977073,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8a010e945fe35e1ebdf2be34d466f0930a43f767",
+    "message": "Container plugin update to new schema\n"
+  }
 }

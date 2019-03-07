@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
   "fullname": "@nebulario/repoflow-plugin-npm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin for NPM repositories",
   "created": 1552000096,
   "updated": 1552000096,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "57cea362f8f09f65a07998cf3ad93f196aabf5b5",
+    "message": "RELEASE:license-layout-ui:1.70.0-master\n"
+  }
 }
