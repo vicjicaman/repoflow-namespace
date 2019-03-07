@@ -1,6 +1,6 @@
 {
   "releaseid": "plugin-container",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-plugin-container",
     "repoflow-plugin-npm",
