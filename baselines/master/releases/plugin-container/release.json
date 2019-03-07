@@ -1,0 +1,12 @@
+{
+  "releaseid": "plugin-container",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-plugin-container",
+    "repoflow-plugin-npm",
+    "core-plugin-request"
+  ],
+  "created": 1552001092,
+  "updated": 1552001092,
+  "status": "active"
+}
