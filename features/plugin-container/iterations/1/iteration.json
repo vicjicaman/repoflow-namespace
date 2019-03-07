@@ -1,0 +1,29 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-plugin-container",
+    "repoflow-plugin-npm",
+    "core-plugin-request"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-plugin-container",
+      "iterationid": 1,
+      "version": "1.70.0-plugin-container-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "iterationid": 1,
+      "version": "1.70.0-plugin-container-prod"
+    },
+    {
+      "moduleid": "core-plugin-request",
+      "iterationid": 1,
+      "version": "1.70.0-plugin-container-prod"
+    }
+  ],
+  "created": 1552000291,
+  "updated": 1552000291,
+  "status": "active"
+}

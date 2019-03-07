@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.0-plugin-container-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "57cea362f8f09f65a07998cf3ad93f196aabf5b5",
+    "message": "RELEASE:license-layout-ui:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1552000291,
+  "updated": 1552000291,
+  "status": "active"
+}
