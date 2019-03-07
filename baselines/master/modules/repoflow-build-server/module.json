@@ -1,0 +1,53 @@
+{
+  "moduleid": "repoflow-build-server",
+  "releases": [
+    {
+      "releaseid": "license-layout-ui"
+    }
+  ],
+  "created": 1551926970,
+  "updated": 1551926970,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "core-logger",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-logger",
+          "fullname": "@nebulario/core-logger",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-logger"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-node",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-node",
+          "fullname": "@nebulario/core-node",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-node"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-process",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    }
+  ]
+}

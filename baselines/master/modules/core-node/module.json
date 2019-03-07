@@ -31,6 +31,19 @@
           "path": "dependencies.@nebulario/core-node"
         }
       ]
+    },
+    {
+      "moduleid": "repoflow-build-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-node",
+          "fullname": "@nebulario/core-node",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-node"
+        }
+      ]
     }
   ],
   "created": 1551413873,

@@ -28,21 +28,25 @@
     }
   ],
   "hierarchy": [
+    "repoflow-plugin-npm",
+    "repoflow-plugin-container",
+    "repoflow-build-server",
     "nodeflow-local-server",
     "nodeflow-local-web",
     "core-render-stateful-server",
-    "nodeflow-local-graph",
-    "nodeflow-local-common",
-    "dll-react",
+    "core-plugin-request",
     "core-render-stateful-web",
     "dll-apollo",
-    "dll-vendor",
+    "dll-react",
     "dll-redux",
     "dll-utils",
+    "dll-vendor",
+    "nodeflow-local-common",
+    "nodeflow-local-graph",
     "app-notify",
-    "core-process",
+    "app-layout",
     "core-node",
     "core-logger",
-    "app-layout"
+    "core-process"
   ]
 }
