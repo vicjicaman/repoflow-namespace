@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1551927717,
   "updated": 1551927717,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "36b79d6fed03224e046fc77dbd3ab9512f068bbf",
+    "message": "RELEASE:static-dll-lib:1.70.2-master\n"
+  }
 }

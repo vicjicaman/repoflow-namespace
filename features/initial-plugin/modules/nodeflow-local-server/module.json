@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1551927779,
   "updated": 1551927779,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "95c7b02c4c7ca4dbf3dc134b2002629e28e76758",
+    "message": "RELEASE:static-dll-lib:1.70.2-master\n"
+  }
 }
