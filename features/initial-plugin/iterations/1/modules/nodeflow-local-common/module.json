@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.0-initial-plugin-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f119011542989319372b44141da87a53a840b2bc",
+    "message": "Merge branch 'runtime-rebuild/master' of github.com:vicjicaman/nodeflow-local-common into initial-plugin/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1552010340,
+  "updated": 1552010340,
+  "status": "active"
+}
