@@ -3,6 +3,12 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "initial-plugin"
+    },
+    {
+      "releaseid": "plugin-container"
+    },
+    {
       "releaseid": "license-layout-ui"
     },
     {
