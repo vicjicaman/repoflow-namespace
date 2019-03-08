@@ -1,0 +1,13 @@
+{
+  "releaseid": "initial-plugin",
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1552015373,
+  "updated": 1552015373,
+  "status": "active"
+}

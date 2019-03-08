@@ -1,0 +1,20 @@
+{
+  "releaseid": "initial-plugin",
+  "moduleid": "nodeflow-local-web",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "aa4052f0f7b3a0b07498c781277588bd29dd9fc3",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Generate web deliberable based on the common code",
+  "dependencies": [],
+  "created": 1552015373,
+  "updated": 1552015373,
+  "status": "active"
+}
