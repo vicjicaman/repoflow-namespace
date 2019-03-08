@@ -1,44 +1,35 @@
 {
-  "status": "valid",
-  "modules": [
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "latest": [
     {
-      "moduleid": "repoflow-build-server",
-      "mode": "dev",
-      "version": "1.1.0-initial-plugin-dev",
-      "type": "npm",
-      "fullname": "@nebulario/repoflow-build-server",
-      "repository": {
-        "url": "github.com:vicjicaman/repoflow-build-server.git",
-        "commitid": "c6af19899d86338d791f019290447be0e5d35e86",
-        "message": "Remove build and init"
-      },
-      "release": true
+      "moduleid": "nodeflow-local-server",
+      "iterationid": 1,
+      "version": "1.70.0-initial-plugin-prod"
     },
     {
-      "moduleid": "repoflow-plugin-container",
-      "mode": "dev",
-      "version": "1.1.0-initial-plugin-dev",
-      "type": "npm",
-      "fullname": "@nebulario/repoflow-plugin-container",
-      "repository": {
-        "url": "github.com:vicjicaman/repoflow-plugin-container.git",
-        "commitid": "9c1f6df32a1581ce8a375bbd958709d9f73039a5",
-        "message": "Fix issues with publish undeclared variable"
-      },
-      "release": true
+      "moduleid": "nodeflow-local-web",
+      "iterationid": 1,
+      "version": "1.70.0-initial-plugin-prod"
     },
     {
-      "moduleid": "repoflow-plugin-npm",
-      "mode": "dev",
-      "version": "1.1.0-initial-plugin-dev",
-      "type": "npm",
-      "fullname": "@nebulario/repoflow-plugin-npm",
-      "repository": {
-        "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
-        "commitid": "fa349fa8cbe85866cfecb65b60b5750b72d9c8ed",
-        "message": "Fix issues with publish undeclared variable"
-      },
-      "release": true
+      "moduleid": "nodeflow-local-common",
+      "iterationid": 1,
+      "version": "1.70.0-initial-plugin-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "iterationid": 1,
+      "version": "1.70.0-initial-plugin-prod"
     }
-  ]
+  ],
+  "created": 1552010340,
+  "updated": 1552010340,
+  "status": "active"
 }

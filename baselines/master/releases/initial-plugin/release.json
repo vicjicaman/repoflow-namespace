@@ -1,6 +1,6 @@
 {
   "releaseid": "initial-plugin",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "nodeflow-local-server",
     "nodeflow-local-web",
