@@ -1,0 +1,8 @@
+{
+  "commentid": "5915d49c-9e82-4aa7-bbdd-db8f0aa2a9d9",
+  "comment": "Test the runtime npm changes even if the containers are not linked/built",
+  "author": "Victor Jimenez",
+  "created": 1552334558,
+  "updated": 1552334558,
+  "status": "active"
+}
