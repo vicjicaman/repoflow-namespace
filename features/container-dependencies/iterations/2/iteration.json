@@ -1,0 +1,49 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-compose",
+    "repoflow-container-graph",
+    "repoflow-container-server"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-compose",
+      "version": "1.70.1-container-dependencies-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "repoflow-container-graph",
+      "version": "1.70.1-container-dependencies-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "repoflow-container-server",
+      "version": "1.70.1-container-dependencies-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.70.0-container-dependencies-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "version": "1.70.0-container-dependencies-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.70.0-container-dependencies-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "version": "1.70.0-container-dependencies-prod",
+      "iterationid": 1
+    }
+  ],
+  "created": 1552347278,
+  "updated": 1552347278,
+  "status": "active"
+}
