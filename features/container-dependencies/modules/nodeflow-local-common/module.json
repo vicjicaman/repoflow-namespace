@@ -14,7 +14,7 @@
   "updated": 1552227958,
   "status": "active",
   "commit": {
-    "commitid": "ac1e8e9a58e10f0a4574c679942f61e63fb5f77f",
+    "commitid": "f971ee84edabe9269e4e7fd2491ce54d54cf3837",
     "message": "Merge branch 'runtime-rebuild/master' of github.com:vicjicaman/nodeflow-local-common into container-dependencies/master\n"
   }
 }
