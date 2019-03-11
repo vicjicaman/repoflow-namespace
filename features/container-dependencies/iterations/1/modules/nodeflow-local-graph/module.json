@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.0-container-dependencies-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c3ddc58ea9088d81ae9b118f25c663f35d02379d",
+    "message": "Merge branch 'runtime-rebuild/master' of github.com:vicjicaman/nodeflow-local-graph into container-dependencies/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1552338690,
+  "updated": 1552338690,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.0-container-dependencies-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "15d76a40ab72eb67ebb7f7c961d81a9d242dde49",
+    "message": "Restructure container plugin\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1552338690,
+  "updated": 1552338690,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-container-server",
+  "mode": "prod",
+  "version": "1.70.0-container-dependencies-prod",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4b4f49839686ff83f2c76c7885c175b73d6c3448",
+    "message": "Add initial compose for repoflow app\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1552338690,
+  "updated": 1552338690,
+  "status": "active"
+}
