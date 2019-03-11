@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-compose.git",
   "fullname": "repoflow-compose",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Docker compose configuration for UI and GraphQL execution of repoflow containers",
   "created": 1552174257,
   "updated": 1552174257,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e3098e44819cbc59821ab8b77397cfd938a2c514",
+    "message": "Change port numbers\n"
+  }
 }

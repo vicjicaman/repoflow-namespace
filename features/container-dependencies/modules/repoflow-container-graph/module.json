@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-container-graph.git",
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the repoflow graph",
   "created": 1551933252,
   "updated": 1551933252,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "98a10f64027c2bad13ac0cd220ec81e3cd33f9f8",
+    "message": "Change execution and test ports\n"
+  }
 }

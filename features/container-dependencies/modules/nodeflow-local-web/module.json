@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1552227949,
   "updated": 1552227949,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "15d76a40ab72eb67ebb7f7c961d81a9d242dde49",
+    "message": "Restructure container plugin\n"
+  }
 }

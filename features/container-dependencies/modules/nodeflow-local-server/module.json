@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1552026293,
   "updated": 1552026293,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "fd2a331ba148c5698608649976bf8f91ab82e46d",
+    "message": "Remove quotes from template\n"
+  }
 }

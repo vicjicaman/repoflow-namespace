@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1552227958,
   "updated": 1552227958,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ac1e8e9a58e10f0a4574c679942f61e63fb5f77f",
+    "message": "Merge branch 'runtime-rebuild/master' of github.com:vicjicaman/nodeflow-local-common into container-dependencies/master\n"
+  }
 }
