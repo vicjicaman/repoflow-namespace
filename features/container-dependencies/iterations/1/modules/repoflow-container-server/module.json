@@ -5,12 +5,18 @@
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
   "type": "container",
   "url": "github.com:vicjicaman/repoflow-container-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "0cdfbe0fcbc66923beaf343474cf42903a3eddb3",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "4b4f49839686ff83f2c76c7885c175b73d6c3448",
     "message": "Add initial compose for repoflow app\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "130b3e3be1ba0870748818dc13f013b756056d1c",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1552338690,
   "updated": 1552338690,
