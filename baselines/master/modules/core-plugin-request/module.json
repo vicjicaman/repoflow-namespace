@@ -13,6 +13,19 @@
   "status": "active",
   "dependants": [
     {
+      "moduleid": "repoflow-plugin-compose",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
+          "fullname": "@nebulario/core-plugin-request",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-plugin-request"
+        }
+      ]
+    },
+    {
       "moduleid": "repoflow-plugin-container",
       "references": [
         {

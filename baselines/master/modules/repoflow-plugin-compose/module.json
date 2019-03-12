@@ -1,18 +1,12 @@
 {
-  "moduleid": "repoflow-plugin-container",
+  "moduleid": "repoflow-plugin-compose",
   "releases": [
     {
       "releaseid": "compose-plugin"
-    },
-    {
-      "releaseid": "plugin-container"
-    },
-    {
-      "releaseid": "license-layout-ui"
     }
   ],
-  "created": 1551926971,
-  "updated": 1551926971,
+  "created": 1552406866,
+  "updated": 1552406866,
   "status": "active",
   "dependants": [],
   "dependents": [

@@ -2,6 +2,9 @@
   "moduleid": "repoflow-build-server",
   "releases": [
     {
+      "releaseid": "compose-plugin"
+    },
+    {
       "releaseid": "license-layout-ui"
     }
   ],
