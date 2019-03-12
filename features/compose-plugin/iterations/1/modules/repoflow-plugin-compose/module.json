@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-compose",
+  "mode": "prod",
+  "version": "1.70.0-compose-plugin-prod",
+  "fullname": "@nebulario/repoflow-plugin-compose",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4eb401d2bbc3b8e6a4a171448684ccf82175e7fc",
+    "message": "Add publish for compose file\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1552404663,
+  "updated": 1552404663,
+  "status": "active"
+}

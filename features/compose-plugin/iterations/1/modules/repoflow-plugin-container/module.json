@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-container",
+  "mode": "prod",
+  "version": "1.70.0-compose-plugin-prod",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7e22c3561a8389387fb1545fefd29b6fd0bbac33",
+    "message": "Compose plugin alpha functionality\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1552404663,
+  "updated": 1552404663,
+  "status": "active"
+}
