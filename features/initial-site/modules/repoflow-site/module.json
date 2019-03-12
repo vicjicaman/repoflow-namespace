@@ -1,0 +1,16 @@
+{
+  "moduleid": "repoflow-site",
+  "type": "site",
+  "url": "github.com:vicjicaman/www.repoflow.com-site.git",
+  "fullname": "www.repoflow.com",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description":"Static information for repoflow site",
+  "created": 1551131071,
+  "updated": 1551131071,
+  "status": "active"
+}
