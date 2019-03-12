@@ -1,0 +1,20 @@
+{
+  "releaseid": "compose-plugin",
+  "moduleid": "repoflow-plugin-compose",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/repoflow-plugin-compose",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
+  "publish": null,
+  "released": {
+    "commitid": "ab3d9b6a0d4ef85969782eb7a668753c1631a865",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for docker compose to handle multiple container services locally",
+  "dependencies": [],
+  "created": 1552406474,
+  "updated": 1552406474,
+  "status": "active"
+}
