@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.1-container-dependencies-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b598caa247cf24ed4a0cb13be91f558d9a9a7703",
+    "message": "Small change for iteration\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1552357147,
+  "updated": 1552357147,
+  "status": "active"
+}
