@@ -1,0 +1,20 @@
+{
+  "releaseid": "container-dependencies",
+  "moduleid": "repoflow-compose",
+  "version": "1.70.0-master",
+  "fullname": "repoflow-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/repoflow-compose.git",
+  "publish": null,
+  "released": {
+    "commitid": "f679484fe9b0303ed4278cf28255b3da862ada13",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Docker compose configuration for UI and GraphQL execution of repoflow containers",
+  "dependencies": [],
+  "created": 1552364968,
+  "updated": 1552364968,
+  "status": "active"
+}

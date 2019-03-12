@@ -1,0 +1,8 @@
+{
+  "featureid": "diagram-integration",
+  "baselineid": "master",
+  "description": "- Add diagrams to show visually the current status of the feature/modules",
+  "created": 1552323030,
+  "updated": 1552323030,
+  "status": "active"
+}
