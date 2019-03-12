@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-container-server",
+  "mode": "prod",
+  "version": "1.70.2-container-dependencies-prod",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0849cb0e89f66387476ca9a40a6e956c47e8d495",
+    "message": "Small change to iterate valid\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1552348614,
+  "updated": 1552348614,
+  "status": "active"
+}
