@@ -5,15 +5,38 @@
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
   "type": "container",
   "url": "github.com:vicjicaman/repoflow-container-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "1cc4afcd199de79835d3a7dbefbfc996b806e229",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "d5e59b5a02bdf521083a02691793b484319dc375",
     "message": "ITERATION:4\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "679eaf9870ba554c65509ed946d8e6ac210be144",
+    "message": "RELEASE:container-dependencies:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for the repoflow graph",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|docker-compose.yml|.+app:\\s+image:(?:\\s+|)(?:.+):(.+)",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "docker-compose.yml",
+      "path": ".+app:\\s+image:(?:\\s+|)(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.70.3-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-graph"
+    }
+  ],
   "created": 1552364968,
   "updated": 1552364968,
   "status": "active"

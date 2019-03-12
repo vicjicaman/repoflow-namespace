@@ -1,6 +1,6 @@
 {
   "releaseid": "container-dependencies",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-compose",
     "repoflow-container-graph",

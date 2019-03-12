@@ -1,0 +1,41 @@
+{
+  "moduleid": "repoflow-container-graph",
+  "releases": [
+    {
+      "releaseid": "container-dependencies"
+    }
+  ],
+  "created": 1552368255,
+  "updated": 1552368255,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "repoflow-compose",
+      "references": [
+        {
+          "dependencyid": "dependency|docker-compose.yml|.+graph:\\s+image:(?:\\s+|)(?:.+):(.+)",
+          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "docker-compose.yml",
+          "path": ".+graph:\\s+image:(?:\\s+|)(?:.+):(.+)"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "nodeflow-local-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
+          "fullname": "@nebulario/nodeflow-local-graph",
+          "version": "1.70.3-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-graph"
+        }
+      ]
+    }
+  ]
+}
