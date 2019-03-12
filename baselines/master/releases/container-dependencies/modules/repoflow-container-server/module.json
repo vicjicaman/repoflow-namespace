@@ -1,0 +1,43 @@
+{
+  "releaseid": "container-dependencies",
+  "moduleid": "repoflow-container-server",
+  "version": "1.70.0-master",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-server.git",
+  "publish": {
+    "commitid": "cd673892761e22acea4095b896ccfda06900c86d",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "bcf6fd56853380f7f9f7720840285fd03f090ae2",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": {
+    "commitid": "db53d6e295602e31536b95fe6249fba456be8344",
+    "message": "RELEASE:container-dependencies:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Container image for repoflow UI service",
+  "dependencies": [
+    {
+      "dependencyid": "inner|docker-compose.yml|.+app:\\s+image:(?:\\s+|)(?:.+):(.+)",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "docker-compose.yml",
+      "path": ".+app:\\s+image:(?:\\s+|)(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "version": "1.70.4-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-server"
+    }
+  ],
+  "created": 1552364968,
+  "updated": 1552364968,
+  "status": "active"
+}

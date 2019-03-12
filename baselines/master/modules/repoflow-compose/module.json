@@ -1,0 +1,40 @@
+{
+  "moduleid": "repoflow-compose",
+  "releases": [
+    {
+      "releaseid": "container-dependencies"
+    }
+  ],
+  "created": 1552368255,
+  "updated": 1552368255,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "repoflow-container-server",
+      "references": [
+        {
+          "dependencyid": "dependency|docker-compose.yml|.+app:\\s+image:(?:\\s+|)(?:.+):(.+)",
+          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "docker-compose.yml",
+          "path": ".+app:\\s+image:(?:\\s+|)(?:.+):(.+)"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-container-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|docker-compose.yml|.+graph:\\s+image:(?:\\s+|)(?:.+):(.+)",
+          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "docker-compose.yml",
+          "path": ".+graph:\\s+image:(?:\\s+|)(?:.+):(.+)"
+        }
+      ]
+    }
+  ]
+}

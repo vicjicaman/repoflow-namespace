@@ -1,0 +1,43 @@
+{
+  "releaseid": "container-dependencies",
+  "moduleid": "repoflow-compose",
+  "version": "1.70.0-master",
+  "fullname": "repoflow-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/repoflow-compose.git",
+  "publish": {
+    "commitid": "2380a9691b7602e052228f25e3796a040ce117c0",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "f679484fe9b0303ed4278cf28255b3da862ada13",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": {
+    "commitid": "2eb673872c2b9be51cd107ba165c68c894d064a3",
+    "message": "RELEASE:container-dependencies:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Docker compose configuration for UI and GraphQL execution of repoflow containers",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|docker-compose.yml|.+app:\\s+image:(?:\\s+|)(?:.+):(.+)",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "docker-compose.yml",
+      "path": ".+app:\\s+image:(?:\\s+|)(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|docker-compose.yml|.+graph:\\s+image:(?:\\s+|)(?:.+):(.+)",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "docker-compose.yml",
+      "path": ".+graph:\\s+image:(?:\\s+|)(?:.+):(.+)"
+    }
+  ],
+  "created": 1552364968,
+  "updated": 1552364968,
+  "status": "active"
+}

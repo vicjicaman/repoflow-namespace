@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.0-container-dependencies-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": {
+    "commitid": "5fc08591337ebcf9f2ec42bab743f9d7081f0aba",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "f971ee84edabe9269e4e7fd2491ce54d54cf3837",
+    "message": "Merge branch 'runtime-rebuild/master' of github.com:vicjicaman/nodeflow-local-common into container-dependencies/master\n"
+  },
+  "mergeback": {
+    "commitid": "8f1d629e93511f54da76d8993dcba70304605b63",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1552338690,
+  "updated": 1552338690,
+  "status": "active"
+}

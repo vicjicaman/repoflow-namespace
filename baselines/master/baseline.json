@@ -3,6 +3,9 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "container-dependencies"
+    },
+    {
       "releaseid": "initial-plugin"
     },
     {
@@ -21,9 +24,6 @@
       "releaseid": "separate-render"
     },
     {
-      "releaseid": "package-labels"
-    },
-    {
       "releaseid": "dll-ui"
     },
     {
@@ -36,18 +36,21 @@
   "hierarchy": [
     "repoflow-plugin-npm",
     "repoflow-plugin-container",
+    "repoflow-compose",
     "repoflow-build-server",
-    "nodeflow-local-server",
-    "nodeflow-local-web",
-    "core-render-stateful-server",
+    "repoflow-container-server",
+    "repoflow-container-graph",
     "core-plugin-request",
-    "core-render-stateful-web",
-    "dll-apollo",
-    "dll-react",
+    "nodeflow-local-server",
+    "core-render-stateful-server",
+    "nodeflow-local-web",
     "dll-redux",
     "dll-utils",
     "dll-vendor",
     "nodeflow-local-common",
+    "core-render-stateful-web",
+    "dll-apollo",
+    "dll-react",
     "nodeflow-local-graph",
     "app-notify",
     "app-layout",

@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-compose",
+  "mode": "prod",
+  "version": "1.70.0-container-dependencies-prod",
+  "fullname": "repoflow-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/repoflow-compose.git",
+  "publish": {
+    "commitid": "22d8f8b0f2da7a3b0862d50c7d826089c7683962",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "e3098e44819cbc59821ab8b77397cfd938a2c514",
+    "message": "Change port numbers\n"
+  },
+  "mergeback": {
+    "commitid": "387c52c491f54a6f7205d5c42fa2d5e2c6f839bd",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1552338690,
+  "updated": 1552338690,
+  "status": "active"
+}

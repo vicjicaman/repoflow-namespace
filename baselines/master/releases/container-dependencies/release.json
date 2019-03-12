@@ -1,0 +1,16 @@
+{
+  "releaseid": "container-dependencies",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-compose",
+    "repoflow-container-graph",
+    "repoflow-container-server",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1552364968,
+  "updated": 1552364968,
+  "status": "active"
+}
