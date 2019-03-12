@@ -59,6 +59,19 @@
       ]
     },
     {
+      "moduleid": "repoflow-plugin-compose",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
       "moduleid": "repoflow-plugin-container",
       "references": [
         {
