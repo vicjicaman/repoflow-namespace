@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
   "fullname": "@nebulario/repoflow-plugin-compose",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for docker compose to handle multiple container services locally",
   "created": 1552174968,
   "updated": 1552174968,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4eb401d2bbc3b8e6a4a171448684ccf82175e7fc",
+    "message": "Add publish for compose file\n"
+  }
 }
