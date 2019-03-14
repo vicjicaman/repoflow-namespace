@@ -1,0 +1,16 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "created": 1552424986,
+  "updated": 1552424986,
+  "status": "active"
+}
