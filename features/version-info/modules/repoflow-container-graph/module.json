@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the repoflow graph",
+  "created": 1552425501,
+  "updated": 1552425501,
+  "status": "active",
+  "commit": {
+    "commitid": "679eaf9870ba554c65509ed946d8e6ac210be144",
+    "message": "RELEASE:container-dependencies:1.70.0-master\n"
+  }
+}

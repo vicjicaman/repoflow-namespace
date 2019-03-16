@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-server.git",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container image for repoflow UI service",
+  "created": 1552425513,
+  "updated": 1552425513,
+  "status": "active",
+  "commit": {
+    "commitid": "db53d6e295602e31536b95fe6249fba456be8344",
+    "message": "RELEASE:container-dependencies:1.70.0-master\n"
+  }
+}

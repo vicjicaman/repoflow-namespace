@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1552424560,
   "updated": 1552424560,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "528da0e297f254e95419f79902484e0529fd0a1e",
+    "message": "RELEASE:container-dependencies:1.70.4-master\n"
+  }
 }

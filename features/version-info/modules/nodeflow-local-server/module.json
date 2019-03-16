@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1552424572,
   "updated": 1552424572,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "55bd2b22ae058470528c0cc32b76d94fe593cf0a",
+    "message": "RELEASE:container-dependencies:1.70.4-master\n"
+  }
 }
