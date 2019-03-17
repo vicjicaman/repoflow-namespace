@@ -1,8 +1,0 @@
-{
-  "featureid": "runtime-restart-resp",
-  "baselineid": "master",
-  "description": "Runtime restart functionality\n- Improve restart feedback to the UI\n- Fix issue with multiple restart\n- Check the restart button feedback",
-  "created": 1552846365,
-  "updated": 1552846365,
-  "status": "active"
-}
