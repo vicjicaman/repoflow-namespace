@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1552846947,
   "updated": 1552846947,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1b73a9c85f2ce01fc38d25a65db12e10e9d738ec",
+    "message": "Register event handler for module.restart on the button\n"
+  }
 }

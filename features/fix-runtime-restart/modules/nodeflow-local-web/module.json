@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1552846942,
   "updated": 1552846942,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "492033f9e6d4eb66ad85d8cad67301dbb17a86e3",
+    "message": "Reference feature version\n"
+  }
 }
