@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1552846917,
   "status": "active",
   "commit": {
-    "commitid": "0cc298c9407c3d7e245fcc22f0158b3a8f97528b",
-    "message": "ITERATION:5\n"
+    "commitid": "afaaaeb2a72e919d7128327722d5c1edcb300d15",
+    "message": "ITERATION:7\n"
   }
 }
