@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1552846963,
   "status": "active",
   "commit": {
-    "commitid": "95314d007db85149882e06e0277b19461ca6cee6",
-    "message": "Iteration changes\n"
+    "commitid": "4bad8dee4009817b6290847018b2296cb388c651",
+    "message": "ITERATION:1\n"
   }
 }
