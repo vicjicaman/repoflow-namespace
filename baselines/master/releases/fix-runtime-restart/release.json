@@ -1,6 +1,6 @@
 {
   "releaseid": "fix-runtime-restart",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "nodeflow-local-server",
     "nodeflow-local-web",
