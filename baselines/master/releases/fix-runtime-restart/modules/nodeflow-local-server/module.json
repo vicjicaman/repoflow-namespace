@@ -1,0 +1,20 @@
+{
+  "releaseid": "fix-runtime-restart",
+  "moduleid": "nodeflow-local-server",
+  "version": "1.70.5-master",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "47f5acfb6aea553d755bd6c1eefebfd373b677d1",
+    "message": "ITERATION:8\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- SSR service for repoflow tool based on common code",
+  "dependencies": [],
+  "created": 1552942187,
+  "updated": 1552942187,
+  "status": "active"
+}

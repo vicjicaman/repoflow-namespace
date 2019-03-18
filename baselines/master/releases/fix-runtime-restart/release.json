@@ -1,0 +1,13 @@
+{
+  "releaseid": "fix-runtime-restart",
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1552942187,
+  "updated": 1552942187,
+  "status": "active"
+}
