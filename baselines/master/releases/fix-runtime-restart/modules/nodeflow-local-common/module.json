@@ -1,0 +1,20 @@
+{
+  "releaseid": "fix-runtime-restart",
+  "moduleid": "nodeflow-local-common",
+  "version": "1.70.5-master",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "released": {
+    "commitid": "11679d29c312f9888a212f1e25e6ceab8eb4fc7f",
+    "message": "ITERATION:8\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
+  "dependencies": [],
+  "created": 1552942187,
+  "updated": 1552942187,
+  "status": "active"
+}

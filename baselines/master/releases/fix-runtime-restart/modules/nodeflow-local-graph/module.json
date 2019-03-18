@@ -1,0 +1,20 @@
+{
+  "releaseid": "fix-runtime-restart",
+  "moduleid": "nodeflow-local-graph",
+  "version": "1.71.0-master",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "f400c0261a9fc5b65112cf9f9727311ce3003e52",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "minor",
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "dependencies": [],
+  "created": 1552942187,
+  "updated": 1552942187,
+  "status": "active"
+}
