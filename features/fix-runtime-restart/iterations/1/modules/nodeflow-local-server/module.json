@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "dev",
+  "version": "1.70.0-fix-runtime-restart-dev",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "1b73a9c85f2ce01fc38d25a65db12e10e9d738ec",
+    "message": "Register event handler for module.restart on the button\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1552923850,
+  "updated": 1552923850,
+  "status": "active"
+}
