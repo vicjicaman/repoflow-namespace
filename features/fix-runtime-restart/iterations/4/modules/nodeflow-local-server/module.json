@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.3-fix-runtime-restart-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ad0b68bdbb9d14302078527bbb5ed6a17de31323",
+    "message": "Add on loading structure order for button feedback\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1552927284,
+  "updated": 1552927284,
+  "status": "active"
+}
