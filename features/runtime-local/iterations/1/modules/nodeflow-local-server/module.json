@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.0-runtime-local-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9adad60c369fdbe0f2ef22327997d3ec6126ec75",
+    "message": "Restart performers on dependency events\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1558424776,
+  "updated": 1558424776,
+  "status": "active"
+}

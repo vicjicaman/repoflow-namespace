@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.0-runtime-local-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0665499ccddacda1c26324529dba41f363a1b49e",
+    "message": "Fix for runtime canvas\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1558424776,
+  "updated": 1558424776,
+  "status": "active"
+}
