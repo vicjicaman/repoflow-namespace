@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-graph",
   "releases": [
     {
+      "releaseid": "runtime-performers"
+    },
+    {
       "releaseid": "fix-runtime-restart"
     },
     {
@@ -24,7 +27,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.71.0-master",
+          "version": "1.72.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
