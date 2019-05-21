@@ -1,0 +1,8 @@
+{
+  "featureid": "compose-performers",
+  "baselineid": "master",
+  "description": "- Generate containers and compose file",
+  "created": 1558436038,
+  "updated": 1558436038,
+  "status": "active"
+}
