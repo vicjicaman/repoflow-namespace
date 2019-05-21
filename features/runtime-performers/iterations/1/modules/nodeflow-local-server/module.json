@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-server",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "12864ef5f65fc58f6c7e7385333793f0c7b55c8e",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "c51faf4ffe2e1395a4b4807c8c2cf4ce7d088e53",
     "message": "Merge remote-tracking branch 'origin/runtime-local/master' into runtime-performers/master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "59ed60cb40cc8fc008ee113432520ebd2858b7e8",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1558434153,
   "updated": 1558434153,

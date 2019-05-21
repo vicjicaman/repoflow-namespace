@@ -7,14 +7,14 @@
     "mode": "prod"
   },
   "release": {
-    "type": "patch"
+    "type": "minor"
   },
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1558427205,
   "updated": 1558427205,
   "status": "active",
   "commit": {
-    "commitid": "4be8e7e4b4115d2af0baf227b68f636cdea4cbfd",
-    "message": "Merge runtime-local development feature\n"
+    "commitid": "e4ffd2305bb568e2bd0991884d056ff82ce42323",
+    "message": "ITERATION:1\n"
   }
 }

@@ -7,14 +7,14 @@
     "mode": "prod"
   },
   "release": {
-    "type": "patch"
+    "type": "minor"
   },
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1558427184,
   "updated": 1558427184,
   "status": "active",
   "commit": {
-    "commitid": "c51faf4ffe2e1395a4b4807c8c2cf4ce7d088e53",
-    "message": "Merge remote-tracking branch 'origin/runtime-local/master' into runtime-performers/master\n"
+    "commitid": "59ed60cb40cc8fc008ee113432520ebd2858b7e8",
+    "message": "ITERATION:1\n"
   }
 }

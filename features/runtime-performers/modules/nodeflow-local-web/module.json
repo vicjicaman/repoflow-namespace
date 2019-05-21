@@ -7,14 +7,14 @@
     "mode": "prod"
   },
   "release": {
-    "type": "patch"
+    "type": "minor"
   },
   "description": "- Generate web deliberable based on the common code",
   "created": 1558427191,
   "updated": 1558427191,
   "status": "active",
   "commit": {
-    "commitid": "5f3bf554dc46eae1380c70b43735d5530d86a768",
-    "message": "Merge remote-tracking branch 'origin/runtime-local/master' into runtime-performers/master\n"
+    "commitid": "b276811ddae80ddb55b198982b0e3483110ee436",
+    "message": "ITERATION:1\n"
   }
 }

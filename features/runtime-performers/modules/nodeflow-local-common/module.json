@@ -7,14 +7,14 @@
     "mode": "prod"
   },
   "release": {
-    "type": "patch"
+    "type": "minor"
   },
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1558427197,
   "updated": 1558427197,
   "status": "active",
   "commit": {
-    "commitid": "a3afbcafd145b6b0eea68b19eba89408ee55a5a1",
-    "message": "Merge remote-tracking branch 'origin/runtime-local/master' into runtime-performers/master\n"
+    "commitid": "b738ae667374f168c770e78b277c2dbcb41f1516",
+    "message": "ITERATION:1\n"
   }
 }
