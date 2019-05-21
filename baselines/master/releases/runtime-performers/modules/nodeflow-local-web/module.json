@@ -1,0 +1,20 @@
+{
+  "releaseid": "runtime-performers",
+  "moduleid": "nodeflow-local-web",
+  "version": "1.71.0-master",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "b276811ddae80ddb55b198982b0e3483110ee436",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "minor",
+  "description": "- Generate web deliberable based on the common code",
+  "dependencies": [],
+  "created": 1558435072,
+  "updated": 1558435072,
+  "status": "active"
+}
