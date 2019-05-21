@@ -1,0 +1,16 @@
+{
+  "moduleid": "repoflow-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/repoflow-compose.git",
+  "fullname": "repoflow-compose",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Docker compose configuration for UI and GraphQL execution of repoflow containers",
+  "created": 1558436351,
+  "updated": 1558436351,
+  "status": "active"
+}

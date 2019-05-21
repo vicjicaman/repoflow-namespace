@@ -1,0 +1,16 @@
+{
+  "moduleid": "repoflow-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the repoflow graph",
+  "created": 1558436366,
+  "updated": 1558436366,
+  "status": "active"
+}
