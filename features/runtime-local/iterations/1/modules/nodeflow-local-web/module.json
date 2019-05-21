@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-web",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "413c90a3e1ed4664aebbcf5f5dbb0e0491d4f85a",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "0665499ccddacda1c26324529dba41f363a1b49e",
     "message": "Fix for runtime canvas\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c422dd4f3499be5318a5719d59140023c8ad15d5",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1558424776,
   "updated": 1558424776,
