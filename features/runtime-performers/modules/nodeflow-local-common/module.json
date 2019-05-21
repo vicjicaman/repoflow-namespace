@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1558427197,
   "updated": 1558427197,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a3afbcafd145b6b0eea68b19eba89408ee55a5a1",
+    "message": "Merge remote-tracking branch 'origin/runtime-local/master' into runtime-performers/master\n"
+  }
 }
