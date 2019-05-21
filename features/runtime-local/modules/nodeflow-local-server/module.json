@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1552428634,
   "updated": 1552428634,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9adad60c369fdbe0f2ef22327997d3ec6126ec75",
+    "message": "Restart performers on dependency events\n"
+  }
 }

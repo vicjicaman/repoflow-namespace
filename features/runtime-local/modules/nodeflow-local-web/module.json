@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1552428644,
   "updated": 1552428644,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0665499ccddacda1c26324529dba41f363a1b49e",
+    "message": "Fix for runtime canvas\n"
+  }
 }
