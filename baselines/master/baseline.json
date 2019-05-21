@@ -3,6 +3,12 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "runtime-performers"
+    },
+    {
+      "releaseid": "fix-runtime-restart"
+    },
+    {
       "releaseid": "compose-plugin"
     },
     {

@@ -2,6 +2,12 @@
   "moduleid": "nodeflow-local-web",
   "releases": [
     {
+      "releaseid": "runtime-performers"
+    },
+    {
+      "releaseid": "fix-runtime-restart"
+    },
+    {
       "releaseid": "container-dependencies"
     },
     {
@@ -27,7 +33,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-web",
           "fullname": "@nebulario/nodeflow-local-web",
-          "version": "1.70.4-master",
+          "version": "1.71.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"
@@ -120,7 +126,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.70.4-master",
+          "version": "1.71.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -133,7 +139,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.70.3-master",
+          "version": "1.72.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
