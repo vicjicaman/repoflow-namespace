@@ -1,0 +1,20 @@
+{
+  "releaseid": "unified-performer",
+  "moduleid": "nodeflow-local-server",
+  "version": "1.71.1-master",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "4b6b90c9e3cd14bcc749452a56156b97a34e9278",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- SSR service for repoflow tool based on common code",
+  "dependencies": [],
+  "created": 1558645342,
+  "updated": 1558645342,
+  "status": "active"
+}
