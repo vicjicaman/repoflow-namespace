@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1558643085,
   "updated": 1558643085,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "875a898b88448fb7d69cd51c7c0d0270be2dd246",
+    "message": "Merge remote-tracking branch 'origin/runtime-local/master' into unified-performer/master\n"
+  }
 }
