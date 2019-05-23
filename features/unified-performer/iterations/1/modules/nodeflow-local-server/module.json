@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.0-unified-performer-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "188db02f212695d8f76818461870538dfab43494",
+    "message": "Merge remote-tracking branch 'origin/runtime-local/master' into unified-performer/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1558644508,
+  "updated": 1558644508,
+  "status": "active"
+}
