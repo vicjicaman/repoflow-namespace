@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-common",
   "releases": [
     {
+      "releaseid": "unified-performer"
+    },
+    {
       "releaseid": "runtime-performers"
     },
     {
@@ -33,7 +36,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.0-master",
+          "version": "1.71.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -46,7 +49,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.0-master",
+          "version": "1.71.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
