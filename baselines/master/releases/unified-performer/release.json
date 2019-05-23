@@ -1,0 +1,13 @@
+{
+  "releaseid": "unified-performer",
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1558645342,
+  "updated": 1558645342,
+  "status": "active"
+}
