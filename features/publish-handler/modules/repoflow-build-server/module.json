@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-build-server.git",
   "fullname": "@nebulario/repoflow-build-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Demo build server to publish packages, containers and services to kubernetes",
   "created": 1552424065,
   "updated": 1552424065,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5da6ab44307d2c692b472c0b54dadadb74e31c87",
+    "message": "Add event listener to task\n"
+  }
 }

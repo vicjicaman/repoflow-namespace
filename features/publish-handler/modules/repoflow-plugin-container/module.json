@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
   "fullname": "@nebulario/repoflow-plugin-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for container image with a NPM package as service",
   "created": 1552424077,
   "updated": 1552424077,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "fe2d2b357e050281058a7b38a36ee29a436988cd",
+    "message": "Modify tasks for single entity performer\n"
+  }
 }

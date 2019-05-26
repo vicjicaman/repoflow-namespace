@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
   "fullname": "@nebulario/repoflow-plugin-npm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin for NPM repositories",
   "created": 1552424056,
   "updated": 1552424056,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ce56e103a8f0b27e9e2f0db11b75024d03adaba4",
+    "message": "Modify tasks for single entity performer\n"
+  }
 }

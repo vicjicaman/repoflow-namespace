@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-plugin-request.git",
   "fullname": "@nebulario/core-plugin-request",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common functionality for repoflow plugins",
   "created": 1553638685,
   "updated": 1553638685,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8d8f95c095f40f4dd0ff2727f2fa31524d4c5361",
+    "message": "Add event listener to task\n"
+  }
 }
