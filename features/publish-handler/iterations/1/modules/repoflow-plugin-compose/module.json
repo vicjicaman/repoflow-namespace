@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-compose",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
-  "publish": null,
+  "publish": {
+    "commitid": "48d061ce4d3f8775e4eba8a0a500ad2b29d86030",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "9e35e89761a51fd142a4ec75675b8201a6c97381",
     "message": "Add linked feedback to compose services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "251cb3444b592bea43a67d91dc4211692b10cd84",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1558862365,
   "updated": 1558862365,

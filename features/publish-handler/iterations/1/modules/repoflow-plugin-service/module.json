@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-service",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6ee279aa59417716b7af0445afe2552ea18b7767",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "16ac26f5803fe2df49b04941395897e163a254a2",
     "message": "Add container and services functionality for config\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "0d2bec4c91e0e6aea7376a2f86f8a8ba3e679632",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1558862365,
   "updated": 1558862365,
