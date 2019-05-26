@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-namespace",
+  "mode": "prod",
+  "version": "1.70.0-publish-handler-prod",
+  "fullname": "@nebulario/repoflow-plugin-namespace",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8b08a4641349368814035707da9e8c47dbd09b0d",
+    "message": "Initial runtime restructure for tasks\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1558862365,
+  "updated": 1558862365,
+  "status": "active"
+}

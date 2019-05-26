@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.0-publish-handler-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5da6ab44307d2c692b472c0b54dadadb74e31c87",
+    "message": "Add event listener to task\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1558862365,
+  "updated": 1558862365,
+  "status": "active"
+}
