@@ -1,0 +1,20 @@
+{
+  "releaseid": "compose-performers",
+  "moduleid": "repoflow-container-graph",
+  "version": "1.70.1-master",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "1b6be057f7a072c6cdda86c52a3594986d07ff25",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the repoflow graph",
+  "dependencies": [],
+  "created": 1558950467,
+  "updated": 1558950467,
+  "status": "active"
+}

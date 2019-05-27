@@ -1,0 +1,20 @@
+{
+  "releaseid": "compose-performers",
+  "moduleid": "repoflow-container-server",
+  "version": "1.70.1-master",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "5d61e19ebf5b9902f3877d08aa554597b7469f80",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container image for repoflow UI service",
+  "dependencies": [],
+  "created": 1558950467,
+  "updated": 1558950467,
+  "status": "active"
+}

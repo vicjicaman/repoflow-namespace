@@ -1,0 +1,16 @@
+{
+  "releaseid": "compose-performers",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-compose",
+    "repoflow-container-graph",
+    "repoflow-container-server",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1558950467,
+  "updated": 1558950467,
+  "status": "active"
+}
