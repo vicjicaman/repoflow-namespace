@@ -1,0 +1,8 @@
+{
+  "featureid": "unified-performer",
+  "baselineid": "master",
+  "description": "- Abstract instanced and baselined performer atributed to a single type defined entity",
+  "created": 1558643003,
+  "updated": 1558643003,
+  "status": "active"
+}

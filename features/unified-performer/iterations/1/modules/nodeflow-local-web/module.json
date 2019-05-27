@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.0-unified-performer-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": {
+    "commitid": "39a17903c2ab45411f42f54251605358c2cec09f",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "a8c1a39e480d1e7f85cecfaf49057c6466cf29b3",
+    "message": "Merge remote-tracking branch 'origin/runtime-local/master' into unified-performer/master\n"
+  },
+  "mergeback": {
+    "commitid": "12d5046a567c9b61992fd8e5fd7a81544259c975",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1558644508,
+  "updated": 1558644508,
+  "status": "active"
+}

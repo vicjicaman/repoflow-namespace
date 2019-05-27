@@ -3,6 +3,15 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "publish-handler"
+    },
+    {
+      "releaseid": "compose-performers"
+    },
+    {
+      "releaseid": "unified-performer"
+    },
+    {
       "releaseid": "runtime-performers"
     },
     {
@@ -43,27 +52,30 @@
     }
   ],
   "hierarchy": [
+    "repoflow-plugin-compose",
+    "repoflow-plugin-service",
+    "repoflow-plugin-namespace",
+    "repoflow-plugin-container",
+    "repoflow-plugin-config",
+    "repoflow-compose",
     "repoflow-plugin-npm",
     "repoflow-build-server",
-    "repoflow-plugin-compose",
-    "repoflow-compose",
-    "repoflow-plugin-container",
     "repoflow-container-server",
     "repoflow-container-graph",
     "nodeflow-local-server",
-    "core-plugin-request",
     "nodeflow-local-web",
     "core-render-stateful-server",
-    "dll-utils",
-    "dll-vendor",
     "nodeflow-local-common",
     "core-render-stateful-web",
     "dll-apollo",
     "dll-react",
     "dll-redux",
+    "dll-utils",
+    "dll-vendor",
     "nodeflow-local-graph",
     "app-notify",
     "app-layout",
+    "core-plugin-request",
     "core-node",
     "core-logger",
     "core-process"
