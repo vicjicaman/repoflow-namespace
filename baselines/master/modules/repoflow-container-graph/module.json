@@ -2,6 +2,9 @@
   "moduleid": "repoflow-container-graph",
   "releases": [
     {
+      "releaseid": "compose-performers"
+    },
+    {
       "releaseid": "container-dependencies"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|docker-compose.yml|.+graph:\\s+image:(?:\\s+|)(?:.+):(.+)",
           "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "docker-compose.yml",
           "path": ".+graph:\\s+image:(?:\\s+|)(?:.+):(.+)"
@@ -30,7 +33,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.70.3-master",
+          "version": "1.72.2-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
