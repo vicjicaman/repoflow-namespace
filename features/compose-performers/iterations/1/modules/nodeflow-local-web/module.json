@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-web",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f254e07ee578cf50d78f4f9601b45fc398d4d579",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "5e3c972eee71d4433c6ea2d606e75846dd3ca822",
     "message": "Change env variables to repoflow prefix\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "64cbfe1a374662e6740669721f8d134fbb8beac4",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1558946630,
   "updated": 1558946630,
