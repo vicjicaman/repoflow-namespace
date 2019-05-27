@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-compose",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f521b08b61f75728a29ad93ee264dd83701754b0",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "aaad6139f460d7e05ba19ffa436eb56b80d126cf",
     "message": "Fix IO issue for the events\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "aa895b0ea1636b529d030c8332646561d4fe1fe3",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1558956359,
   "updated": 1558956359,
