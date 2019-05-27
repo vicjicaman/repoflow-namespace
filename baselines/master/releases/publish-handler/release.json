@@ -1,6 +1,6 @@
 {
   "releaseid": "publish-handler",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-build-server",
     "repoflow-plugin-compose",

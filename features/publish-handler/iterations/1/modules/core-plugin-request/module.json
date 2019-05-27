@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.0-publish-handler-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": {
+    "commitid": "dae98b00ff18cd63a48156daeaa86d492e390a8a",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "8d8f95c095f40f4dd0ff2727f2fa31524d4c5361",
+    "message": "Add event listener to task\n"
+  },
+  "mergeback": {
+    "commitid": "686d63f8c76009a748dadb98ed679674c3842aab",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1558862365,
+  "updated": 1558862365,
+  "status": "active"
+}

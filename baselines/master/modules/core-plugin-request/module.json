@@ -2,6 +2,9 @@
   "moduleid": "core-plugin-request",
   "releases": [
     {
+      "releaseid": "publish-handler"
+    },
+    {
       "releaseid": "plugin-container"
     },
     {
@@ -18,7 +21,20 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-plugin-request"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-config",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
+          "fullname": "@nebulario/core-plugin-request",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -31,7 +47,20 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-plugin-request"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-namespace",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
+          "fullname": "@nebulario/core-plugin-request",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -44,7 +73,20 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-plugin-request"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-service",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
+          "fullname": "@nebulario/core-plugin-request",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
