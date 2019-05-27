@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1558870880,
   "updated": 1558870880,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5e3c972eee71d4433c6ea2d606e75846dd3ca822",
+    "message": "Change env variables to repoflow prefix\n"
+  }
 }

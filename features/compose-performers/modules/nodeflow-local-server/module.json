@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1558684135,
   "updated": 1558684135,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f56503879446879864a87f731fcf79cbea17337b",
+    "message": "Change env variables to repoflow prefix\n"
+  }
 }

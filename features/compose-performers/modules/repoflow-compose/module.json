@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-compose.git",
   "fullname": "repoflow-compose",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Docker compose configuration for UI and GraphQL execution of repoflow containers",
   "created": 1558436351,
   "updated": 1558436351,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "103b1cbdd251991670682255381bdb02f264fee6",
+    "message": "Change env variables to repoflow prefix\n"
+  }
 }

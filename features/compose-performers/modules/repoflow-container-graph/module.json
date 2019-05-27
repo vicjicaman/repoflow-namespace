@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-container-graph.git",
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the repoflow graph",
   "created": 1558436366,
   "updated": 1558436366,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6a777ce08c1502cf9040fb1a36320357ef3e8323",
+    "message": "Change env variables to repoflow prefix\n"
+  }
 }
