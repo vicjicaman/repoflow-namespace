@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.0-compose-performers-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "50f0d8fafd6b855850fb04142a02a14893c0d707",
+    "message": "Merge remote-tracking branch 'origin/runtime-local/master' into compose-performers/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1558946630,
+  "updated": 1558946630,
+  "status": "active"
+}

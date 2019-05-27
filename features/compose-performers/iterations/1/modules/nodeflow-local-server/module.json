@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.0-compose-performers-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f56503879446879864a87f731fcf79cbea17337b",
+    "message": "Change env variables to repoflow prefix\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1558946630,
+  "updated": 1558946630,
+  "status": "active"
+}

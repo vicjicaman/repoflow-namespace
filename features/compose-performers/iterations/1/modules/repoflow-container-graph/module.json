@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-container-graph",
+  "mode": "prod",
+  "version": "1.70.0-compose-performers-prod",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6a777ce08c1502cf9040fb1a36320357ef3e8323",
+    "message": "Change env variables to repoflow prefix\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1558946629,
+  "updated": 1558946629,
+  "status": "active"
+}
