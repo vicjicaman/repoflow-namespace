@@ -1,15 +1,12 @@
 {
-  "moduleid": "repoflow-plugin-compose",
+  "moduleid": "repoflow-plugin-namespace",
   "releases": [
     {
       "releaseid": "publish-handler"
-    },
-    {
-      "releaseid": "compose-plugin"
     }
   ],
-  "created": 1552406866,
-  "updated": 1552406866,
+  "created": 1558958646,
+  "updated": 1558958646,
   "status": "active",
   "dependants": [],
   "dependents": [
