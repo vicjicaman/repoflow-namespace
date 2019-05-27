@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.0-unified-performer-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": {
+    "commitid": "bb714d2cf76b25ad757cbf275aa4372ea9060436",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "875a898b88448fb7d69cd51c7c0d0270be2dd246",
+    "message": "Merge remote-tracking branch 'origin/runtime-local/master' into unified-performer/master\n"
+  },
+  "mergeback": {
+    "commitid": "6b7962be84b716f1907dee5b07332c86ac8084b6",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1558644508,
+  "updated": 1558644508,
+  "status": "active"
+}
