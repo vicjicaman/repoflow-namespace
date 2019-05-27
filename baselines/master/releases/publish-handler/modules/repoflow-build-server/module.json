@@ -1,0 +1,20 @@
+{
+  "releaseid": "publish-handler",
+  "moduleid": "repoflow-build-server",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "0d981dd162d4860aea70203e147a277bd67ed167",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Demo build server to publish packages, containers and services to kubernetes",
+  "dependencies": [],
+  "created": 1558957435,
+  "updated": 1558957435,
+  "status": "active"
+}
