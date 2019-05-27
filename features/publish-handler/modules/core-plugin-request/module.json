@@ -14,7 +14,7 @@
   "updated": 1553638685,
   "status": "active",
   "commit": {
-    "commitid": "8d8f95c095f40f4dd0ff2727f2fa31524d4c5361",
-    "message": "Add event listener to task\n"
+    "commitid": "78317e69b1c321c2194ecf4fa2fb6f490536c85d",
+    "message": "Fix IO issue for the events\n"
   }
 }

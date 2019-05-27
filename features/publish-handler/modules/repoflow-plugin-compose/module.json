@@ -14,7 +14,7 @@
   "updated": 1558436541,
   "status": "active",
   "commit": {
-    "commitid": "9e35e89761a51fd142a4ec75675b8201a6c97381",
-    "message": "Add linked feedback to compose services\n"
+    "commitid": "aaad6139f460d7e05ba19ffa436eb56b80d126cf",
+    "message": "Fix IO issue for the events\n"
   }
 }

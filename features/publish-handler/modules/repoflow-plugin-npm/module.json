@@ -14,7 +14,7 @@
   "updated": 1552424056,
   "status": "active",
   "commit": {
-    "commitid": "ce56e103a8f0b27e9e2f0db11b75024d03adaba4",
-    "message": "Modify tasks for single entity performer\n"
+    "commitid": "fc8e0fee4f77814a4f1428a0dfeb31e64e2810ae",
+    "message": "Fix IO issue for the events\n"
   }
 }
