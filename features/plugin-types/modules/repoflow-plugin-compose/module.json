@@ -12,5 +12,9 @@
   "description": "Plugin for docker compose to handle multiple container services locally",
   "created": 1559235077,
   "updated": 1559235077,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "fd4446e4ab8082123373dbcbcd7ca39feddd55e3",
+    "message": "Add type information to the plugin.json file\n"
+  }
 }

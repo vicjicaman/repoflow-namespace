@@ -12,5 +12,9 @@
   "description": "- Plugin for NPM repositories",
   "created": 1559235046,
   "updated": 1559235046,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d134d34e4e5deca7128e60f045b755d083b4a581",
+    "message": "Add type information to the plugin.json file\n"
+  }
 }

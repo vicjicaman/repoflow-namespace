@@ -12,5 +12,9 @@
   "description": "Repoflow plugin to handle service deployment and runtime in kubernetes",
   "created": 1559235055,
   "updated": 1559235055,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bf388682854d5569a30afc5de34e315f87980336",
+    "message": "Add type information to the plugin.json file\n"
+  }
 }

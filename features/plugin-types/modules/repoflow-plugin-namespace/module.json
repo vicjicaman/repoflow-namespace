@@ -12,5 +12,9 @@
   "description": "Plugin for kubernetes namespace, ingress and general setup",
   "created": 1559235069,
   "updated": 1559235069,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f92150939b4d44121afeed4d9a7aad43be1a4a1b",
+    "message": "Add type information to the plugin.json file\n"
+  }
 }
