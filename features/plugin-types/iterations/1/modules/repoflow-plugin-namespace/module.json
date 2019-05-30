@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-namespace",
+  "mode": "prod",
+  "version": "1.70.0-plugin-types-prod",
+  "fullname": "@nebulario/repoflow-plugin-namespace",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f92150939b4d44121afeed4d9a7aad43be1a4a1b",
+    "message": "Add type information to the plugin.json file\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1559235552,
+  "updated": 1559235552,
+  "status": "active"
+}
