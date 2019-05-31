@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.1-runtime-stuck-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e076d4f928c20cc4a5848d83027eacc7a391486a",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-common into runtime-stuck/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1559336534,
+  "updated": 1559336534,
+  "status": "active"
+}
