@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "dev",
+  "version": "1.70.0-runtime-stuck-dev",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e7720528ea42a25fea5d073741332979e787fd6f",
+    "message": "Add missing lodash import\n- The issue is present when the page is loaded from the server for the first time\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1559314709,
+  "updated": 1559314709,
+  "status": "active"
+}

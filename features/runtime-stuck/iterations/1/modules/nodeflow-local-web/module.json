@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "dev",
+  "version": "1.70.0-runtime-stuck-dev",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "eb86fec36411246f2da2bed2659c446cd26df2d9",
+    "message": "Add plugin output for debug\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1559314709,
+  "updated": 1559314709,
+  "status": "active"
+}
