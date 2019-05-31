@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1559295679,
   "updated": 1559295679,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "2c42c8689d0c2bb00285f8a06cdfa49ef4d61d37",
+    "message": "Add plugin output for debug\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1559295728,
   "updated": 1559295728,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "dba1caad775a2db84fd024c8b135a2d705981f07",
+    "message": "Add plugin output for debug\n"
+  }
 }

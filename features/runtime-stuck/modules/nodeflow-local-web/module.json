@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1559295692,
   "updated": 1559295692,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "eb86fec36411246f2da2bed2659c446cd26df2d9",
+    "message": "Add plugin output for debug\n"
+  }
 }

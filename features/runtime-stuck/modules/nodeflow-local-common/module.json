@@ -12,5 +12,9 @@
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1559295698,
   "updated": 1559295698,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e7720528ea42a25fea5d073741332979e787fd6f",
+    "message": "Add missing lodash import\n- The issue is present when the page is loaded from the server for the first time\n"
+  }
 }
