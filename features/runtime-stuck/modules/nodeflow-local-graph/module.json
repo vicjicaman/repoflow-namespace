@@ -14,7 +14,7 @@
   "updated": 1559295728,
   "status": "active",
   "commit": {
-    "commitid": "dba1caad775a2db84fd024c8b135a2d705981f07",
-    "message": "Add plugin output for debug\n"
+    "commitid": "f1c46462c4f92925ed383e26cdad461f14c50239",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-graph into runtime-stuck/master\n"
   }
 }

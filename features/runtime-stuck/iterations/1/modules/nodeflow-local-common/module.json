@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-common",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "df31191f9650de4350dc5743f47784b69f8dd2ef",
+    "message": "Sync to iteration dependencies\n"
+  },
   "iterate": {
     "commitid": "e7720528ea42a25fea5d073741332979e787fd6f",
     "message": "Add missing lodash import\n- The issue is present when the page is loaded from the server for the first time\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "dd0df8b5577412bcc851418cc19d1b4420913338",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1559314709,
   "updated": 1559314709,
