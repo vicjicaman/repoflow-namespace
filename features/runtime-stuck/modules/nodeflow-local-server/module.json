@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1559295679,
   "status": "active",
   "commit": {
-    "commitid": "7a986891630a50cc08fc8b57c3d78608dca420b2",
-    "message": "ITERATION:1\n"
+    "commitid": "692ce499bdb3185d7dd8582b4dead129ae29baa9",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-server into runtime-stuck/master\n"
   }
 }
