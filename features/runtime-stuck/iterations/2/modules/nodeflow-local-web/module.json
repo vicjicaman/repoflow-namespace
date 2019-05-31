@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-web",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "fdf08a180156ff908aa7062409c4ee7e355e63b8",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "7ca121f7f83b6d4e9b5242cde69e6f12a62ae651",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e5a0b16a5e67fe3306dc349bc67d3762f94402d9",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1559321824,
   "updated": 1559321824,
