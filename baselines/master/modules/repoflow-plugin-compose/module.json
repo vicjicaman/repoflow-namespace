@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-compose",
   "releases": [
     {
+      "releaseid": "plugin-types"
+    },
+    {
       "releaseid": "publish-handler"
     },
     {

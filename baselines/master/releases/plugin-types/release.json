@@ -1,0 +1,15 @@
+{
+  "releaseid": "plugin-types",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-plugin-compose",
+    "repoflow-plugin-config",
+    "repoflow-plugin-container",
+    "repoflow-plugin-namespace",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-service"
+  ],
+  "created": 1559236103,
+  "updated": 1559236103,
+  "status": "active"
+}
