@@ -14,7 +14,7 @@
   "updated": 1552428623,
   "status": "active",
   "commit": {
-    "commitid": "2d61f1296c09f72c13b071d3fee06a24edcd4bf1",
-    "message": "Fix operation message update\n"
+    "commitid": "fefcda7914964341e19066e3a97407a712f64ff0",
+    "message": "Add package for plugin homes\n"
   }
 }

@@ -14,7 +14,7 @@
   "updated": 1552428634,
   "status": "active",
   "commit": {
-    "commitid": "b48ed0fbdd0e5b6c79beeae75035e9444e0c706f",
-    "message": "RELEASE:compose-performers:1.71.2-master\n"
+    "commitid": "437802eafc47cad49b62e06d02fca2bb36441d84",
+    "message": "Add package for plugin homes\n"
   }
 }

@@ -14,7 +14,7 @@
   "updated": 1552428644,
   "status": "active",
   "commit": {
-    "commitid": "0665499ccddacda1c26324529dba41f363a1b49e",
-    "message": "Fix for runtime canvas\n"
+    "commitid": "f17857dedc33897e6b20aed041e5de7bd314c05b",
+    "message": "Add package for plugin homes\n"
   }
 }
