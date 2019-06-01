@@ -1,0 +1,20 @@
+{
+  "releaseid": "runtime-stuck",
+  "moduleid": "nodeflow-local-graph",
+  "version": "1.72.3-master",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "aaecfa22515d33088d4942cbefacbf21fdd282da",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "dependencies": [],
+  "created": 1559379453,
+  "updated": 1559379453,
+  "status": "active"
+}
