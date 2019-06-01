@@ -1,0 +1,35 @@
+{
+  "iterationid": 3,
+  "phase": "iterated",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.70.2-runtime-stuck-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "version": "1.70.2-runtime-stuck-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.70.1-runtime-stuck-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "version": "1.70.2-runtime-stuck-prod",
+      "iterationid": 3
+    }
+  ],
+  "created": 1559336533,
+  "updated": 1559336533,
+  "status": "active"
+}
