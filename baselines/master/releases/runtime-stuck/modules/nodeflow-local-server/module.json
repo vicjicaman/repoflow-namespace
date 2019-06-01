@@ -1,0 +1,20 @@
+{
+  "releaseid": "runtime-stuck",
+  "moduleid": "nodeflow-local-server",
+  "version": "1.71.3-master",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "11bd3a441d2ece50fb9313e9498c589127dc51d3",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- SSR service for repoflow tool based on common code",
+  "dependencies": [],
+  "created": 1559379453,
+  "updated": 1559379453,
+  "status": "active"
+}

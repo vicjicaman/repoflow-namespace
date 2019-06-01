@@ -1,0 +1,20 @@
+{
+  "releaseid": "runtime-stuck",
+  "moduleid": "nodeflow-local-web",
+  "version": "1.71.3-master",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "7b9c9eaeb6e2a32fdbd507cd6cb522d6d447543d",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Generate web deliberable based on the common code",
+  "dependencies": [],
+  "created": 1559379453,
+  "updated": 1559379453,
+  "status": "active"
+}
