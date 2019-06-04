@@ -1,0 +1,20 @@
+{
+  "releaseid": "plugin-timeout",
+  "moduleid": "repoflow-plugin-compose",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/repoflow-plugin-compose",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
+  "publish": null,
+  "released": {
+    "commitid": "39f78f0830eaede7ec055171dd8949467ab0ba9c",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for docker compose to handle multiple container services locally",
+  "dependencies": [],
+  "created": 1559685092,
+  "updated": 1559685092,
+  "status": "active"
+}

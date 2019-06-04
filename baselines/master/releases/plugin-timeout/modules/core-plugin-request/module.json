@@ -1,0 +1,20 @@
+{
+  "releaseid": "plugin-timeout",
+  "moduleid": "core-plugin-request",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": null,
+  "released": {
+    "commitid": "5ecf519bc3b322bed290b7c5161f32bb2ceba88d",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Common functionality for repoflow plugins",
+  "dependencies": [],
+  "created": 1559685092,
+  "updated": 1559685092,
+  "status": "active"
+}

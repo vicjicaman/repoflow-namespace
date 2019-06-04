@@ -1,0 +1,20 @@
+{
+  "releaseid": "plugin-timeout",
+  "moduleid": "repoflow-plugin-namespace",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/repoflow-plugin-namespace",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
+  "publish": null,
+  "released": {
+    "commitid": "c5ab8d2ce06f4b7e9a2d3158cd4ee0e383c131f2",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for kubernetes namespace, ingress and general setup",
+  "dependencies": [],
+  "created": 1559685092,
+  "updated": 1559685092,
+  "status": "active"
+}

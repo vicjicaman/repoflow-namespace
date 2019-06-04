@@ -1,0 +1,20 @@
+{
+  "releaseid": "plugin-timeout",
+  "moduleid": "repoflow-plugin-config",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "ce986e78138816f6502d2e4badc2f8f694589c18",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for CONFIG repositories",
+  "dependencies": [],
+  "created": 1559685092,
+  "updated": 1559685092,
+  "status": "active"
+}
