@@ -1,6 +1,6 @@
 {
   "releaseid": "plugin-timeout",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-plugin-compose",
     "repoflow-plugin-config",
