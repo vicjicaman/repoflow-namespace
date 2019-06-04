@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-config.git",
   "fullname": "@nebulario/repoflow-plugin-config",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for CONFIG repositories",
   "created": 1559416671,
   "updated": 1559416671,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d7ddf8049cae72405588c6415f3e93bc59d23447",
+    "message": "RELEASE:plugin-types:1.70.1-master\n"
+  }
 }
