@@ -1,0 +1,20 @@
+{
+  "releaseid": "plugin-timeout",
+  "moduleid": "repoflow-plugin-service",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/repoflow-plugin-service",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "bfe9901f307315416b122ef2bca163c04e254116",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Repoflow plugin to handle service deployment and runtime in kubernetes",
+  "dependencies": [],
+  "created": 1559685092,
+  "updated": 1559685092,
+  "status": "active"
+}
