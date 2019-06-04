@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.0-plugin-timeout-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": {
+    "commitid": "f0548216df576bc232561ca869fe79ecf0d93fa3",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "392124b2b73a9faaf063d8712e8706dbc8851164",
+    "message": "Fix publish issue with slow network\n"
+  },
+  "mergeback": {
+    "commitid": "5ecf519bc3b322bed290b7c5161f32bb2ceba88d",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1559684178,
+  "updated": 1559684178,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-plugin-compose",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
+  "fullname": "@nebulario/repoflow-plugin-compose",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Plugin for docker compose to handle multiple container services locally",
+  "created": 1559416642,
+  "updated": 1559416642,
+  "status": "active",
+  "commit": {
+    "commitid": "39f78f0830eaede7ec055171dd8949467ab0ba9c",
+    "message": "ITERATION:1\n"
+  }
+}
