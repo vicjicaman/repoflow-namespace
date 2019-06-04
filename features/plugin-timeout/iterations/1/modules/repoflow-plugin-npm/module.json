@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.0-plugin-timeout-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f25069fb2c4c97d0210d13ab5a888662ad3eb4b3",
+    "message": "Merge branch 'plugin-local/master' of github.com:vicjicaman/repoflow-plugin-npm into plugin-timeout/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1559684178,
+  "updated": 1559684178,
+  "status": "active"
+}

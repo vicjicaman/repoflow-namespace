@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-compose",
+  "mode": "prod",
+  "version": "1.70.0-plugin-timeout-prod",
+  "fullname": "@nebulario/repoflow-plugin-compose",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "eadd998c7afdeab05155c2ef13c1e2be1faaa29d",
+    "message": "RELEASE:plugin-types:1.70.2-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1559684177,
+  "updated": 1559684177,
+  "status": "active"
+}
