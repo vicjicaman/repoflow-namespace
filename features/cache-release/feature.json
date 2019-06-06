@@ -1,0 +1,8 @@
+{
+  "featureid": "cache-release",
+  "baselineid": "master",
+  "description": "- Cache the feature and release call for immutable entities",
+  "created": 1559810938,
+  "updated": 1559810938,
+  "status": "active"
+}
