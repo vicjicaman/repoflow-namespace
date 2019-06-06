@@ -1,0 +1,16 @@
+{
+  "moduleid": "core-process",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-process.git",
+  "fullname": "@nebulario/core-process",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Promise process for node\n- Retry and wait utils",
+  "created": 1559811766,
+  "updated": 1559811766,
+  "status": "active"
+}
