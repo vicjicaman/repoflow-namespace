@@ -14,7 +14,7 @@
   "updated": 1552428634,
   "status": "active",
   "commit": {
-    "commitid": "437802eafc47cad49b62e06d02fca2bb36441d84",
-    "message": "Add package for plugin homes\n"
+    "commitid": "75e8c9adfaf1c5c32a04c66530151617cd89d5f2",
+    "message": "Add DEV_ option to the repoflow env variables\n"
   }
 }

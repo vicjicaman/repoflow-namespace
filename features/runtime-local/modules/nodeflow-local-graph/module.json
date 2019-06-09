@@ -14,7 +14,7 @@
   "updated": 1552428654,
   "status": "active",
   "commit": {
-    "commitid": "8d9bdbd51cd215dc7347540a411e6cbc0ed42cfd",
-    "message": "Add package for plugin homes\n"
+    "commitid": "01de105380bcfb2803df72a6702a5c9f6b2d8a9b",
+    "message": "Add default plugins\n- Fix the issue with a removed iterated module\n"
   }
 }

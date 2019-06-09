@@ -14,7 +14,7 @@
   "updated": 1552428623,
   "status": "active",
   "commit": {
-    "commitid": "fefcda7914964341e19066e3a97407a712f64ff0",
-    "message": "Add package for plugin homes\n"
+    "commitid": "3580309bb00a25f487ba2de04aca6b06c1920048",
+    "message": "Add runtime dependent pending mechanism\n"
   }
 }
