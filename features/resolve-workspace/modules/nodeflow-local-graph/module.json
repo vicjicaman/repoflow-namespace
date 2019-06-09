@@ -12,5 +12,9 @@
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1560116699,
   "updated": 1560116699,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "af5f86280eb3151740926b89f7740814e08245f3",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-graph into resolve-workspace/master\n"
+  }
 }
