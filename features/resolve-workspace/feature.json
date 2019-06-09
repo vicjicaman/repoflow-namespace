@@ -1,0 +1,8 @@
+{
+  "featureid": "resolve-workspace",
+  "baselineid": "master",
+  "description": "- Fix the issue with resolve workspace\n- Fix the issue with module creation\n- Add simple repository info plugin",
+  "created": 1560074201,
+  "updated": 1560074201,
+  "status": "active"
+}
