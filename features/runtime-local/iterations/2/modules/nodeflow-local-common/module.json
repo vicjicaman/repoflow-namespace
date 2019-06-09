@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.1-runtime-local-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "3580309bb00a25f487ba2de04aca6b06c1920048",
+    "message": "Add runtime dependent pending mechanism\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1560117570,
+  "updated": 1560117570,
+  "status": "active"
+}
