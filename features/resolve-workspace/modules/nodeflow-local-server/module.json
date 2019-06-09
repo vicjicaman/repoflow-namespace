@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1560116292,
   "updated": 1560116292,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "53f304e84aee9243be03ede262b714b16e49337d",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-server into resolve-workspace/master\n"
+  }
 }
