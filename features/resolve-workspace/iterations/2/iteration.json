@@ -1,0 +1,41 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-tool",
+      "version": "1.70.1-resolve-workspace-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.70.1-resolve-workspace-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.70.1-resolve-workspace-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "iterationid": 2,
+      "version": "1.70.0-resolve-workspace-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "iterationid": 2,
+      "version": "1.70.0-resolve-workspace-prod"
+    }
+  ],
+  "created": 1560117741,
+  "updated": 1560117741,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.1-resolve-workspace-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "479760c0ef3fb6a72aae1970fde9067c1e28901e",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-common into resolve-workspace/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1560117741,
+  "updated": 1560117741,
+  "status": "active"
+}
