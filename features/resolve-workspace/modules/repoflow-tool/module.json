@@ -1,6 +1,6 @@
 {
   "moduleid": "repoflow-tool",
-  "type": "npm",
+  "type": "boundle",
   "url": "github.com:vicjicaman/repoflow-tool.git",
   "fullname": "@nebulario/repoflow-tool",
   "iteration": {
