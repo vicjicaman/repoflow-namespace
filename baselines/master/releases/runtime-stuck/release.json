@@ -1,0 +1,13 @@
+{
+  "releaseid": "runtime-stuck",
+  "phase": "released",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1559379453,
+  "updated": 1559379453,
+  "status": "active"
+}

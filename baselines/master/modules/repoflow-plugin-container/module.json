@@ -2,6 +2,12 @@
   "moduleid": "repoflow-plugin-container",
   "releases": [
     {
+      "releaseid": "plugin-timeout"
+    },
+    {
+      "releaseid": "plugin-types"
+    },
+    {
       "releaseid": "publish-handler"
     },
     {
@@ -25,7 +31,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"

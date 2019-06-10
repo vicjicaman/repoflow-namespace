@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-container",
+  "mode": "prod",
+  "version": "1.70.0-plugin-types-prod",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": {
+    "commitid": "373db80af42204a5027b6c2e130dd8dd3e91c298",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "e087317af3fe29a14e36997e0b0d3ac76d3c24b9",
+    "message": "Add type information to the plugin.json file\n"
+  },
+  "mergeback": {
+    "commitid": "4ad31f575085a16967683da593d154ae0635898a",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1559235552,
+  "updated": 1559235552,
+  "status": "active"
+}
