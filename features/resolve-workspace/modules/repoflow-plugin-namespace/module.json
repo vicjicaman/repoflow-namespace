@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
   "fullname": "@nebulario/repoflow-plugin-namespace",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for kubernetes namespace, ingress and general setup",
   "created": 1560288492,
   "updated": 1560288492,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "84d6eb04ef46dc199d6d5fb7e5f06715a44774be",
+    "message": "Update to new plugin mechanism\n"
+  }
 }

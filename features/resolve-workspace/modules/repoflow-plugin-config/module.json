@@ -12,5 +12,9 @@
   "description": "Plugin for CONFIG repositories",
   "created": 1560288604,
   "updated": 1560288604,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8e12efca1aac7ba0445663f72aa16b480168210d",
+    "message": "Update to new plugin mechanism\n"
+  }
 }

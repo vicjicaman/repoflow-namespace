@@ -12,5 +12,9 @@
   "description": "Plugin for container image with a NPM package as service",
   "created": 1560288519,
   "updated": 1560288519,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e5d237a5f795b22832dc4caa8535226ae7866480",
+    "message": "Update to new plugin mechanism\n"
+  }
 }

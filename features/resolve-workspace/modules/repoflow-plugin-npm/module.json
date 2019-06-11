@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
   "fullname": "@nebulario/repoflow-plugin-npm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin for NPM repositories",
   "created": 1560288346,
   "updated": 1560288346,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b6ac1a22b2e0b43913d3adbd4f9432fc9416a843",
+    "message": "RELEASE:plugin-timeout:1.70.4-master\n"
+  }
 }
