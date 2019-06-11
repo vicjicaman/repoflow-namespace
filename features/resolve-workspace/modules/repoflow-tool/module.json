@@ -14,7 +14,7 @@
   "updated": 1560079463,
   "status": "active",
   "commit": {
-    "commitid": "d09baa1610aae1df104c498ed5879d6e4be6127e",
-    "message": "Merge remote-tracking branch 'origin/resolve-workspace/master' into resolve-workspace/master\n"
+    "commitid": "25fee5eeaff4e251a24a3b9d50b478c5c0e478cf",
+    "message": "Ignore node_modules in GIT\n- Use the yarn lock and versions to download the modules via yarn\n"
   }
 }
