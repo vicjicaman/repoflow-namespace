@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-tool",
   "type": "bundle",
   "url": "github.com:vicjicaman/repoflow-tool.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a9ce80d6bd941f87c9552201fc2fb69655f37b9a",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "25fee5eeaff4e251a24a3b9d50b478c5c0e478cf",
     "message": "Ignore node_modules in GIT\n- Use the yarn lock and versions to download the modules via yarn\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "519fb26388ae2ed05e40579cd3cf462037e642dd",
+    "message": "ITERATION:11\n"
+  },
   "releasedOn": 11,
   "created": 1560255097,
   "updated": 1560255097,
