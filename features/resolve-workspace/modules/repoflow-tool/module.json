@@ -14,7 +14,7 @@
   "updated": 1560079463,
   "status": "active",
   "commit": {
-    "commitid": "25fee5eeaff4e251a24a3b9d50b478c5c0e478cf",
-    "message": "Ignore node_modules in GIT\n- Use the yarn lock and versions to download the modules via yarn\n"
+    "commitid": "dbcb69f35d93e537b279d74ee6e3deef88aab4f3",
+    "message": "Ignore node_modules\n"
   }
 }
