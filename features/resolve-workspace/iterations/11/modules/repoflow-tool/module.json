@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.10-resolve-workspace-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "25fee5eeaff4e251a24a3b9d50b478c5c0e478cf",
+    "message": "Ignore node_modules in GIT\n- Use the yarn lock and versions to download the modules via yarn\n"
+  },
+  "mergeback": null,
+  "releasedOn": 11,
+  "created": 1560255097,
+  "updated": 1560255097,
+  "status": "active"
+}
