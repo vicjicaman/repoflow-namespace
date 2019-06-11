@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-compose",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
-  "publish": null,
+  "publish": {
+    "commitid": "96e83bf9caf51befb33b025477814db4da2e9126",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "3d1214a1ab6df27445778c94d9cf8f5f0b50fed6",
     "message": "Update to new plugin mechanism\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "faa0fc62e325ad91adf1f85299180941bc702523",
+    "message": "ITERATION:15\n"
+  },
   "releasedOn": 15,
   "created": 1560290618,
   "updated": 1560290618,
