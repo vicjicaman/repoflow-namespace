@@ -1,0 +1,16 @@
+{
+  "moduleid": "core-json",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-json.git",
+  "fullname": "@nebulario/core-json",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "JSON common utils",
+  "created": 1560374147,
+  "updated": 1560374147,
+  "status": "active"
+}
