@@ -9,7 +9,7 @@
   "release": {
     "type": "patch"
   },
-  "description": "- Configuration functionality, build, clone dependencies and build",
+  "description": "- Configuration functionality, build, clone dependencies",
   "created": 1560371853,
   "updated": 1560371853,
   "status": "active"
