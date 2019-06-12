@@ -14,7 +14,7 @@
   "updated": 1560116292,
   "status": "active",
   "commit": {
-    "commitid": "4d9cb3ce74d8bf417fb78eb8847604d46979bfbc",
-    "message": "ITERATION:2\n"
+    "commitid": "44ad8f21139490175779a938e5eb571c16f912a7",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-server into resolve-workspace/master\n"
   }
 }

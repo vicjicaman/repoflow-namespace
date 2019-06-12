@@ -14,7 +14,7 @@
   "updated": 1560288346,
   "status": "active",
   "commit": {
-    "commitid": "b87eb2fa3d3ae950d9471dd3a9c7431c71822714",
-    "message": "ITERATION:15\n"
+    "commitid": "b0c871cf3d9991a54c3ec6a263f4857e25cd6897",
+    "message": "Merge branch 'plugin-local/master' of github.com:vicjicaman/repoflow-plugin-npm into resolve-workspace/master\n"
   }
 }
