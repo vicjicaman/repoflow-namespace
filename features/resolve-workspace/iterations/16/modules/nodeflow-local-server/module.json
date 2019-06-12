@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-server",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f7023b803cd6125326aabc37db15a862b1169d84",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "44ad8f21139490175779a938e5eb571c16f912a7",
     "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-server into resolve-workspace/master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ddca0b007ebec8257217a416afce486900e103b9",
+    "message": "ITERATION:16\n"
+  },
   "releasedOn": 16,
   "created": 1560332533,
   "updated": 1560332533,
