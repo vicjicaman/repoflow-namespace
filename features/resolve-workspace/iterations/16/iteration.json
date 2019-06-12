@@ -1,0 +1,82 @@
+{
+  "iterationid": 16,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool",
+    "repoflow-plugin-npm",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-tool",
+      "version": "1.70.15-resolve-workspace-prod",
+      "iterationid": 16
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.70.2-resolve-workspace-prod",
+      "iterationid": 16
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.70.2-resolve-workspace-prod",
+      "iterationid": 16
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "version": "1.70.1-resolve-workspace-prod",
+      "iterationid": 16
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "version": "1.70.1-resolve-workspace-prod",
+      "iterationid": 16
+    },
+    {
+      "moduleid": "repoflow-plugin-bundle",
+      "version": "1.70.0-resolve-workspace-prod",
+      "iterationid": 10
+    },
+    {
+      "moduleid": "core-plugin-request",
+      "version": "1.70.0-resolve-workspace-prod",
+      "iterationid": 10
+    },
+    {
+      "moduleid": "repoflow-plugin-compose",
+      "version": "1.70.0-resolve-workspace-prod",
+      "iterationid": 15
+    },
+    {
+      "moduleid": "repoflow-plugin-service",
+      "version": "1.70.0-resolve-workspace-prod",
+      "iterationid": 15
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "version": "1.70.1-resolve-workspace-prod",
+      "iterationid": 16
+    },
+    {
+      "moduleid": "repoflow-plugin-namespace",
+      "version": "1.70.0-resolve-workspace-prod",
+      "iterationid": 15
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "version": "1.70.0-resolve-workspace-prod",
+      "iterationid": 15
+    },
+    {
+      "moduleid": "repoflow-plugin-config",
+      "version": "1.70.0-resolve-workspace-prod",
+      "iterationid": 15
+    }
+  ],
+  "created": 1560332533,
+  "updated": 1560332533,
+  "status": "active"
+}

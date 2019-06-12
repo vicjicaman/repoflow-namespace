@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.2-resolve-workspace-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "44ad8f21139490175779a938e5eb571c16f912a7",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-server into resolve-workspace/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 16,
+  "created": 1560332533,
+  "updated": 1560332533,
+  "status": "active"
+}

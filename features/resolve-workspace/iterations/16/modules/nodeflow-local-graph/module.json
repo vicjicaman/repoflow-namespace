@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.1-resolve-workspace-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "75b70fd678820694b37e21c80377949b20456d02",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-graph into resolve-workspace/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 16,
+  "created": 1560332533,
+  "updated": 1560332533,
+  "status": "active"
+}

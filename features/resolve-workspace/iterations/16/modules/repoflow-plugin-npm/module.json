@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.1-resolve-workspace-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b0c871cf3d9991a54c3ec6a263f4857e25cd6897",
+    "message": "Merge branch 'plugin-local/master' of github.com:vicjicaman/repoflow-plugin-npm into resolve-workspace/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 16,
+  "created": 1560332533,
+  "updated": 1560332533,
+  "status": "active"
+}
