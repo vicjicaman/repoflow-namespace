@@ -14,7 +14,7 @@
   "updated": 1560288604,
   "status": "active",
   "commit": {
-    "commitid": "f30d830a68f51ec1e40dedd1bcafc280d3a28dcc",
-    "message": "Sync to latest core-plugin iteration\n"
+    "commitid": "1b4d3d71eb732b467baa32819869af8b73789ff1",
+    "message": "Merge 1.70.4-master release to feature\n"
   }
 }
