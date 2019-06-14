@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-repository.git",
   "fullname": "@nebulario/core-repository",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
