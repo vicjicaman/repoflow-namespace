@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-json",
   "type": "npm",
   "url": "github.com:vicjicaman/core-json.git",
-  "publish": null,
+  "publish": {
+    "commitid": "146d507d0af4a384b3d836faafaf1222f76f8c2f",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "cb11250c2ba56f5c25ba98d3f4cb5fee47c83501",
     "message": "Initial load and save json utils\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "04a131d233358069cf939d48ad78f87810b8cb0f",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1560525898,
   "updated": 1560525898,

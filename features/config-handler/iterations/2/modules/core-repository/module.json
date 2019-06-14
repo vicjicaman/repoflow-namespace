@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-repository",
   "type": "npm",
   "url": "github.com:vicjicaman/core-repository.git",
-  "publish": null,
+  "publish": {
+    "commitid": "985077ac4c30974c6b637ef749828d8eae489d25",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "ac5a21ae0a0238e52e17907ce7e4e5dc42984491",
     "message": "Restructure the config plugin to hadle url as fullname\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "4f5ef99d95bb4fbcc04914eed1b5835f85ac17a9",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1560525898,
   "updated": 1560525898,
