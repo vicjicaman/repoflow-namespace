@@ -1,0 +1,20 @@
+{
+  "releaseid": "config-handler",
+  "moduleid": "core-config",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/core-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "be2b9be029e5f3556cdefb280a64102836e48f68",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Configuration functionality, build, clone dependencies",
+  "dependencies": [],
+  "created": 1560526394,
+  "updated": 1560526394,
+  "status": "active"
+}
