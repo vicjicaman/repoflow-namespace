@@ -1,0 +1,67 @@
+{
+  "moduleid": "core-config",
+  "releases": [
+    {
+      "releaseid": "config-handler"
+    }
+  ],
+  "created": 1560526696,
+  "updated": 1560526696,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "repoflow-build-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
+          "fullname": "@nebulario/core-config",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-config"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-config",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
+          "fullname": "@nebulario/core-config",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-config"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "core-json",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-json",
+          "fullname": "@nebulario/core-json",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-json"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-repository",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-repository",
+          "fullname": "@nebulario/core-repository",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-repository"
+        }
+      ]
+    }
+  ]
+}

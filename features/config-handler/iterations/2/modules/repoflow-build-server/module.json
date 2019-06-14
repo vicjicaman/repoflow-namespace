@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.1-config-handler-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": {
+    "commitid": "ef1a6e12fabbab73d9e37069b9d4c6c217d20b81",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "a6c2206ccf60a7f10940a8548ecd7b4ad6d45da0",
+    "message": "Restructure the config plugin to hadle url as fullname\n"
+  },
+  "mergeback": {
+    "commitid": "7b41b708e5f140874b12e16cd705acfadd5ba685",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1560525898,
+  "updated": 1560525898,
+  "status": "active"
+}

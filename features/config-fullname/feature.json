@@ -1,0 +1,8 @@
+{
+  "featureid": "config-fullname",
+  "baselineid": "master",
+  "description": "Restructure of the config plugin, remove namespace and keep direct repository as fullname",
+  "created": 1560525485,
+  "updated": 1560525485,
+  "status": "active"
+}

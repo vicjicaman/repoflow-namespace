@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-repository",
+  "mode": "prod",
+  "version": "1.70.0-config-handler-prod",
+  "fullname": "@nebulario/core-repository",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-repository.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ac5a21ae0a0238e52e17907ce7e4e5dc42984491",
+    "message": "Restructure the config plugin to hadle url as fullname\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1560525768,
+  "updated": 1560525768,
+  "status": "active"
+}
