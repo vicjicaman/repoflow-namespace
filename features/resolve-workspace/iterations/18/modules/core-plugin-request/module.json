@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.1-resolve-workspace-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6a0e3aa3cd7ed7b1d37d18ea38ff4122c1f0a133",
+    "message": "Merge 1.70.4-master release\n"
+  },
+  "mergeback": null,
+  "releasedOn": 18,
+  "created": 1560528527,
+  "updated": 1560528527,
+  "status": "active"
+}

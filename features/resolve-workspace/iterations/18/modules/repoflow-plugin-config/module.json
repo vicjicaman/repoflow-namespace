@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-config",
+  "mode": "prod",
+  "version": "1.70.2-resolve-workspace-prod",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "1b4d3d71eb732b467baa32819869af8b73789ff1",
+    "message": "Merge 1.70.4-master release to feature\n"
+  },
+  "mergeback": null,
+  "releasedOn": 18,
+  "created": 1560528527,
+  "updated": 1560528527,
+  "status": "active"
+}
