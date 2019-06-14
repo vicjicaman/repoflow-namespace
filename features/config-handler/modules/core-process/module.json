@@ -12,5 +12,9 @@
   "description": "- Promise process for node\n- Retry and wait utils",
   "created": 1560372223,
   "updated": 1560372223,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7135f28b23a16c7162d3e3af3cf38a4afec3316b",
+    "message": "RELEASE:clean-baseline:1.70.0-master\n"
+  }
 }

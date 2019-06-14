@@ -12,5 +12,9 @@
   "description": "JSON common utils",
   "created": 1560374147,
   "updated": 1560374147,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "cb11250c2ba56f5c25ba98d3f4cb5fee47c83501",
+    "message": "Initial load and save json utils\n"
+  }
 }

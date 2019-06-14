@@ -12,5 +12,9 @@
   "description": "Demo build server to publish packages, containers and services to kubernetes",
   "created": 1560459239,
   "updated": 1560459239,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a6c2206ccf60a7f10940a8548ecd7b4ad6d45da0",
+    "message": "Restructure the config plugin to hadle url as fullname\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "- Functionality to interact with a repository",
   "created": 1560414684,
   "updated": 1560414684,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ac5a21ae0a0238e52e17907ce7e4e5dc42984491",
+    "message": "Restructure the config plugin to hadle url as fullname\n"
+  }
 }

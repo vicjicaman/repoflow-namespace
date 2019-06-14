@@ -12,5 +12,9 @@
   "description": "- Configuration functionality, build, clone dependencies",
   "created": 1560371853,
   "updated": 1560371853,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0e90c9c87627502e7407533f2829fac4fa6c6555",
+    "message": "Restructure the config plugin to hadle url as fullname\n"
+  }
 }
