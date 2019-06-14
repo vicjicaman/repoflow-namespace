@@ -2,6 +2,9 @@
   "moduleid": "core-plugin-request",
   "releases": [
     {
+      "releaseid": "config-handler"
+    },
+    {
       "releaseid": "plugin-timeout"
     },
     {
@@ -37,7 +40,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
