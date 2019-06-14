@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-config",
+  "mode": "prod",
+  "version": "1.70.1-config-handler-prod",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f3c94e55c5ad19e3b5540bf325ed9c3c3b9e7e0a",
+    "message": "Restructure the config plugin to hadle url as fullname\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1560525898,
+  "updated": 1560525898,
+  "status": "active"
+}
