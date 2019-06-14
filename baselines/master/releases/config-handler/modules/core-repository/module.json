@@ -1,0 +1,139 @@
+{
+  "releaseid": "config-handler",
+  "moduleid": "core-repository",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/core-repository",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-repository.git",
+  "publish": {
+    "commitid": "9fe4fe7a0981527bdcbc76c55527c9a1ee030824",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "4f5ef99d95bb4fbcc04914eed1b5835f85ac17a9",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "33c9440e496f2ec71e5b2a682b9c78aff4b073b1",
+    "message": "RELEASE:config-handler:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "- Functionality to interact with a repository",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/core-repository",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+      "fullname": "@nebulario/core-process",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-process"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-cli",
+      "fullname": "babel-cli",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-core",
+      "fullname": "babel-core",
+      "version": "6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^7.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-transform-runtime",
+      "fullname": "babel-plugin-transform-runtime",
+      "version": "^6.23.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-env",
+      "fullname": "babel-preset-env",
+      "version": "^1.6.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-0",
+      "fullname": "babel-preset-stage-0",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-0"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-2",
+      "fullname": "babel-preset-stage-2",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-2"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.npm-run-all",
+      "fullname": "npm-run-all",
+      "version": "^4.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.npm-run-all"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.uglifyjs-webpack-plugin",
+      "fullname": "uglifyjs-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.uglifyjs-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^3.8.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-bundle-analyzer",
+      "fullname": "webpack-bundle-analyzer",
+      "version": "^2.9.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-bundle-analyzer"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
+  "created": 1560526394,
+  "updated": 1560526394,
+  "status": "active"
+}

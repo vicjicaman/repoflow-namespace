@@ -1,0 +1,27 @@
+{
+  "moduleid": "core-json",
+  "releases": [
+    {
+      "releaseid": "config-handler"
+    }
+  ],
+  "created": 1560526696,
+  "updated": 1560526696,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "core-config",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-json",
+          "fullname": "@nebulario/core-json",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-json"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}
