@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-graph",
   "releases": [
     {
+      "releaseid": "resolve-workspace"
+    },
+    {
       "releaseid": "runtime-stuck"
     },
     {

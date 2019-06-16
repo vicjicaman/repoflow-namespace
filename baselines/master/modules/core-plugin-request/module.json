@@ -2,6 +2,9 @@
   "moduleid": "core-plugin-request",
   "releases": [
     {
+      "releaseid": "resolve-workspace"
+    },
+    {
       "releaseid": "config-handler"
     },
     {
