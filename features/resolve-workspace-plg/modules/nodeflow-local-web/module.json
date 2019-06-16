@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1560715274,
   "updated": 1560715274,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "455c2735a49b3a45d3dd7b69b96c371096e932c1",
+    "message": "Merge latest runtime changes\n"
+  }
 }

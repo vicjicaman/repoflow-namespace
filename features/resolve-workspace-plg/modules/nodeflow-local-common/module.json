@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1560715289,
   "updated": 1560715289,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c790a4ea6cdc216b526a2c1453b4aa7770d080f5",
+    "message": "Merge branch 'resolve-workspace/master' of github.com:vicjicaman/nodeflow-local-common into resolve-workspace-plg/master\n"
+  }
 }
