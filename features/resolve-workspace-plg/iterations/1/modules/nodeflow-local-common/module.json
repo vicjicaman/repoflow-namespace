@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-common",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "8e96c99eec52bf7465eb31f3dce23ce402eafb6e",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "c790a4ea6cdc216b526a2c1453b4aa7770d080f5",
     "message": "Merge branch 'resolve-workspace/master' of github.com:vicjicaman/nodeflow-local-common into resolve-workspace-plg/master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6d153c3387c269f0ee880bb58cf070aa867d0685",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1560715875,
   "updated": 1560715875,

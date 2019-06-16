@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "2c2710339b5465dc0996e45c90d77a8a5bb3f8a4",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "5f5fec74062120a9ea41918f8da982d74f51b5a2",
     "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-graph into resolve-workspace-plg/master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "db761a6566ba29ca5489a7dd113ea4355108c3b5",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1560715875,
   "updated": 1560715875,
