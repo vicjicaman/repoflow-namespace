@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-plugin-request.git",
   "fullname": "@nebulario/core-plugin-request",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common functionality for repoflow plugins",
   "created": 1560720992,
   "updated": 1560720992,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1f094da1b5a0d56651dc31da8d334783737a7858",
+    "message": "Merge branch 'resolve-workspace/master' of github.com:vicjicaman/core-plugin-request into resolve-workspace-plugins/master\n"
+  }
 }

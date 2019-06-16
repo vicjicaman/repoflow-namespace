@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
   "fullname": "@nebulario/repoflow-plugin-bundle",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin for bundle packages and entrypoint",
   "created": 1560721154,
   "updated": 1560721154,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "dfb3613043cf1427e2eb7fa5868272629fa440d0",
+    "message": "Changes to publish error  handlers\n"
+  }
 }
