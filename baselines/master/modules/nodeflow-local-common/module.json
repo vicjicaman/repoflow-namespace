@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-common",
   "releases": [
     {
+      "releaseid": "resolve-workspace-plg"
+    },
+    {
       "releaseid": "resolve-workspace"
     },
     {
@@ -45,7 +48,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.3-master",
+          "version": "1.71.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -58,7 +61,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.3-master",
+          "version": "1.71.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"

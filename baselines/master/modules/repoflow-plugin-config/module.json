@@ -21,45 +21,5 @@
   "updated": 1558958645,
   "status": "active",
   "dependants": [],
-  "dependents": [
-    {
-      "moduleid": "core-plugin-request",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
-          "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.4-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/core-plugin-request"
-        }
-      ]
-    },
-    {
-      "moduleid": "core-process",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
-          "fullname": "@nebulario/core-process",
-          "version": "1.70.0-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/core-process"
-        }
-      ]
-    },
-    {
-      "moduleid": "core-config",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
-          "fullname": "@nebulario/core-config",
-          "version": "1.70.0-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/core-config"
-        }
-      ]
-    }
-  ]
+  "dependents": []
 }
