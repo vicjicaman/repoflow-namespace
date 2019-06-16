@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-plugin-namespace",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
+  "fullname": "@nebulario/repoflow-plugin-namespace",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Plugin for kubernetes namespace, ingress and general setup",
+  "created": 1560720801,
+  "updated": 1560720801,
+  "status": "active",
+  "commit": {
+    "commitid": "df805c7dc8025f3da02451db93500f94a3011b24",
+    "message": "ITERATION:1\n"
+  }
+}

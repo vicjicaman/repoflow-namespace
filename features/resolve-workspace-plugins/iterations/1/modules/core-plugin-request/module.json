@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.0-resolve-workspace-plugins-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": {
+    "commitid": "d28e9bf5783e7b35ae0b4a9dd8615eab392cab7f",
+    "message": "commit to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "1f094da1b5a0d56651dc31da8d334783737a7858",
+    "message": "Merge branch 'resolve-workspace/master' of github.com:vicjicaman/core-plugin-request into resolve-workspace-plugins/master\n"
+  },
+  "mergeback": {
+    "commitid": "54eb23c5d0931d8d513d84d0b2623ef3019a834e",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1560722614,
+  "updated": 1560722614,
+  "status": "active"
+}
