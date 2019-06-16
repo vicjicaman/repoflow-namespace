@@ -1,0 +1,17 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-tool",
+      "version": "1.70.1-resolve-workspace-tool-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1560725160,
+  "updated": 1560725160,
+  "status": "active"
+}

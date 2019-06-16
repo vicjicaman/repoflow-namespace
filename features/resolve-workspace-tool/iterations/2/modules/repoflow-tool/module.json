@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.1-resolve-workspace-tool-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2bda0ead08fd9d08a3bfd70f3922ff418be95968",
+    "message": "Sync to latest versions\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1560725160,
+  "updated": 1560725160,
+  "status": "active"
+}
