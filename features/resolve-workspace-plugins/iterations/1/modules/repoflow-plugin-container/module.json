@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-container",
+  "mode": "prod",
+  "version": "1.70.0-resolve-workspace-plugins-prod",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6c9d3b372521daf43a171ef2e08031ec7b7a33cf",
+    "message": "ITERATION:18\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1560722614,
+  "updated": 1560722614,
+  "status": "active"
+}
