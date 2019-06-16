@@ -1,0 +1,20 @@
+{
+  "releaseid": "resolve-workspace-plugins",
+  "moduleid": "core-plugin-request",
+  "version": "1.70.5-master",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": null,
+  "released": {
+    "commitid": "54eb23c5d0931d8d513d84d0b2623ef3019a834e",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Common functionality for repoflow plugins",
+  "dependencies": [],
+  "created": 1560723530,
+  "updated": 1560723530,
+  "status": "active"
+}
