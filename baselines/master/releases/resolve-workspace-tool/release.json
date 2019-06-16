@@ -1,6 +1,6 @@
 {
   "releaseid": "resolve-workspace-tool",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-tool"
   ],
