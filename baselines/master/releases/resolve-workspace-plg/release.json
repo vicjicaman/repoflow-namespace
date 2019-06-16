@@ -1,6 +1,6 @@
 {
   "releaseid": "resolve-workspace-plg",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "nodeflow-local-server",
     "nodeflow-local-web",
