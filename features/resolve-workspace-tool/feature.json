@@ -1,0 +1,8 @@
+{
+  "featureid": "resolve-workspace-tool",
+  "baselineid": "master",
+  "description": "- Release the bundle tool for buffered plugins",
+  "created": 1560724246,
+  "updated": 1560724246,
+  "status": "active"
+}
