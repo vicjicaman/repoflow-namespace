@@ -1,0 +1,20 @@
+{
+  "releaseid": "resolve-workspace-plugins",
+  "moduleid": "repoflow-plugin-service",
+  "version": "1.70.4-master",
+  "fullname": "@nebulario/repoflow-plugin-service",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "9227f2aec5bbbdeb55250be38231707946ed67e0",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Repoflow plugin to handle service deployment and runtime in kubernetes",
+  "dependencies": [],
+  "created": 1560723530,
+  "updated": 1560723530,
+  "status": "active"
+}

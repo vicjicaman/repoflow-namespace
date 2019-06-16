@@ -1,0 +1,20 @@
+{
+  "releaseid": "resolve-workspace-plugins",
+  "moduleid": "repoflow-plugin-npm",
+  "version": "1.70.6-master",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "released": {
+    "commitid": "0168844f4d2d5221ea9076a004d11c607827d304",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Plugin for NPM repositories",
+  "dependencies": [],
+  "created": 1560723530,
+  "updated": 1560723530,
+  "status": "active"
+}

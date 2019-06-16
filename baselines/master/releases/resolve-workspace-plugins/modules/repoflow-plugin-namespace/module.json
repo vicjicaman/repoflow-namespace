@@ -1,0 +1,20 @@
+{
+  "releaseid": "resolve-workspace-plugins",
+  "moduleid": "repoflow-plugin-namespace",
+  "version": "1.70.4-master",
+  "fullname": "@nebulario/repoflow-plugin-namespace",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
+  "publish": null,
+  "released": {
+    "commitid": "df805c7dc8025f3da02451db93500f94a3011b24",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for kubernetes namespace, ingress and general setup",
+  "dependencies": [],
+  "created": 1560723530,
+  "updated": 1560723530,
+  "status": "active"
+}
