@@ -1,6 +1,6 @@
 {
   "releaseid": "resolve-workspace",
-  "phase": "releasing",
+  "phase": "invalid",
   "hierarchy": [
     "repoflow-tool",
     "repoflow-plugin-compose",

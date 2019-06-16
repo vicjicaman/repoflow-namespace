@@ -1,0 +1,11 @@
+{
+  "moduleid": "repoflow-plugin-bundle",
+  "releases": [
+    {
+      "releaseid": "resolve-workspace"
+    }
+  ],
+  "created": 1560714431,
+  "updated": 1560714431,
+  "status": "active"
+}

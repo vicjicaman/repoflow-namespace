@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-compose",
   "releases": [
     {
+      "releaseid": "resolve-workspace"
+    },
+    {
       "releaseid": "plugin-timeout"
     },
     {

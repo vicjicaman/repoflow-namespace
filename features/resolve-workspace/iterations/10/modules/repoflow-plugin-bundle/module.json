@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-bundle",
+  "mode": "prod",
+  "version": "1.70.0-resolve-workspace-prod",
+  "fullname": "@nebulario/repoflow-plugin-bundle",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
+  "publish": {
+    "commitid": "c931dc3dfc5ae93a4c623ecdc50c357bca7ce1aa",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "dfb3613043cf1427e2eb7fa5868272629fa440d0",
+    "message": "Changes to publish error  handlers\n"
+  },
+  "mergeback": {
+    "commitid": "0dc682da9784233f3a58a8f180d95464abe45b05",
+    "message": "ITERATION:10\n"
+  },
+  "releasedOn": 10,
+  "created": 1560254133,
+  "updated": 1560254133,
+  "status": "active"
+}

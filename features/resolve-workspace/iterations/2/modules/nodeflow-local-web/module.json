@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.0-resolve-workspace-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": {
+    "commitid": "a4932759d3e36f94c7a855ec6d07324028e118e4",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "16da4ab1315dffa2c005db80bf1eee20c76f5fd6",
+    "message": "RELEASE:runtime-stuck:1.71.3-master\n"
+  },
+  "mergeback": {
+    "commitid": "ee40d0baaca2680f972a1c31ee99d3b0e1b955cf",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1560117741,
+  "updated": 1560117741,
+  "status": "active"
+}

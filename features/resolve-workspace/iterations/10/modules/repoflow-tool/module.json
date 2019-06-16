@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.9-resolve-workspace-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": {
+    "commitid": "3d5ec0aa78f156f7559569a32e913642584fcdb7",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "d09baa1610aae1df104c498ed5879d6e4be6127e",
+    "message": "Merge remote-tracking branch 'origin/resolve-workspace/master' into resolve-workspace/master\n"
+  },
+  "mergeback": {
+    "commitid": "090ee2261db6a80877d9803ae5c4dd6b31cdcb27",
+    "message": "ITERATION:10\n"
+  },
+  "releasedOn": 10,
+  "created": 1560254133,
+  "updated": 1560254133,
+  "status": "active"
+}

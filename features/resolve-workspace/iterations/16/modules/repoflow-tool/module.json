@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.15-resolve-workspace-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": {
+    "commitid": "a31c4e298312fd622dd21c8fcebe9fba16c5036e",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "42cc87e41d9a92815218400d8e726e5c681281c6",
+    "message": "ITERATION:15\n"
+  },
+  "mergeback": {
+    "commitid": "be0a0a090de94cec81d1d0d5f9a4b047fc577d20",
+    "message": "ITERATION:16\n"
+  },
+  "releasedOn": 16,
+  "created": 1560332533,
+  "updated": 1560332533,
+  "status": "active"
+}
