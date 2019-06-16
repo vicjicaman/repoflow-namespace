@@ -1,0 +1,20 @@
+{
+  "releaseid": "resolve-workspace-tool",
+  "moduleid": "repoflow-tool",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": null,
+  "released": {
+    "commitid": "dac65c017d0587a37c487ec16be2cebdd6e5fc9b",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
+  "dependencies": [],
+  "created": 1560725435,
+  "updated": 1560725435,
+  "status": "active"
+}
