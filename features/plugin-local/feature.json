@@ -1,0 +1,8 @@
+{
+  "featureid": "plugin-local",
+  "baselineid": "master",
+  "description": "Long term plugin feature to buffer changes",
+  "created": 1558959239,
+  "updated": 1558959239,
+  "status": "active"
+}

@@ -2,6 +2,9 @@
   "moduleid": "repoflow-container-server",
   "releases": [
     {
+      "releaseid": "compose-performers"
+    },
+    {
       "releaseid": "container-dependencies"
     }
   ],
@@ -13,12 +16,12 @@
       "moduleid": "repoflow-compose",
       "references": [
         {
-          "dependencyid": "dependency|docker-compose.yml|.+app:\\s+image:(?:\\s+|)(?:.+):(.+)",
+          "dependencyid": "dependency|docker-compose.yml|.+web:\\s+image:(?:\\s+|)(?:.+):(.+)",
           "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/repoflow-container-server",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "docker-compose.yml",
-          "path": ".+app:\\s+image:(?:\\s+|)(?:.+):(.+)"
+          "path": ".+web:\\s+image:(?:\\s+|)(?:.+):(.+)"
         }
       ]
     }
@@ -30,7 +33,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
           "fullname": "@nebulario/nodeflow-local-server",
-          "version": "1.70.4-master",
+          "version": "1.71.2-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"

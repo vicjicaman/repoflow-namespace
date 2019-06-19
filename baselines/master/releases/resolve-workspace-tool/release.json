@@ -1,0 +1,10 @@
+{
+  "releaseid": "resolve-workspace-tool",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-tool"
+  ],
+  "created": 1560725435,
+  "updated": 1560725435,
+  "status": "active"
+}

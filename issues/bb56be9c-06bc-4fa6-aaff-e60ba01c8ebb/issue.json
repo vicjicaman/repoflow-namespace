@@ -1,0 +1,9 @@
+{
+  "issueid": "bb56be9c-06bc-4fa6-aaff-e60ba01c8ebb",
+  "subject": "Cache the regular namespace entities",
+  "description": "Some entities won't change once created or released, must me cached on the graph",
+  "author": "Victor Jimenez",
+  "created": 1552420397,
+  "updated": 1552420397,
+  "status": "active"
+}

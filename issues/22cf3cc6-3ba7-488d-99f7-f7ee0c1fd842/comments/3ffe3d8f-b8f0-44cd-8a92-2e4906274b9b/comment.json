@@ -1,0 +1,8 @@
+{
+  "commentid": "3ffe3d8f-b8f0-44cd-8a92-2e4906274b9b",
+  "comment": "I saw that the build server is based on a JSON response, that contains an output and error fields, there are only 2 things to check on this side, error field content, request error on the caller side",
+  "author": "Victor Jimenez",
+  "created": 1552421199,
+  "updated": 1552421199,
+  "status": "active"
+}

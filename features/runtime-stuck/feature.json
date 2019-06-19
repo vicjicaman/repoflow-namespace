@@ -1,0 +1,8 @@
+{
+  "featureid": "runtime-stuck",
+  "baselineid": "master",
+  "description": "Fix for the issue with the released runtime functionality",
+  "created": 1559295554,
+  "updated": 1559295554,
+  "status": "active"
+}

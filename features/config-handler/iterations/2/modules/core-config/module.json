@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-config",
+  "mode": "prod",
+  "version": "1.70.1-config-handler-prod",
+  "fullname": "@nebulario/core-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-config.git",
+  "publish": {
+    "commitid": "163f45b45acd09dd170a885034a93b38ca371be0",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "0e90c9c87627502e7407533f2829fac4fa6c6555",
+    "message": "Restructure the config plugin to hadle url as fullname\n"
+  },
+  "mergeback": {
+    "commitid": "be2b9be029e5f3556cdefb280a64102836e48f68",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1560525898,
+  "updated": 1560525898,
+  "status": "active"
+}

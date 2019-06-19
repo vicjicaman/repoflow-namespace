@@ -1,0 +1,9 @@
+{
+  "issueid": "22cf3cc6-3ba7-488d-99f7-f7ee0c1fd842",
+  "subject": "Stop flow if an issue is present on the build server",
+  "description": "The publish label is applied even if the build server does not finish but there is a response",
+  "author": "Victor Jimenez",
+  "created": 1552420296,
+  "updated": 1552420296,
+  "status": "active"
+}

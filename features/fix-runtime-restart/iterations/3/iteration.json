@@ -1,0 +1,32 @@
+{
+  "iterationid": 3,
+  "phase": "invalid",
+  "hierarchy": [
+    "nodeflow-local-server"
+  ],
+  "latest": [
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.70.2-fix-runtime-restart-dev",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "version": "1.70.1-fix-runtime-restart-dev",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.70.0-fix-runtime-restart-dev",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "version": "1.70.1-fix-runtime-restart-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1552927213,
+  "updated": 1552927213,
+  "status": "active"
+}

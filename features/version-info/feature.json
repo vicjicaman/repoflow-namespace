@@ -1,0 +1,8 @@
+{
+  "featureid": "version-info",
+  "baselineid": "master",
+  "description": "Display the plugin, server and graph versions",
+  "created": 1552423141,
+  "updated": 1552423141,
+  "status": "active"
+}

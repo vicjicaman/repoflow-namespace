@@ -1,0 +1,20 @@
+{
+  "releaseid": "resolve-workspace",
+  "moduleid": "nodeflow-local-web",
+  "version": "1.71.4-master",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "d6ab0c40697ca167731dedcee16bfd3ef9ba91ce",
+    "message": "ITERATION:16\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Generate web deliberable based on the common code",
+  "dependencies": [],
+  "created": 1560529692,
+  "updated": 1560529692,
+  "status": "active"
+}

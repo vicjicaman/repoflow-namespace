@@ -1,0 +1,8 @@
+{
+  "featureid": "site-repo-features",
+  "baselineid": "master",
+  "description": "Add the repository features page to the site",
+  "created": 1560525333,
+  "updated": 1560525333,
+  "status": "active"
+}

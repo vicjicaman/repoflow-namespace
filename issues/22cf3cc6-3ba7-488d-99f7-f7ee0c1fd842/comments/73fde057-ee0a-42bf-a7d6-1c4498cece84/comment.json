@@ -1,0 +1,8 @@
+{
+  "commentid": "73fde057-ee0a-42bf-a7d6-1c4498cece84",
+  "comment": "The fix could on the plugin or the graph side, the graph expect an exception in order to consider the publilsh a fail",
+  "author": "Victor Jimenez",
+  "created": 1552421366,
+  "updated": 1552421366,
+  "status": "active"
+}
