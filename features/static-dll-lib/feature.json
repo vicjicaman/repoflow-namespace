@@ -1,8 +1,0 @@
-{
-  "featureid": "static-dll-lib",
-  "baselineid": "master",
-  "description": "- Integrate DLL manifest into the core render component for the server",
-  "created": 1551821642,
-  "updated": 1551821642,
-  "status": "active"
-}

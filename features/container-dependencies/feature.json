@@ -1,8 +1,0 @@
-{
-  "featureid": "container-dependencies",
-  "baselineid": "master",
-  "description": "Change the container functionality to run and build with the next dependencies information without moduleid",
-  "created": 1551933184,
-  "updated": 1551933184,
-  "status": "active"
-}

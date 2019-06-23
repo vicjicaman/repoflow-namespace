@@ -1,8 +1,0 @@
-{
-  "featureid": "resolve-workspace-plg",
-  "baselineid": "master",
-  "description": "Add buffered plugins to the repoflow tool release",
-  "created": 1560715125,
-  "updated": 1560715125,
-  "status": "active"
-}

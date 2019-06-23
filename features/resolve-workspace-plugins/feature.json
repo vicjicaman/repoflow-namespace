@@ -1,8 +1,0 @@
-{
-  "featureid": "resolve-workspace-plugins",
-  "baselineid": "master",
-  "description": "- Plugins with buffered stream",
-  "created": 1560719842,
-  "updated": 1560719842,
-  "status": "active"
-}
