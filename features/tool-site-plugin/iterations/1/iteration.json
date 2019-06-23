@@ -1,0 +1,17 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-tool",
+      "iterationid": 1,
+      "version": "1.70.0-tool-site-plugin-prod"
+    }
+  ],
+  "created": 1561322869,
+  "updated": 1561322869,
+  "status": "active"
+}
