@@ -5,12 +5,18 @@
   "fullname": "www.repoflow.com",
   "type": "site",
   "url": "github.com:vicjicaman/www.repoflow.com-site.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b296e81e65504f0bf4c969182a961e5e39dcda4b",
+    "message": "Add features page\n"
+  },
   "released": {
     "commitid": "b296e81e65504f0bf4c969182a961e5e39dcda4b",
     "message": "Add features page\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "151b5a9dd6671fc79ca07062234ebde97491edf1",
+    "message": "RELEASE:initial-site:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Static information for repoflow site",
   "dependencies": [],
