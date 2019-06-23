@@ -1,0 +1,11 @@
+{
+  "releaseid": "initial-site",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-plugin-site",
+    "repoflow-site"
+  ],
+  "created": 1561318214,
+  "updated": 1561318214,
+  "status": "active"
+}
