@@ -1,0 +1,16 @@
+{
+  "moduleid": "repoflow-plugin-site",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-site.git",
+  "fullname": "@nebulario/repoflow-plugin-site",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Functionality to work with static site repository",
+  "created": 1561319325,
+  "updated": 1561319325,
+  "status": "active"
+}
