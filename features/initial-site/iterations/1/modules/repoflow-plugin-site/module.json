@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-site",
+  "mode": "prod",
+  "version": "1.70.0-initial-site-prod",
+  "fullname": "@nebulario/repoflow-plugin-site",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-site.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2e4bc02ed58f219fceb6edea7ec8400de7c00f8c",
+    "message": "Initial plugin for static site\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561317314,
+  "updated": 1561317314,
+  "status": "active"
+}
