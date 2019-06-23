@@ -1,0 +1,20 @@
+{
+  "releaseid": "site-repo-features",
+  "moduleid": "repoflow-plugin-site",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/repoflow-plugin-site",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-site.git",
+  "publish": null,
+  "released": {
+    "commitid": "6749cc0719dd2bb449d6d78e29bf91d7836d831b",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Functionality to work with static site repository",
+  "dependencies": [],
+  "created": 1561320909,
+  "updated": 1561320909,
+  "status": "active"
+}
