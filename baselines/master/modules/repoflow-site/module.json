@@ -1,0 +1,13 @@
+{
+  "moduleid": "repoflow-site",
+  "releases": [
+    {
+      "releaseid": "initial-site"
+    }
+  ],
+  "created": 1561318582,
+  "updated": 1561318582,
+  "status": "active",
+  "dependants": [],
+  "dependents": []
+}
