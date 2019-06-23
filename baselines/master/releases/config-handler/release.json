@@ -1,0 +1,15 @@
+{
+  "releaseid": "config-handler",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-build-server",
+    "repoflow-plugin-config",
+    "core-config",
+    "core-json",
+    "core-repository",
+    "core-plugin-request"
+  ],
+  "created": 1560526394,
+  "updated": 1560526394,
+  "status": "active"
+}

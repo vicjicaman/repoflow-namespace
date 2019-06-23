@@ -2,6 +2,12 @@
   "moduleid": "nodeflow-local-graph",
   "releases": [
     {
+      "releaseid": "resolve-workspace-plg"
+    },
+    {
+      "releaseid": "resolve-workspace"
+    },
+    {
       "releaseid": "runtime-stuck"
     },
     {
@@ -36,7 +42,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.72.3-master",
+          "version": "1.72.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
@@ -51,6 +57,19 @@
           "fullname": "@nebulario/nodeflow-local-graph",
           "version": "1.72.2-master",
           "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-graph"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-tool",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
+          "fullname": "@nebulario/nodeflow-local-graph",
+          "version": "1.72.5-master",
+          "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
         }

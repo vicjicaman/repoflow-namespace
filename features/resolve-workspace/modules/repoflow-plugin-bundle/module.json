@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-plugin-bundle",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
+  "fullname": "@nebulario/repoflow-plugin-bundle",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Plugin for bundle packages and entrypoint",
+  "created": 1560253624,
+  "updated": 1560253624,
+  "status": "active",
+  "commit": {
+    "commitid": "48b367420c28cf3f5d7ad5dfa684fcab19b4c8a7",
+    "message": "ITERATION:18\n"
+  }
+}

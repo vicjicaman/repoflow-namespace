@@ -3,6 +3,21 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "resolve-workspace-tool"
+    },
+    {
+      "releaseid": "resolve-workspace-plugins"
+    },
+    {
+      "releaseid": "resolve-workspace-plg"
+    },
+    {
+      "releaseid": "resolve-workspace"
+    },
+    {
+      "releaseid": "config-handler"
+    },
+    {
       "releaseid": "plugin-timeout"
     },
     {
@@ -61,26 +76,31 @@
     }
   ],
   "hierarchy": [
-    "repoflow-plugin-compose",
+    "repoflow-tool",
+    "repoflow-compose",
+    "repoflow-build-server",
     "repoflow-plugin-service",
+    "repoflow-plugin-npm",
     "repoflow-plugin-namespace",
     "repoflow-plugin-container",
-    "repoflow-plugin-config",
-    "repoflow-compose",
-    "repoflow-plugin-npm",
-    "repoflow-build-server",
-    "repoflow-container-server",
     "repoflow-container-graph",
+    "repoflow-plugin-bundle",
+    "repoflow-container-server",
+    "repoflow-plugin-compose",
+    "repoflow-plugin-config",
     "nodeflow-local-server",
+    "core-config",
     "nodeflow-local-web",
+    "core-repository",
     "core-render-stateful-server",
-    "nodeflow-local-common",
-    "core-render-stateful-web",
+    "core-json",
     "dll-apollo",
     "dll-react",
     "dll-redux",
     "dll-utils",
     "dll-vendor",
+    "core-render-stateful-web",
+    "nodeflow-local-common",
     "nodeflow-local-graph",
     "app-notify",
     "app-layout",
