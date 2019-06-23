@@ -4,13 +4,17 @@
   "url": "github.com:vicjicaman/www.repoflow.com-site.git",
   "fullname": "www.repoflow.com",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
   },
-  "description":"Static information for repoflow site",
+  "description": "Static information for repoflow site",
   "created": 1551131071,
   "updated": 1551131071,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b296e81e65504f0bf4c969182a961e5e39dcda4b",
+    "message": "Add features page\n"
+  }
 }
