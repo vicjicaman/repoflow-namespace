@@ -1,0 +1,43 @@
+{
+  "moduleid": "repoflow-plugin-site",
+  "releases": [
+    {
+      "releaseid": "site-repo-features"
+    },
+    {
+      "releaseid": "initial-site"
+    }
+  ],
+  "created": 1561318582,
+  "updated": 1561318582,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "core-plugin-request",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
+          "fullname": "@nebulario/core-plugin-request",
+          "version": "1.70.5-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-plugin-request"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-process",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    }
+  ]
+}

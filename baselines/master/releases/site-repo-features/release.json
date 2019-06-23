@@ -1,0 +1,14 @@
+{
+  "releaseid": "site-repo-features",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-plugin-site",
+    "repoflow-plugin-bundle",
+    "repoflow-plugin-compose",
+    "repoflow-plugin-container",
+    "repoflow-plugin-npm"
+  ],
+  "created": 1561320909,
+  "updated": 1561320909,
+  "status": "active"
+}
