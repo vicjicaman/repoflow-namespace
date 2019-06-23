@@ -39,7 +39,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-container",
           "fullname": "@nebulario/repoflow-plugin-container",
-          "version": "1.70.7-master",
+          "version": "1.70.8-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-container"

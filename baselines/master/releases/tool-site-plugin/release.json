@@ -1,6 +1,6 @@
 {
   "releaseid": "tool-site-plugin",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-tool"
   ],
