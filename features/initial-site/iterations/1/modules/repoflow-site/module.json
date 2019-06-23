@@ -5,12 +5,18 @@
   "fullname": "www.repoflow.com",
   "type": "site",
   "url": "github.com:vicjicaman/www.repoflow.com-site.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b296e81e65504f0bf4c969182a961e5e39dcda4b",
+    "message": "Add features page\n"
+  },
   "iterate": {
     "commitid": "b296e81e65504f0bf4c969182a961e5e39dcda4b",
     "message": "Add features page\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b296e81e65504f0bf4c969182a961e5e39dcda4b",
+    "message": "Add features page\n"
+  },
   "releasedOn": 1,
   "created": 1561317315,
   "updated": 1561317315,
