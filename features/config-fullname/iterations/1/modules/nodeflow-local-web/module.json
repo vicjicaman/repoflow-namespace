@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.0-config-fullname-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7b2e98791380c4e050f6bca86209c91b6aa98cbf",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-web into config-fullname/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561315283,
+  "updated": 1561315283,
+  "status": "active"
+}
