@@ -1,0 +1,20 @@
+{
+  "releaseid": "config-fullname",
+  "moduleid": "nodeflow-local-server",
+  "version": "1.71.6-master",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "7fa9225cd17c91e7fdd42340a0ca36b79cfadc69",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- SSR service for repoflow tool based on common code",
+  "dependencies": [],
+  "created": 1561316016,
+  "updated": 1561316016,
+  "status": "active"
+}
