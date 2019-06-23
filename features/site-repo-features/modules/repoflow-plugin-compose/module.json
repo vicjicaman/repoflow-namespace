@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
   "fullname": "@nebulario/repoflow-plugin-compose",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for docker compose to handle multiple container services locally",
   "created": 1561319205,
   "updated": 1561319205,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "816d41e665b56db3278f7743c6ec1e4cc24a2396",
+    "message": "Merge branch 'master' of github.com:vicjicaman/repoflow-plugin-compose into plugin-local/master\n"
+  }
 }

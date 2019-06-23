@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
   "fullname": "@nebulario/repoflow-plugin-npm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin for NPM repositories",
   "created": 1561319167,
   "updated": 1561319167,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "47901b47c1bdaa8de81d0e81e3aac113deee472e",
+    "message": "Merge branch 'master' of github.com:vicjicaman/repoflow-plugin-npm into plugin-local/master\n"
+  }
 }

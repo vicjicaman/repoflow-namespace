@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
   "fullname": "@nebulario/repoflow-plugin-bundle",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin for bundle packages and entrypoint",
   "created": 1561319213,
   "updated": 1561319213,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4488ad8dd94c37928bcfd24a5801e598e47a1e36",
+    "message": "RELEASE:resolve-workspace-plugins:1.70.1-master\n"
+  }
 }
