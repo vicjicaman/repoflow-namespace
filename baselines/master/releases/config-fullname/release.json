@@ -1,0 +1,13 @@
+{
+  "releaseid": "config-fullname",
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1561316016,
+  "updated": 1561316016,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "config-fullname",
+  "moduleid": "nodeflow-local-common",
+  "version": "1.71.6-master",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "released": {
+    "commitid": "b0483fba1a9137b1847375e1bf62ed719ae6ab73",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
+  "dependencies": [],
+  "created": 1561316016,
+  "updated": 1561316016,
+  "status": "active"
+}
