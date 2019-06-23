@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-bundle",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
-  "publish": null,
+  "publish": {
+    "commitid": "bb280ce6d717d0dbe9759f87b335b5029e1645dc",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "4488ad8dd94c37928bcfd24a5801e598e47a1e36",
     "message": "RELEASE:resolve-workspace-plugins:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5740c57bff8a217127aa5d65be30a73d19543622",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561320124,
   "updated": 1561320124,

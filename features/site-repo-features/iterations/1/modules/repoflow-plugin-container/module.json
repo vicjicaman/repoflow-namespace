@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-container",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e4656a658fab4c3b5b06a138c66589446a582376",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "f14f8a4703ae677233e960240269dc767c3a262a",
     "message": "Merge branch 'master' of github.com:vicjicaman/repoflow-plugin-container into plugin-local/master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "bb78741b04a8a3d13dc12a162eb5107d32a53664",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561320124,
   "updated": 1561320124,
