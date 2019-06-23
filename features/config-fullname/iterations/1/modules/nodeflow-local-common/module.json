@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.0-config-fullname-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": {
+    "commitid": "e8ed21bc244eecf97fc7a91cc63081ea22c84e9e",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "763d877d7224004a8a1d07ad0e6ed3b2e41fc287",
+    "message": "RELEASE:resolve-workspace-plg:1.71.5-master\n"
+  },
+  "mergeback": {
+    "commitid": "b0483fba1a9137b1847375e1bf62ed719ae6ab73",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561315283,
+  "updated": 1561315283,
+  "status": "active"
+}
