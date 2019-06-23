@@ -1,6 +1,6 @@
 {
   "releaseid": "site-repo-features",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-plugin-site",
     "repoflow-plugin-bundle",

@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-compose",
+  "mode": "prod",
+  "version": "1.70.0-site-repo-features-prod",
+  "fullname": "@nebulario/repoflow-plugin-compose",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
+  "publish": {
+    "commitid": "eee81099b74dc0c686214f221ee61d6770729fc6",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "816d41e665b56db3278f7743c6ec1e4cc24a2396",
+    "message": "Merge branch 'master' of github.com:vicjicaman/repoflow-plugin-compose into plugin-local/master\n"
+  },
+  "mergeback": {
+    "commitid": "54246a23333164f530fbb94295ff76f862ca3ece",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561320124,
+  "updated": 1561320124,
+  "status": "active"
+}

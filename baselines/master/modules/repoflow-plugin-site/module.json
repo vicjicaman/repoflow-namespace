@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-site",
   "releases": [
     {
+      "releaseid": "site-repo-features"
+    },
+    {
       "releaseid": "initial-site"
     }
   ],

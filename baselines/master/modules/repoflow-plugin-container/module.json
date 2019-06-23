@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-container",
   "releases": [
     {
+      "releaseid": "site-repo-features"
+    },
+    {
       "releaseid": "resolve-workspace-plugins"
     },
     {
