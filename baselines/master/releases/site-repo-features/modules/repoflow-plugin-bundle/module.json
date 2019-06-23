@@ -1,0 +1,20 @@
+{
+  "releaseid": "site-repo-features",
+  "moduleid": "repoflow-plugin-bundle",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/repoflow-plugin-bundle",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
+  "publish": null,
+  "released": {
+    "commitid": "5740c57bff8a217127aa5d65be30a73d19543622",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Plugin for bundle packages and entrypoint",
+  "dependencies": [],
+  "created": 1561320909,
+  "updated": 1561320909,
+  "status": "active"
+}
