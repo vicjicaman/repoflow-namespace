@@ -2,6 +2,9 @@
   "moduleid": "repoflow-tool",
   "releases": [
     {
+      "releaseid": "tool-site-plugin"
+    },
+    {
       "releaseid": "resolve-workspace-tool"
     },
     {
@@ -19,7 +22,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.72.5-master",
+          "version": "1.72.6-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
@@ -32,7 +35,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
           "fullname": "@nebulario/nodeflow-local-server",
-          "version": "1.71.5-master",
+          "version": "1.71.6-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"
@@ -45,7 +48,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-npm",
           "fullname": "@nebulario/repoflow-plugin-npm",
-          "version": "1.70.6-master",
+          "version": "1.70.7-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-npm"
@@ -58,7 +61,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-compose",
           "fullname": "@nebulario/repoflow-plugin-compose",
-          "version": "1.70.5-master",
+          "version": "1.70.6-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-compose"
@@ -97,7 +100,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-container",
           "fullname": "@nebulario/repoflow-plugin-container",
-          "version": "1.70.7-master",
+          "version": "1.70.8-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-container"
@@ -123,7 +126,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-bundle",
           "fullname": "@nebulario/repoflow-plugin-bundle",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-bundle"
