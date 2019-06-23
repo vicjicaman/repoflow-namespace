@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1561314682,
   "updated": 1561314682,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7b2e98791380c4e050f6bca86209c91b6aa98cbf",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-web into config-fullname/master\n"
+  }
 }

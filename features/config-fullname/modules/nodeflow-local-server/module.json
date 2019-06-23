@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1561314690,
   "updated": 1561314690,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bec40e4061ca309bca978eee94e41428473eff0c",
+    "message": "RELEASE:resolve-workspace-plg:1.71.5-master\n"
+  }
 }

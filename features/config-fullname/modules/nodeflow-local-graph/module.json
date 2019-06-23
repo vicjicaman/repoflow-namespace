@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1561314666,
   "updated": 1561314666,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "26d70cdeb9ad0abf76d407c9566104725cabf7e4",
+    "message": "Merge branch 'runtime-local/master' of github.com:vicjicaman/nodeflow-local-graph into config-fullname/master\n"
+  }
 }

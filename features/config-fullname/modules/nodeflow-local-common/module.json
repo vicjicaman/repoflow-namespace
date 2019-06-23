@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1561314674,
   "updated": 1561314674,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "763d877d7224004a8a1d07ad0e6ed3b2e41fc287",
+    "message": "RELEASE:resolve-workspace-plg:1.71.5-master\n"
+  }
 }
