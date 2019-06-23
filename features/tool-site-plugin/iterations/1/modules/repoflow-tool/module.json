@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-tool",
   "type": "bundle",
   "url": "github.com:vicjicaman/repoflow-tool.git",
-  "publish": null,
+  "publish": {
+    "commitid": "5efddc9299ca4158149b64d6bb9e12b06d08185c",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "b44b41c2ede2a2adc7da317fdf328ce417c1f1cc",
     "message": "Sync to latest version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "966bc956101facedeb681c443e03564ee4a86a08",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561322869,
   "updated": 1561322869,
