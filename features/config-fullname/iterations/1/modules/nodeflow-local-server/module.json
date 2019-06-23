@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-server",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "1e11d780709d3507d5a98ce97f71a2282670c09f",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "bec40e4061ca309bca978eee94e41428473eff0c",
     "message": "RELEASE:resolve-workspace-plg:1.71.5-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "7fa9225cd17c91e7fdd42340a0ca36b79cfadc69",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561315283,
   "updated": 1561315283,
