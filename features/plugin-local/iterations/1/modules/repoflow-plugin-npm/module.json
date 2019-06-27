@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.0-plugin-local-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "1ea43dc5169c942c9ada86f63e7c2508a031a72e",
+    "message": "RELEASE:site-repo-features:1.70.7-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1561658395,
+  "updated": 1561658395,
+  "status": "active"
+}
