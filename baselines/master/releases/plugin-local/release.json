@@ -1,6 +1,6 @@
 {
   "releaseid": "plugin-local",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-build-server",
     "repoflow-plugin-bundle",
