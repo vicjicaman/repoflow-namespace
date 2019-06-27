@@ -1,8 +1,0 @@
-{
-  "featureid": "fix-runtime-restart",
-  "baselineid": "master",
-  "description": "Fix issue with restart feedback button\nAdd more info about the restart state",
-  "created": 1552846826,
-  "updated": 1552846826,
-  "status": "active"
-}

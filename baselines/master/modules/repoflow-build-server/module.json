@@ -2,6 +2,12 @@
   "moduleid": "repoflow-build-server",
   "releases": [
     {
+      "releaseid": "plugin-local"
+    },
+    {
+      "releaseid": "config-handler"
+    },
+    {
       "releaseid": "publish-handler"
     },
     {
@@ -52,6 +58,19 @@
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-config",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
+          "fullname": "@nebulario/core-config",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-config"
         }
       ]
     }

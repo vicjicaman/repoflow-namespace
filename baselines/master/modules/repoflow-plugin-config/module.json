@@ -2,6 +2,21 @@
   "moduleid": "repoflow-plugin-config",
   "releases": [
     {
+      "releaseid": "plugin-local"
+    },
+    {
+      "releaseid": "resolve-workspace-plugins"
+    },
+    {
+      "releaseid": "resolve-workspace"
+    },
+    {
+      "releaseid": "config-handler"
+    },
+    {
+      "releaseid": "plugin-timeout"
+    },
+    {
       "releaseid": "plugin-types"
     },
     {
@@ -11,7 +26,21 @@
   "created": 1558958645,
   "updated": 1558958645,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "repoflow-tool",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-config",
+          "fullname": "@nebulario/repoflow-plugin-config",
+          "version": "1.70.4-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-config"
+        }
+      ]
+    }
+  ],
   "dependents": [
     {
       "moduleid": "core-plugin-request",
@@ -19,7 +48,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.2-master",
+          "version": "1.70.6-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -36,6 +65,19 @@
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-config",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
+          "fullname": "@nebulario/core-config",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-config"
         }
       ]
     }

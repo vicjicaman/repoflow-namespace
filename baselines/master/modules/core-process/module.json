@@ -20,6 +20,19 @@
       ]
     },
     {
+      "moduleid": "core-repository",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
       "moduleid": "nodeflow-local-graph",
       "references": [
         {
@@ -47,6 +60,19 @@
     },
     {
       "moduleid": "repoflow-build-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-bundle",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
@@ -125,6 +151,19 @@
     },
     {
       "moduleid": "repoflow-plugin-service",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-site",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",

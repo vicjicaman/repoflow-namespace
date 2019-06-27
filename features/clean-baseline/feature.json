@@ -1,8 +1,0 @@
-{
-  "featureid": "clean-baseline",
-  "baselineid": "master",
-  "description": "- Remove modules with information based on latest module released\n- Add modules to release with dependencies/dependant structure",
-  "created": 1551367295,
-  "updated": 1551367295,
-  "status": "active"
-}

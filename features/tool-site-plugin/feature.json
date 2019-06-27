@@ -1,0 +1,8 @@
+{
+  "featureid": "tool-site-plugin",
+  "baselineid": "master",
+  "description": "Add site plugin to the tool and misc bug fixes",
+  "created": 1561322035,
+  "updated": 1561322035,
+  "status": "active"
+}

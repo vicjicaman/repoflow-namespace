@@ -1,0 +1,13 @@
+{
+  "releaseid": "resolve-workspace-plg",
+  "phase": "released",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1560717430,
+  "updated": 1560717430,
+  "status": "active"
+}

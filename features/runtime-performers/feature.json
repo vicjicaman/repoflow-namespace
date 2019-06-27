@@ -1,8 +1,0 @@
-{
-  "featureid": "runtime-performers",
-  "baselineid": "master",
-  "description": "- Replace the hardcode run and build task with generic task",
-  "created": 1558425756,
-  "updated": 1558425756,
-  "status": "active"
-}

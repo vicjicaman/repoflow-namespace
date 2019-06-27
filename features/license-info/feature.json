@@ -1,6 +1,0 @@
-{
-  "status": "active",
-  "baselineid": "beta",
-  "description": "Show the type of license on the UI, free, oss, expired, user, company, etc...",
-  "modules": []
-}

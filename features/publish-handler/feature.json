@@ -1,8 +1,0 @@
-{
-  "featureid": "publish-handler",
-  "baselineid": "master",
-  "description": "The publish label is created even if there was an issue in the build-server",
-  "created": 1552419859,
-  "updated": 1552419859,
-  "status": "active"
-}

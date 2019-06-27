@@ -1,8 +1,0 @@
-{
-  "featureid": "plugin-types",
-  "baselineid": "master",
-  "description": "Add type information to the plugin json",
-  "created": 1559234980,
-  "updated": 1559234980,
-  "status": "active"
-}
