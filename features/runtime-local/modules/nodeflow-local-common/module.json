@@ -14,7 +14,7 @@
   "updated": 1552428623,
   "status": "active",
   "commit": {
-    "commitid": "3580309bb00a25f487ba2de04aca6b06c1920048",
-    "message": "Add runtime dependent pending mechanism\n"
+    "commitid": "18fa917568593541cc4cadc4233818d4b607a345",
+    "message": "RELEASE:config-fullname:1.71.6-master\n"
   }
 }

@@ -14,7 +14,7 @@
   "updated": 1552428644,
   "status": "active",
   "commit": {
-    "commitid": "f17857dedc33897e6b20aed041e5de7bd314c05b",
-    "message": "Add package for plugin homes\n"
+    "commitid": "490ec4a8db43714af087d2dcdbd16c5f4e86c94f",
+    "message": "Merge branch 'master' of github.com:vicjicaman/nodeflow-local-web into runtime-local/master\n"
   }
 }

@@ -14,7 +14,7 @@
   "updated": 1552428634,
   "status": "active",
   "commit": {
-    "commitid": "75e8c9adfaf1c5c32a04c66530151617cd89d5f2",
-    "message": "Add DEV_ option to the repoflow env variables\n"
+    "commitid": "7760a414763083cfe7bda7254ce48416dbccaa23",
+    "message": "Merge branch 'master' of github.com:vicjicaman/nodeflow-local-server into runtime-local/master\n"
   }
 }

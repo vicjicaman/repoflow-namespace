@@ -14,7 +14,7 @@
   "updated": 1552428654,
   "status": "active",
   "commit": {
-    "commitid": "01de105380bcfb2803df72a6702a5c9f6b2d8a9b",
-    "message": "Add default plugins\n- Fix the issue with a removed iterated module\n"
+    "commitid": "0ec0b123580a66a52f7ba297a5f05469cdb2a585",
+    "message": "Merge branch 'master' of github.com:vicjicaman/nodeflow-local-graph into runtime-local/master\n"
   }
 }
