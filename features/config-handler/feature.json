@@ -1,8 +1,0 @@
-{
-  "featureid": "config-handler",
-  "baselineid": "master",
-  "description": "- Abstract the config core package",
-  "created": 1560370965,
-  "updated": 1560370965,
-  "status": "active"
-}

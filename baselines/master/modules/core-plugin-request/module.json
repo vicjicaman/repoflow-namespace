@@ -2,6 +2,12 @@
   "moduleid": "core-plugin-request",
   "releases": [
     {
+      "releaseid": "resolve-workspace-plugins"
+    },
+    {
+      "releaseid": "resolve-workspace"
+    },
+    {
       "releaseid": "config-handler"
     },
     {
@@ -22,12 +28,25 @@
   "status": "active",
   "dependants": [
     {
+      "moduleid": "repoflow-plugin-bundle",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
+          "fullname": "@nebulario/core-plugin-request",
+          "version": "1.70.5-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-plugin-request"
+        }
+      ]
+    },
+    {
       "moduleid": "repoflow-plugin-compose",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.3-master",
+          "version": "1.70.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -40,7 +59,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.4-master",
+          "version": "1.70.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -53,7 +72,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.3-master",
+          "version": "1.70.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -66,7 +85,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.3-master",
+          "version": "1.70.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -79,7 +98,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.3-master",
+          "version": "1.70.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -92,7 +111,20 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.3-master",
+          "version": "1.70.5-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-plugin-request"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-site",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
+          "fullname": "@nebulario/core-plugin-request",
+          "version": "1.70.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"

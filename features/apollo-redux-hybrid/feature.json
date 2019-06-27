@@ -1,6 +1,0 @@
-{
-  "status": "active",
-  "baselineid": "alpha",
-  "description": "Add bridge functionality for apollo and redux resolver in SSR.",
-  "modules": []
-}

@@ -2,6 +2,12 @@
   "moduleid": "repoflow-plugin-namespace",
   "releases": [
     {
+      "releaseid": "resolve-workspace-plugins"
+    },
+    {
+      "releaseid": "resolve-workspace"
+    },
+    {
       "releaseid": "plugin-timeout"
     },
     {
@@ -14,7 +20,21 @@
   "created": 1558958646,
   "updated": 1558958646,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "repoflow-tool",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-namespace",
+          "fullname": "@nebulario/repoflow-plugin-namespace",
+          "version": "1.70.4-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-namespace"
+        }
+      ]
+    }
+  ],
   "dependents": [
     {
       "moduleid": "core-plugin-request",
@@ -22,7 +42,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.3-master",
+          "version": "1.70.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"

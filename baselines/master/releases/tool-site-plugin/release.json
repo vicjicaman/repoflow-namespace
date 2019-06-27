@@ -1,0 +1,10 @@
+{
+  "releaseid": "tool-site-plugin",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-tool"
+  ],
+  "created": 1561323317,
+  "updated": 1561323317,
+  "status": "active"
+}

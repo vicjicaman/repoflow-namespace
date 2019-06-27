@@ -2,6 +2,15 @@
   "moduleid": "nodeflow-local-server",
   "releases": [
     {
+      "releaseid": "config-fullname"
+    },
+    {
+      "releaseid": "resolve-workspace-plg"
+    },
+    {
+      "releaseid": "resolve-workspace"
+    },
+    {
       "releaseid": "runtime-stuck"
     },
     {
@@ -44,6 +53,19 @@
           "fullname": "@nebulario/nodeflow-local-server",
           "version": "1.71.2-master",
           "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/nodeflow-local-server"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-tool",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
+          "fullname": "@nebulario/nodeflow-local-server",
+          "version": "1.71.6-master",
+          "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"
         }
@@ -174,7 +196,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.3-master",
+          "version": "1.71.6-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -187,7 +209,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-web",
           "fullname": "@nebulario/nodeflow-local-web",
-          "version": "1.71.3-master",
+          "version": "1.71.6-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"

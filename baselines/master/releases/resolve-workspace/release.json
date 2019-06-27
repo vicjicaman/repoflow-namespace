@@ -1,0 +1,22 @@
+{
+  "releaseid": "resolve-workspace",
+  "phase": "invalid",
+  "hierarchy": [
+    "repoflow-tool",
+    "repoflow-plugin-compose",
+    "repoflow-plugin-service",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-namespace",
+    "repoflow-plugin-bundle",
+    "repoflow-plugin-container",
+    "repoflow-plugin-config",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph",
+    "core-plugin-request"
+  ],
+  "created": 1560529691,
+  "updated": 1560529691,
+  "status": "active"
+}

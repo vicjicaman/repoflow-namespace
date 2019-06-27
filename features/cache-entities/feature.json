@@ -1,8 +1,0 @@
-{
-  "featureid": "cache-entities",
-  "baselineid": "master",
-  "description": "There are entities that will be frozen on release/creation, cache them on the graph",
-  "created": 1552420193,
-  "updated": 1552420193,
-  "status": "active"
-}

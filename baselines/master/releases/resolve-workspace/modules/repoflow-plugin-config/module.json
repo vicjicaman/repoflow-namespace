@@ -1,0 +1,20 @@
+{
+  "releaseid": "resolve-workspace",
+  "moduleid": "repoflow-plugin-config",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "2a6d7ebaea61a30d7ba4e7d6c598abe81ed7c892",
+    "message": "ITERATION:18\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for CONFIG repositories",
+  "dependencies": [],
+  "created": 1560529692,
+  "updated": 1560529692,
+  "status": "active"
+}

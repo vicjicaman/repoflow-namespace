@@ -1,8 +1,0 @@
-{
-  "featureid": "compose-plugin",
-  "baselineid": "master",
-  "description": "Add plugin to handle docker compose dependencies and functionality",
-  "created": 1552174793,
-  "updated": 1552174793,
-  "status": "active"
-}

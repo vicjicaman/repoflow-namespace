@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "fullname": "@nebulario/repoflow-tool",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
+  "created": 1561322658,
+  "updated": 1561322658,
+  "status": "active",
+  "commit": {
+    "commitid": "966bc956101facedeb681c443e03564ee4a86a08",
+    "message": "ITERATION:1\n"
+  }
+}
