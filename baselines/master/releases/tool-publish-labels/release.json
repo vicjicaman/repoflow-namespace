@@ -1,0 +1,10 @@
+{
+  "releaseid": "tool-publish-labels",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool"
+  ],
+  "created": 1561665889,
+  "updated": 1561665889,
+  "status": "active"
+}
