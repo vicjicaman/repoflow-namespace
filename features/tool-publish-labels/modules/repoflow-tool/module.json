@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-tool.git",
   "fullname": "@nebulario/repoflow-tool",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
   "created": 1561665257,
   "updated": 1561665257,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "df2b72171112e7c9099c38f15a3bf9ecd4af3a47",
+    "message": "RELEASE:tool-site-plugin:1.70.2-master\n"
+  }
 }
