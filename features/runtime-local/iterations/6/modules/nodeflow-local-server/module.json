@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.5-runtime-local-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7760a414763083cfe7bda7254ce48416dbccaa23",
+    "message": "Merge branch 'master' of github.com:vicjicaman/nodeflow-local-server into runtime-local/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1561662638,
+  "updated": 1561662638,
+  "status": "active"
+}
