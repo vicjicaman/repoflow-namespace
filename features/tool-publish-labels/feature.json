@@ -1,0 +1,8 @@
+{
+  "featureid": "tool-publish-labels",
+  "baselineid": "master",
+  "description": "Release the bundle for the publish label changes",
+  "created": 1561664940,
+  "updated": 1561664940,
+  "status": "active"
+}
