@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.2-runtime-local-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0ec0b123580a66a52f7ba297a5f05469cdb2a585",
+    "message": "Merge branch 'master' of github.com:vicjicaman/nodeflow-local-graph into runtime-local/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1561659428,
+  "updated": 1561659428,
+  "status": "active"
+}
