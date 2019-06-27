@@ -1,0 +1,13 @@
+{
+  "releaseid": "runtime-local",
+  "phase": "released",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1561663781,
+  "updated": 1561663781,
+  "status": "active"
+}

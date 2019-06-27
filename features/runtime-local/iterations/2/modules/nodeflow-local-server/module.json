@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.1-runtime-local-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "75e8c9adfaf1c5c32a04c66530151617cd89d5f2",
+    "message": "Add DEV_ option to the repoflow env variables\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1560117570,
+  "updated": 1560117570,
+  "status": "active"
+}

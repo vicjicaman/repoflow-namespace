@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-container",
+  "mode": "prod",
+  "version": "1.70.0-plugin-local-prod",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": {
+    "commitid": "f94ffda53cc5d75aab7ea7c6e1a601c1bb3dfe28",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "f0e592325e197c59e8a0f3bbc73baa12b3bae340",
+    "message": "Merge branch 'master' of github.com:vicjicaman/repoflow-plugin-container into plugin-local/master\n"
+  },
+  "mergeback": {
+    "commitid": "231da1b35ee66f003bb11d1816184aab65706f27",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561658395,
+  "updated": 1561658395,
+  "status": "active"
+}

@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-namespace",
   "releases": [
     {
+      "releaseid": "plugin-local"
+    },
+    {
       "releaseid": "resolve-workspace-plugins"
     },
     {
@@ -42,7 +45,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.5-master",
+          "version": "1.70.6-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"

@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-config",
+  "mode": "prod",
+  "version": "1.70.0-plugin-local-prod",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "publish": {
+    "commitid": "68c9aaa88cd38a86f6264675acb46892fb1074a1",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "f565140fdd183d110b45b04f5fe43ae72999733e",
+    "message": "RELEASE:resolve-workspace-plugins:1.70.4-master\n"
+  },
+  "mergeback": {
+    "commitid": "08f71d218cb0a5269924cf36faffc7892d487c40",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561658395,
+  "updated": 1561658395,
+  "status": "active"
+}
