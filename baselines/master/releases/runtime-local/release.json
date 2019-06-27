@@ -1,6 +1,6 @@
 {
   "releaseid": "runtime-local",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "nodeflow-local-server",
     "nodeflow-local-web",
