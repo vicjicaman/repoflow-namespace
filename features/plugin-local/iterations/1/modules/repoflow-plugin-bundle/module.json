@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-bundle",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
-  "publish": null,
+  "publish": {
+    "commitid": "37fc3b8b72786b92af68ab30ea4b7a24b8e14d77",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "c4a152796ddace270feda31dc9a9adf29e13d0c1",
     "message": "RELEASE:site-repo-features:1.70.2-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "98802fb3fdd8a0470123e01c8b2783e1d1cd431a",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561658395,
   "updated": 1561658395,

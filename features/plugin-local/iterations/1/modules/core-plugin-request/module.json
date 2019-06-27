@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-plugin-request",
   "type": "npm",
   "url": "github.com:vicjicaman/core-plugin-request.git",
-  "publish": null,
+  "publish": {
+    "commitid": "d76e95cc834b8bd8b6b022d24aa19359741694e8",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "28e476bbd45c5029eb3a8c9361ecb180407d0f53",
     "message": "Add labels to publish functionality\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "7f1e8c9819375e05cad75b43ddfcba54980c28ff",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561658395,
   "updated": 1561658395,

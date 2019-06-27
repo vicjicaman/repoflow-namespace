@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-compose",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
-  "publish": null,
+  "publish": {
+    "commitid": "71842b88e2adbe5058cf3d0eeed0c8e6143ff5d9",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "682a2b622d665a3dea4893a919a3c9adac0baaac",
     "message": "RELEASE:site-repo-features:1.70.6-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "92a64d66be6c4bff7f91002790ed35b9950a80ab",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561658395,
   "updated": 1561658395,

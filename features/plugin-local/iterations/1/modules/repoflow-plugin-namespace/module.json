@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-namespace",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
-  "publish": null,
+  "publish": {
+    "commitid": "8dd44d8f7b88794e0db1a033d4f1125b9e3c94e7",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "e6a2425e1cad6110808e24936dbc0c85c2c88a5e",
     "message": "RELEASE:resolve-workspace-plugins:1.70.4-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "9141fbb5a6dc6e0e08cd1c682c71339ac57c9168",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1561658395,
   "updated": 1561658395,
