@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
