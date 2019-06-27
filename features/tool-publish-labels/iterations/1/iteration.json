@@ -1,0 +1,17 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-tool",
+      "iterationid": 1,
+      "version": "1.70.0-tool-publish-labels-prod"
+    }
+  ],
+  "created": 1561665423,
+  "updated": 1561665423,
+  "status": "active"
+}
