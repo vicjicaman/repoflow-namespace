@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
   "fullname": "@nebulario/repoflow-plugin-npm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin for NPM repositories",
   "created": 1558960161,
   "updated": 1558960161,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1ea43dc5169c942c9ada86f63e7c2508a031a72e",
+    "message": "RELEASE:site-repo-features:1.70.7-master\n"
+  }
 }

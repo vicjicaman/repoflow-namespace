@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-plugin-request.git",
   "fullname": "@nebulario/core-plugin-request",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common functionality for repoflow plugins",
   "created": 1558960187,
   "updated": 1558960187,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "28e476bbd45c5029eb3a8c9361ecb180407d0f53",
+    "message": "Add labels to publish functionality\n"
+  }
 }

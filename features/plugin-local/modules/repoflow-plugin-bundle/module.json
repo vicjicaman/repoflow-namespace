@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
   "fullname": "@nebulario/repoflow-plugin-bundle",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin to handle bundle of multiple packages for an app",
   "created": 1560160037,
   "updated": 1560160037,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c4a152796ddace270feda31dc9a9adf29e13d0c1",
+    "message": "RELEASE:site-repo-features:1.70.2-master\n"
+  }
 }

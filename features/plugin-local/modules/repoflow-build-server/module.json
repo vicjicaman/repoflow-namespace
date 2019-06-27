@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-build-server.git",
   "fullname": "@nebulario/repoflow-build-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Demo build server to publish packages, containers and services to kubernetes",
   "created": 1558960173,
   "updated": 1558960173,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0859f2b9db99056468bc5c826cc5416154877f23",
+    "message": "Add labels to publish functionality\n"
+  }
 }

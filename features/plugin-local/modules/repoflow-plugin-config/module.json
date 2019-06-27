@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-config.git",
   "fullname": "@nebulario/repoflow-plugin-config",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for CONFIG repositories",
   "created": 1558960152,
   "updated": 1558960152,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f565140fdd183d110b45b04f5fe43ae72999733e",
+    "message": "RELEASE:resolve-workspace-plugins:1.70.4-master\n"
+  }
 }

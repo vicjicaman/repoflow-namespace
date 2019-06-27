@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
   "fullname": "@nebulario/repoflow-plugin-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for container image with a NPM package as service",
   "created": 1558960142,
   "updated": 1558960142,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f0e592325e197c59e8a0f3bbc73baa12b3bae340",
+    "message": "Merge branch 'master' of github.com:vicjicaman/repoflow-plugin-container into plugin-local/master\n"
+  }
 }
