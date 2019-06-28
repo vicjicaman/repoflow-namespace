@@ -1,0 +1,107 @@
+{
+  "releaseid": "tool-publish-labels",
+  "moduleid": "repoflow-tool",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": {
+    "commitid": "3f9bfa8744008dc75300de9dadbe8eda8bc52358",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "d76585c967c4d34cb8228061777f9726cdab4001",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "3a3908a89aacdd64fab879d6790334dd4b451896",
+    "message": "RELEASE:tool-publish-labels:1.70.3-master\n"
+  },
+  "releaseType": "patch",
+  "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/repoflow-tool",
+      "version": "1.70.3-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.72.4-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-graph"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "version": "1.71.4-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-server"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-npm",
+      "fullname": "@nebulario/repoflow-plugin-npm",
+      "version": "1.70.8-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-npm"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-compose",
+      "fullname": "@nebulario/repoflow-plugin-compose",
+      "version": "1.70.7-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-compose"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-service",
+      "fullname": "@nebulario/repoflow-plugin-service",
+      "version": "1.70.5-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-service"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-namespace",
+      "fullname": "@nebulario/repoflow-plugin-namespace",
+      "version": "1.70.5-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-namespace"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-container",
+      "fullname": "@nebulario/repoflow-plugin-container",
+      "version": "1.70.9-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-container"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-config",
+      "fullname": "@nebulario/repoflow-plugin-config",
+      "version": "1.70.5-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-config"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-bundle",
+      "fullname": "@nebulario/repoflow-plugin-bundle",
+      "version": "1.70.3-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-bundle"
+    }
+  ],
+  "created": 1561665889,
+  "updated": 1561665889,
+  "status": "active"
+}

@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.0-tool-publish-labels-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": {
+    "commitid": "929a99c99253d35cd7fa477dc51f27236a4ee634",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "774f3291e032a8c018b56686b3ea40b7bb79e44c",
+    "message": "Sync to publish labels release\n"
+  },
+  "mergeback": {
+    "commitid": "d76585c967c4d34cb8228061777f9726cdab4001",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1561665423,
+  "updated": 1561665423,
+  "status": "active"
+}
