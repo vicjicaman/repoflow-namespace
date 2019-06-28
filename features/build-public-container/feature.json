@@ -1,0 +1,8 @@
+{
+  "featureid": "build-public-container",
+  "baselineid": "master",
+  "description": "Change the container publish functionality to work with public docker repository",
+  "created": 1561728555,
+  "updated": 1561728555,
+  "status": "active"
+}
