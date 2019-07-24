@@ -1,0 +1,8 @@
+{
+  "featureid": "public-containers",
+  "baselineid": "master",
+  "description": "Release to public container images",
+  "created": 1563957261,
+  "updated": 1563957261,
+  "status": "active"
+}
