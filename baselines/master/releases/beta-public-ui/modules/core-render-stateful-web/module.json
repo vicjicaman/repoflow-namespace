@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-ui",
+  "moduleid": "core-render-stateful-web",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/core-render-stateful-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-render-stateful-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "41b2f5e7cf978b51d147f62959b9c4fd83547956",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Core web part functionality for a stateful web app",
+  "dependencies": [],
+  "created": 1565711321,
+  "updated": 1565711321,
+  "status": "active"
+}

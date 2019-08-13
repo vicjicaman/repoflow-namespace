@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-ui",
+  "moduleid": "core-render-stateful-server",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/core-render-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-render-stateful-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "d7706b6cc7f5572fd3326925f0f097de5d0dc9d0",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Core server part for a stateful web app",
+  "dependencies": [],
+  "created": 1565711321,
+  "updated": 1565711321,
+  "status": "active"
+}

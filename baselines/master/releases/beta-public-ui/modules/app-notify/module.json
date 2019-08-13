@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-ui",
+  "moduleid": "app-notify",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/app-notify",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-notify.git",
+  "publish": null,
+  "released": {
+    "commitid": "bc71d8ecea7e90276cf236e75019670b60ac2252",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Notification functionality for UI",
+  "dependencies": [],
+  "created": 1565711321,
+  "updated": 1565711321,
+  "status": "active"
+}
