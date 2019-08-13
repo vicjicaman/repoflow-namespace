@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-dlls",
+  "moduleid": "dll-apollo",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/dll-apollo",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-apollo.git",
+  "publish": null,
+  "released": {
+    "commitid": "4865293a6e4f9ce8ac6d78367c682b789d824909",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- DLL for Apollo and GraphQL libraries",
+  "dependencies": [],
+  "created": 1565704699,
+  "updated": 1565704699,
+  "status": "active"
+}
