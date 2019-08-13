@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-libs",
+  "moduleid": "core-json",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/core-json",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-json.git",
+  "publish": null,
+  "released": {
+    "commitid": "1ba2cc5759d1a4361eb6531ad7dd56593ed5ee29",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "JSON common utils",
+  "dependencies": [],
+  "created": 1565708118,
+  "updated": 1565708118,
+  "status": "active"
+}
