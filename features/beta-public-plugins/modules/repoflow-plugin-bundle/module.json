@@ -1,0 +1,16 @@
+{
+  "moduleid": "repoflow-plugin-bundle",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
+  "fullname": "@nebulario/repoflow-plugin-bundle",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Plugin to handle bundle of multiple packages for an app",
+  "created": 1565727737,
+  "updated": 1565727737,
+  "status": "active"
+}
