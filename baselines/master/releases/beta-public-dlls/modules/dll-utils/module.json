@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-dlls",
+  "moduleid": "dll-utils",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "publish": null,
+  "released": {
+    "commitid": "117081a0f980bb71b8dfa6c7298b1b734f79e897",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "DLL for utils libraries, lodash, moment, etc",
+  "dependencies": [],
+  "created": 1565704699,
+  "updated": 1565704699,
+  "status": "active"
+}

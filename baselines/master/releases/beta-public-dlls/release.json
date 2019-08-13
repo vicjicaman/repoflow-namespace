@@ -1,0 +1,14 @@
+{
+  "releaseid": "beta-public-dlls",
+  "phase": "releasing",
+  "hierarchy": [
+    "dll-apollo",
+    "dll-react",
+    "dll-redux",
+    "dll-utils",
+    "dll-vendor"
+  ],
+  "created": 1565704699,
+  "updated": 1565704699,
+  "status": "active"
+}
