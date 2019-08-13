@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-render-stateful-server",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-ui-label-prod",
+  "fullname": "@nebulario/core-render-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-render-stateful-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7c1595689adf18fadbd832ccfad885d1b4668813",
+    "message": "RELEASE:beta-public-ui:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1565712496,
+  "updated": 1565712496,
+  "status": "active"
+}

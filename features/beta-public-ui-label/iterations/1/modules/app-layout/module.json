@@ -1,0 +1,18 @@
+{
+  "moduleid": "app-layout",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-ui-label-prod",
+  "fullname": "@nebulario/app-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-layout.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8feb1cc0200199e05dda0e4bfca7857eec51155d",
+    "message": "RELEASE:beta-public-ui:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1565712496,
+  "updated": 1565712496,
+  "status": "active"
+}
