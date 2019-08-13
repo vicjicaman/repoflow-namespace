@@ -2,6 +2,9 @@
   "moduleid": "core-render-stateful-web",
   "releases": [
     {
+      "releaseid": "beta-public-ui-label"
+    },
+    {
       "releaseid": "beta-public-ui"
     },
     {
