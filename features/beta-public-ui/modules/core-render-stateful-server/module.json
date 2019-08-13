@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-render-stateful-server.git",
   "fullname": "@nebulario/core-render-stateful-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Core server part for a stateful web app",
   "created": 1565710058,
   "updated": 1565710058,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f762d9917ec6e6fe8448936ff7ee73d4e1f53f46",
+    "message": "RELEASE:separate-render:1.70.0-master\n"
+  }
 }
