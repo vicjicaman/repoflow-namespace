@@ -1,0 +1,47 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "core-config",
+    "core-json",
+    "core-logger",
+    "core-node",
+    "core-repository",
+    "core-process"
+  ],
+  "latest": [
+    {
+      "moduleid": "core-config",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-libs-prod"
+    },
+    {
+      "moduleid": "core-json",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-libs-prod"
+    },
+    {
+      "moduleid": "core-logger",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-libs-prod"
+    },
+    {
+      "moduleid": "core-node",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-libs-prod"
+    },
+    {
+      "moduleid": "core-repository",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-libs-prod"
+    },
+    {
+      "moduleid": "core-process",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-libs-prod"
+    }
+  ],
+  "created": 1565706407,
+  "updated": 1565706407,
+  "status": "active"
+}

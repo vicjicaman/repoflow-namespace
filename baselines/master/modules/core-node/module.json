@@ -2,6 +2,9 @@
   "moduleid": "core-node",
   "releases": [
     {
+      "releaseid": "beta-public-libs"
+    },
+    {
       "releaseid": "clean-baseline"
     }
   ],

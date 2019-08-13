@@ -2,6 +2,9 @@
   "moduleid": "core-json",
   "releases": [
     {
+      "releaseid": "beta-public-libs"
+    },
+    {
       "releaseid": "config-handler"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-json",
           "fullname": "@nebulario/core-json",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-json"

@@ -1,6 +1,6 @@
 {
   "releaseid": "beta-public-libs",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "core-config",
     "core-json",
