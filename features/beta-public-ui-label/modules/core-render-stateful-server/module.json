@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-render-stateful-server.git",
   "fullname": "@nebulario/core-render-stateful-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Core server part for a stateful web app",
   "created": 1565712227,
   "updated": 1565712227,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7c1595689adf18fadbd832ccfad885d1b4668813",
+    "message": "RELEASE:beta-public-ui:1.70.1-master\n"
+  }
 }

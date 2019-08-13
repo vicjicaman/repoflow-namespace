@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/app-notify.git",
   "fullname": "@nebulario/app-notify",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Notification functionality for UI",
   "created": 1565712211,
   "updated": 1565712211,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "18fa41d13e95899c3951a071dd5ede9827968d53",
+    "message": "RELEASE:beta-public-ui:1.70.1-master\n"
+  }
 }
