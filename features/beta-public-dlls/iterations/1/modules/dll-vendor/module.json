@@ -5,12 +5,18 @@
   "fullname": "@nebulario/dll-vendor",
   "type": "npm",
   "url": "github.com:vicjicaman/dll-vendor.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b99dda15e333d64fbcdff14e52b8087cb9e52232",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "ba37bcd76c1353afc190ad17f70cd319efa9387c",
     "message": "RELEASE:static-dll-lib:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ecc8b883553b8aa3f5d20f8ad728ea445207d945",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1565703863,
   "updated": 1565703863,
