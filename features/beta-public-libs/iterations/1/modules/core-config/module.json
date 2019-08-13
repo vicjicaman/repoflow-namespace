@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-config",
   "type": "npm",
   "url": "github.com:vicjicaman/core-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "71f403bc9347990cd299cfd40681d260f949615c",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "d594ba83f41e3865ba496407c5a2548a803acf3a",
     "message": "RELEASE:config-handler:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5f6736dd1d54f40627e4f4d97bc2d9efc33a9f1c",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1565706407,
   "updated": 1565706407,

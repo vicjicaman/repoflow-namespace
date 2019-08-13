@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-process",
   "type": "npm",
   "url": "github.com:vicjicaman/core-process.git",
-  "publish": null,
+  "publish": {
+    "commitid": "31ebdbc73eadc60d287acd45c1cac6cb99c775a6",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "7135f28b23a16c7162d3e3af3cf38a4afec3316b",
     "message": "RELEASE:clean-baseline:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "49904a4ace021e59d6c00565edaa5b8ca6e98424",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1565706407,
   "updated": 1565706407,
