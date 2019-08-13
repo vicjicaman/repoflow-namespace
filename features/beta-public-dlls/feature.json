@@ -1,0 +1,8 @@
+{
+  "featureid": "beta-public-dlls",
+  "baselineid": "master",
+  "description": "Publish dlls as public packages",
+  "created": 1565703179,
+  "updated": 1565703179,
+  "status": "active"
+}
