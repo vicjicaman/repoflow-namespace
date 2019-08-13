@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-ui-label",
+  "moduleid": "app-layout",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/app-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-layout.git",
+  "publish": null,
+  "released": {
+    "commitid": "2f7eed90eee199acb265326fad5fccb0731b4cb0",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- General layout components for all the repoflow tool pages",
+  "dependencies": [],
+  "created": 1565713495,
+  "updated": 1565713495,
+  "status": "active"
+}
