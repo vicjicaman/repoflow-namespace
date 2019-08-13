@@ -5,12 +5,18 @@
   "fullname": "@nebulario/app-layout",
   "type": "npm",
   "url": "github.com:vicjicaman/app-layout.git",
-  "publish": null,
+  "publish": {
+    "commitid": "2100e8d540ed8dc7d0a29c19c0f5807e5e69bc1d",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "8feb1cc0200199e05dda0e4bfca7857eec51155d",
     "message": "RELEASE:beta-public-ui:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "2f7eed90eee199acb265326fad5fccb0731b4cb0",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1565712496,
   "updated": 1565712496,

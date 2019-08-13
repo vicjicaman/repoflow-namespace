@@ -5,12 +5,18 @@
   "fullname": "@nebulario/app-notify",
   "type": "npm",
   "url": "github.com:vicjicaman/app-notify.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6ec5ca025cf26dfb3d4c07969b34fe9950fe5a01",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "18fa41d13e95899c3951a071dd5ede9827968d53",
     "message": "RELEASE:beta-public-ui:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "611b3e80246e36cc94c7f34c8e5299567c2b08f2",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1565712496,
   "updated": 1565712496,

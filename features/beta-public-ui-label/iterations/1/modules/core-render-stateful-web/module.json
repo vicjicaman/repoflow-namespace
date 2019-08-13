@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-render-stateful-web",
   "type": "npm",
   "url": "github.com:vicjicaman/core-render-stateful-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "938cf758265e3152cb622e5904aa3456a06c7806",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "aa32c7f4900133aab64d68b60b449f613b8b2f2e",
     "message": "RELEASE:beta-public-ui:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "2906c9ec01d1d705a9804f9c4508ae4a69bc3978",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1565712496,
   "updated": 1565712496,
