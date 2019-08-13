@@ -1,0 +1,20 @@
+{
+  "moduleid": "app-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-layout.git",
+  "fullname": "@nebulario/app-layout",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- General layout components for all the repoflow tool pages",
+  "created": 1565712205,
+  "updated": 1565712205,
+  "status": "active",
+  "commit": {
+    "commitid": "2f7eed90eee199acb265326fad5fccb0731b4cb0",
+    "message": "ITERATION:1\n"
+  }
+}
