@@ -1,0 +1,8 @@
+{
+  "featureid": "beta-public-ui",
+  "baselineid": "master",
+  "description": "Release UI libraries public package",
+  "created": 1565709660,
+  "updated": 1565709660,
+  "status": "active"
+}
