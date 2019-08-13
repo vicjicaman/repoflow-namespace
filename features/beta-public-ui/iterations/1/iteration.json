@@ -1,0 +1,35 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "app-layout",
+    "app-notify",
+    "core-render-stateful-server",
+    "core-render-stateful-web"
+  ],
+  "latest": [
+    {
+      "moduleid": "app-layout",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-ui-prod"
+    },
+    {
+      "moduleid": "app-notify",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-ui-prod"
+    },
+    {
+      "moduleid": "core-render-stateful-server",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-ui-prod"
+    },
+    {
+      "moduleid": "core-render-stateful-web",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-ui-prod"
+    }
+  ],
+  "created": 1565710572,
+  "updated": 1565710572,
+  "status": "active"
+}
