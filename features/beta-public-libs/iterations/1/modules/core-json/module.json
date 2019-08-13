@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-json",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-libs-prod",
+  "fullname": "@nebulario/core-json",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-json.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0fab2292d02418da6ca2d4b8999063c27cbd0a9d",
+    "message": "RELEASE:config-handler:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1565706407,
+  "updated": 1565706407,
+  "status": "active"
+}

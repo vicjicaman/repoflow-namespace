@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-process",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-libs-prod",
+  "fullname": "@nebulario/core-process",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-process.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7135f28b23a16c7162d3e3af3cf38a4afec3316b",
+    "message": "RELEASE:clean-baseline:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1565706407,
+  "updated": 1565706407,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-logger",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-libs-prod",
+  "fullname": "@nebulario/core-logger",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-logger.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "73c5a31974497580b404dc9fc4264cd68a835e5d",
+    "message": "RELEASE:clean-baseline:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1565706407,
+  "updated": 1565706407,
+  "status": "active"
+}

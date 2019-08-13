@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-node",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-libs-prod",
+  "fullname": "@nebulario/core-node",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-node.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ce3811538dfd98bcb5abbf29ca08a480f47185eb",
+    "message": "RELEASE:clean-baseline:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1565706407,
+  "updated": 1565706407,
+  "status": "active"
+}
