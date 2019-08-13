@@ -1,0 +1,24 @@
+{
+  "moduleid": "app-notify",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-ui-prod",
+  "fullname": "@nebulario/app-notify",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-notify.git",
+  "publish": {
+    "commitid": "f836094e4842a0eeb1edb78910bc6592d0b73946",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "c9a52ec4288a469cee27cc9f52dc11e851b07fc6",
+    "message": "RELEASE:dll-ui:1.70.0-master\n"
+  },
+  "mergeback": {
+    "commitid": "bc71d8ecea7e90276cf236e75019670b60ac2252",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1565710572,
+  "updated": 1565710572,
+  "status": "active"
+}

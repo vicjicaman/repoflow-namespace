@@ -1,6 +1,6 @@
 {
   "releaseid": "beta-public-ui",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "app-layout",
     "app-notify",
