@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
   "fullname": "@nebulario/repoflow-plugin-bundle",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin to handle bundle of multiple packages for an app",
   "created": 1565727737,
   "updated": 1565727737,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ce10192100d00e23579761d03d1d847ad19e7ad5",
+    "message": "Sync to release packages\n"
+  }
 }

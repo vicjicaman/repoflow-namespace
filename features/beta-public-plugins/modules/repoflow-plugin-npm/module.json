@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
   "fullname": "@nebulario/repoflow-plugin-npm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin for NPM repositories",
   "created": 1565727839,
   "updated": 1565727839,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bbcf83a780f54e242c7f4fb27af13eea7faa629a",
+    "message": "Sync to release packages\n"
+  }
 }

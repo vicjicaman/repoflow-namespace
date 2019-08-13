@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-plugin-request.git",
   "fullname": "@nebulario/core-plugin-request",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common functionality for repoflow plugins",
   "created": 1565712104,
   "updated": 1565712104,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1ba670e6f64ba03f30c639dc2e55140887f6bff1",
+    "message": "Sync to release packages\n"
+  }
 }
