@@ -1,6 +1,6 @@
 {
   "releaseid": "beta-public-dlls",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "dll-apollo",
     "dll-react",
