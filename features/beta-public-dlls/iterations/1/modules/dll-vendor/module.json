@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-vendor",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-dlls-prod",
+  "fullname": "@nebulario/dll-vendor",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-vendor.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ba37bcd76c1353afc190ad17f70cd319efa9387c",
+    "message": "RELEASE:static-dll-lib:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1565703863,
+  "updated": 1565703863,
+  "status": "active"
+}

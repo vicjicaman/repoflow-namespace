@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-redux",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-dlls-prod",
+  "fullname": "@nebulario/dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-redux.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6206afb0d9d0991feb681704c0209b250b90da84",
+    "message": "RELEASE:static-dll-lib:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1565703863,
+  "updated": 1565703863,
+  "status": "active"
+}

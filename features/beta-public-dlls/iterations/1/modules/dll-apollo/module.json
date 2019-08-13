@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-apollo",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-dlls-prod",
+  "fullname": "@nebulario/dll-apollo",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-apollo.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2cae42661c51bc1f39c01108f85034f9f61117ab",
+    "message": "RELEASE:static-dll-lib:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1565703863,
+  "updated": 1565703863,
+  "status": "active"
+}
