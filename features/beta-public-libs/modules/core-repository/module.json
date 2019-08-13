@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-repository.git",
   "fullname": "@nebulario/core-repository",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Functionality to interact with a repository",
   "created": 1565706059,
   "updated": 1565706059,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "33c9440e496f2ec71e5b2a682b9c78aff4b073b1",
+    "message": "RELEASE:config-handler:1.70.0-master\n"
+  }
 }

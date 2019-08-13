@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-logger.git",
   "fullname": "@nebulario/core-logger",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Specific config of logger package\n- Common logger configuration across the namespace",
   "created": 1565705901,
   "updated": 1565705901,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "73c5a31974497580b404dc9fc4264cd68a835e5d",
+    "message": "RELEASE:clean-baseline:1.70.0-master\n"
+  }
 }

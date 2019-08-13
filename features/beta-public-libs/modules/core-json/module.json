@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-json.git",
   "fullname": "@nebulario/core-json",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "JSON common utils",
   "created": 1565705917,
   "updated": 1565705917,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0fab2292d02418da6ca2d4b8999063c27cbd0a9d",
+    "message": "RELEASE:config-handler:1.70.0-master\n"
+  }
 }

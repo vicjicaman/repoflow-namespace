@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-config.git",
   "fullname": "@nebulario/core-config",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Configuration functionality, build, clone dependencies",
   "created": 1565705925,
   "updated": 1565705925,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d594ba83f41e3865ba496407c5a2548a803acf3a",
+    "message": "RELEASE:config-handler:1.70.0-master\n"
+  }
 }

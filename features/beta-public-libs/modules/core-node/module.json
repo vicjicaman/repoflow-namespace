@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-node.git",
   "fullname": "@nebulario/core-node",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Bare functionality for a service node\n- Request ID, Express setup, Logger setup",
   "created": 1565705886,
   "updated": 1565705886,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ce3811538dfd98bcb5abbf29ca08a480f47185eb",
+    "message": "RELEASE:clean-baseline:1.70.0-master\n"
+  }
 }
