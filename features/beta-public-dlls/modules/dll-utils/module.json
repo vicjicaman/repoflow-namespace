@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-utils.git",
   "fullname": "@nebulario/dll-utils",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "DLL for utils libraries, lodash, moment, etc",
   "created": 1565703246,
   "updated": 1565703246,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4f28ca2959dd75f2c56cd5effe031abc8359b905",
+    "message": "RELEASE:static-dll-lib:1.70.0-master\n"
+  }
 }

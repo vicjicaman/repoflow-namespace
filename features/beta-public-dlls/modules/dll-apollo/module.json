@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-apollo.git",
   "fullname": "@nebulario/dll-apollo",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- DLL for Apollo and GraphQL libraries",
   "created": 1565703224,
   "updated": 1565703224,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "2cae42661c51bc1f39c01108f85034f9f61117ab",
+    "message": "RELEASE:static-dll-lib:1.70.0-master\n"
+  }
 }

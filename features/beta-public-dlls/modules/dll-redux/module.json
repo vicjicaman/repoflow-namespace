@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-redux.git",
   "fullname": "@nebulario/dll-redux",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- DLL for redux and stateful utilities",
   "created": 1565703238,
   "updated": 1565703238,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6206afb0d9d0991feb681704c0209b250b90da84",
+    "message": "RELEASE:static-dll-lib:1.70.0-master\n"
+  }
 }
