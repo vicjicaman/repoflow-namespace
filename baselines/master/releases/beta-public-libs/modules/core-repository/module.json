@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-libs",
+  "moduleid": "core-repository",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/core-repository",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-repository.git",
+  "publish": null,
+  "released": {
+    "commitid": "15b396d6a962d67aba621b1979b0abdeb3f4cd35",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Functionality to interact with a repository",
+  "dependencies": [],
+  "created": 1565708118,
+  "updated": 1565708118,
+  "status": "active"
+}

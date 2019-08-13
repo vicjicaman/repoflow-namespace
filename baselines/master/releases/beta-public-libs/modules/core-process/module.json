@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-libs",
+  "moduleid": "core-process",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/core-process",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-process.git",
+  "publish": null,
+  "released": {
+    "commitid": "49904a4ace021e59d6c00565edaa5b8ca6e98424",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Promise process for node\n- Retry and wait utils",
+  "dependencies": [],
+  "created": 1565708118,
+  "updated": 1565708118,
+  "status": "active"
+}
