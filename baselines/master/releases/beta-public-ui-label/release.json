@@ -1,0 +1,13 @@
+{
+  "releaseid": "beta-public-ui-label",
+  "phase": "released",
+  "hierarchy": [
+    "app-layout",
+    "app-notify",
+    "core-render-stateful-server",
+    "core-render-stateful-web"
+  ],
+  "created": 1565713495,
+  "updated": 1565713495,
+  "status": "active"
+}
