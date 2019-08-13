@@ -1,0 +1,16 @@
+{
+  "moduleid": "core-repository",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-repository.git",
+  "fullname": "@nebulario/core-repository",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Functionality to interact with a repository",
+  "created": 1565706059,
+  "updated": 1565706059,
+  "status": "active"
+}
