@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-site",
+  "mode": "prod",
+  "version": "1.70.0-plugins-local-prod",
+  "fullname": "@nebulario/repoflow-plugin-site",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-site.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "167b93ba34f913a5031c7455d6097ea50534a396",
+    "message": "Update dependencies\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567460541,
+  "updated": 1567460541,
+  "status": "active"
+}

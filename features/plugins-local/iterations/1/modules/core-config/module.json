@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-config",
+  "mode": "prod",
+  "version": "1.70.0-plugins-local-prod",
+  "fullname": "@nebulario/core-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ab961878b1cf9866d458603d3f6e97a51c4e869d",
+    "message": "Expose the config values and replace api\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567460541,
+  "updated": 1567460541,
+  "status": "active"
+}
