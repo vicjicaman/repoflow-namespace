@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-config.git",
   "fullname": "@nebulario/core-config",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Configuration functionality, build, clone dependencies",
   "created": 1567384107,
   "updated": 1567384107,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ab961878b1cf9866d458603d3f6e97a51c4e869d",
+    "message": "Expose the config values and replace api\n"
+  }
 }

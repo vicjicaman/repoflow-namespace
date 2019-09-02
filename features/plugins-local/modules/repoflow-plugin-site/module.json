@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-site.git",
   "fullname": "@nebulario/repoflow-plugin-site",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Functionality to work with static site repository",
   "created": 1567343560,
   "updated": 1567343560,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "167b93ba34f913a5031c7455d6097ea50534a396",
+    "message": "Update dependencies\n"
+  }
 }
