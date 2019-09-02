@@ -1,0 +1,18 @@
+{
+  "releaseid": "plugins-local",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-plugin-site",
+    "repoflow-plugin-bundle",
+    "repoflow-plugin-compose",
+    "repoflow-plugin-config",
+    "repoflow-plugin-container",
+    "repoflow-plugin-namespace",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-service",
+    "core-config"
+  ],
+  "created": 1567461749,
+  "updated": 1567461749,
+  "status": "active"
+}
