@@ -1,0 +1,20 @@
+{
+  "releaseid": "plugins-local",
+  "moduleid": "repoflow-plugin-service",
+  "version": "1.70.6-master",
+  "fullname": "@nebulario/repoflow-plugin-service",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "faf12e6275a3b0047130e71b4059c21be0588162",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Repoflow plugin to handle service deployment and runtime in kubernetes",
+  "dependencies": [],
+  "created": 1567461749,
+  "updated": 1567461749,
+  "status": "active"
+}

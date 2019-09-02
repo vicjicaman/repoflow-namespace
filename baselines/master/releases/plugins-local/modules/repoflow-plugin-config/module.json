@@ -1,0 +1,20 @@
+{
+  "releaseid": "plugins-local",
+  "moduleid": "repoflow-plugin-config",
+  "version": "1.70.6-master",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "9f19ae55196dc7858c0c971a970f227cc8349224",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for CONFIG repositories",
+  "dependencies": [],
+  "created": 1567461749,
+  "updated": 1567461749,
+  "status": "active"
+}
