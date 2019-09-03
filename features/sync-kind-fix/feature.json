@@ -1,0 +1,8 @@
+{
+  "featureid": "sync-kind-fix",
+  "baselineid": "master",
+  "description": "Add the missing kind value to the sync functionality",
+  "created": 1567471194,
+  "updated": 1567471194,
+  "status": "active"
+}
