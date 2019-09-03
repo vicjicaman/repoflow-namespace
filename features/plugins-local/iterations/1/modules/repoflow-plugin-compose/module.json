@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-compose",
+  "mode": "prod",
+  "version": "1.70.0-plugins-local-prod",
+  "fullname": "@nebulario/repoflow-plugin-compose",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
+  "publish": {
+    "commitid": "7b8618ea99b555e40ae195f1966d908ff18d3853",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "f77ede4c9ee0902a74c7ea79ff072f5a17e426ec",
+    "message": "Update dependencies\n"
+  },
+  "mergeback": {
+    "commitid": "bb093dc7dc6d94272b7ab7c4bdb2dd61ca29e3ef",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1567460541,
+  "updated": 1567460541,
+  "status": "active"
+}
