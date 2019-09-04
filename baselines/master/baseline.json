@@ -3,6 +3,12 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "sync-kind-fix"
+    },
+    {
+      "releaseid": "plugins-local"
+    },
+    {
       "releaseid": "beta-public-ui-label"
     },
     {
@@ -114,30 +120,30 @@
     "repoflow-plugin-site",
     "repoflow-compose",
     "repoflow-build-server",
-    "repoflow-plugin-service",
     "repoflow-plugin-npm",
+    "repoflow-plugin-container",
     "repoflow-plugin-config",
     "repoflow-plugin-compose",
     "repoflow-plugin-bundle",
     "repoflow-container-server",
     "repoflow-container-graph",
     "repoflow-plugin-namespace",
-    "repoflow-plugin-container",
+    "repoflow-plugin-service",
     "nodeflow-local-server",
-    "core-config",
     "nodeflow-local-web",
-    "core-repository",
     "core-render-stateful-server",
-    "core-json",
+    "core-config",
+    "dll-utils",
+    "dll-vendor",
     "dll-react",
     "dll-apollo",
-    "dll-vendor",
     "core-render-stateful-web",
-    "dll-redux",
     "nodeflow-local-common",
-    "dll-utils",
+    "dll-redux",
     "app-notify",
     "app-layout",
+    "core-json",
+    "core-repository",
     "nodeflow-local-graph",
     "core-node",
     "core-logger",
