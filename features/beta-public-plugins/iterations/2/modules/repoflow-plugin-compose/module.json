@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-compose",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
-  "publish": null,
+  "publish": {
+    "commitid": "657f1cf2bdd4424fd865cb7cfd849a3da6bd2620",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "ffbf2affc944080653f1d547c5ed2c3ebae791a0",
     "message": "Merge remote-tracking branch 'origin/master' into beta-public-plugins/master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e2a1d380ac2ad740f5b7600eee5dc80db42a8bd4",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1567573204,
   "updated": 1567573204,
