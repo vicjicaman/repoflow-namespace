@@ -7,7 +7,7 @@
     "mode": "prod"
   },
   "release": {
-    "type": "patch"
+    "type": "minor"
   },
   "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
   "created": 1567636311,
