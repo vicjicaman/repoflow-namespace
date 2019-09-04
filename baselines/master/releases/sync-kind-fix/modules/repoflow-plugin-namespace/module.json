@@ -1,0 +1,20 @@
+{
+  "releaseid": "sync-kind-fix",
+  "moduleid": "repoflow-plugin-namespace",
+  "version": "1.70.7-master",
+  "fullname": "@nebulario/repoflow-plugin-namespace",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
+  "publish": null,
+  "released": {
+    "commitid": "5fdec58f5d165f5a29994df6e2e6c751b1bd49a6",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for kubernetes namespace, ingress and general setup",
+  "dependencies": [],
+  "created": 1567570333,
+  "updated": 1567570333,
+  "status": "active"
+}
