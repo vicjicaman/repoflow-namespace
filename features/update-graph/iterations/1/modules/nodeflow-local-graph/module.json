@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.0-update-graph-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7a626bc0dbc7ab1a22bf74bb4392ef7bfefb306d",
+    "message": "RELEASE:sync-kind-fix:1.72.5-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567631509,
+  "updated": 1567631509,
+  "status": "active"
+}
