@@ -1,0 +1,35 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool",
+    "repoflow-plugin-namespace",
+    "repoflow-plugin-service",
+    "nodeflow-local-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-tool",
+      "iterationid": 1,
+      "version": "1.70.0-sync-kind-fix-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-namespace",
+      "iterationid": 1,
+      "version": "1.70.0-sync-kind-fix-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-service",
+      "iterationid": 1,
+      "version": "1.70.0-sync-kind-fix-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "iterationid": 1,
+      "version": "1.70.0-sync-kind-fix-prod"
+    }
+  ],
+  "created": 1567570027,
+  "updated": 1567570027,
+  "status": "active"
+}

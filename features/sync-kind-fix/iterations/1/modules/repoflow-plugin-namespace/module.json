@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-namespace",
+  "mode": "prod",
+  "version": "1.70.0-sync-kind-fix-prod",
+  "fullname": "@nebulario/repoflow-plugin-namespace",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0af3e4c70f7d926a72ee819bac7ad379eae8748d",
+    "message": "Add kind to sync operations\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567570027,
+  "updated": 1567570027,
+  "status": "active"
+}
