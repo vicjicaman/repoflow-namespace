@@ -1,6 +1,6 @@
 {
   "releaseid": "sync-kind-fix",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-tool",
     "repoflow-plugin-namespace",
