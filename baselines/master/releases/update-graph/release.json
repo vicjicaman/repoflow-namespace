@@ -1,6 +1,6 @@
 {
   "releaseid": "update-graph",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-tool",
     "nodeflow-local-graph"
