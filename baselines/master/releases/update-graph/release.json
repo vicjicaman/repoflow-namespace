@@ -1,0 +1,11 @@
+{
+  "releaseid": "update-graph",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool",
+    "nodeflow-local-graph"
+  ],
+  "created": 1567631878,
+  "updated": 1567631878,
+  "status": "active"
+}
