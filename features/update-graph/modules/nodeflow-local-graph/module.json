@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1567628963,
   "updated": 1567628963,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7a626bc0dbc7ab1a22bf74bb4392ef7bfefb306d",
+    "message": "RELEASE:sync-kind-fix:1.72.5-master\n"
+  }
 }
