@@ -14,7 +14,7 @@
   "updated": 1565727724,
   "status": "active",
   "commit": {
-    "commitid": "ddce87daa350e782347931fa3a345dc7c5a88a51",
-    "message": "Sync to release packages\n"
+    "commitid": "ffbf2affc944080653f1d547c5ed2c3ebae791a0",
+    "message": "Merge remote-tracking branch 'origin/master' into beta-public-plugins/master\n"
   }
 }
