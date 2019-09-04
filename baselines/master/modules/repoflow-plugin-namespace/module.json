@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-namespace",
   "releases": [
     {
+      "releaseid": "sync-kind-fix"
+    },
+    {
       "releaseid": "plugins-local"
     },
     {
@@ -33,7 +36,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-namespace",
           "fullname": "@nebulario/repoflow-plugin-namespace",
-          "version": "1.70.5-master",
+          "version": "1.70.7-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-namespace"
