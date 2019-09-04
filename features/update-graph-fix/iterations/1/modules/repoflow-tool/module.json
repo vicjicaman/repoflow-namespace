@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.0-update-graph-fix-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c27e4eb9a3676b504e5b92f73402575bfe193bac",
+    "message": "RELEASE:update-graph:1.70.5-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567636360,
+  "updated": 1567636360,
+  "status": "active"
+}
