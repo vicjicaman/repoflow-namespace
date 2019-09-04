@@ -1,0 +1,8 @@
+{
+  "featureid": "update-graph",
+  "baselineid": "master",
+  "description": "Add latest version dependencies to the graph",
+  "created": 1567628891,
+  "updated": 1567628891,
+  "status": "active"
+}
