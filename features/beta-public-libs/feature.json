@@ -1,0 +1,8 @@
+{
+  "featureid": "beta-public-libs",
+  "baselineid": "master",
+  "description": "Release libraries public package",
+  "created": 1565705684,
+  "updated": 1565705684,
+  "status": "active"
+}

@@ -1,0 +1,8 @@
+{
+  "featureid": "update-graph-fix",
+  "baselineid": "master",
+  "description": "Fix the issue with the graph package that was already published",
+  "created": 1567636242,
+  "updated": 1567636242,
+  "status": "active"
+}

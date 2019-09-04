@@ -2,6 +2,12 @@
   "moduleid": "app-layout",
   "releases": [
     {
+      "releaseid": "beta-public-ui-label"
+    },
+    {
+      "releaseid": "beta-public-ui"
+    },
+    {
       "releaseid": "dll-ui"
     }
   ],

@@ -1,0 +1,20 @@
+{
+  "moduleid": "dll-apollo",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-apollo.git",
+  "fullname": "@nebulario/dll-apollo",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- DLL for Apollo and GraphQL libraries",
+  "created": 1565703224,
+  "updated": 1565703224,
+  "status": "active",
+  "commit": {
+    "commitid": "4865293a6e4f9ce8ac6d78367c682b789d824909",
+    "message": "ITERATION:1\n"
+  }
+}

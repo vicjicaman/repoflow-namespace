@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.0-sync-kind-fix-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": {
+    "commitid": "569f6aee14f6f9626b84d6899087eb692db6b8b7",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "482b4216b09d16d444348be48d801c58193ed755",
+    "message": "Sync to latest releases\n"
+  },
+  "mergeback": {
+    "commitid": "db062af37a20b35ae97b361b7618e58db44a36fa",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1567570027,
+  "updated": 1567570027,
+  "status": "active"
+}

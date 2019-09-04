@@ -1,0 +1,20 @@
+{
+  "moduleid": "dll-vendor",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-vendor.git",
+  "fullname": "@nebulario/dll-vendor",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "DLL for vendor libraries bootstrap, jquery, etc.",
+  "created": 1565703230,
+  "updated": 1565703230,
+  "status": "active",
+  "commit": {
+    "commitid": "ecc8b883553b8aa3f5d20f8ad728ea445207d945",
+    "message": "ITERATION:1\n"
+  }
+}

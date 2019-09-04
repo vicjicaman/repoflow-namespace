@@ -1,0 +1,20 @@
+{
+  "moduleid": "core-render-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-render-stateful-server.git",
+  "fullname": "@nebulario/core-render-stateful-server",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Core server part for a stateful web app",
+  "created": 1565710058,
+  "updated": 1565710058,
+  "status": "active",
+  "commit": {
+    "commitid": "d7706b6cc7f5572fd3326925f0f097de5d0dc9d0",
+    "message": "ITERATION:1\n"
+  }
+}

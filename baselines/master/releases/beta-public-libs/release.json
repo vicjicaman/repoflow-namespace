@@ -1,0 +1,15 @@
+{
+  "releaseid": "beta-public-libs",
+  "phase": "released",
+  "hierarchy": [
+    "core-config",
+    "core-json",
+    "core-logger",
+    "core-node",
+    "core-repository",
+    "core-process"
+  ],
+  "created": 1565708117,
+  "updated": 1565708117,
+  "status": "active"
+}

@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-container",
+  "mode": "prod",
+  "version": "1.70.1-beta-public-plugins-prod",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": {
+    "commitid": "f505a81e57f2e457312b5ea62816323dc4b8f59e",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "90a0bb2c81c42909805f28a3d0cef87ddc5d1d8f",
+    "message": "Merge remote-tracking branch 'origin/master' into beta-public-plugins/master\n"
+  },
+  "mergeback": {
+    "commitid": "30d9a542d1777d7458bae5cd9b056f3aec3276da",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1567573204,
+  "updated": 1567573204,
+  "status": "active"
+}
