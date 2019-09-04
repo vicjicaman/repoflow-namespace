@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-plugins",
+  "moduleid": "repoflow-plugin-namespace",
+  "version": "1.70.8-master",
+  "fullname": "@nebulario/repoflow-plugin-namespace",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
+  "publish": null,
+  "released": {
+    "commitid": "bd9409f992d335a22de48fcb64cd8e507a464d21",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for kubernetes namespace, ingress and general setup",
+  "dependencies": [],
+  "created": 1567573890,
+  "updated": 1567573890,
+  "status": "active"
+}

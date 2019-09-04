@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-plugins",
+  "moduleid": "repoflow-plugin-bundle",
+  "version": "1.70.5-master",
+  "fullname": "@nebulario/repoflow-plugin-bundle",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
+  "publish": null,
+  "released": {
+    "commitid": "ba54bfa6c1674196521688a798ea15f00bc3812c",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Plugin to handle bundle of multiple packages for an app",
+  "dependencies": [],
+  "created": 1567573890,
+  "updated": 1567573890,
+  "status": "active"
+}
