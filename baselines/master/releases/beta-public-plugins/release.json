@@ -1,6 +1,6 @@
 {
   "releaseid": "beta-public-plugins",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-plugin-site",
     "repoflow-plugin-bundle",

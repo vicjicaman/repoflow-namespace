@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-namespace",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-plugins-prod",
+  "fullname": "@nebulario/repoflow-plugin-namespace",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
+  "publish": {
+    "commitid": "5cb960764950cdf7e8db60d51a735a39f6d82f54",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "ec762245bf203dfbba97e53a8e1f46b929ddd2cb",
+    "message": "Sync to release packages\n"
+  },
+  "mergeback": {
+    "commitid": "be37b7051f9e4bc474eb1f39a88483ec4dde998f",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1565729338,
+  "updated": 1565729338,
+  "status": "active"
+}
