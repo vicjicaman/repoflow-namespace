@@ -1,0 +1,20 @@
+{
+  "releaseid": "update-graph-fix",
+  "moduleid": "nodeflow-local-graph",
+  "version": "1.73.0-master",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "36af17205d0f8e5982c19e28cf8a0ee7991841f8",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "minor",
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "dependencies": [],
+  "created": 1567636599,
+  "updated": 1567636599,
+  "status": "active"
+}

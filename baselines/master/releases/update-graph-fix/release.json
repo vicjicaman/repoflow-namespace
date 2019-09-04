@@ -1,0 +1,11 @@
+{
+  "releaseid": "update-graph-fix",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool",
+    "nodeflow-local-graph"
+  ],
+  "created": 1567636599,
+  "updated": 1567636599,
+  "status": "active"
+}
