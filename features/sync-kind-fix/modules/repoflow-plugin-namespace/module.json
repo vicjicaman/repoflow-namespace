@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
   "fullname": "@nebulario/repoflow-plugin-namespace",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for kubernetes namespace, ingress and general setup",
   "created": 1567525301,
   "updated": 1567525301,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0af3e4c70f7d926a72ee819bac7ad379eae8748d",
+    "message": "Add kind to sync operations\n"
+  }
 }

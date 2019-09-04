@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-service.git",
   "fullname": "@nebulario/repoflow-plugin-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Repoflow plugin to handle service deployment and runtime in kubernetes",
   "created": 1567471289,
   "updated": 1567471289,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "36b72782366f3fc8fe445ba8c27a9d3e191e5da8",
+    "message": "Add kind to sync operations\n"
+  }
 }
