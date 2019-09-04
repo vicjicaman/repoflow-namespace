@@ -1,0 +1,13 @@
+{
+  "releaseid": "sync-kind-fix",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool",
+    "repoflow-plugin-namespace",
+    "repoflow-plugin-service",
+    "nodeflow-local-graph"
+  ],
+  "created": 1567570333,
+  "updated": 1567570333,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "sync-kind-fix",
+  "moduleid": "repoflow-tool",
+  "version": "1.70.4-master",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": null,
+  "released": {
+    "commitid": "db062af37a20b35ae97b361b7618e58db44a36fa",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
+  "dependencies": [],
+  "created": 1567570333,
+  "updated": 1567570333,
+  "status": "active"
+}
