@@ -1,6 +1,6 @@
 {
   "releaseid": "build-public-container",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-build-server"
   ],
