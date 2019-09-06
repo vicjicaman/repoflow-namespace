@@ -1,0 +1,20 @@
+{
+  "releaseid": "stateful-plugin",
+  "moduleid": "core-plugin-request",
+  "version": "1.70.8-master",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": null,
+  "released": {
+    "commitid": "2153923d4aaf22556ce22ddcbd3153b8c2fb6043",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Common functionality for repoflow plugins",
+  "dependencies": [],
+  "created": 1567791149,
+  "updated": 1567791149,
+  "status": "active"
+}
