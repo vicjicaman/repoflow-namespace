@@ -1,0 +1,29 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-compose",
+    "repoflow-container-graph",
+    "repoflow-container-server"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-compose",
+      "iterationid": 1,
+      "version": "1.70.0-public-containers-prod"
+    },
+    {
+      "moduleid": "repoflow-container-graph",
+      "iterationid": 1,
+      "version": "1.70.0-public-containers-prod"
+    },
+    {
+      "moduleid": "repoflow-container-server",
+      "iterationid": 1,
+      "version": "1.70.0-public-containers-prod"
+    }
+  ],
+  "created": 1567793330,
+  "updated": 1567793330,
+  "status": "active"
+}

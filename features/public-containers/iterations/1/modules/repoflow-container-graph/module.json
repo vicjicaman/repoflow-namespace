@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-container-graph",
+  "mode": "prod",
+  "version": "1.70.0-public-containers-prod",
+  "fullname": "repoflow/repoflow-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2aefa9d53775588d5a09e58287b458329fee44be",
+    "message": "Sync to latest app baseline\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567793330,
+  "updated": 1567793330,
+  "status": "active"
+}
