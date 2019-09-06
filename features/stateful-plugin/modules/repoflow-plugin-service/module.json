@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-plugin-service",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-service.git",
+  "fullname": "@nebulario/repoflow-plugin-service",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Repoflow plugin to handle service deployment and runtime in kubernetes",
+  "created": 1567612131,
+  "updated": 1567612131,
+  "status": "active",
+  "commit": {
+    "commitid": "e023424b696e1176656e60ea7baa5cb7e39eaa21",
+    "message": "ITERATION:4\n"
+  }
+}

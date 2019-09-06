@@ -2,6 +2,9 @@
   "moduleid": "repoflow-tool",
   "releases": [
     {
+      "releaseid": "stateful-plugin"
+    },
+    {
       "releaseid": "update-graph-fix"
     },
     {
@@ -60,7 +63,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-npm",
           "fullname": "@nebulario/repoflow-plugin-npm",
-          "version": "1.70.10-master",
+          "version": "1.70.11-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-npm"
@@ -86,7 +89,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-service",
           "fullname": "@nebulario/repoflow-plugin-service",
-          "version": "1.70.8-master",
+          "version": "1.70.9-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-service"
@@ -112,7 +115,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-container",
           "fullname": "@nebulario/repoflow-plugin-container",
-          "version": "1.70.11-master",
+          "version": "1.70.12-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-container"
@@ -129,6 +132,19 @@
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-config"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-stateful",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-stateful",
+          "fullname": "@nebulario/repoflow-plugin-stateful",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-stateful"
         }
       ]
     }

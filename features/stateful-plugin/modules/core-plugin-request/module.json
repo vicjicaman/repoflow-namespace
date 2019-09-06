@@ -1,0 +1,20 @@
+{
+  "moduleid": "core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "fullname": "@nebulario/core-plugin-request",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Common functionality for repoflow plugins",
+  "created": 1567721409,
+  "updated": 1567721409,
+  "status": "active",
+  "commit": {
+    "commitid": "2153923d4aaf22556ce22ddcbd3153b8c2fb6043",
+    "message": "ITERATION:4\n"
+  }
+}
