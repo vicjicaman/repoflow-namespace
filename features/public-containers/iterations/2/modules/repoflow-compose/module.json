@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-compose",
+  "mode": "prod",
+  "version": "1.70.1-public-containers-prod",
+  "fullname": "repoflow-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/repoflow-compose.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "16485f7eaea9f6f59413dac2fa03322d19ffd82a",
+    "message": "Use public containers\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1567793777,
+  "updated": 1567793777,
+  "status": "active"
+}
