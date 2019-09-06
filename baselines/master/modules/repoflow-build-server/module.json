@@ -2,6 +2,9 @@
   "moduleid": "repoflow-build-server",
   "releases": [
     {
+      "releaseid": "build-public-container"
+    },
+    {
       "releaseid": "plugin-local"
     },
     {
@@ -28,7 +31,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-logger",
           "fullname": "@nebulario/core-logger",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-logger"
@@ -41,7 +44,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-node",
           "fullname": "@nebulario/core-node",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-node"
@@ -54,7 +57,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
           "fullname": "@nebulario/core-process",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-process"
@@ -67,7 +70,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
           "fullname": "@nebulario/core-config",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-config"
