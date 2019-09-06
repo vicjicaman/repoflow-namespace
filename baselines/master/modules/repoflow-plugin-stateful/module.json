@@ -1,51 +1,24 @@
 {
-  "moduleid": "repoflow-plugin-service",
+  "moduleid": "repoflow-plugin-stateful",
   "releases": [
     {
       "releaseid": "stateful-plugin"
-    },
-    {
-      "releaseid": "beta-public-plugins"
-    },
-    {
-      "releaseid": "sync-kind-fix"
-    },
-    {
-      "releaseid": "plugins-local"
-    },
-    {
-      "releaseid": "plugin-local"
-    },
-    {
-      "releaseid": "resolve-workspace-plugins"
-    },
-    {
-      "releaseid": "resolve-workspace"
-    },
-    {
-      "releaseid": "plugin-timeout"
-    },
-    {
-      "releaseid": "plugin-types"
-    },
-    {
-      "releaseid": "publish-handler"
     }
   ],
-  "created": 1558958646,
-  "updated": 1558958646,
+  "created": 1567792035,
+  "updated": 1567792035,
   "status": "active",
   "dependants": [
     {
       "moduleid": "repoflow-tool",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-service",
-          "fullname": "@nebulario/repoflow-plugin-service",
-          "version": "1.70.9-master",
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-stateful",
+          "fullname": "@nebulario/repoflow-plugin-stateful",
+          "version": "1.70.0-master",
           "kind": "dependency",
           "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-service"
+          "path": "dependencies.@nebulario/repoflow-plugin-stateful"
         }
       ]
     }
