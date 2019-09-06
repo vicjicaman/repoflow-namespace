@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-repository",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-libs-prod",
+  "fullname": "@nebulario/core-repository",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-repository.git",
+  "publish": {
+    "commitid": "9920a4c24a61198d5bd0cfb5d7af6924e3629a97",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "33c9440e496f2ec71e5b2a682b9c78aff4b073b1",
+    "message": "RELEASE:config-handler:1.70.0-master\n"
+  },
+  "mergeback": {
+    "commitid": "15b396d6a962d67aba621b1979b0abdeb3f4cd35",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1565706407,
+  "updated": 1565706407,
+  "status": "active"
+}

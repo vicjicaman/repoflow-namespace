@@ -2,6 +2,12 @@
   "moduleid": "core-config",
   "releases": [
     {
+      "releaseid": "plugins-local"
+    },
+    {
+      "releaseid": "beta-public-libs"
+    },
+    {
       "releaseid": "config-handler"
     }
   ],
@@ -28,7 +34,46 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
           "fullname": "@nebulario/core-config",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-config"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-namespace",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
+          "fullname": "@nebulario/core-config",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-config"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-service",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
+          "fullname": "@nebulario/core-config",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-config"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-stateful",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
+          "fullname": "@nebulario/core-config",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-config"
@@ -43,7 +88,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-json",
           "fullname": "@nebulario/core-json",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-json"
@@ -56,7 +101,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-repository",
           "fullname": "@nebulario/core-repository",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-repository"

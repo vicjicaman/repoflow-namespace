@@ -1,0 +1,8 @@
+{
+  "featureid": "stateful-plugin",
+  "baselineid": "master",
+  "description": "Service stateful plugin for minikube local testing",
+  "created": 1567609530,
+  "updated": 1567609530,
+  "status": "active"
+}

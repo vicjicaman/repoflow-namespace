@@ -1,0 +1,20 @@
+{
+  "moduleid": "core-render-stateful-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-render-stateful-web.git",
+  "fullname": "@nebulario/core-render-stateful-web",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Core web part functionality for a stateful web app",
+  "created": 1565710050,
+  "updated": 1565710050,
+  "status": "active",
+  "commit": {
+    "commitid": "41b2f5e7cf978b51d147f62959b9c4fd83547956",
+    "message": "ITERATION:1\n"
+  }
+}

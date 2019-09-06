@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-service",
+  "mode": "prod",
+  "version": "1.70.0-sync-kind-fix-prod",
+  "fullname": "@nebulario/repoflow-plugin-service",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-service.git",
+  "publish": {
+    "commitid": "d65b97b66e9ca429244a0e318aeee42bfcd179d0",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "36b72782366f3fc8fe445ba8c27a9d3e191e5da8",
+    "message": "Add kind to sync operations\n"
+  },
+  "mergeback": {
+    "commitid": "0e4df4d42cebc0b09918c688262c5428356f6f36",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1567570027,
+  "updated": 1567570027,
+  "status": "active"
+}

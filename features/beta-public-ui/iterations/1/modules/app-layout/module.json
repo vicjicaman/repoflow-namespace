@@ -1,0 +1,24 @@
+{
+  "moduleid": "app-layout",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-ui-prod",
+  "fullname": "@nebulario/app-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-layout.git",
+  "publish": {
+    "commitid": "effc98b2a7b02a087e27b567c31f49ac13424c88",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "2eb373b1db2f42ccede3de1058e25513ffe2c769",
+    "message": "RELEASE:dll-ui:1.70.0-master\n"
+  },
+  "mergeback": {
+    "commitid": "39b9793a32535e566a1c4ef304c50a5157545002",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1565710572,
+  "updated": 1565710572,
+  "status": "active"
+}

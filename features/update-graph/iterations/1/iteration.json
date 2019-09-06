@@ -1,0 +1,23 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "repoflow-tool",
+    "nodeflow-local-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-tool",
+      "iterationid": 1,
+      "version": "1.70.0-update-graph-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "iterationid": 1,
+      "version": "1.70.0-update-graph-prod"
+    }
+  ],
+  "created": 1567631509,
+  "updated": 1567631509,
+  "status": "active"
+}

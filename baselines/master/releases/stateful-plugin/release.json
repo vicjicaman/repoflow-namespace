@@ -1,0 +1,15 @@
+{
+  "releaseid": "stateful-plugin",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-tool",
+    "repoflow-plugin-container",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-service",
+    "repoflow-plugin-stateful",
+    "core-plugin-request"
+  ],
+  "created": 1567791148,
+  "updated": 1567791148,
+  "status": "active"
+}

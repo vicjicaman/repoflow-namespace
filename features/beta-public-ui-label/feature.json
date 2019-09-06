@@ -1,0 +1,8 @@
+{
+  "featureid": "beta-public-ui-label",
+  "baselineid": "master",
+  "description": "Add public labels to UI packages",
+  "created": 1565712149,
+  "updated": 1565712149,
+  "status": "active"
+}

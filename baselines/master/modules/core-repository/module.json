@@ -2,6 +2,9 @@
   "moduleid": "core-repository",
   "releases": [
     {
+      "releaseid": "beta-public-libs"
+    },
+    {
       "releaseid": "config-handler"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-repository",
           "fullname": "@nebulario/core-repository",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-repository"
@@ -30,7 +33,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
           "fullname": "@nebulario/core-process",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-process"

@@ -1,0 +1,8 @@
+{
+  "featureid": "beta-public-services",
+  "baselineid": "master",
+  "description": "Release public beta services",
+  "created": 1565705767,
+  "updated": 1565705767,
+  "status": "active"
+}

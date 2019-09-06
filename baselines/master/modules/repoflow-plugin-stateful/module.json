@@ -1,0 +1,80 @@
+{
+  "moduleid": "repoflow-plugin-stateful",
+  "releases": [
+    {
+      "releaseid": "stateful-plugin"
+    }
+  ],
+  "created": 1567792035,
+  "updated": 1567792035,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "repoflow-tool",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-stateful",
+          "fullname": "@nebulario/repoflow-plugin-stateful",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-stateful"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "core-config",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
+          "fullname": "@nebulario/core-config",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-config"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-json",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-json",
+          "fullname": "@nebulario/core-json",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-json"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-plugin-request",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
+          "fullname": "@nebulario/core-plugin-request",
+          "version": "1.70.8-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-plugin-request"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-process",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "featureid": "beta-public-plugins",
+  "baselineid": "master",
+  "description": "Release plugins public package",
+  "created": 1565705723,
+  "updated": 1565705723,
+  "status": "active"
+}
