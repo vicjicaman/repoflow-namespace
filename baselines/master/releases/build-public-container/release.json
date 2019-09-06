@@ -1,0 +1,10 @@
+{
+  "releaseid": "build-public-container",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-build-server"
+  ],
+  "created": 1567795505,
+  "updated": 1567795505,
+  "status": "active"
+}
