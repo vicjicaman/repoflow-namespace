@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.0-stateful-plugin-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9b7e4fa52542db32b3e14d4e5799ca8425541ed1",
+    "message": "Add stateful plugin\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567788823,
+  "updated": 1567788823,
+  "status": "active"
+}
