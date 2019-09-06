@@ -14,7 +14,7 @@
   "updated": 1567610014,
   "status": "active",
   "commit": {
-    "commitid": "782f387d08d84e1c2876b5889e48d3395b25848a",
-    "message": "Add stateful plugin\n"
+    "commitid": "7328b4cc1fbbe5b79d332ae3d3752e4f35363baf",
+    "message": "Change the package name from service to stateful\n"
   }
 }

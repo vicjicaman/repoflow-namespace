@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-tool.git",
   "fullname": "@nebulario/repoflow-tool",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
   "created": 1567789324,
   "updated": 1567789324,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f06be9b6539c88e301792fc94c8a0d7cc86643bf",
+    "message": "RELEASE:update-graph-fix:1.71.0-master\n"
+  }
 }
