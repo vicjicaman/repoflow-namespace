@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-build-server",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-build-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3a73869d31e2fdf91c028a91736da4a50ac4ff53",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "a8093f2a81fc438b87d66f9c91c2c1320c04b78d",
     "message": "Add stateful, service and namespace resources\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "726fd3bd3690daf5319ff9001602edd28396c9a2",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1567794354,
   "updated": 1567794354,
