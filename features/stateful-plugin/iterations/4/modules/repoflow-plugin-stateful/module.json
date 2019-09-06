@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-stateful",
+  "mode": "prod",
+  "version": "1.70.3-stateful-plugin-prod",
+  "fullname": "@nebulario/repoflow-plugin-stateful",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-stateful.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "bcdaf0fa6faa899625b7c444f0811e7db304d1cb",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1567790131,
+  "updated": 1567790131,
+  "status": "active"
+}

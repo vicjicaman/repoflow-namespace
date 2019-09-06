@@ -1,0 +1,47 @@
+{
+  "iterationid": 4,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-tool",
+    "repoflow-plugin-container",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-service",
+    "repoflow-plugin-stateful",
+    "core-plugin-request"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-plugin-stateful",
+      "version": "1.70.3-stateful-plugin-prod",
+      "iterationid": 4
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "version": "1.70.3-stateful-plugin-prod",
+      "iterationid": 4
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "version": "1.70.3-stateful-plugin-prod",
+      "iterationid": 4
+    },
+    {
+      "moduleid": "repoflow-plugin-service",
+      "version": "1.70.3-stateful-plugin-prod",
+      "iterationid": 4
+    },
+    {
+      "moduleid": "core-plugin-request",
+      "version": "1.70.3-stateful-plugin-prod",
+      "iterationid": 4
+    },
+    {
+      "moduleid": "repoflow-tool",
+      "version": "1.70.2-stateful-plugin-prod",
+      "iterationid": 4
+    }
+  ],
+  "created": 1567790131,
+  "updated": 1567790131,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.2-stateful-plugin-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "726427aeea6b93be9ab03166ba233247cbf65206",
+    "message": "Add default stateful plugin\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1567790131,
+  "updated": 1567790131,
+  "status": "active"
+}
