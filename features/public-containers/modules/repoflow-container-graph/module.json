@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-container-graph.git",
   "fullname": "repoflow/repoflow-container-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the repoflow graph",
   "created": 1567792544,
   "updated": 1567792544,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "2aefa9d53775588d5a09e58287b458329fee44be",
+    "message": "Sync to latest app baseline\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-compose.git",
   "fullname": "repoflow-compose",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Docker compose configuration for UI and GraphQL execution of repoflow containers",
   "created": 1563968552,
   "updated": 1563968552,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8500d1314fb8d940e242fb37603a7225c752fcda",
+    "message": "RELEASE:compose-performers:1.70.1-master\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-container-server.git",
   "fullname": "repoflow/repoflow-container-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container image for repoflow UI service",
   "created": 1567792538,
   "updated": 1567792538,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e23b97b98e9144de3ed2f14244532b5efaa2410d",
+    "message": "Sync to latest app baseline\n"
+  }
 }
