@@ -1,0 +1,20 @@
+{
+  "releaseid": "public-containers",
+  "moduleid": "repoflow-container-graph",
+  "version": "1.70.2-master",
+  "fullname": "repoflow/repoflow-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "d77d498da24df998472670af59b4bc044b2872d7",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the repoflow graph",
+  "dependencies": [],
+  "created": 1567794522,
+  "updated": 1567794522,
+  "status": "active"
+}

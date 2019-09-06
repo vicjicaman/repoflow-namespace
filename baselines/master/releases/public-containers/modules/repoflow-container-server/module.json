@@ -1,0 +1,20 @@
+{
+  "releaseid": "public-containers",
+  "moduleid": "repoflow-container-server",
+  "version": "1.70.2-master",
+  "fullname": "repoflow/repoflow-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "f7b9468baf397464dd7d982684b570a3c6a6c2d6",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container image for repoflow UI service",
+  "dependencies": [],
+  "created": 1567794522,
+  "updated": 1567794522,
+  "status": "active"
+}
