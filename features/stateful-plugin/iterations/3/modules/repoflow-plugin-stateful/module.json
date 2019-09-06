@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-stateful",
+  "mode": "prod",
+  "version": "1.70.2-stateful-plugin-prod",
+  "fullname": "@nebulario/repoflow-plugin-stateful",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-stateful.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7328b4cc1fbbe5b79d332ae3d3752e4f35363baf",
+    "message": "Change the package name from service to stateful\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1567789635,
+  "updated": 1567789635,
+  "status": "active"
+}
