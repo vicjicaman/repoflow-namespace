@@ -1,0 +1,20 @@
+{
+  "releaseid": "stateful-plugin",
+  "moduleid": "repoflow-tool",
+  "version": "1.70.5-master",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": null,
+  "released": {
+    "commitid": "aaa27e2cf809993c761e21d6aa8686f845cefd99",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
+  "dependencies": [],
+  "created": 1567791148,
+  "updated": 1567791148,
+  "status": "active"
+}

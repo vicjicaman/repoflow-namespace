@@ -1,0 +1,20 @@
+{
+  "releaseid": "stateful-plugin",
+  "moduleid": "repoflow-plugin-npm",
+  "version": "1.70.11-master",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "released": {
+    "commitid": "468826a8e11683d6196787a1dbf83774e6dfe31f",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Plugin for NPM repositories",
+  "dependencies": [],
+  "created": 1567791148,
+  "updated": 1567791148,
+  "status": "active"
+}
