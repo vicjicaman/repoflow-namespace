@@ -1,0 +1,12 @@
+{
+  "releaseid": "public-containers",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-compose",
+    "repoflow-container-graph",
+    "repoflow-container-server"
+  ],
+  "created": 1567794522,
+  "updated": 1567794522,
+  "status": "active"
+}

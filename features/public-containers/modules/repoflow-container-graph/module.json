@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "fullname": "repoflow/repoflow-container-graph",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the repoflow graph",
+  "created": 1567792544,
+  "updated": 1567792544,
+  "status": "active",
+  "commit": {
+    "commitid": "d77d498da24df998472670af59b4bc044b2872d7",
+    "message": "ITERATION:2\n"
+  }
+}

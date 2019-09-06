@@ -1,0 +1,35 @@
+{
+  "releaseid": "public-containers",
+  "moduleid": "repoflow-container-server",
+  "version": "1.70.2-master",
+  "fullname": "repoflow/repoflow-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-server.git",
+  "publish": {
+    "commitid": "f7b9468baf397464dd7d982684b570a3c6a6c2d6",
+    "message": "ITERATION:2\n"
+  },
+  "released": {
+    "commitid": "f7b9468baf397464dd7d982684b570a3c6a6c2d6",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "d3310089ebc642443e69f0a40a8ca8cef0991ced",
+    "message": "RELEASE:public-containers:1.70.2-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Container image for repoflow UI service",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "version": "1.71.4-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-server"
+    }
+  ],
+  "created": 1567794522,
+  "updated": 1567794522,
+  "status": "active"
+}

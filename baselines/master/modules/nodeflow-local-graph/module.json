@@ -70,7 +70,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.72.2-master",
+          "version": "1.73.0-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"

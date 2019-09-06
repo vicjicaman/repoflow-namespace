@@ -1,0 +1,35 @@
+{
+  "releaseid": "public-containers",
+  "moduleid": "repoflow-container-graph",
+  "version": "1.70.2-master",
+  "fullname": "repoflow/repoflow-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "publish": {
+    "commitid": "d77d498da24df998472670af59b4bc044b2872d7",
+    "message": "ITERATION:2\n"
+  },
+  "released": {
+    "commitid": "d77d498da24df998472670af59b4bc044b2872d7",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "f2f0eaf6856f7a6a057fbb9f871fa019935d8e04",
+    "message": "RELEASE:public-containers:1.70.2-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Container for the repoflow graph",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.73.0-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-graph"
+    }
+  ],
+  "created": 1567794522,
+  "updated": 1567794522,
+  "status": "active"
+}

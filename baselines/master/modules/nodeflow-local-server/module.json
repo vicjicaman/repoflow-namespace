@@ -54,7 +54,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
           "fullname": "@nebulario/nodeflow-local-server",
-          "version": "1.71.2-master",
+          "version": "1.71.4-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"

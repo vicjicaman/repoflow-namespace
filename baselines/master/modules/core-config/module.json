@@ -66,6 +66,19 @@
           "path": "dependencies.@nebulario/core-config"
         }
       ]
+    },
+    {
+      "moduleid": "repoflow-plugin-stateful",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
+          "fullname": "@nebulario/core-config",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-config"
+        }
+      ]
     }
   ],
   "dependents": [

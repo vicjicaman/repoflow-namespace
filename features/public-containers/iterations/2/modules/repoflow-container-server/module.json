@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-container-server",
+  "mode": "prod",
+  "version": "1.70.1-public-containers-prod",
+  "fullname": "repoflow/repoflow-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-server.git",
+  "publish": {
+    "commitid": "28f732aef0225222e224a830fc885ae215523de2",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "e23b97b98e9144de3ed2f14244532b5efaa2410d",
+    "message": "Sync to latest app baseline\n"
+  },
+  "mergeback": {
+    "commitid": "f7b9468baf397464dd7d982684b570a3c6a6c2d6",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1567793777,
+  "updated": 1567793777,
+  "status": "active"
+}
