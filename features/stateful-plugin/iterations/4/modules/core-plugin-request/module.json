@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-plugin-request",
   "type": "npm",
   "url": "github.com:vicjicaman/core-plugin-request.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6e34a3407fbe8b1e7e200961b448596564af793b",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "be67192e6b86efa16927487a1ba7cbf812e183ed",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "2153923d4aaf22556ce22ddcbd3153b8c2fb6043",
+    "message": "ITERATION:4\n"
+  },
   "releasedOn": 4,
   "created": 1567790131,
   "updated": 1567790131,

@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-container",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e5e66566eab8483a985d49ba8f386cd3b0449274",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "6b02027208afcf9120eca6544d266246a5186059",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "fdb51c90d6199772dd41f0d294022fb2a2482cd5",
+    "message": "ITERATION:4\n"
+  },
   "releasedOn": 4,
   "created": 1567790131,
   "updated": 1567790131,
