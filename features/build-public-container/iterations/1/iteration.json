@@ -1,0 +1,17 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-build-server"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-build-server",
+      "iterationid": 1,
+      "version": "1.70.0-build-public-container-prod"
+    }
+  ],
+  "created": 1567794354,
+  "updated": 1567794354,
+  "status": "active"
+}

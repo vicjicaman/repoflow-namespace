@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.0-build-public-container-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a8093f2a81fc438b87d66f9c91c2c1320c04b78d",
+    "message": "Add stateful, service and namespace resources\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567794354,
+  "updated": 1567794354,
+  "status": "active"
+}
