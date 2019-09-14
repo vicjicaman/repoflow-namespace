@@ -1,0 +1,16 @@
+{
+  "moduleid": "repoflow-agent",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-agent.git",
+  "fullname": "@nebulario/repoflow-agent",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Repoflow container agent to control internal node app",
+  "created": 1568210260,
+  "updated": 1568210260,
+  "status": "active"
+}
