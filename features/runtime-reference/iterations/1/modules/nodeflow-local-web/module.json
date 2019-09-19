@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.0-runtime-reference-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "99a8a5259c577763cbc01e686c5a0ebbf52b21c1",
+    "message": "Restructure linked tasks\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568934825,
+  "updated": 1568934825,
+  "status": "active"
+}

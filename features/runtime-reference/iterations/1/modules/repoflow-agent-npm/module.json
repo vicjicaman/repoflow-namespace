@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-agent-npm",
+  "mode": "prod",
+  "version": "1.70.0-runtime-reference-prod",
+  "fullname": "@nebulario/repoflow-agent-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-agent-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6360fad3155eb5cae3d7b1112fa662d64cb14c1f",
+    "message": "Restructure linked tasks\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568934824,
+  "updated": 1568934824,
+  "status": "active"
+}
