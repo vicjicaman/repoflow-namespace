@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-stateful.git",
   "fullname": "@nebulario/repoflow-plugin-stateful",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"

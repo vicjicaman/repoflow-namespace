@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-config.git",
   "fullname": "@nebulario/core-config",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
