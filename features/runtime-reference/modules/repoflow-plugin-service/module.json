@@ -12,5 +12,9 @@
   "description": "Repoflow plugin to handle service deployment and runtime in kubernetes",
   "created": 1567822094,
   "updated": 1567822094,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0a5fc6a3e0aca344353947d87d8555894009e469",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }

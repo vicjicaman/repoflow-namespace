@@ -12,5 +12,9 @@
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1567805410,
   "updated": 1567805410,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7b5c1a109569e4c7550fb9d9cdf722ad4a76d77f",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }

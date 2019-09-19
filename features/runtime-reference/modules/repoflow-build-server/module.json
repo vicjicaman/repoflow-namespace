@@ -12,5 +12,9 @@
   "description": "Demo build server to publish packages, containers and services to kubernetes",
   "created": 1568476197,
   "updated": 1568476197,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bfeacf5d0cb46e4d60d2a47186f56c8a2a1fb01d",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }

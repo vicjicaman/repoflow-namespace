@@ -12,5 +12,9 @@
   "description": "Stateful plugin for kubernetes services",
   "created": 1567820044,
   "updated": 1567820044,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4bba1d20513211abdb16ac6cbe90b95952a59b25",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }

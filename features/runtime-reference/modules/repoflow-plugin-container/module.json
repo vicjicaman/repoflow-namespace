@@ -12,5 +12,9 @@
   "description": "Plugin for container image with a NPM package as service",
   "created": 1567821883,
   "updated": 1567821883,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "58941b925c0381228f673f12e79f1ba16ae44ea4",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }

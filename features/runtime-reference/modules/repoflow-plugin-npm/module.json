@@ -12,5 +12,9 @@
   "description": "- Plugin for NPM repositories",
   "created": 1567904566,
   "updated": 1567904566,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "93efbe4bcb3904a1781f9e56dece181c80d0d9ba",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1568815258,
   "updated": 1568815258,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e77c97b8bd2c1a3e51fe5e5f15d3daeee143eefe",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "- Configuration functionality, build, clone dependencies",
   "created": 1567898899,
   "updated": 1567898899,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5d1a7f700e9c8098dacd66307b234d98db12257a",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }

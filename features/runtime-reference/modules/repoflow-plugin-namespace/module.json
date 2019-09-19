@@ -12,5 +12,9 @@
   "description": "Plugin for kubernetes namespace, ingress and general setup",
   "created": 1567799501,
   "updated": 1567799501,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6e20c6f6f3ef92d31313528e283a28081e1d6040",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }

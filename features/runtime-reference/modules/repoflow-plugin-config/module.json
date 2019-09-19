@@ -12,5 +12,9 @@
   "description": "Plugin for CONFIG repositories",
   "created": 1567898276,
   "updated": 1567898276,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ab4c8d1ece9b889432b3414f65a7ffd58e691bdc",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }

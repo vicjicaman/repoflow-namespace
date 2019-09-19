@@ -12,5 +12,9 @@
   "description": "Container agent for NPM based services",
   "created": 1568251902,
   "updated": 1568251902,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6360fad3155eb5cae3d7b1112fa662d64cb14c1f",
+    "message": "Restructure linked tasks\n"
+  }
 }

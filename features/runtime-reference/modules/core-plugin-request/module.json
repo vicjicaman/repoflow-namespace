@@ -12,5 +12,9 @@
   "description": "Common functionality for repoflow plugins",
   "created": 1568907959,
   "updated": 1568907959,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8f3b986b66e0dfc0f757475b14ea8b769902abe4",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  }
 }
