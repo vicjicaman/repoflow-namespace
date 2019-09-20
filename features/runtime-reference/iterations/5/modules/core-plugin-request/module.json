@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.4-runtime-reference-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "3ab75a8a50269b0b9d2981ef618259f85182f075",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1568957641,
+  "updated": 1568957641,
+  "status": "active"
+}
