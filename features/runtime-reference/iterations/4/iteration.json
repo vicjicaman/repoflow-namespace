@@ -1,6 +1,6 @@
 {
   "iterationid": 4,
-  "phase": "releasing",
+  "phase": "invalid",
   "hierarchy": [
     "repoflow-agent-npm",
     "repoflow-build-server",
