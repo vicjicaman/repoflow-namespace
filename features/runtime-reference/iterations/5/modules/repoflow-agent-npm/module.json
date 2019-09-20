@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-agent-npm",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-agent-npm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "0cfaa3789d779e7a06c8c6a13c1e4d1d0ad1e484",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "0691817fddc0508726b1ff255bed3f7fa2ce7aaf",
     "message": "Fix package and repository names\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "870d274d59658b4910976c719e721a4bbf508b96",
+    "message": "ITERATION:5\n"
+  },
   "releasedOn": 5,
   "created": 1568957641,
   "updated": 1568957641,

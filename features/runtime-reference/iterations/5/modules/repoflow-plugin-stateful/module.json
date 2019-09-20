@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-stateful",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-stateful.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a54de2001e2191e6573c78ed09f61f891aabdf82",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "7b413ea8788b5de12106f14f5a65b15a81ba1593",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "fa1b37ce9907de869a5088a387b6a01bdf483168",
+    "message": "ITERATION:5\n"
+  },
   "releasedOn": 5,
   "created": 1568957641,
   "updated": 1568957641,

@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-config",
   "type": "npm",
   "url": "github.com:vicjicaman/core-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "17ca1a475b1448d09be0e903592948b3e355f9d4",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "ec9f53da9bc10d07cbfd7bc1a41b3cc59a45f06c",
     "message": "ITERATION:3\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "446cf3a32c9f3efaef74d89b1f58018d91af1e6a",
+    "message": "ITERATION:5\n"
+  },
   "releasedOn": 5,
   "created": 1568957641,
   "updated": 1568957641,
