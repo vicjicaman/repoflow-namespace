@@ -14,7 +14,7 @@
   "updated": 1568251902,
   "status": "active",
   "commit": {
-    "commitid": "6360fad3155eb5cae3d7b1112fa662d64cb14c1f",
-    "message": "Restructure linked tasks\n"
+    "commitid": "0691817fddc0508726b1ff255bed3f7fa2ce7aaf",
+    "message": "Fix package and repository names\n"
   }
 }
