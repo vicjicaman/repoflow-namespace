@@ -14,7 +14,7 @@
   "updated": 1568815278,
   "status": "active",
   "commit": {
-    "commitid": "43a3c583df4c9a64a46b3821d8594c49fd554df1",
-    "message": "ITERATION:5\n"
+    "commitid": "5f13b72e190796e0fc33a435bf5ef361f0519b1f",
+    "message": "Add enable and disable functionality for performers\n"
   }
 }
