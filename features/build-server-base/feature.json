@@ -1,0 +1,8 @@
+{
+  "featureid": "build-server-base",
+  "baselineid": "master",
+  "description": "Add publish link to real cluster in kubernetes entities",
+  "created": 1568474748,
+  "updated": 1568474748,
+  "status": "active"
+}
