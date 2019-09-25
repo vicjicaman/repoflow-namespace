@@ -1,0 +1,20 @@
+{
+  "releaseid": "runtime-reference",
+  "moduleid": "repoflow-agent-npm",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/repoflow-agent-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-agent-npm.git",
+  "publish": null,
+  "released": {
+    "commitid": "870d274d59658b4910976c719e721a4bbf508b96",
+    "message": "ITERATION:5\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container agent for NPM based services",
+  "dependencies": [],
+  "created": 1569454417,
+  "updated": 1569454417,
+  "status": "active"
+}
