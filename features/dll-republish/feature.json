@@ -1,0 +1,8 @@
+{
+  "featureid": "dll-republish",
+  "baselineid": "master",
+  "description": "Upgrade and fix the DLL republish",
+  "created": 1569453385,
+  "updated": 1569453385,
+  "status": "active"
+}
