@@ -14,7 +14,7 @@
   "updated": 1567820044,
   "status": "active",
   "commit": {
-    "commitid": "2aad79f6edbc55981836c972d3c6b29e43983f99",
-    "message": "Add Promise.all to operations and manual performer\n"
+    "commitid": "510ccf1bbb6c05b6f82bf45d0241b77a594af8b3",
+    "message": "Fix issue with early stop for task\n"
   }
 }
