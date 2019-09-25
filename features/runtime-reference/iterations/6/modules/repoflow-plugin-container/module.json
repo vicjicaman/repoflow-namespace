@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-container",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "833aa6cbc45889bfc9ee226a13eb736f5f54673f",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "c458683d929decbb656d27b4af78dc68a14b8b59",
     "message": "Add Promise.all to operations and manual performer\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "08f5f933f55eeeb054289331bff2f4cd1723720e",
+    "message": "ITERATION:6\n"
+  },
   "releasedOn": 6,
   "created": 1569451117,
   "updated": 1569451117,

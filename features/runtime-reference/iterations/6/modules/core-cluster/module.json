@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-cluster",
   "type": "npm",
   "url": "github.com:vicjicaman/core-cluster.git",
-  "publish": null,
+  "publish": {
+    "commitid": "02f026a42e8e2656f56a3912bcf9cc3b4704863e",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "14ff0944a68be88d2c361346d150bdf76f314846",
     "message": "Add Promise.all to operations and manual performer\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "41e72165a7f9173d42a1a4c9c0024beb87ae7995",
+    "message": "ITERATION:6\n"
+  },
   "releasedOn": 6,
   "created": 1569451117,
   "updated": 1569451117,

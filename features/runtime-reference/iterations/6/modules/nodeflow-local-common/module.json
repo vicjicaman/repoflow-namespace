@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-common",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "beb4c0a1568a493f3a98fff0c6895a2581901e30",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "1c079429b89c87440b1c5f4316e456da674ef3da",
     "message": "Add Promise.all to operations and manual performer\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d5179873c0c1192ecab727c56103420c77dc1ec0",
+    "message": "ITERATION:6\n"
+  },
   "releasedOn": 6,
   "created": 1569451117,
   "updated": 1569451117,

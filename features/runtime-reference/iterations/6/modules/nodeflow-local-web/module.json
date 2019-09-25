@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-web",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "84adb4dbd5220e7d08e55e35d65233b513aee93d",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "5f13b72e190796e0fc33a435bf5ef361f0519b1f",
     "message": "Add enable and disable functionality for performers\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c66eeb83151f48fc2e37c3d6f12af0d0ed7603d7",
+    "message": "ITERATION:6\n"
+  },
   "releasedOn": 6,
   "created": 1569451117,
   "updated": 1569451117,

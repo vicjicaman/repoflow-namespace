@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-plugin-request",
   "type": "npm",
   "url": "github.com:vicjicaman/core-plugin-request.git",
-  "publish": null,
+  "publish": {
+    "commitid": "39bb4f7f8dde330afdf110c62dc7c963b6327cd7",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "12cd40444d545b6ff09a333e94214722ec0c5522",
     "message": "Fix issue with early stop for task\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "314340ef2712b29d83519ba762a9aab863fa1d11",
+    "message": "ITERATION:6\n"
+  },
   "releasedOn": 6,
   "created": 1569451117,
   "updated": 1569451117,

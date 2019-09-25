@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-config",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "51085a345501df36c4cdac2fd5071a069b08ff95",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "8725f6a0a787bbb927ec27ce01bb0d5c2897a81a",
     "message": "Add enable and disable functionality for performers\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b581f44bde04cf4c951ef2de04b1554ad5edcf9d",
+    "message": "ITERATION:6\n"
+  },
   "releasedOn": 6,
   "created": 1569451117,
   "updated": 1569451117,
