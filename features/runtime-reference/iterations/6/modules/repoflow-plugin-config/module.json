@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-config",
+  "mode": "prod",
+  "version": "1.70.5-runtime-reference-prod",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8725f6a0a787bbb927ec27ce01bb0d5c2897a81a",
+    "message": "Add enable and disable functionality for performers\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1569451117,
+  "updated": 1569451117,
+  "status": "active"
+}

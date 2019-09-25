@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-namespace",
+  "mode": "prod",
+  "version": "1.70.5-runtime-reference-prod",
+  "fullname": "@nebulario/repoflow-plugin-namespace",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8bf7ed492b5c38f987ace7bf4fae2653eae0a923",
+    "message": "Fix issue with early stop for task\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1569451117,
+  "updated": 1569451117,
+  "status": "active"
+}

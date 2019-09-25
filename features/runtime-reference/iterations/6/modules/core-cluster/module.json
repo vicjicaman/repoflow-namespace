@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-cluster",
+  "mode": "prod",
+  "version": "1.70.5-runtime-reference-prod",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "14ff0944a68be88d2c361346d150bdf76f314846",
+    "message": "Add Promise.all to operations and manual performer\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1569451117,
+  "updated": 1569451117,
+  "status": "active"
+}

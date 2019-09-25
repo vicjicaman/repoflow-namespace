@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-config",
+  "mode": "prod",
+  "version": "1.70.5-runtime-reference-prod",
+  "fullname": "@nebulario/core-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d90820dfce3a92e6cbbe5910492e3af4fd14b3cc",
+    "message": "Add enable and disable functionality for performers\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1569451117,
+  "updated": 1569451117,
+  "status": "active"
+}

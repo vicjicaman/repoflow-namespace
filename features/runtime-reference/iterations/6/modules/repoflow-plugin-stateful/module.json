@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-stateful",
+  "mode": "prod",
+  "version": "1.70.5-runtime-reference-prod",
+  "fullname": "@nebulario/repoflow-plugin-stateful",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-stateful.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "510ccf1bbb6c05b6f82bf45d0241b77a594af8b3",
+    "message": "Fix issue with early stop for task\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1569451117,
+  "updated": 1569451117,
+  "status": "active"
+}
