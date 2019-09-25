@@ -1,0 +1,20 @@
+{
+  "releaseid": "runtime-reference",
+  "moduleid": "core-cluster",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": null,
+  "released": {
+    "commitid": "41e72165a7f9173d42a1a4c9c0024beb87ae7995",
+    "message": "ITERATION:6\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Functionality for kubernetes cluster entities configuration and utilities",
+  "dependencies": [],
+  "created": 1569454418,
+  "updated": 1569454418,
+  "status": "active"
+}
