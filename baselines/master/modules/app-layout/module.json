@@ -21,7 +21,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/app-layout",
           "fullname": "@nebulario/app-layout",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/app-layout"

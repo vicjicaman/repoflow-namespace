@@ -5,15 +5,126 @@
   "fullname": "@nebulario/repoflow-agent-npm",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-agent-npm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "4652b6575fee5830afc5a45ea7a67f8593beba38",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "870d274d59658b4910976c719e721a4bbf508b96",
     "message": "ITERATION:5\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "603189bd10c0f61e0b043fe96ab9cf646ac9170b",
+    "message": "RELEASE:runtime-reference:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Container agent for NPM based services",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/repoflow-agent-npm",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime",
+      "fullname": "@babel/runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime-corejs3",
+      "fullname": "@babel/runtime-corejs3",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime-corejs3"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+      "fullname": "@nebulario/core-process",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-process"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.dotenv",
+      "fullname": "dotenv",
+      "version": "^7.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.dotenv"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/core",
+      "fullname": "@babel/core",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/plugin-transform-runtime",
+      "fullname": "@babel/plugin-transform-runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/preset-env",
+      "fullname": "@babel/preset-env",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^8.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.nodemon",
+      "fullname": "nodemon",
+      "version": "^1.19.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.nodemon"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^4.39.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-cli",
+      "fullname": "webpack-cli",
+      "version": "^3.3.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
   "created": 1569454417,
   "updated": 1569454417,
   "status": "active"

@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-graph",
   "releases": [
     {
+      "releaseid": "runtime-reference"
+    },
+    {
       "releaseid": "update-graph-fix"
     },
     {
@@ -57,7 +60,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.72.4-master",
+          "version": "1.73.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
@@ -95,6 +98,19 @@
   "updated": 1551639719,
   "status": "active",
   "dependents": [
+    {
+      "moduleid": "core-json",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-json",
+          "fullname": "@nebulario/core-json",
+          "version": "^1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-json"
+        }
+      ]
+    },
     {
       "moduleid": "core-logger",
       "references": [

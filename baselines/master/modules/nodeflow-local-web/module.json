@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-web",
   "releases": [
     {
+      "releaseid": "runtime-reference"
+    },
+    {
       "releaseid": "runtime-local"
     },
     {
@@ -54,7 +57,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-web",
           "fullname": "@nebulario/nodeflow-local-web",
-          "version": "1.71.4-master",
+          "version": "1.71.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"
@@ -69,7 +72,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-render-stateful-web",
           "fullname": "@nebulario/core-render-stateful-web",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-render-stateful-web"
@@ -147,7 +150,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.4-master",
+          "version": "1.71.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -160,7 +163,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.72.4-master",
+          "version": "1.73.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
