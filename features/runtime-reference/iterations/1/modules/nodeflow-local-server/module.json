@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.0-runtime-reference-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b84fc7d100c8d3a4f8df117ed25b9b8333f0c696",
+    "message": "Restructure linked tasks\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568934825,
+  "updated": 1568934825,
+  "status": "active"
+}

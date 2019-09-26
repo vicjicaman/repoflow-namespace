@@ -1,0 +1,20 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
+  "created": 1568815258,
+  "updated": 1568815258,
+  "status": "active",
+  "commit": {
+    "commitid": "d5179873c0c1192ecab727c56103420c77dc1ec0",
+    "message": "ITERATION:6\n"
+  }
+}

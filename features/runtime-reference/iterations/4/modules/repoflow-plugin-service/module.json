@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-service",
+  "mode": "prod",
+  "version": "1.70.3-runtime-reference-prod",
+  "fullname": "@nebulario/repoflow-plugin-service",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "eb8360fef989469988b20cfef1da7fd462df5897",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1568956077,
+  "updated": 1568956077,
+  "status": "active"
+}

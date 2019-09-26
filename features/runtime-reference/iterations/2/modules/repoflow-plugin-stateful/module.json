@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-stateful",
+  "mode": "prod",
+  "version": "1.70.1-runtime-reference-prod",
+  "fullname": "@nebulario/repoflow-plugin-stateful",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-stateful.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4bba1d20513211abdb16ac6cbe90b95952a59b25",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1568951719,
+  "updated": 1568951719,
+  "status": "active"
+}

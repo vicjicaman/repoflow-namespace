@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.4-runtime-reference-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": {
+    "commitid": "e62eacb5982df78cde0f908cb0352e512adfe4e9",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "9234aa8211445af7bdf7a4a9062e59e761c826fc",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "02583878a112cc9e425bdbc949001d7c1964280c",
+    "message": "ITERATION:5\n"
+  },
+  "releasedOn": 5,
+  "created": 1568957641,
+  "updated": 1568957641,
+  "status": "active"
+}

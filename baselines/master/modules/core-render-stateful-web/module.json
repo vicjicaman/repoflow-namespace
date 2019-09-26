@@ -21,7 +21,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-render-stateful-web",
           "fullname": "@nebulario/core-render-stateful-web",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-render-stateful-web"
