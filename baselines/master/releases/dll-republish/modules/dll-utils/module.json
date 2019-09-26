@@ -1,0 +1,20 @@
+{
+  "releaseid": "dll-republish",
+  "moduleid": "dll-utils",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "publish": null,
+  "released": {
+    "commitid": "93aaaeeb9ee650e3aeafb33046cb5950dd220ed6",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "DLL for utils libraries, lodash, moment, etc",
+  "dependencies": [],
+  "created": 1569527327,
+  "updated": 1569527327,
+  "status": "active"
+}
