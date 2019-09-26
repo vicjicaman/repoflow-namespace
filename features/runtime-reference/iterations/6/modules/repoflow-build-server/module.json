@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.5-runtime-reference-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": {
+    "commitid": "643de9f6e486f36c535ac9cc82447472e33da439",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "eba29f4d16503a0ac5e9e00e134f5f730475c13f",
+    "message": "Add enable and disable functionality for performers\n"
+  },
+  "mergeback": {
+    "commitid": "e1e00f389a47d31a3693f4cb1df9abe1bc72f7e3",
+    "message": "ITERATION:6\n"
+  },
+  "releasedOn": 6,
+  "created": 1569451117,
+  "updated": 1569451117,
+  "status": "active"
+}

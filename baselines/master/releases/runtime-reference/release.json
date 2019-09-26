@@ -1,6 +1,6 @@
 {
   "releaseid": "runtime-reference",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-agent-npm",
     "repoflow-build-server",

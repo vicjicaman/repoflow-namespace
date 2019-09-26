@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.0-runtime-reference-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8f3b986b66e0dfc0f757475b14ea8b769902abe4",
+    "message": "Add core-cluster package for build and run cluster plugins\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568934825,
+  "updated": 1568934825,
+  "status": "active"
+}

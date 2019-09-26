@@ -1,0 +1,107 @@
+{
+  "iterationid": 1,
+  "phase": "invalid",
+  "hierarchy": [
+    "repoflow-agent-npm",
+    "repoflow-build-server",
+    "repoflow-plugin-service",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-namespace",
+    "repoflow-plugin-container",
+    "repoflow-plugin-config",
+    "repoflow-agent",
+    "repoflow-plugin-stateful",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph",
+    "core-cluster",
+    "core-config",
+    "core-plugin-request"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-agent-npm",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "repoflow-build-server",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-service",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-namespace",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-config",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "repoflow-agent",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-stateful",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "core-cluster",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "core-config",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    },
+    {
+      "moduleid": "core-plugin-request",
+      "iterationid": 1,
+      "version": "1.70.0-runtime-reference-prod"
+    }
+  ],
+  "created": 1568934824,
+  "updated": 1568934824,
+  "status": "active"
+}

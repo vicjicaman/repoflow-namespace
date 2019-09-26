@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-config",
+  "mode": "prod",
+  "version": "1.70.2-runtime-reference-prod",
+  "fullname": "@nebulario/core-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5a1e4b8aa2ad8c7dc75ca0bbca28f1f92bbc8197",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1568953983,
+  "updated": 1568953983,
+  "status": "active"
+}

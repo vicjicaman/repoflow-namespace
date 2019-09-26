@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-npm",
   "releases": [
     {
+      "releaseid": "runtime-reference"
+    },
+    {
       "releaseid": "stateful-plugin"
     },
     {
@@ -76,7 +79,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.8-master",
+          "version": "1.70.9-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
