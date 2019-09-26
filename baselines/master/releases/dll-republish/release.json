@@ -1,6 +1,6 @@
 {
   "releaseid": "dll-republish",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "dll-apollo",
     "dll-react",
