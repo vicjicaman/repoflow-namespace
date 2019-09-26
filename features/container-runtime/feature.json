@@ -1,0 +1,8 @@
+{
+  "featureid": "container-runtime",
+  "baselineid": "master",
+  "description": "Update the standalone docker functionality",
+  "created": 1569526025,
+  "updated": 1569526025,
+  "status": "active"
+}
