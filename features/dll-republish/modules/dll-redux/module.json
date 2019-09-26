@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-redux.git",
   "fullname": "@nebulario/dll-redux",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- DLL for redux and stateful utilities",
   "created": 1569526243,
   "updated": 1569526243,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5467f096b7bf09b207fb6b3b8a3dc50ca40be773",
+    "message": "RELEASE:beta-public-dlls:1.70.1-master\n"
+  }
 }

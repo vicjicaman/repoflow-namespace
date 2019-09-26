@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-react.git",
   "fullname": "@nebulario/dll-react",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- DLL libraries for react packaged and right version for all the components",
   "created": 1569526248,
   "updated": 1569526248,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "230f1e855b72f410ec430f58f8dfa8bd7071b7aa",
+    "message": "RELEASE:beta-public-dlls:1.70.1-master\n"
+  }
 }

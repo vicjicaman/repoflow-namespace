@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/dll-vendor.git",
   "fullname": "@nebulario/dll-vendor",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "DLL for vendor libraries bootstrap, jquery, etc.",
   "created": 1569526237,
   "updated": 1569526237,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1e7b48648adcc2aa6c2b4c3e99af3bf1da3bc5ea",
+    "message": "RELEASE:beta-public-dlls:1.70.1-master\n"
+  }
 }
