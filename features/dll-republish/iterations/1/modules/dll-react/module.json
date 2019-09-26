@@ -5,12 +5,18 @@
   "fullname": "@nebulario/dll-react",
   "type": "npm",
   "url": "github.com:vicjicaman/dll-react.git",
-  "publish": null,
+  "publish": {
+    "commitid": "923c914e34d9976581dadeebbc8e7f1f9b5fc7fb",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "230f1e855b72f410ec430f58f8dfa8bd7071b7aa",
     "message": "RELEASE:beta-public-dlls:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "2a1583ea4bf64a8287a1e7fef9d1a24fb603b163",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1569526630,
   "updated": 1569526630,

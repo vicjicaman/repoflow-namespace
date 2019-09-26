@@ -5,12 +5,18 @@
   "fullname": "@nebulario/dll-vendor",
   "type": "npm",
   "url": "github.com:vicjicaman/dll-vendor.git",
-  "publish": null,
+  "publish": {
+    "commitid": "cc24ea090c17057589ac0c49f1a3edb6a7eabfcb",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "1e7b48648adcc2aa6c2b4c3e99af3bf1da3bc5ea",
     "message": "RELEASE:beta-public-dlls:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b572868a014f0f103993d4f61ff59eabeda6430e",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1569526630,
   "updated": 1569526630,

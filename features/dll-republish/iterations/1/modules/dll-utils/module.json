@@ -5,12 +5,18 @@
   "fullname": "@nebulario/dll-utils",
   "type": "npm",
   "url": "github.com:vicjicaman/dll-utils.git",
-  "publish": null,
+  "publish": {
+    "commitid": "46cd8268f73d6ad85c487a6461d208e5f6bc0bca",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "305685d8c95481e29f3c7b58fcb13eb40fcd9d65",
     "message": "RELEASE:beta-public-dlls:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "93aaaeeb9ee650e3aeafb33046cb5950dd220ed6",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1569526630,
   "updated": 1569526630,
