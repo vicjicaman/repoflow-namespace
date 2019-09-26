@@ -2,6 +2,9 @@
   "moduleid": "dll-react",
   "releases": [
     {
+      "releaseid": "dll-republish"
+    },
+    {
       "releaseid": "beta-public-dlls"
     },
     {

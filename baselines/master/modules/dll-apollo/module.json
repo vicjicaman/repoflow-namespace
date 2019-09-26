@@ -2,6 +2,9 @@
   "moduleid": "dll-apollo",
   "releases": [
     {
+      "releaseid": "dll-republish"
+    },
+    {
       "releaseid": "beta-public-dlls"
     },
     {
