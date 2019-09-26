@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-vendor",
+  "mode": "prod",
+  "version": "1.70.0-dll-republish-prod",
+  "fullname": "@nebulario/dll-vendor",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-vendor.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "1e7b48648adcc2aa6c2b4c3e99af3bf1da3bc5ea",
+    "message": "RELEASE:beta-public-dlls:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569526630,
+  "updated": 1569526630,
+  "status": "active"
+}

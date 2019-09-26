@@ -1,0 +1,18 @@
+{
+  "moduleid": "dll-utils",
+  "mode": "prod",
+  "version": "1.70.0-dll-republish-prod",
+  "fullname": "@nebulario/dll-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-utils.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "305685d8c95481e29f3c7b58fcb13eb40fcd9d65",
+    "message": "RELEASE:beta-public-dlls:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569526630,
+  "updated": 1569526630,
+  "status": "active"
+}
