@@ -1,0 +1,14 @@
+{
+  "releaseid": "dll-republish",
+  "phase": "released",
+  "hierarchy": [
+    "dll-apollo",
+    "dll-react",
+    "dll-redux",
+    "dll-utils",
+    "dll-vendor"
+  ],
+  "created": 1569527327,
+  "updated": 1569527327,
+  "status": "active"
+}

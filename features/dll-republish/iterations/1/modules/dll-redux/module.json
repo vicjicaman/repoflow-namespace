@@ -1,0 +1,24 @@
+{
+  "moduleid": "dll-redux",
+  "mode": "prod",
+  "version": "1.70.0-dll-republish-prod",
+  "fullname": "@nebulario/dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-redux.git",
+  "publish": {
+    "commitid": "5af3eda98d592b9142cf3f15d1ed6e30c6d35c5d",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "5467f096b7bf09b207fb6b3b8a3dc50ca40be773",
+    "message": "RELEASE:beta-public-dlls:1.70.1-master\n"
+  },
+  "mergeback": {
+    "commitid": "f86f1c5ff5f797625205c1f26113e0626ad942f9",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1569526630,
+  "updated": 1569526630,
+  "status": "active"
+}

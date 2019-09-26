@@ -2,6 +2,9 @@
   "moduleid": "dll-utils",
   "releases": [
     {
+      "releaseid": "dll-republish"
+    },
+    {
       "releaseid": "beta-public-dlls"
     },
     {
