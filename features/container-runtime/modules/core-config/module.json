@@ -1,0 +1,16 @@
+{
+  "moduleid": "core-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-config.git",
+  "fullname": "@nebulario/core-config",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Configuration functionality, build, clone dependencies",
+  "created": 1569559353,
+  "updated": 1569559353,
+  "status": "active"
+}
