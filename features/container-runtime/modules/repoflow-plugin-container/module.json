@@ -12,5 +12,9 @@
   "description": "Plugin for container image with a NPM package as service",
   "created": 1569533463,
   "updated": 1569533463,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "fc2cfa769ccf0139a61df7a8831a38001a29920d",
+    "message": "Add cronjob plugin\n"
+  }
 }

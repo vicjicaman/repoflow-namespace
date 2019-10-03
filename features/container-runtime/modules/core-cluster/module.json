@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-cluster.git",
   "fullname": "@nebulario/core-cluster",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Functionality for kubernetes cluster entities configuration and utilities",
   "created": 1569559798,
   "updated": 1569559798,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "df4cafb00a8bc312cbe50dcaa30ee0b16f5251c9",
+    "message": "Transform replica numbers to 1 default for development\n"
+  }
 }

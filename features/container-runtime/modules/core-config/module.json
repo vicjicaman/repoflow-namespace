@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-config.git",
   "fullname": "@nebulario/core-config",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Configuration functionality, build, clone dependencies",
   "created": 1569559353,
   "updated": 1569559353,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "384bd4f61dd3f06ad2f196e06ce15da3e8b49ed8",
+    "message": "Separare and encapsulate Kube entities from the plugins\n"
+  }
 }

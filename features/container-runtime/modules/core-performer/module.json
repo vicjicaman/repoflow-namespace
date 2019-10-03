@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-performer.git",
   "fullname": "@nebulario/core-performer",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Performer utilities and common functionality for plugins",
   "created": 1569790808,
   "updated": 1569790808,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "edd5083394a473ce404c705bc53f4bf9924487e9",
+    "message": "Separare and encapsulate Kube entities from the plugins\n"
+  }
 }

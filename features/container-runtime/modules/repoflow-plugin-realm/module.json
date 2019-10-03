@@ -12,5 +12,9 @@
   "description": "Plugin for the kubernetes entities",
   "created": 1569985556,
   "updated": 1569985556,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "375543a928b9f7868524096e92727545ca06fe83",
+    "message": "Publish realms and add instance target option\n"
+  }
 }

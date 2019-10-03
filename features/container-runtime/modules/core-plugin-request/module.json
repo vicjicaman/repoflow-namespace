@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-plugin-request.git",
   "fullname": "@nebulario/core-plugin-request",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common functionality for repoflow plugins",
   "created": 1569790841,
   "updated": 1569790841,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "006d57325581831cbf411d1d3c81ac9359547eb0",
+    "message": "Publish realms and add instance target option\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "Demo build server to publish packages, containers and services to kubernetes",
   "created": 1570028695,
   "updated": 1570028695,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ca7c461b2a2eaa1f83ddf1de93ecd06597a85788",
+    "message": "Publish realms and add instance target option\n"
+  }
 }
