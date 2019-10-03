@@ -1,0 +1,20 @@
+{
+  "releaseid": "dll-runtime",
+  "moduleid": "nodeflow-local-graph",
+  "version": "1.73.2-master",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "10c157c29872c2d5ecc3c6d1cce5f1a3e182e20e",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "dependencies": [],
+  "created": 1570134491,
+  "updated": 1570134491,
+  "status": "active"
+}
