@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.0-container-runtime-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "006d57325581831cbf411d1d3c81ac9359547eb0",
+    "message": "Publish realms and add instance target option\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570124973,
+  "updated": 1570124973,
+  "status": "active"
+}

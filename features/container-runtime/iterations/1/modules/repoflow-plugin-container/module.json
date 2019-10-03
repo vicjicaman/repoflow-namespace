@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-container",
+  "mode": "prod",
+  "version": "1.70.0-container-runtime-prod",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "fc2cfa769ccf0139a61df7a8831a38001a29920d",
+    "message": "Add cronjob plugin\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570124973,
+  "updated": 1570124973,
+  "status": "active"
+}

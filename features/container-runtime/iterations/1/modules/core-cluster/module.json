@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-cluster",
+  "mode": "prod",
+  "version": "1.70.0-container-runtime-prod",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "df4cafb00a8bc312cbe50dcaa30ee0b16f5251c9",
+    "message": "Transform replica numbers to 1 default for development\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570124973,
+  "updated": 1570124973,
+  "status": "active"
+}

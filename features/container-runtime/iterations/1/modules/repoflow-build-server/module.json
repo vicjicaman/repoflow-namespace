@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.0-container-runtime-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ca7c461b2a2eaa1f83ddf1de93ecd06597a85788",
+    "message": "Publish realms and add instance target option\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570124973,
+  "updated": 1570124973,
+  "status": "active"
+}

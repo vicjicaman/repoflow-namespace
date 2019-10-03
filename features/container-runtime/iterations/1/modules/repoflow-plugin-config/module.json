@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-config",
+  "mode": "prod",
+  "version": "1.70.0-container-runtime-prod",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "59363a22075f316943aa219a13bf8d2249e1dfc6",
+    "message": "Add realm plugin\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570124973,
+  "updated": 1570124973,
+  "status": "active"
+}

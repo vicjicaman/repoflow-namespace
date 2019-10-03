@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-config",
+  "mode": "prod",
+  "version": "1.70.0-container-runtime-prod",
+  "fullname": "@nebulario/core-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "384bd4f61dd3f06ad2f196e06ce15da3e8b49ed8",
+    "message": "Separare and encapsulate Kube entities from the plugins\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570124973,
+  "updated": 1570124973,
+  "status": "active"
+}
