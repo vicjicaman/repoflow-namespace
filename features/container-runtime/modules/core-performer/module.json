@@ -14,7 +14,7 @@
   "updated": 1569790808,
   "status": "active",
   "commit": {
-    "commitid": "edd5083394a473ce404c705bc53f4bf9924487e9",
-    "message": "Separare and encapsulate Kube entities from the plugins\n"
+    "commitid": "6dac0d4fd345a742b941631827e0868f850239e9",
+    "message": "ITERATION:1\n"
   }
 }
