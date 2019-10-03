@@ -21,7 +21,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-vendor",
           "fullname": "@nebulario/dll-vendor",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-vendor"
@@ -34,7 +34,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-vendor",
           "fullname": "@nebulario/dll-vendor",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-vendor"
