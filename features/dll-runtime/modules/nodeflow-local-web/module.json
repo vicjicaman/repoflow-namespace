@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1569533389,
   "updated": 1569533389,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5310896c7340d535bc3eccee6b2972bfc14861d2",
+    "message": "Update dll libraries to public package\n"
+  }
 }

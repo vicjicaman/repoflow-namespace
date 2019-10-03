@@ -12,5 +12,9 @@
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1569533403,
   "updated": 1569533403,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5da57629045d5ac4178f18733838a349a29fe675",
+    "message": "Move root params to cluster config\n"
+  }
 }
