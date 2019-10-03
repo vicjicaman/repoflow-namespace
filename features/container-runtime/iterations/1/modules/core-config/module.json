@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-config",
   "type": "npm",
   "url": "github.com:vicjicaman/core-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a900bb26391c0b155e40ae6135cb0a6e1e482b01",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "384bd4f61dd3f06ad2f196e06ce15da3e8b49ed8",
     "message": "Separare and encapsulate Kube entities from the plugins\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "abce0b0a10f7e67f32b8b104740eb33aa457df73",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570124973,
   "updated": 1570124973,

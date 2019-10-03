@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-container",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "2810e2eb2b423fa1a69aa43284dd0400672dcf97",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "fc2cfa769ccf0139a61df7a8831a38001a29920d",
     "message": "Add cronjob plugin\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "fb2644f98ce0486be490e87f68dba1e2de1d0c07",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570124973,
   "updated": 1570124973,

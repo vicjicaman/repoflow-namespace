@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-realm",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e15361bad60dddf25fee3067bd8f3ee5f251a02d",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "375543a928b9f7868524096e92727545ca06fe83",
     "message": "Publish realms and add instance target option\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "270c156431625bde3d404faf9bc664b3dc3c9324",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570124973,
   "updated": 1570124973,

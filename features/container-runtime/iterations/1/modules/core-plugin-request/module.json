@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-plugin-request",
   "type": "npm",
   "url": "github.com:vicjicaman/core-plugin-request.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b54eba7cb518f119cba3be01c2893f8bfc9ec9ad",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "006d57325581831cbf411d1d3c81ac9359547eb0",
     "message": "Publish realms and add instance target option\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e92a79802be7e8fae2ab4f92014ced00b8b2ec97",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570124973,
   "updated": 1570124973,
