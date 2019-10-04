@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-plugin-request.git",
   "fullname": "@nebulario/core-plugin-request",
   "iteration": {
-    "mode": "prod"
+    "mode": "dev"
   },
   "release": {
     "type": "patch"
