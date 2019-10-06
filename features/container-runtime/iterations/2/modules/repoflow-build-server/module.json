@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-build-server",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-build-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f04f6674539812b5937db12da51d0182d5f4f23d",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "4cad0138795d6650ba7838eeac4e71a2fcb8da07",
     "message": "Add update agent to realm pod and apps\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "dc18479bdba59690186c462b43bb341c96cb19a6",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1570371159,
   "updated": 1570371159,

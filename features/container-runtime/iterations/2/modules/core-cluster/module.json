@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-cluster",
   "type": "npm",
   "url": "github.com:vicjicaman/core-cluster.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a6fd0fbe4390bad08f7f52b7ba133a56a6dde73c",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "ea19e83291ae595bfa6fc80956451b3a1463f0c0",
     "message": "Add configurate instanceid\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b8dfd6991bce1766583fbec63faba42887e35091",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1570371159,
   "updated": 1570371159,
