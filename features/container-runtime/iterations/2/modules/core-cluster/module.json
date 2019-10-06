@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-cluster",
+  "mode": "prod",
+  "version": "1.70.1-container-runtime-prod",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ea19e83291ae595bfa6fc80956451b3a1463f0c0",
+    "message": "Add configurate instanceid\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570371159,
+  "updated": 1570371159,
+  "status": "active"
+}
