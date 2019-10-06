@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1570393386,
   "updated": 1570393386,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "691f85212b5e823916d5c4d143aa506948d0b5f9",
+    "message": "RELEASE:dll-runtime:1.71.6-master\n"
+  }
 }

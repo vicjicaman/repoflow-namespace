@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/app-lang.git",
   "fullname": "@nebulario/app-lang",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Package to Lang HOC provider",
   "created": 1570393861,
   "updated": 1570393861,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9417660a76b8ee81842907a327c6dee824c431e4",
+    "message": "RELEASE:1.0.10-master:local-ui-state\n"
+  }
 }
