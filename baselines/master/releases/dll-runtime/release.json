@@ -1,0 +1,13 @@
+{
+  "releaseid": "dll-runtime",
+  "phase": "released",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1570134490,
+  "updated": 1570134490,
+  "status": "active"
+}

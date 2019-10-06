@@ -1,0 +1,20 @@
+{
+  "releaseid": "container-runtime",
+  "moduleid": "core-plugin-request",
+  "version": "1.70.10-master",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": null,
+  "released": {
+    "commitid": "e92a79802be7e8fae2ab4f92014ced00b8b2ec97",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Common functionality for repoflow plugins",
+  "dependencies": [],
+  "created": 1570374102,
+  "updated": 1570374102,
+  "status": "active"
+}

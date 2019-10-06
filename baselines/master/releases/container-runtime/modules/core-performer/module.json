@@ -1,0 +1,20 @@
+{
+  "releaseid": "container-runtime",
+  "moduleid": "core-performer",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/core-performer",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-performer.git",
+  "publish": null,
+  "released": {
+    "commitid": "6dac0d4fd345a742b941631827e0868f850239e9",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Performer utilities and common functionality for plugins",
+  "dependencies": [],
+  "created": 1570374102,
+  "updated": 1570374102,
+  "status": "active"
+}

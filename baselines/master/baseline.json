@@ -3,6 +3,15 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "container-runtime"
+    },
+    {
+      "releaseid": "dll-runtime"
+    },
+    {
+      "releaseid": "dll-republish"
+    },
+    {
       "releaseid": "runtime-reference"
     },
     {
