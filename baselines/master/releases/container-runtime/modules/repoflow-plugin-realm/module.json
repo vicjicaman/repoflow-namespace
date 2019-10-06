@@ -1,0 +1,20 @@
+{
+  "releaseid": "container-runtime",
+  "moduleid": "repoflow-plugin-realm",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/repoflow-plugin-realm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "0f5f91262ea11944fa95cad546ee459002ff8a08",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for the kubernetes entities",
+  "dependencies": [],
+  "created": 1570374102,
+  "updated": 1570374102,
+  "status": "active"
+}
