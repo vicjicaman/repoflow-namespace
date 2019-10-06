@@ -1,69 +1,25 @@
 {
-  "moduleid": "repoflow-plugin-config",
+  "moduleid": "repoflow-plugin-realm",
   "releases": [
     {
       "releaseid": "container-runtime"
-    },
-    {
-      "releaseid": "runtime-reference"
-    },
-    {
-      "releaseid": "beta-public-plugins"
-    },
-    {
-      "releaseid": "plugins-local"
-    },
-    {
-      "releaseid": "plugin-local"
-    },
-    {
-      "releaseid": "resolve-workspace-plugins"
-    },
-    {
-      "releaseid": "resolve-workspace"
-    },
-    {
-      "releaseid": "config-handler"
-    },
-    {
-      "releaseid": "plugin-timeout"
-    },
-    {
-      "releaseid": "plugin-types"
-    },
-    {
-      "releaseid": "publish-handler"
     }
   ],
-  "created": 1558958645,
-  "updated": 1558958645,
+  "created": 1570378552,
+  "updated": 1570378552,
   "status": "active",
-  "dependants": [
-    {
-      "moduleid": "repoflow-tool",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-config",
-          "fullname": "@nebulario/repoflow-plugin-config",
-          "version": "1.70.7-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-config"
-        }
-      ]
-    }
-  ],
+  "dependants": [],
   "dependents": [
     {
-      "moduleid": "core-performer",
+      "moduleid": "core-cluster",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-performer",
-          "fullname": "@nebulario/core-performer",
-          "version": "1.70.0-master",
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
+          "fullname": "@nebulario/core-cluster",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
-          "path": "dependencies.@nebulario/core-performer"
+          "path": "dependencies.@nebulario/core-cluster"
         }
       ]
     },
@@ -103,6 +59,19 @@
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-performer",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-performer",
+          "fullname": "@nebulario/core-performer",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-performer"
         }
       ]
     },

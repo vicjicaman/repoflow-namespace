@@ -2,6 +2,9 @@
   "moduleid": "core-cluster",
   "releases": [
     {
+      "releaseid": "container-runtime"
+    },
+    {
       "releaseid": "runtime-reference"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
           "fullname": "@nebulario/core-cluster",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-cluster"
@@ -28,7 +31,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
           "fullname": "@nebulario/core-cluster",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-cluster"
@@ -42,6 +45,19 @@
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
           "fullname": "@nebulario/core-cluster",
           "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-cluster"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
+          "fullname": "@nebulario/core-cluster",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-cluster"
@@ -82,7 +98,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
           "fullname": "@nebulario/core-config",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-config"

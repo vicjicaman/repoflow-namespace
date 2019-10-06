@@ -1,6 +1,6 @@
 {
   "releaseid": "container-runtime",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-build-server",
     "repoflow-plugin-realm",
