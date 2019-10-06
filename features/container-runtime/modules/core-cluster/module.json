@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-cluster.git",
   "fullname": "@nebulario/core-cluster",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569559798,
   "status": "active",
   "commit": {
-    "commitid": "0626d635c12e6414b9fbe5ffd22d359b8ff8db60",
-    "message": "ITERATION:1\n"
+    "commitid": "ea19e83291ae595bfa6fc80956451b3a1463f0c0",
+    "message": "Add configurate instanceid\n"
   }
 }

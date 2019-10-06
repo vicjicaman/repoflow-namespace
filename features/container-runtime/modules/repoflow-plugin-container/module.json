@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
   "fullname": "@nebulario/repoflow-plugin-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569533463,
   "status": "active",
   "commit": {
-    "commitid": "fb2644f98ce0486be490e87f68dba1e2de1d0c07",
-    "message": "ITERATION:1\n"
+    "commitid": "20c46ec60555a83e3a75ec172b466b9e1f209c7f",
+    "message": "Add update agent to realm pod and apps\n"
   }
 }
