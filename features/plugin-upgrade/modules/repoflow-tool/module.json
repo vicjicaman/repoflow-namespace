@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-tool.git",
   "fullname": "@nebulario/repoflow-tool",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
   "created": 1570384538,
   "updated": 1570384538,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "cfd21e4547d3d55db004de32cf9a5d4024bdf70a",
+    "message": "Update plugin to the latest core cluster released libraries\n"
+  }
 }

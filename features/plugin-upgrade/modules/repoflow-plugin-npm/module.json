@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
   "fullname": "@nebulario/repoflow-plugin-npm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Plugin for NPM repositories",
   "created": 1570384493,
   "updated": 1570384493,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "23f768323b0de5ee50f028862de493dd5f87869d",
+    "message": "Update plugin to the latest core cluster released libraries\n"
+  }
 }
