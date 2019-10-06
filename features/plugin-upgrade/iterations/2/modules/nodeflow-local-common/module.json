@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.0-plugin-upgrade-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "691f85212b5e823916d5c4d143aa506948d0b5f9",
+    "message": "RELEASE:dll-runtime:1.71.6-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570395378,
+  "updated": 1570395378,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.0-plugin-upgrade-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "3ee0a285b2a0db78ef625e33f2b328f2212c7bc0",
+    "message": "RELEASE:dll-runtime:1.71.6-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570395378,
+  "updated": 1570395378,
+  "status": "active"
+}

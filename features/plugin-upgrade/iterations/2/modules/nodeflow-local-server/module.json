@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.0-plugin-upgrade-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "86e054a48e9536c80c28c11149da3a09e7ea176f",
+    "message": "RELEASE:dll-runtime:1.71.6-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570395378,
+  "updated": 1570395378,
+  "status": "active"
+}

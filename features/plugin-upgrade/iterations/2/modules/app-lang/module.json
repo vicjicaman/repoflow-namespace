@@ -1,0 +1,18 @@
+{
+  "moduleid": "app-lang",
+  "mode": "prod",
+  "version": "1.70.0-plugin-upgrade-prod",
+  "fullname": "@nebulario/app-lang",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-lang.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9417660a76b8ee81842907a327c6dee824c431e4",
+    "message": "RELEASE:1.0.10-master:local-ui-state\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570395378,
+  "updated": 1570395378,
+  "status": "active"
+}
