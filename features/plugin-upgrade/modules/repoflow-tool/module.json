@@ -14,7 +14,7 @@
   "updated": 1570384538,
   "status": "active",
   "commit": {
-    "commitid": "bc1e162d71344d7ac7ac321de74b045ddd653b38",
-    "message": "ITERATION:1\n"
+    "commitid": "d126073eb8513dce02d16c809ff1f14580897532",
+    "message": "Use iteration with app-lang public package\n"
   }
 }
