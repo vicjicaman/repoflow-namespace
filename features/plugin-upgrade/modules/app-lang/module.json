@@ -1,0 +1,16 @@
+{
+  "moduleid": "app-lang",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-lang.git",
+  "fullname": "@nebulario/app-lang",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Package to Lang HOC provider",
+  "created": 1570393861,
+  "updated": 1570393861,
+  "status": "active"
+}

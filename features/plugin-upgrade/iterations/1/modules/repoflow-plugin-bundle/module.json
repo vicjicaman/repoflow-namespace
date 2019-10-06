@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-bundle",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-bundle.git",
-  "publish": null,
+  "publish": {
+    "commitid": "84df055f0a3ec395fa05bc31a0c1ec01d628df5f",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "d637c05b51d569fd8e4216d59ac861a772b76067",
     "message": "Update plugin to the latest core cluster released libraries\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "087328f948ce50df90a65bda0d4aec3d9adbfcd7",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570389447,
   "updated": 1570389447,
