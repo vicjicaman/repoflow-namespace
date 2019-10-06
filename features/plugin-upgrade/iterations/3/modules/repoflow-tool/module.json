@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.1-plugin-upgrade-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d126073eb8513dce02d16c809ff1f14580897532",
+    "message": "Use iteration with app-lang public package\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1570400096,
+  "updated": 1570400096,
+  "status": "active"
+}
