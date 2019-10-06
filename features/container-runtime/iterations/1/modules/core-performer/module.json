@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-performer",
+  "mode": "prod",
+  "version": "1.70.0-container-runtime-prod",
+  "fullname": "@nebulario/core-performer",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-performer.git",
+  "publish": {
+    "commitid": "bce73975abdf56e1bdace65ec5ae8849b533b29e",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "edd5083394a473ce404c705bc53f4bf9924487e9",
+    "message": "Separare and encapsulate Kube entities from the plugins\n"
+  },
+  "mergeback": {
+    "commitid": "6dac0d4fd345a742b941631827e0868f850239e9",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570124973,
+  "updated": 1570124973,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-plugin-realm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
+  "fullname": "@nebulario/repoflow-plugin-realm",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Plugin for the kubernetes entities",
+  "created": 1569985556,
+  "updated": 1569985556,
+  "status": "active",
+  "commit": {
+    "commitid": "0f5f91262ea11944fa95cad546ee459002ff8a08",
+    "message": "ITERATION:2\n"
+  }
+}
