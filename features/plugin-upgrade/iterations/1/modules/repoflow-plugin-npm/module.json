@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.0-plugin-upgrade-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "23f768323b0de5ee50f028862de493dd5f87869d",
+    "message": "Update plugin to the latest core cluster released libraries\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570389447,
+  "updated": 1570389447,
+  "status": "active"
+}
