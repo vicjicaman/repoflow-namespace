@@ -1,0 +1,20 @@
+{
+  "releaseid": "plugin-upgrade",
+  "moduleid": "app-lang",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/app-lang",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-lang.git",
+  "publish": null,
+  "released": {
+    "commitid": "765e64b095dc8e7d4b2a56b334a8ab84b7dfa724",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Package to Lang HOC provider",
+  "dependencies": [],
+  "created": 1570473468,
+  "updated": 1570473468,
+  "status": "active"
+}
