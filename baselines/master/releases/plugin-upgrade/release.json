@@ -1,6 +1,6 @@
 {
   "releaseid": "plugin-upgrade",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-plugin-bundle",
     "repoflow-plugin-npm",

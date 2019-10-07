@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-web",
   "releases": [
     {
+      "releaseid": "plugin-upgrade"
+    },
+    {
       "releaseid": "dll-runtime"
     },
     {
@@ -60,7 +63,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-web",
           "fullname": "@nebulario/nodeflow-local-web",
-          "version": "1.71.6-master",
+          "version": "1.71.7-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"
@@ -153,7 +156,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.6-master",
+          "version": "1.71.7-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"

@@ -10,6 +10,19 @@
   "status": "active",
   "dependants": [
     {
+      "moduleid": "repoflow-plugin-bundle",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-performer",
+          "fullname": "@nebulario/core-performer",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-performer"
+        }
+      ]
+    },
+    {
       "moduleid": "repoflow-plugin-config",
       "references": [
         {
@@ -24,6 +37,19 @@
     },
     {
       "moduleid": "repoflow-plugin-container",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-performer",
+          "fullname": "@nebulario/core-performer",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-performer"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-performer",
