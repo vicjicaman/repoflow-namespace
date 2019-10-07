@@ -1,0 +1,16 @@
+{
+  "releaseid": "plugin-upgrade",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-plugin-bundle",
+    "repoflow-plugin-npm",
+    "repoflow-tool",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "app-lang"
+  ],
+  "created": 1570473468,
+  "updated": 1570473468,
+  "status": "active"
+}
