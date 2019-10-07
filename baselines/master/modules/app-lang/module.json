@@ -1,0 +1,35 @@
+{
+  "moduleid": "app-lang",
+  "releases": [
+    {
+      "releaseid": "plugin-upgrade"
+    }
+  ],
+  "created": 1570478024,
+  "updated": 1570478024,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "nodeflow-local-common",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/app-lang",
+          "fullname": "@nebulario/app-lang",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/app-lang"
+        },
+        {
+          "dependencyid": "dependency|package.json|devDependencies.@nebulario/app-lang",
+          "fullname": "@nebulario/app-lang",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "devDependencies.@nebulario/app-lang"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

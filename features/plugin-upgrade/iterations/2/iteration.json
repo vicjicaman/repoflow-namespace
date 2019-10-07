@@ -1,0 +1,50 @@
+{
+  "iterationid": 2,
+  "phase": "iterated",
+  "hierarchy": [
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "app-lang"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-plugin-bundle",
+      "version": "1.70.0-plugin-upgrade-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "version": "1.70.0-plugin-upgrade-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "repoflow-tool",
+      "version": "1.70.0-plugin-upgrade-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "iterationid": 2,
+      "version": "1.70.0-plugin-upgrade-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "iterationid": 2,
+      "version": "1.70.0-plugin-upgrade-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "iterationid": 2,
+      "version": "1.70.0-plugin-upgrade-prod"
+    },
+    {
+      "moduleid": "app-lang",
+      "iterationid": 2,
+      "version": "1.70.0-plugin-upgrade-prod"
+    }
+  ],
+  "created": 1570395378,
+  "updated": 1570395378,
+  "status": "active"
+}

@@ -50,21 +50,7 @@
   "created": 1551926971,
   "updated": 1551926971,
   "status": "active",
-  "dependants": [
-    {
-      "moduleid": "repoflow-tool",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-container",
-          "fullname": "@nebulario/repoflow-plugin-container",
-          "version": "1.70.12-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-container"
-        }
-      ]
-    }
-  ],
+  "dependants": [],
   "dependents": [
     {
       "moduleid": "core-performer",

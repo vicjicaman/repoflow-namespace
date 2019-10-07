@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.0-plugin-upgrade-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": {
+    "commitid": "69c5253c51c38d3f5a37644b1161bc23d6d7d4c2",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "cfd21e4547d3d55db004de32cf9a5d4024bdf70a",
+    "message": "Update plugin to the latest core cluster released libraries\n"
+  },
+  "mergeback": {
+    "commitid": "bc1e162d71344d7ac7ac321de74b045ddd653b38",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570389447,
+  "updated": 1570389447,
+  "status": "active"
+}
