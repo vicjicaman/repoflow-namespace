@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
   "fullname": "@nebulario/repoflow-plugin-compose",
   "iteration": {
-    "mode": "prod"
+    "mode": "dev"
   },
   "release": {
     "type": "patch"

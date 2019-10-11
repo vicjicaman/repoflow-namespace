@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "prod"
+    "mode": "dev"
   },
   "release": {
     "type": "patch"
