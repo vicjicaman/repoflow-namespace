@@ -1,6 +1,6 @@
 {
   "releaseid": "bundle-cluster",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-plugin-realm",
     "repoflow-plugin-npm",
