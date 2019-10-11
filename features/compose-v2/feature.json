@@ -1,0 +1,8 @@
+{
+  "featureid": "compose-v2",
+  "baselineid": "master",
+  "description": "Add composer as the main startup method",
+  "created": 1570577384,
+  "updated": 1570577384,
+  "status": "active"
+}
