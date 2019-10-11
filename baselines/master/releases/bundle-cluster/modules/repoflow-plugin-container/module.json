@@ -1,0 +1,20 @@
+{
+  "releaseid": "bundle-cluster",
+  "moduleid": "repoflow-plugin-container",
+  "version": "1.70.15-master",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "8d7e41576f70547e4e791d98b3f44915ccf37f3a",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for container image with a NPM package as service",
+  "dependencies": [],
+  "created": 1570832548,
+  "updated": 1570832548,
+  "status": "active"
+}

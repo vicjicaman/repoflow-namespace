@@ -1,0 +1,20 @@
+{
+  "releaseid": "bundle-cluster",
+  "moduleid": "repoflow-plugin-npm",
+  "version": "1.70.14-master",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "released": {
+    "commitid": "7b2075273ce386fc6e3ca496ac65ccc53b680a77",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Plugin for NPM repositories",
+  "dependencies": [],
+  "created": 1570832548,
+  "updated": 1570832548,
+  "status": "active"
+}

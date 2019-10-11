@@ -1,0 +1,20 @@
+{
+  "releaseid": "bundle-cluster",
+  "moduleid": "repoflow-plugin-config",
+  "version": "1.70.10-master",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "c2d5ab739f288f92556364a0f7d2f9189f10537f",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for CONFIG repositories",
+  "dependencies": [],
+  "created": 1570832548,
+  "updated": 1570832548,
+  "status": "active"
+}

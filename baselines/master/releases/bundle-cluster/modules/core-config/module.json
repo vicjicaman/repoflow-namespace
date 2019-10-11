@@ -1,0 +1,20 @@
+{
+  "releaseid": "bundle-cluster",
+  "moduleid": "core-config",
+  "version": "1.70.5-master",
+  "fullname": "@nebulario/core-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "187418f2886506b8a33a39abd049bf5f6de3a6f0",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Configuration functionality, build, clone dependencies",
+  "dependencies": [],
+  "created": 1570832548,
+  "updated": 1570832548,
+  "status": "active"
+}
