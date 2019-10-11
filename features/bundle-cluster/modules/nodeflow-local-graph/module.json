@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1570576096,
   "updated": 1570576096,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b44b84b0b6bc9394b57f733074ec93ec6a89016a",
+    "message": "Replace onRestart functionality with general config field\n"
+  }
 }

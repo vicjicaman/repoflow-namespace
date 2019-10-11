@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1570593632,
   "updated": 1570593632,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a9733c3823a3f91b273de1efe8ea5ed9c6f2361b",
+    "message": "Replace onRestart functionality with general config field\n"
+  }
 }

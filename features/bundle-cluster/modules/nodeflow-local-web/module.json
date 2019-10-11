@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1570593709,
   "updated": 1570593709,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "02e30a75f5f9ccc4f32140915cbcbf9e90f60e26",
+    "message": "Remove the modules query fragment from the baseline feature query\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
   "fullname": "@nebulario/repoflow-plugin-compose",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for docker compose to handle multiple container services locally",
   "created": 1570577181,
   "updated": 1570577181,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "187cd0a8ce0992f6e2f0f40fecfc0c14a2c957bb",
+    "message": "Remove the modules query fragment from the baseline feature query\n"
+  }
 }

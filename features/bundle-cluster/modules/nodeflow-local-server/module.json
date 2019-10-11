@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1570593739,
   "updated": 1570593739,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "2b5b56f2d93536d96a6ae7885f76287f129d41e1",
+    "message": "Improve production sync with cluster target env\n"
+  }
 }

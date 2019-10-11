@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-plugin-request.git",
   "fullname": "@nebulario/core-plugin-request",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common functionality for repoflow plugins",
   "created": 1570810448,
   "updated": 1570810448,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a49d7e16639fde837235ba56311705b94b8058dd",
+    "message": "Replace onRestart functionality with general config field\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-agent-npm.git",
   "fullname": "@nebulario/repoflow-agent-npm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container agent for NPM based services",
   "created": 1570741167,
   "updated": 1570741167,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1a374de2f2a78f2945061367d97548d33b368b0a",
+    "message": "Improve production sync with cluster target env\n"
+  }
 }

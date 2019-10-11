@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-config.git",
   "fullname": "@nebulario/core-config",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Configuration functionality, build, clone dependencies",
   "created": 1570735814,
   "updated": 1570735814,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c5d2f0698b523ea77b77a747aa1371f0d37a16c8",
+    "message": "Improve production sync with cluster target env\n"
+  }
 }

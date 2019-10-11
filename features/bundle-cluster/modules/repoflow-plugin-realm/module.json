@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
   "fullname": "@nebulario/repoflow-plugin-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for the kubernetes entities",
   "created": 1570681132,
   "updated": 1570681132,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "902312a8f062c61ff66273b0c0ac0a8180b47674",
+    "message": "Remove listener configuration for events\n"
+  }
 }
