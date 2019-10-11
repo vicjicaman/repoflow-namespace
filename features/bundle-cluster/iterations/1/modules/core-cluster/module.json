@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-cluster",
   "type": "npm",
   "url": "github.com:vicjicaman/core-cluster.git",
-  "publish": null,
+  "publish": {
+    "commitid": "89fc1b070be5f8d6e01044656105bf7b97751f32",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "cd9e185efb7fdb47b00a4b96c5e0a896c09f4f64",
     "message": "Improve production sync with cluster target env\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "7a122276df3d6ad9c733575d5f4be2be18cac522",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570826229,
   "updated": 1570826229,

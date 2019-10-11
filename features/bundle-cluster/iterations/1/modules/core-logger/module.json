@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-logger",
   "type": "npm",
   "url": "github.com:vicjicaman/core-logger.git",
-  "publish": null,
+  "publish": {
+    "commitid": "789de1f2e7f7b6141d3b48ffcd0174bfb084e893",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "128329be5fadd12db6a1daa47200695e7df65be0",
     "message": "Remove listener configuration for events\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ffb7981f8235f3b4c0a2347b946526923a507955",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570826229,
   "updated": 1570826229,

@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-plugin-request",
   "type": "npm",
   "url": "github.com:vicjicaman/core-plugin-request.git",
-  "publish": null,
+  "publish": {
+    "commitid": "5b3f87bb4ac8cf8c3639a9551b924373899c2769",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "a49d7e16639fde837235ba56311705b94b8058dd",
     "message": "Replace onRestart functionality with general config field\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e5ab76fa94d705376dfaffbfc88a09049dd27326",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570826229,
   "updated": 1570826229,

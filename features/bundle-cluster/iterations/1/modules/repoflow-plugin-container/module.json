@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-container",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "03a22c66468004883af79a58e7f9c3a3c8a78b43",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "12006a405511cb99bfcc0254b08ca8ed33ade88f",
     "message": "Replace onRestart functionality with general config field\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "8d7e41576f70547e4e791d98b3f44915ccf37f3a",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570826229,
   "updated": 1570826229,

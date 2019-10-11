@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-realm",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a0e32456e97c638d5a1f61afca9ee69d0cbfb802",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "902312a8f062c61ff66273b0c0ac0a8180b47674",
     "message": "Remove listener configuration for events\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c5b6b4d2ad9eaccfb6d7e4f6e8835aab557cd796",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570826228,
   "updated": 1570826228,
