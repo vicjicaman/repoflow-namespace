@@ -14,7 +14,7 @@
   "updated": 1570576096,
   "status": "active",
   "commit": {
-    "commitid": "b44b84b0b6bc9394b57f733074ec93ec6a89016a",
-    "message": "Replace onRestart functionality with general config field\n"
+    "commitid": "38b20194be63224ebc4d82228bd566f431484944",
+    "message": "ITERATION:1\n"
   }
 }
