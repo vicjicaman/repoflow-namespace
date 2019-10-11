@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.0-bundle-cluster-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "02e30a75f5f9ccc4f32140915cbcbf9e90f60e26",
+    "message": "Remove the modules query fragment from the baseline feature query\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570826229,
+  "updated": 1570826229,
+  "status": "active"
+}

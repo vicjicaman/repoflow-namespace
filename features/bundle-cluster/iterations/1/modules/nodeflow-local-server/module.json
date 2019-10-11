@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.0-bundle-cluster-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2b5b56f2d93536d96a6ae7885f76287f129d41e1",
+    "message": "Improve production sync with cluster target env\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570826229,
+  "updated": 1570826229,
+  "status": "active"
+}

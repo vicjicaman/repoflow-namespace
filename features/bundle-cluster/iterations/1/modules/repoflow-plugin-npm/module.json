@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.0-bundle-cluster-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "798714ed1e492d05012b34b0acb531347b3fd7c1",
+    "message": "Remove listener configuration for events\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570826228,
+  "updated": 1570826228,
+  "status": "active"
+}

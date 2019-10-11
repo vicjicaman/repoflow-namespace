@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-container",
+  "mode": "prod",
+  "version": "1.70.0-bundle-cluster-prod",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "12006a405511cb99bfcc0254b08ca8ed33ade88f",
+    "message": "Replace onRestart functionality with general config field\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570826229,
+  "updated": 1570826229,
+  "status": "active"
+}

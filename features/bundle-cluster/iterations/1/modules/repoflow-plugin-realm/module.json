@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-realm",
+  "mode": "prod",
+  "version": "1.70.0-bundle-cluster-prod",
+  "fullname": "@nebulario/repoflow-plugin-realm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "902312a8f062c61ff66273b0c0ac0a8180b47674",
+    "message": "Remove listener configuration for events\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570826228,
+  "updated": 1570826228,
+  "status": "active"
+}
