@@ -1,6 +1,6 @@
 {
   "releaseid": "fix-fragments",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-build-server",
     "nodeflow-local-server",
