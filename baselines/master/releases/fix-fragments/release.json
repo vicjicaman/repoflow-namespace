@@ -1,0 +1,14 @@
+{
+  "releaseid": "fix-fragments",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-build-server",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph"
+  ],
+  "created": 1570899610,
+  "updated": 1570899610,
+  "status": "active"
+}

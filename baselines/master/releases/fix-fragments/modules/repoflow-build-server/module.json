@@ -1,0 +1,20 @@
+{
+  "releaseid": "fix-fragments",
+  "moduleid": "repoflow-build-server",
+  "version": "1.70.8-master",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "45e2cca64afc17a0050e535d8dc9a2406e96a0f0",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Demo build server to publish packages, containers and services to kubernetes",
+  "dependencies": [],
+  "created": 1570899610,
+  "updated": 1570899610,
+  "status": "active"
+}
