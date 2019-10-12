@@ -1,0 +1,8 @@
+{
+  "featureid": "compose-plugin-v2",
+  "baselineid": "master",
+  "description": "Upgrade the compose plugin to the latest packages",
+  "created": 1570915275,
+  "updated": 1570915275,
+  "status": "active"
+}
