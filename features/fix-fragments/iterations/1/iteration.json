@@ -1,6 +1,6 @@
 {
   "iterationid": 1,
-  "phase": "releasing",
+  "phase": "iterated",
   "hierarchy": [
     "repoflow-build-server",
     "nodeflow-local-server",
