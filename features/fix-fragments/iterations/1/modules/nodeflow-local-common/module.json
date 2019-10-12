@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.0-fix-fragments-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7d0a24eab7bc47b94ba43fbccf798042ac7a3070",
+    "message": "Add commit and push action\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570895118,
+  "updated": 1570895118,
+  "status": "active"
+}

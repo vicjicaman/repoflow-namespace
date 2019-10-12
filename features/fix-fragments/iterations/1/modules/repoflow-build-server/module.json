@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.0-fix-fragments-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4d30d54b75f0a2788ff93ae4da889e58d7d9ecae",
+    "message": "RELEASE:container-runtime:1.70.7-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570895118,
+  "updated": 1570895118,
+  "status": "active"
+}
