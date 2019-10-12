@@ -2,6 +2,9 @@
   "moduleid": "core-plugin-request",
   "releases": [
     {
+      "releaseid": "bundle-cluster"
+    },
+    {
       "releaseid": "container-runtime"
     },
     {
@@ -61,7 +64,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.7-master",
+          "version": "1.70.11-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -74,7 +77,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.10-master",
+          "version": "1.70.11-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -87,7 +90,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.10-master",
+          "version": "1.70.11-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -113,7 +116,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.10-master",
+          "version": "1.70.11-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"
@@ -126,7 +129,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.10-master",
+          "version": "1.70.11-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"

@@ -1,0 +1,95 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "repoflow-plugin-realm",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-container",
+    "repoflow-plugin-config",
+    "repoflow-plugin-compose",
+    "repoflow-agent-npm",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-graph",
+    "nodeflow-local-common",
+    "core-logger",
+    "core-cluster",
+    "core-config",
+    "core-plugin-request"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-plugin-realm",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-config",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "repoflow-plugin-compose",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "repoflow-agent-npm",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "core-logger",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "core-cluster",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "core-config",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    },
+    {
+      "moduleid": "core-plugin-request",
+      "iterationid": 1,
+      "version": "1.70.0-bundle-cluster-prod"
+    }
+  ],
+  "created": 1570826228,
+  "updated": 1570826228,
+  "status": "active"
+}

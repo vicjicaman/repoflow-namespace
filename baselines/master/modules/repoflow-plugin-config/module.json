@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-config",
   "releases": [
     {
+      "releaseid": "bundle-cluster"
+    },
+    {
       "releaseid": "container-runtime"
     },
     {
@@ -59,7 +62,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
           "fullname": "@nebulario/core-config",
-          "version": "1.70.4-master",
+          "version": "1.70.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-config"
@@ -85,7 +88,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.10-master",
+          "version": "1.70.11-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"

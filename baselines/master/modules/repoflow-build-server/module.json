@@ -2,6 +2,9 @@
   "moduleid": "repoflow-build-server",
   "releases": [
     {
+      "releaseid": "fix-fragments"
+    },
+    {
       "releaseid": "container-runtime"
     },
     {

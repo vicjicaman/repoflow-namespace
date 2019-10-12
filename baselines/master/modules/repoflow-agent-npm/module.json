@@ -2,6 +2,9 @@
   "moduleid": "repoflow-agent-npm",
   "releases": [
     {
+      "releaseid": "bundle-cluster"
+    },
+    {
       "releaseid": "runtime-reference"
     }
   ],

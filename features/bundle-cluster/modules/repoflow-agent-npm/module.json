@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-agent-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-agent-npm.git",
+  "fullname": "@nebulario/repoflow-agent-npm",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container agent for NPM based services",
+  "created": 1570741167,
+  "updated": 1570741167,
+  "status": "active",
+  "commit": {
+    "commitid": "60660e608a030a935270fc421947174ef6378631",
+    "message": "ITERATION:1\n"
+  }
+}

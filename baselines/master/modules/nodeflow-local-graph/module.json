@@ -2,6 +2,12 @@
   "moduleid": "nodeflow-local-graph",
   "releases": [
     {
+      "releaseid": "fix-fragments"
+    },
+    {
+      "releaseid": "bundle-cluster"
+    },
+    {
       "releaseid": "dll-runtime"
     },
     {
@@ -63,7 +69,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.73.2-master",
+          "version": "1.73.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
@@ -120,7 +126,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-logger",
           "fullname": "@nebulario/core-logger",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-logger"
