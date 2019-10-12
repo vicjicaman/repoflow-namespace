@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1570837244,
   "updated": 1570837244,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bef7a0d431b3ecff4eb2d1a7d6cbf77c0fda3b51",
+    "message": "Remove header from instance\n"
+  }
 }

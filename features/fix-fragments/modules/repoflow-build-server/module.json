@@ -12,5 +12,9 @@
   "description": "Demo build server to publish packages, containers and services to kubernetes",
   "created": 1570840425,
   "updated": 1570840425,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4d30d54b75f0a2788ff93ae4da889e58d7d9ecae",
+    "message": "RELEASE:container-runtime:1.70.7-master\n"
+  }
 }
