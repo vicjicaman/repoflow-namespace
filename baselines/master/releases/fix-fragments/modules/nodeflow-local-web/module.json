@@ -1,0 +1,20 @@
+{
+  "releaseid": "fix-fragments",
+  "moduleid": "nodeflow-local-web",
+  "version": "1.71.9-master",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "ad765b39c99ec83f1c556665c9d30c79efc3fe75",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Generate web deliberable based on the common code",
+  "dependencies": [],
+  "created": 1570899610,
+  "updated": 1570899610,
+  "status": "active"
+}

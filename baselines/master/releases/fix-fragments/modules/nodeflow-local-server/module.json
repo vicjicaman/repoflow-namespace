@@ -1,0 +1,20 @@
+{
+  "releaseid": "fix-fragments",
+  "moduleid": "nodeflow-local-server",
+  "version": "1.71.9-master",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "504e3396446ab77fac922837e6641fbb48a258c9",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- SSR service for repoflow tool based on common code",
+  "dependencies": [],
+  "created": 1570899610,
+  "updated": 1570899610,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "fix-fragments",
+  "moduleid": "nodeflow-local-common",
+  "version": "1.71.9-master",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "released": {
+    "commitid": "d634dd139d0e4bb364d50eb7dc110739d947b2f7",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
+  "dependencies": [],
+  "created": 1570899610,
+  "updated": 1570899610,
+  "status": "active"
+}

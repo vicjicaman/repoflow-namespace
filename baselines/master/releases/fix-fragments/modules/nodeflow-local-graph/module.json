@@ -1,0 +1,20 @@
+{
+  "releaseid": "fix-fragments",
+  "moduleid": "nodeflow-local-graph",
+  "version": "1.73.4-master",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "29f695128ab7cf4993f50c8bee29af7c0041618e",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "dependencies": [],
+  "created": 1570899610,
+  "updated": 1570899610,
+  "status": "active"
+}
