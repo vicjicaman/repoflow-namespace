@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-build-server.git",
   "fullname": "@nebulario/repoflow-build-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Demo build server to publish packages, containers and services to kubernetes",
   "created": 1570982916,
   "updated": 1570982916,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f2a1132930fd36dbcccc236f5ee18bfd449c78e6",
+    "message": "Link compose containers using the fullname for each container\n"
+  }
 }
