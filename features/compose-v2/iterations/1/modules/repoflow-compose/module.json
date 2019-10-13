@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-compose",
+  "mode": "prod",
+  "version": "1.70.0-compose-v2-prod",
+  "fullname": "repoflow-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/repoflow-compose.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e16a77106b440cb7514508498b53301b9fa9bec0",
+    "message": "Upgrade container and compose for repoflow\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570983225,
+  "updated": 1570983225,
+  "status": "active"
+}

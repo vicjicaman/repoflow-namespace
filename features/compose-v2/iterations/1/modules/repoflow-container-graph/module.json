@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-container-graph",
+  "mode": "prod",
+  "version": "1.70.0-compose-v2-prod",
+  "fullname": "repoflow/repoflow-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f57187972b67d2226ed3c4e9cf90faffdf57a059",
+    "message": "Upgrade container and compose for repoflow\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570983225,
+  "updated": 1570983225,
+  "status": "active"
+}
