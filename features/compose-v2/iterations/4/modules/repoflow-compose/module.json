@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-compose",
+  "mode": "dev",
+  "version": "1.70.3-compose-v2-dev",
+  "fullname": "repoflow-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/repoflow-compose.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c537eb2159097049193041f08f4819041b47fffe",
+    "message": "Add executable flag and production/dev node_env\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1570989780,
+  "updated": 1570989780,
+  "status": "active"
+}
