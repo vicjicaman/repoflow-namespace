@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-graph",
   "releases": [
     {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
       "releaseid": "fix-fragments"
     },
     {

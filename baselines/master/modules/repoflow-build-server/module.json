@@ -2,6 +2,9 @@
   "moduleid": "repoflow-build-server",
   "releases": [
     {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
       "releaseid": "fix-fragments"
     },
     {

@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-realm",
   "releases": [
     {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
       "releaseid": "bundle-cluster"
     },
     {
