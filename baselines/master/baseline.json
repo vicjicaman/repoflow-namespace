@@ -3,6 +3,12 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
+      "releaseid": "compose-v2"
+    },
+    {
       "releaseid": "fix-fragments"
     },
     {

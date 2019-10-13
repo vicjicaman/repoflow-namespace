@@ -1,0 +1,17 @@
+{
+  "releaseid": "compose-plugin-v2",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-build-server",
+    "repoflow-plugin-compose",
+    "repoflow-plugin-config",
+    "repoflow-plugin-container",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-realm",
+    "nodeflow-local-graph",
+    "core-cluster"
+  ],
+  "created": 1570996248,
+  "updated": 1570996248,
+  "status": "active"
+}

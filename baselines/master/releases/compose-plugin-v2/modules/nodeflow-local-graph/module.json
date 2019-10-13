@@ -1,0 +1,20 @@
+{
+  "releaseid": "compose-plugin-v2",
+  "moduleid": "nodeflow-local-graph",
+  "version": "1.73.5-master",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "008a622cc8180d42253451b85ff2d8bb35dc23f3",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "dependencies": [],
+  "created": 1570996248,
+  "updated": 1570996248,
+  "status": "active"
+}
