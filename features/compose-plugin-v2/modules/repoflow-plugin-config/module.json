@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Plugin for CONFIG repositories",
+  "created": 1570994168,
+  "updated": 1570994168,
+  "status": "active",
+  "commit": {
+    "commitid": "17ccf4f53ba9d60b7a7fde7860cfe728dc63627d",
+    "message": "Add configurable publish endpoint to all plugins\n"
+  }
+}

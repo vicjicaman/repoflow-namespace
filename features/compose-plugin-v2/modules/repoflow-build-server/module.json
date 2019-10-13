@@ -14,7 +14,7 @@
   "updated": 1570982916,
   "status": "active",
   "commit": {
-    "commitid": "b14e52d6842b58831b4ff25a29c9365a7e87f0fe",
-    "message": "ITERATION:1\n"
+    "commitid": "f5e96e30b7a2e4078cd4482138861a09d7cde10a",
+    "message": "Add configurable publish endpoint to all plugins\n"
   }
 }

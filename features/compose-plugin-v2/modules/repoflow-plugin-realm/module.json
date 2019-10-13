@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-plugin-realm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
+  "fullname": "@nebulario/repoflow-plugin-realm",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Plugin for the kubernetes entities",
+  "created": 1570994155,
+  "updated": 1570994155,
+  "status": "active",
+  "commit": {
+    "commitid": "57c7ce58797581e98b337a718c3520c51b02ff9f",
+    "message": "Add configurable publish endpoint to all plugins\n"
+  }
+}
