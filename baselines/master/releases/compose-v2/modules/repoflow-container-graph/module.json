@@ -1,0 +1,20 @@
+{
+  "releaseid": "compose-v2",
+  "moduleid": "repoflow-container-graph",
+  "version": "1.70.3-master",
+  "fullname": "repoflow/repoflow-container-graph",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "4e25308c98db3a220e79946a23b4b820828cf3c2",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the repoflow graph",
+  "dependencies": [],
+  "created": 1570991580,
+  "updated": 1570991580,
+  "status": "active"
+}
