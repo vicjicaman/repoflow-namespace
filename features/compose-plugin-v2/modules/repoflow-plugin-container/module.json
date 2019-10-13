@@ -14,7 +14,7 @@
   "updated": 1570920665,
   "status": "active",
   "commit": {
-    "commitid": "4601ea67cc6578203314fb9e3f8dc88c2f4b8eca",
-    "message": "Add configurable publish endpoint to all plugins\n"
+    "commitid": "1d372408197c9385d2ecf66663e360898f392b81",
+    "message": "Change default endpoint to build.repoflow.local\n"
   }
 }
