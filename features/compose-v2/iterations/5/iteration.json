@@ -1,6 +1,6 @@
 {
   "iterationid": 5,
-  "phase": "releasing",
+  "phase": "iterated",
   "hierarchy": [
     "repoflow-compose"
   ],
