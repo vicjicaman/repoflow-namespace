@@ -1,6 +1,6 @@
 {
   "releaseid": "compose-v2",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-compose",
     "repoflow-container-graph",
