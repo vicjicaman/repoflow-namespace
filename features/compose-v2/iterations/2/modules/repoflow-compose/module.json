@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-compose",
+  "mode": "prod",
+  "version": "1.70.1-compose-v2-prod",
+  "fullname": "repoflow-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/repoflow-compose.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2e4fb5a8ee69d07de7a9a639cb471c21e4e11034",
+    "message": "Merge remote-tracking branch 'origin/compose-v2/master' into compose-v2/master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570985353,
+  "updated": 1570985353,
+  "status": "active"
+}
