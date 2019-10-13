@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-compose",
+  "mode": "prod",
+  "version": "1.70.0-compose-plugin-v2-prod",
+  "fullname": "@nebulario/repoflow-plugin-compose",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c4bda977679aed1cfa4336aad44b36187681f95a",
+    "message": "Link compose containers using the fullname for each container\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570988722,
+  "updated": 1570988722,
+  "status": "active"
+}

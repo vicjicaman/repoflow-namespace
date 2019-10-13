@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-cluster",
+  "mode": "prod",
+  "version": "1.70.0-compose-plugin-v2-prod",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e4da3d804b1d4249ab01a85c1abaf55504a342b0",
+    "message": "Link compose containers using the fullname for each container\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570988722,
+  "updated": 1570988722,
+  "status": "active"
+}
