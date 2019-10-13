@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-realm",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "05cabbaf69b74527021da9609c98cd2b3f2b232d",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "b1c32aa8e3627651a9947f8a8428eb21f37f1fde",
     "message": "Change default endpoint to build.repoflow.local\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "deae699dbe1592de69aca345b55f581c0cae0bfe",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1570994923,
   "updated": 1570994923,

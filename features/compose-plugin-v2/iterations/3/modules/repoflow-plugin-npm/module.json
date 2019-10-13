@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-npm",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "5aa2c4ba9314a81909a87fd5f236914fd5312dc0",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "8184c9e105e5cb34af39aed796c29327bfdf23fb",
     "message": "Change default endpoint to build.repoflow.local\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5b4056b7c62ecf4de32c82b15cad8de24b178090",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1570994923,
   "updated": 1570994923,
