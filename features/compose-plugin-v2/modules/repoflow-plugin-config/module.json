@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Plugin for CONFIG repositories",
+  "created": 1570994168,
+  "updated": 1570994168,
+  "status": "active",
+  "commit": {
+    "commitid": "095b58d580716b4dbb772b459f4b4ba0737898a8",
+    "message": "ITERATION:3\n"
+  }
+}

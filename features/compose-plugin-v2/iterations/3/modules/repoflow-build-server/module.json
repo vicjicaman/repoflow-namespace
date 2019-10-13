@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.2-compose-plugin-v2-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": {
+    "commitid": "ea80cac9932ba9bd7f91ddd6553bbc429d33e178",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "f5e96e30b7a2e4078cd4482138861a09d7cde10a",
+    "message": "Add configurable publish endpoint to all plugins\n"
+  },
+  "mergeback": {
+    "commitid": "992ef62f741937f6e3b93d3d15f351f18de0f306",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1570994923,
+  "updated": 1570994923,
+  "status": "active"
+}

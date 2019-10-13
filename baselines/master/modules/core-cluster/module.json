@@ -2,6 +2,9 @@
   "moduleid": "core-cluster",
   "releases": [
     {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
       "releaseid": "bundle-cluster"
     },
     {

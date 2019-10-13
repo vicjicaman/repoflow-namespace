@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "fullname": "@nebulario/repoflow-build-server",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Demo build server to publish packages, containers and services to kubernetes",
+  "created": 1570982916,
+  "updated": 1570982916,
+  "status": "active",
+  "commit": {
+    "commitid": "992ef62f741937f6e3b93d3d15f351f18de0f306",
+    "message": "ITERATION:3\n"
+  }
+}
