@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-container-graph.git",
   "fullname": "repoflow/repoflow-container-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the repoflow graph",
   "created": 1570916113,
   "updated": 1570916113,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f57187972b67d2226ed3c4e9cf90faffdf57a059",
+    "message": "Upgrade container and compose for repoflow\n"
+  }
 }

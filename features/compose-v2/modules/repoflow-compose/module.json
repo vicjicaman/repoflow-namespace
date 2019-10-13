@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-compose.git",
   "fullname": "repoflow-compose",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Docker compose configuration for UI and GraphQL execution of repoflow containers",
   "created": 1570585766,
   "updated": 1570585766,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e16a77106b440cb7514508498b53301b9fa9bec0",
+    "message": "Upgrade container and compose for repoflow\n"
+  }
 }

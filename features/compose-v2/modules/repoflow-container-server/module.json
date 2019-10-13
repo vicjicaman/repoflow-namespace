@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-container-server.git",
   "fullname": "repoflow/repoflow-container-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container image for repoflow UI service",
   "created": 1570915891,
   "updated": 1570915891,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "daeb9593cb7284bd38033d6989c02e3bf43fe82a",
+    "message": "Upgrade container and compose for repoflow\n"
+  }
 }
