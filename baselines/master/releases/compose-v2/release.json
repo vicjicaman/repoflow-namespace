@@ -1,0 +1,12 @@
+{
+  "releaseid": "compose-v2",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-compose",
+    "repoflow-container-graph",
+    "repoflow-container-server"
+  ],
+  "created": 1570991580,
+  "updated": 1570991580,
+  "status": "active"
+}

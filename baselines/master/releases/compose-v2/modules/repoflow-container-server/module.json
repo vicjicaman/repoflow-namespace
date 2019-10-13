@@ -1,0 +1,20 @@
+{
+  "releaseid": "compose-v2",
+  "moduleid": "repoflow-container-server",
+  "version": "1.70.3-master",
+  "fullname": "repoflow/repoflow-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "b4db90c14ba38da929193147f6ba593041f3ee21",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container image for repoflow UI service",
+  "dependencies": [],
+  "created": 1570991580,
+  "updated": 1570991580,
+  "status": "active"
+}
