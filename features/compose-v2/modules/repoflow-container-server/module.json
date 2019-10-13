@@ -1,0 +1,16 @@
+{
+  "moduleid": "repoflow-container-server",
+  "type": "container",
+  "url": "github.com:vicjicaman/repoflow-container-server.git",
+  "fullname": "repoflow/repoflow-container-server",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container image for repoflow UI service",
+  "created": 1570915891,
+  "updated": 1570915891,
+  "status": "active"
+}
