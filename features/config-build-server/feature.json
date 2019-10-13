@@ -1,0 +1,8 @@
+{
+  "featureid": "config-build-server",
+  "baselineid": "master",
+  "description": "Release configurable build endpoint",
+  "created": 1570995060,
+  "updated": 1570995060,
+  "status": "active"
+}
