@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.1-compose-plugin-v2-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8184c9e105e5cb34af39aed796c29327bfdf23fb",
+    "message": "Change default endpoint to build.repoflow.local\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1570994923,
+  "updated": 1570994923,
+  "status": "active"
+}

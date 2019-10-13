@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-realm",
+  "mode": "prod",
+  "version": "1.70.1-compose-plugin-v2-prod",
+  "fullname": "@nebulario/repoflow-plugin-realm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b1c32aa8e3627651a9947f8a8428eb21f37f1fde",
+    "message": "Change default endpoint to build.repoflow.local\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1570994923,
+  "updated": 1570994923,
+  "status": "active"
+}
