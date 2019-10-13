@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-cluster",
   "type": "npm",
   "url": "github.com:vicjicaman/core-cluster.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9e5679c09307622b32ea12711b70e8967eda6ff2",
+    "message": "Sync to latest version\n"
+  },
   "iterate": {
     "commitid": "e4da3d804b1d4249ab01a85c1abaf55504a342b0",
     "message": "Link compose containers using the fullname for each container\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "eaa394f8ed2c6a8fbdd1b61adc8af66a68bb059b",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570988722,
   "updated": 1570988722,
