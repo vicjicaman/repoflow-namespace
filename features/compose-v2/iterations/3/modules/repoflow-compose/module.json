@@ -5,12 +5,18 @@
   "fullname": "repoflow-compose",
   "type": "compose",
   "url": "github.com:vicjicaman/repoflow-compose.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c537eb2159097049193041f08f4819041b47fffe",
+    "message": "Add executable flag and production/dev node_env\n"
+  },
   "iterate": {
     "commitid": "c537eb2159097049193041f08f4819041b47fffe",
     "message": "Add executable flag and production/dev node_env\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c537eb2159097049193041f08f4819041b47fffe",
+    "message": "Add executable flag and production/dev node_env\n"
+  },
   "releasedOn": 3,
   "created": 1570986570,
   "updated": 1570986570,
