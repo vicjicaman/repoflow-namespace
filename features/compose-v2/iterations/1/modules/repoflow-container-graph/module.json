@@ -5,12 +5,18 @@
   "fullname": "repoflow/repoflow-container-graph",
   "type": "container",
   "url": "github.com:vicjicaman/repoflow-container-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "06ce3592da72089cacff303e54515260f12490bb",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "f57187972b67d2226ed3c4e9cf90faffdf57a059",
     "message": "Upgrade container and compose for repoflow\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "4e25308c98db3a220e79946a23b4b820828cf3c2",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570983225,
   "updated": 1570983225,
