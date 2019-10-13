@@ -1,0 +1,20 @@
+{
+  "releaseid": "compose-plugin-v2",
+  "moduleid": "repoflow-build-server",
+  "version": "1.70.9-master",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "992ef62f741937f6e3b93d3d15f351f18de0f306",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Demo build server to publish packages, containers and services to kubernetes",
+  "dependencies": [],
+  "created": 1570996248,
+  "updated": 1570996248,
+  "status": "active"
+}
