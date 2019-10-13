@@ -1,0 +1,23 @@
+{
+  "releaseid": "bundle-cluster",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-plugin-realm",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-container",
+    "repoflow-plugin-config",
+    "repoflow-plugin-compose",
+    "repoflow-agent-npm",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-graph",
+    "nodeflow-local-common",
+    "core-logger",
+    "core-cluster",
+    "core-config",
+    "core-plugin-request"
+  ],
+  "created": 1570832548,
+  "updated": 1570832548,
+  "status": "active"
+}

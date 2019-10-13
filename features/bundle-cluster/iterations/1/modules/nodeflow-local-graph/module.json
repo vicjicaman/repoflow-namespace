@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.0-bundle-cluster-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": {
+    "commitid": "e3e7ea942f39c45ba5bfcb588cfa424fb344dd0b",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "b44b84b0b6bc9394b57f733074ec93ec6a89016a",
+    "message": "Replace onRestart functionality with general config field\n"
+  },
+  "mergeback": {
+    "commitid": "38b20194be63224ebc4d82228bd566f431484944",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570826229,
+  "updated": 1570826229,
+  "status": "active"
+}

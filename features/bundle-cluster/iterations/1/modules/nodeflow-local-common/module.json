@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.0-bundle-cluster-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": {
+    "commitid": "3c15ccc1750c491b66afff85743ae5d1c9103730",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "a9733c3823a3f91b273de1efe8ea5ed9c6f2361b",
+    "message": "Replace onRestart functionality with general config field\n"
+  },
+  "mergeback": {
+    "commitid": "48866f64937759271a30f2d68d476bcc761a0cd4",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570826229,
+  "updated": 1570826229,
+  "status": "active"
+}
