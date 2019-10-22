@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-web",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "eb174c6570de4058ae09fed3cf48f9d5f25996c0",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "eb30dda05512719374c140bfba34c76da2f1a072",
     "message": "Restructure plugin realm to the plugin server interface\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "313856e1c6b79177bafac4c9228cf5ac8ff31f1b",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1571748945,
   "updated": 1571748945,

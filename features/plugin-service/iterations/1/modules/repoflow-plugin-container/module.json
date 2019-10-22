@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-container",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "be7ec8cd3d71fcb19ed60a0274b5c8cd98706423",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "2333b948a73f59693cffbbc8d61dea718c804c23",
     "message": "Add actions to peformers in plugin server\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5309ab49411f94c78de2c8bc9d497c58f41b580c",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1571748944,
   "updated": 1571748944,

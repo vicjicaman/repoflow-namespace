@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-remote",
   "type": "npm",
   "url": "github.com:vicjicaman/core-remote.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c092ee129d624ab501ef4529d92463a309ed467f",
+    "message": "Sync iteration to version\n"
+  },
   "iterate": {
     "commitid": "a3509fcec1eb1bf45a8274fb7b61136c32756c8e",
     "message": "Add actions to peformers in plugin server\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "049b846ed0da84d74e14a150518a8b11837af6d1",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1571748945,
   "updated": 1571748945,
