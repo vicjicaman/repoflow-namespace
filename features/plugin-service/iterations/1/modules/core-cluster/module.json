@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-cluster",
+  "mode": "prod",
+  "version": "1.70.0-plugin-service-prod",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d9878da86e9ff2f9cc3a9ba1e65a1f2a5be1b5a1",
+    "message": "Add monitor task and linked performers\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1571748945,
+  "updated": 1571748945,
+  "status": "active"
+}
