@@ -1,0 +1,20 @@
+{
+  "moduleid": "core-performer",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-performer.git",
+  "fullname": "@nebulario/core-performer",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Performer utilities and common functionality for plugins",
+  "created": 1569790808,
+  "updated": 1569790808,
+  "status": "active",
+  "commit": {
+    "commitid": "6dac0d4fd345a742b941631827e0868f850239e9",
+    "message": "ITERATION:1\n"
+  }
+}

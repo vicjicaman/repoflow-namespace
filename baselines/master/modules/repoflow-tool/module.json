@@ -2,6 +2,9 @@
   "moduleid": "repoflow-tool",
   "releases": [
     {
+      "releaseid": "plugin-upgrade"
+    },
+    {
       "releaseid": "stateful-plugin"
     },
     {
@@ -37,7 +40,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.73.0-master",
+          "version": "1.73.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
@@ -50,101 +53,10 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
           "fullname": "@nebulario/nodeflow-local-server",
-          "version": "1.71.4-master",
+          "version": "1.71.7-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"
-        }
-      ]
-    },
-    {
-      "moduleid": "repoflow-plugin-npm",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-npm",
-          "fullname": "@nebulario/repoflow-plugin-npm",
-          "version": "1.70.11-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-npm"
-        }
-      ]
-    },
-    {
-      "moduleid": "repoflow-plugin-compose",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-compose",
-          "fullname": "@nebulario/repoflow-plugin-compose",
-          "version": "1.70.9-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-compose"
-        }
-      ]
-    },
-    {
-      "moduleid": "repoflow-plugin-service",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-service",
-          "fullname": "@nebulario/repoflow-plugin-service",
-          "version": "1.70.9-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-service"
-        }
-      ]
-    },
-    {
-      "moduleid": "repoflow-plugin-namespace",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-namespace",
-          "fullname": "@nebulario/repoflow-plugin-namespace",
-          "version": "1.70.8-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-namespace"
-        }
-      ]
-    },
-    {
-      "moduleid": "repoflow-plugin-container",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-container",
-          "fullname": "@nebulario/repoflow-plugin-container",
-          "version": "1.70.12-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-container"
-        }
-      ]
-    },
-    {
-      "moduleid": "repoflow-plugin-config",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-config",
-          "fullname": "@nebulario/repoflow-plugin-config",
-          "version": "1.70.7-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-config"
-        }
-      ]
-    },
-    {
-      "moduleid": "repoflow-plugin-stateful",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-stateful",
-          "fullname": "@nebulario/repoflow-plugin-stateful",
-          "version": "1.70.0-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-stateful"
         }
       ]
     }

@@ -1,0 +1,24 @@
+{
+  "releaseid": "runtime-reference",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-agent-npm",
+    "repoflow-build-server",
+    "repoflow-plugin-service",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-namespace",
+    "repoflow-plugin-container",
+    "repoflow-plugin-config",
+    "repoflow-plugin-stateful",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph",
+    "core-cluster",
+    "core-config",
+    "core-plugin-request"
+  ],
+  "created": 1569454417,
+  "updated": 1569454417,
+  "status": "active"
+}

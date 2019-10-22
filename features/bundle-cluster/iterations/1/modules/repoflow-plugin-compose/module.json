@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-compose",
+  "mode": "prod",
+  "version": "1.70.0-bundle-cluster-prod",
+  "fullname": "@nebulario/repoflow-plugin-compose",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-compose.git",
+  "publish": {
+    "commitid": "13a481ad5bda32eccb8824fcaac81e9ccaba1faf",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "187cd0a8ce0992f6e2f0f40fecfc0c14a2c957bb",
+    "message": "Remove the modules query fragment from the baseline feature query\n"
+  },
+  "mergeback": {
+    "commitid": "91c97766d7c45e2f3928f37c19496c0a16aa0525",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570826229,
+  "updated": 1570826229,
+  "status": "active"
+}

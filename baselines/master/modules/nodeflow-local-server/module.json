@@ -2,6 +2,21 @@
   "moduleid": "nodeflow-local-server",
   "releases": [
     {
+      "releaseid": "fix-fragments"
+    },
+    {
+      "releaseid": "bundle-cluster"
+    },
+    {
+      "releaseid": "plugin-upgrade"
+    },
+    {
+      "releaseid": "dll-runtime"
+    },
+    {
+      "releaseid": "runtime-reference"
+    },
+    {
       "releaseid": "runtime-local"
     },
     {
@@ -67,7 +82,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
           "fullname": "@nebulario/nodeflow-local-server",
-          "version": "1.71.4-master",
+          "version": "1.71.7-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"
@@ -82,7 +97,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-logger",
           "fullname": "@nebulario/core-logger",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-logger"
@@ -95,7 +110,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-node",
           "fullname": "@nebulario/core-node",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-node"
@@ -108,7 +123,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
           "fullname": "@nebulario/core-process",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-process"
@@ -121,7 +136,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-render-stateful-server",
           "fullname": "@nebulario/core-render-stateful-server",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-render-stateful-server"
@@ -134,7 +149,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-apollo",
           "fullname": "@nebulario/dll-apollo",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-apollo"
@@ -147,7 +162,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-react",
           "fullname": "@nebulario/dll-react",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-react"
@@ -160,7 +175,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-redux",
           "fullname": "@nebulario/dll-redux",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-redux"
@@ -173,7 +188,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-utils",
           "fullname": "@nebulario/dll-utils",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-utils"
@@ -186,7 +201,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/dll-vendor",
           "fullname": "@nebulario/dll-vendor",
-          "version": "1.70.0-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/dll-vendor"
@@ -199,7 +214,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.4-master",
+          "version": "1.71.9-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -212,7 +227,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-web",
           "fullname": "@nebulario/nodeflow-local-web",
-          "version": "1.71.4-master",
+          "version": "1.71.9-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"

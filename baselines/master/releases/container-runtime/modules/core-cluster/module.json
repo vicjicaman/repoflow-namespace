@@ -1,0 +1,211 @@
+{
+  "releaseid": "container-runtime",
+  "moduleid": "core-cluster",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": {
+    "commitid": "6904397a1789dfd3d1ef662b78279a226180fced",
+    "message": "Publish modifications\n"
+  },
+  "released": {
+    "commitid": "b8dfd6991bce1766583fbec63faba42887e35091",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "0e0be8e1e895ecb7e693bc24909d303878ec22e3",
+    "message": "RELEASE:container-runtime:1.70.1-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Functionality for kubernetes cluster entities configuration and utilities",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/core-cluster",
+      "version": "1.70.1-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
+      "fullname": "@nebulario/core-config",
+      "version": "1.70.4-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-config"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-json",
+      "fullname": "@nebulario/core-json",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-json"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+      "fullname": "@nebulario/core-process",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-process"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-repository",
+      "fullname": "@nebulario/core-repository",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-repository"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.babel-runtime",
+      "fullname": "babel-runtime",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.babel-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.bluebird",
+      "fullname": "bluebird",
+      "version": "^3.5.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.bluebird"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.child-process-promise",
+      "fullname": "child-process-promise",
+      "version": "^2.2.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.child-process-promise"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.fs-extra",
+      "fullname": "fs-extra",
+      "version": "^8.1.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.fs-extra"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.lodash",
+      "fullname": "lodash",
+      "version": "^4.17.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.lodash"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.uuid",
+      "fullname": "uuid",
+      "version": "^3.3.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.uuid"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-cli",
+      "fullname": "babel-cli",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-core",
+      "fullname": "babel-core",
+      "version": "6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^7.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-transform-runtime",
+      "fullname": "babel-plugin-transform-runtime",
+      "version": "^6.23.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-env",
+      "fullname": "babel-preset-env",
+      "version": "^1.6.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-0",
+      "fullname": "babel-preset-stage-0",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-0"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-2",
+      "fullname": "babel-preset-stage-2",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-2"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.npm-run-all",
+      "fullname": "npm-run-all",
+      "version": "^4.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.npm-run-all"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.uglifyjs-webpack-plugin",
+      "fullname": "uglifyjs-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.uglifyjs-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^3.8.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-bundle-analyzer",
+      "fullname": "webpack-bundle-analyzer",
+      "version": "^2.9.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-bundle-analyzer"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
+  "created": 1570374102,
+  "updated": 1570374102,
+  "status": "active"
+}

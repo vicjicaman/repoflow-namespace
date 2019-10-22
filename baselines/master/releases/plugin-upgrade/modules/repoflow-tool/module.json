@@ -1,0 +1,51 @@
+{
+  "releaseid": "plugin-upgrade",
+  "moduleid": "repoflow-tool",
+  "version": "1.70.6-master",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "bundle",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": {
+    "commitid": "ea1c4c06a5780c01e0be4d9004ed7d062fc85475",
+    "message": "Publish modifications\n"
+  },
+  "released": {
+    "commitid": "9862dd3280239a6d610a9d38c3178a595c61edee",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": {
+    "commitid": "c670f5918de9253ea8bc8decfcb5c2afe74291c3",
+    "message": "RELEASE:plugin-upgrade:1.70.6-master\n"
+  },
+  "releaseType": "patch",
+  "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/repoflow-tool",
+      "version": "1.70.6-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.73.2-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-graph"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "version": "1.71.7-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/nodeflow-local-server"
+    }
+  ],
+  "created": 1570473468,
+  "updated": 1570473468,
+  "status": "active"
+}

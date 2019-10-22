@@ -3,6 +3,33 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
+      "releaseid": "compose-v2"
+    },
+    {
+      "releaseid": "fix-fragments"
+    },
+    {
+      "releaseid": "bundle-cluster"
+    },
+    {
+      "releaseid": "plugin-upgrade"
+    },
+    {
+      "releaseid": "container-runtime"
+    },
+    {
+      "releaseid": "dll-runtime"
+    },
+    {
+      "releaseid": "dll-republish"
+    },
+    {
+      "releaseid": "runtime-reference"
+    },
+    {
       "releaseid": "build-public-container"
     },
     {
@@ -134,39 +161,44 @@
   ],
   "hierarchy": [
     "repoflow-tool",
+    "repoflow-plugin-container",
+    "repoflow-plugin-stateful",
     "repoflow-plugin-site",
+    "repoflow-plugin-service",
+    "repoflow-plugin-config",
+    "repoflow-plugin-realm",
+    "repoflow-plugin-npm",
+    "repoflow-plugin-compose",
     "repoflow-plugin-bundle",
-    "repoflow-site",
+    "repoflow-plugin-namespace",
     "repoflow-compose",
     "repoflow-build-server",
-    "repoflow-plugin-config",
-    "repoflow-plugin-compose",
-    "repoflow-plugin-namespace",
-    "repoflow-plugin-stateful",
-    "repoflow-container-server",
+    "repoflow-agent-npm",
+    "repoflow-site",
     "repoflow-container-graph",
-    "repoflow-plugin-container",
-    "repoflow-plugin-service",
-    "repoflow-plugin-npm",
+    "repoflow-container-server",
     "nodeflow-local-server",
     "nodeflow-local-web",
     "core-render-stateful-server",
+    "dll-apollo",
     "nodeflow-local-common",
     "dll-vendor",
     "dll-redux",
-    "dll-react",
-    "dll-apollo",
     "core-render-stateful-web",
+    "dll-react",
+    "core-performer",
     "dll-utils",
-    "core-config",
-    "app-notify",
     "app-layout",
+    "app-notify",
+    "core-cluster",
+    "app-lang",
     "nodeflow-local-graph",
-    "core-repository",
     "core-node",
     "core-logger",
-    "core-json",
+    "core-config",
+    "core-repository",
     "core-plugin-request",
+    "core-json",
     "core-process"
   ]
 }

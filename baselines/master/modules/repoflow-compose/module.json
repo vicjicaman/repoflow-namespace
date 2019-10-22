@@ -2,6 +2,9 @@
   "moduleid": "repoflow-compose",
   "releases": [
     {
+      "releaseid": "compose-v2"
+    },
+    {
       "releaseid": "public-containers"
     },
     {

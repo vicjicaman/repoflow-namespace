@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-plugin-request",
+  "mode": "prod",
+  "version": "1.70.4-runtime-reference-prod",
+  "fullname": "@nebulario/core-plugin-request",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-plugin-request.git",
+  "publish": {
+    "commitid": "f966fccac2567ee4711baf452c353a4483456382",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "3ab75a8a50269b0b9d2981ef618259f85182f075",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": {
+    "commitid": "6e5191d713d559db4adb72c063b2f104a7b7c0ab",
+    "message": "ITERATION:5\n"
+  },
+  "releasedOn": 5,
+  "created": 1568957641,
+  "updated": 1568957641,
+  "status": "active"
+}

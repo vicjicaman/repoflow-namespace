@@ -1,0 +1,20 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- SSR service for repoflow tool based on common code",
+  "created": 1570593739,
+  "updated": 1570593739,
+  "status": "active",
+  "commit": {
+    "commitid": "4844d0b55605811f70e71cf62e6e3a0cc3c61306",
+    "message": "ITERATION:1\n"
+  }
+}

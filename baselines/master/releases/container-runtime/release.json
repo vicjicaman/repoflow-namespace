@@ -1,0 +1,17 @@
+{
+  "releaseid": "container-runtime",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-build-server",
+    "repoflow-plugin-realm",
+    "repoflow-plugin-config",
+    "repoflow-plugin-container",
+    "core-performer",
+    "core-cluster",
+    "core-config",
+    "core-plugin-request"
+  ],
+  "created": 1570374102,
+  "updated": 1570374102,
+  "status": "active"
+}

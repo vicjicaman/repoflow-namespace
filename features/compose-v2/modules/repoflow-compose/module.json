@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-compose",
+  "type": "compose",
+  "url": "github.com:vicjicaman/repoflow-compose.git",
+  "fullname": "repoflow-compose",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Docker compose configuration for UI and GraphQL execution of repoflow containers",
+  "created": 1570585766,
+  "updated": 1570585766,
+  "status": "active",
+  "commit": {
+    "commitid": "c537eb2159097049193041f08f4819041b47fffe",
+    "message": "Add executable flag and production/dev node_env\n"
+  }
+}

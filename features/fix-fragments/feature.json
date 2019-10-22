@@ -1,0 +1,8 @@
+{
+  "featureid": "fix-fragments",
+  "baselineid": "master",
+  "description": "Fix the issue with logger and fragment generation",
+  "created": 1570836956,
+  "updated": 1570836956,
+  "status": "active"
+}

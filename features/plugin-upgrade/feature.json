@@ -1,0 +1,8 @@
+{
+  "featureid": "plugin-upgrade",
+  "baselineid": "master",
+  "description": "Release the npm and bundle plugins to the latest core versions",
+  "created": 1570381821,
+  "updated": 1570381821,
+  "status": "active"
+}

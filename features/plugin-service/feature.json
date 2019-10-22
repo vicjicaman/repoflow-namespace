@@ -1,0 +1,8 @@
+{
+  "featureid": "plugin-service",
+  "baselineid": "master",
+  "description": "Restructure plugins for a local proxy service",
+  "created": 1571057864,
+  "updated": 1571057864,
+  "status": "active"
+}

@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.0-fix-fragments-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": {
+    "commitid": "19e76ac2d7ed5ba9bd7bf25ec929d5d5c98a9d9f",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "bef7a0d431b3ecff4eb2d1a7d6cbf77c0fda3b51",
+    "message": "Remove header from instance\n"
+  },
+  "mergeback": {
+    "commitid": "504e3396446ab77fac922837e6641fbb48a258c9",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570895118,
+  "updated": 1570895118,
+  "status": "active"
+}

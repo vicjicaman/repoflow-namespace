@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.1-compose-plugin-v2-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": {
+    "commitid": "95dbbfff722afaefada4d67704a20c023b5ef986",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "c6f9df4358167a0bbff1166677114a7ce48a02c1",
+    "message": "Add configurable publish endpoint to all plugins\n"
+  },
+  "mergeback": {
+    "commitid": "008a622cc8180d42253451b85ff2d8bb35dc23f3",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1570994923,
+  "updated": 1570994923,
+  "status": "active"
+}

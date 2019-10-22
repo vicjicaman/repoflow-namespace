@@ -2,6 +2,18 @@
   "moduleid": "repoflow-plugin-npm",
   "releases": [
     {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
+      "releaseid": "bundle-cluster"
+    },
+    {
+      "releaseid": "plugin-upgrade"
+    },
+    {
+      "releaseid": "runtime-reference"
+    },
+    {
       "releaseid": "stateful-plugin"
     },
     {
@@ -41,21 +53,7 @@
   "created": 1551926971,
   "updated": 1551926971,
   "status": "active",
-  "dependants": [
-    {
-      "moduleid": "repoflow-tool",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-npm",
-          "fullname": "@nebulario/repoflow-plugin-npm",
-          "version": "1.70.11-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-npm"
-        }
-      ]
-    }
-  ],
+  "dependants": [],
   "dependents": [
     {
       "moduleid": "core-json",
@@ -71,12 +69,25 @@
       ]
     },
     {
+      "moduleid": "core-performer",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-performer",
+          "fullname": "@nebulario/core-performer",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-performer"
+        }
+      ]
+    },
+    {
       "moduleid": "core-plugin-request",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.8-master",
+          "version": "1.70.11-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"

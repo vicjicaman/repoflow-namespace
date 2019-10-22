@@ -2,35 +2,37 @@
   "moduleid": "repoflow-plugin-stateful",
   "releases": [
     {
+      "releaseid": "runtime-reference"
+    },
+    {
       "releaseid": "stateful-plugin"
     }
   ],
   "created": 1567792035,
   "updated": 1567792035,
   "status": "active",
-  "dependants": [
+  "dependants": [],
+  "dependents": [
     {
-      "moduleid": "repoflow-tool",
+      "moduleid": "core-cluster",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-stateful",
-          "fullname": "@nebulario/repoflow-plugin-stateful",
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
+          "fullname": "@nebulario/core-cluster",
           "version": "1.70.0-master",
           "kind": "dependency",
           "filename": "package.json",
-          "path": "dependencies.@nebulario/repoflow-plugin-stateful"
+          "path": "dependencies.@nebulario/core-cluster"
         }
       ]
-    }
-  ],
-  "dependents": [
+    },
     {
       "moduleid": "core-config",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
           "fullname": "@nebulario/core-config",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-config"
@@ -56,7 +58,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
           "fullname": "@nebulario/core-plugin-request",
-          "version": "1.70.8-master",
+          "version": "1.70.9-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-plugin-request"

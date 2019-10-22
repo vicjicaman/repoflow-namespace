@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-config",
+  "mode": "prod",
+  "version": "1.70.0-bundle-cluster-prod",
+  "fullname": "@nebulario/core-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-config.git",
+  "publish": {
+    "commitid": "628b44ddfe365e94b09da31ae9d2aad945430e5d",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "c5d2f0698b523ea77b77a747aa1371f0d37a16c8",
+    "message": "Improve production sync with cluster target env\n"
+  },
+  "mergeback": {
+    "commitid": "187418f2886506b8a33a39abd049bf5f6de3a6f0",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570826229,
+  "updated": 1570826229,
+  "status": "active"
+}

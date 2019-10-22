@@ -1,0 +1,20 @@
+{
+  "moduleid": "dll-redux",
+  "type": "npm",
+  "url": "github.com:vicjicaman/dll-redux.git",
+  "fullname": "@nebulario/dll-redux",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- DLL for redux and stateful utilities",
+  "created": 1569526243,
+  "updated": 1569526243,
+  "status": "active",
+  "commit": {
+    "commitid": "f86f1c5ff5f797625205c1f26113e0626ad942f9",
+    "message": "ITERATION:1\n"
+  }
+}

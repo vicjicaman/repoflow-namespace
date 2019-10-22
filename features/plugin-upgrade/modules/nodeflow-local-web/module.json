@@ -1,0 +1,20 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Generate web deliberable based on the common code",
+  "created": 1570393889,
+  "updated": 1570393889,
+  "status": "active",
+  "commit": {
+    "commitid": "6f5fc7c10e72f7de7f8110bb35844154e6f55d67",
+    "message": "ITERATION:2\n"
+  }
+}

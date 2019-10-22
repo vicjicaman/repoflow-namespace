@@ -1,0 +1,24 @@
+{
+  "moduleid": "app-lang",
+  "mode": "prod",
+  "version": "1.70.0-plugin-upgrade-prod",
+  "fullname": "@nebulario/app-lang",
+  "type": "npm",
+  "url": "github.com:vicjicaman/app-lang.git",
+  "publish": {
+    "commitid": "4d933879cd63a6f5bd27b4888cf85d86a0d4ff32",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "9417660a76b8ee81842907a327c6dee824c431e4",
+    "message": "RELEASE:1.0.10-master:local-ui-state\n"
+  },
+  "mergeback": {
+    "commitid": "765e64b095dc8e7d4b2a56b334a8ab84b7dfa724",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1570395378,
+  "updated": 1570395378,
+  "status": "active"
+}

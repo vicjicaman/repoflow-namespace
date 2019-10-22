@@ -1,0 +1,8 @@
+{
+  "featureid": "bundle-cluster",
+  "baselineid": "master",
+  "description": "Generate bundle for cluster realm plugin",
+  "created": 1570380571,
+  "updated": 1570380571,
+  "status": "active"
+}
