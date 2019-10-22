@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-remote.git",
   "fullname": "@nebulario/core-remote",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
