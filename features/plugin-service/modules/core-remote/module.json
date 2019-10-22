@@ -12,5 +12,9 @@
   "description": "Fucntionality for remote execution and utilities",
   "created": 1571239259,
   "updated": 1571239259,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a3509fcec1eb1bf45a8274fb7b61136c32756c8e",
+    "message": "Add actions to peformers in plugin server\n"
+  }
 }

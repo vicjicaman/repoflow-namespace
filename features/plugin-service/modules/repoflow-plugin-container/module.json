@@ -12,5 +12,9 @@
   "description": "Plugin for container image with a NPM package as service",
   "created": 1571200680,
   "updated": 1571200680,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "2333b948a73f59693cffbbc8d61dea718c804c23",
+    "message": "Add actions to peformers in plugin server\n"
+  }
 }

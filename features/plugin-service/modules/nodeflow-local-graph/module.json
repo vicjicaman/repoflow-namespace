@@ -12,5 +12,9 @@
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1571058118,
   "updated": 1571058118,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ad20e1168ace2671fd3d6e03f3672922b8142517",
+    "message": "Add monitor task and linked performers\n"
+  }
 }

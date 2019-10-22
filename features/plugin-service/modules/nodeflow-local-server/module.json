@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1571058160,
   "updated": 1571058160,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9dab26104332e59e44b36e1e424c3f7faf35aa9d",
+    "message": "Restructure plugin realm to the plugin server interface\n"
+  }
 }

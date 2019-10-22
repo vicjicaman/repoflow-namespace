@@ -12,5 +12,9 @@
   "description": "Functionality for kubernetes cluster entities configuration and utilities",
   "created": 1571239192,
   "updated": 1571239192,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d9878da86e9ff2f9cc3a9ba1e65a1f2a5be1b5a1",
+    "message": "Add monitor task and linked performers\n"
+  }
 }

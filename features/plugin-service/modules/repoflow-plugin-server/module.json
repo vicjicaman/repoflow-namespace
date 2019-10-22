@@ -12,5 +12,9 @@
   "description": "Proxy server for local env modules interaction",
   "created": 1571058080,
   "updated": 1571058080,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "db36db2432c0189d292a9fdeba7589eee406e35f",
+    "message": "Add monitor task and linked performers\n"
+  }
 }

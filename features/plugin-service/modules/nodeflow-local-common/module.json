@@ -12,5 +12,9 @@
   "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
   "created": 1571058097,
   "updated": 1571058097,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f6b4ad89b5a28a3201c74dc9c737cb03870c1388",
+    "message": "Add monitor task and linked performers\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "Plugin for CONFIG repositories",
   "created": 1571281547,
   "updated": 1571281547,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "10ff6e82139fff7f94eec24cd042f753e10f3df8",
+    "message": "Add actions to peformers in plugin server\n"
+  }
 }

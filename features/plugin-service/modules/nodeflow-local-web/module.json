@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1571058152,
   "updated": 1571058152,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "eb30dda05512719374c140bfba34c76da2f1a072",
+    "message": "Restructure plugin realm to the plugin server interface\n"
+  }
 }
