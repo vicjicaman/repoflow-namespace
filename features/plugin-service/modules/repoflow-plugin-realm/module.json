@@ -14,7 +14,7 @@
   "updated": 1571281530,
   "status": "active",
   "commit": {
-    "commitid": "c57c15b669f44e5ae4d6e0b1cd6033441d8f1cf4",
-    "message": "ITERATION:1\n"
+    "commitid": "4eb55e918f4a88f1146eb5895da030171c45543e",
+    "message": "Change the publish API from plugins to server\n"
   }
 }

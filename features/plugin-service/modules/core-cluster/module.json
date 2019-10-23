@@ -14,7 +14,7 @@
   "updated": 1571239192,
   "status": "active",
   "commit": {
-    "commitid": "f4bfcfff04a8c460771398fa6df234ecbc83a17d",
-    "message": "ITERATION:1\n"
+    "commitid": "e443658d0172c22569f823077d4f109f2ca31235",
+    "message": "Operation-less cluster task parameters\n"
   }
 }
