@@ -14,7 +14,7 @@
   "updated": 1571058118,
   "status": "active",
   "commit": {
-    "commitid": "64fb29b2b101f14d8e9870d7f6ec2d7404e62909",
-    "message": "Change the publish API from plugins to server\n"
+    "commitid": "3acc041cad658fa83b338e2e4b63da81a55e8c59",
+    "message": "Add common actions to cluster entitites\n"
   }
 }

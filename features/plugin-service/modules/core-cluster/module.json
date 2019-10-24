@@ -14,7 +14,7 @@
   "updated": 1571239192,
   "status": "active",
   "commit": {
-    "commitid": "e443658d0172c22569f823077d4f109f2ca31235",
-    "message": "Operation-less cluster task parameters\n"
+    "commitid": "93839fd2be8ec318e55a5541b18c3241414d116e",
+    "message": "Add common actions to cluster entitites\n"
   }
 }

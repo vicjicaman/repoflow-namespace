@@ -14,7 +14,7 @@
   "updated": 1571066369,
   "status": "active",
   "commit": {
-    "commitid": "a79688c844876899c514ece1d5d9d439aaec7e1c",
-    "message": "ITERATION:1\n"
+    "commitid": "1c33e709db0b03ee8c7024ca91d74fb25c14a00e",
+    "message": "Add configuration edit and viewer for instance\n"
   }
 }
