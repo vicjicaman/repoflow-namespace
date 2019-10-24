@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
   "fullname": "@nebulario/repoflow-plugin-npm",
   "iteration": {
-    "mode": "prod"
+    "mode": "dev"
   },
   "release": {
     "type": "patch"
