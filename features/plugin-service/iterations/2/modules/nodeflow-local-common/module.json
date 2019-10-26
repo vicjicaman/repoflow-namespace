@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.1-plugin-service-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "18bf309f41248bc7bd4be32006889b52ac50e07e",
+    "message": "Add cronjob monitor, trigger and remove triggered actions\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1572111540,
+  "updated": 1572111540,
+  "status": "active"
+}

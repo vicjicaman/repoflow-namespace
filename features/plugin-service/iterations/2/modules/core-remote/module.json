@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-remote",
+  "mode": "prod",
+  "version": "1.70.1-plugin-service-prod",
+  "fullname": "@nebulario/core-remote",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-remote.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "114b0e78f5df073932d840564206ce04261d1119",
+    "message": "Add cronjob monitor, trigger and remove triggered actions\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1572111540,
+  "updated": 1572111540,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.1-plugin-service-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e725d0fa1a4e9318f816c3a56760b8bd742462c4",
+    "message": "Add cronjob monitor, trigger and remove triggered actions\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1572111539,
+  "updated": 1572111539,
+  "status": "active"
+}
