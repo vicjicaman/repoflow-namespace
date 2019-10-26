@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-cluster",
   "type": "npm",
   "url": "github.com:vicjicaman/core-cluster.git",
-  "publish": null,
+  "publish": {
+    "commitid": "7cb1f0e85156336a11015ba235280ea3b2e5d88b",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "a531a7152fafb5d03bdd338d2002f9a085b25ebc",
     "message": "Add cronjob monitor, trigger and remove triggered actions\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "09121e95348dd4949dfebc80a8ce0a77c1127313",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1572111540,
   "updated": 1572111540,

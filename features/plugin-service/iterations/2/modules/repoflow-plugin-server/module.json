@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-server",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "7be6424d3b78ec35337416d0647c1ac1e93b7097",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "da82216011e5e0106a47a2e155006eaa6faaa6fc",
     "message": "Add cronjob monitor, trigger and remove triggered actions\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "8a73bce4df1fbd5edce8759de4afd8111ae5b2e0",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1572111539,
   "updated": 1572111539,
