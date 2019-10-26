@@ -1,0 +1,23 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-agent-npm",
+    "repoflow-build-server"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-agent-npm",
+      "iterationid": 1,
+      "version": "1.70.0-build-server-base-prod"
+    },
+    {
+      "moduleid": "repoflow-build-server",
+      "iterationid": 1,
+      "version": "1.70.0-build-server-base-prod"
+    }
+  ],
+  "created": 1572112476,
+  "updated": 1572112476,
+  "status": "active"
+}
