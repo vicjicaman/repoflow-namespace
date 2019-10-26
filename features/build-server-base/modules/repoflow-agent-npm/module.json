@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-agent-npm.git",
   "fullname": "@nebulario/repoflow-agent-npm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container agent for NPM based services",
   "created": 1572009308,
   "updated": 1572009308,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ebc481d884e6cb456dfb24346c2df457904ee791",
+    "message": "Add agent request stop API\n"
+  }
 }
