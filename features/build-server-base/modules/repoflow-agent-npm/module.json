@@ -14,7 +14,7 @@
   "updated": 1572009308,
   "status": "active",
   "commit": {
-    "commitid": "ebc481d884e6cb456dfb24346c2df457904ee791",
-    "message": "Add agent request stop API\n"
+    "commitid": "6440c17bd47702a215acecd8dcaaeebfd9dbdcdc",
+    "message": "Add internal request to agent\n"
   }
 }
