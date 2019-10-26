@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-agent-npm",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-agent-npm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "8e24b16d2dbf91e71ee756ff63b43a95695ec67e",
+    "message": "Sync to iterartion version\n"
+  },
   "iterate": {
     "commitid": "6440c17bd47702a215acecd8dcaaeebfd9dbdcdc",
     "message": "Add internal request to agent\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "2f386b93ab80fc3b15d529c96d349de668152e58",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1572112476,
   "updated": 1572112476,
