@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
   "fullname": "@nebulario/repoflow-plugin-npm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571066369,
   "status": "active",
   "commit": {
-    "commitid": "1c33e709db0b03ee8c7024ca91d74fb25c14a00e",
-    "message": "Add configuration edit and viewer for instance\n"
+    "commitid": "e725d0fa1a4e9318f816c3a56760b8bd742462c4",
+    "message": "Add cronjob monitor, trigger and remove triggered actions\n"
   }
 }

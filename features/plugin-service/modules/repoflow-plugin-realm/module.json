@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
   "fullname": "@nebulario/repoflow-plugin-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571281530,
   "status": "active",
   "commit": {
-    "commitid": "c07700f7d70e6602f9e6d865bd0ab7c3aa094f46",
-    "message": "Add common actions to cluster entitites\n"
+    "commitid": "0719558c6fb370c46dd1a410ddd94f0ff586dd71",
+    "message": "start/stop plugged functionality for plugin home\n"
   }
 }

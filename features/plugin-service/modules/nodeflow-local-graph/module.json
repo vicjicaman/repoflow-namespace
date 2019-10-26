@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571058118,
   "status": "active",
   "commit": {
-    "commitid": "3acc041cad658fa83b338e2e4b63da81a55e8c59",
-    "message": "Add common actions to cluster entitites\n"
+    "commitid": "b98f7b87cea28343257cef90060efd5e1f3c96c6",
+    "message": "start/stop plugged functionality for plugin home\n"
   }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-server.git",
   "fullname": "@nebulario/repoflow-plugin-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571058080,
   "status": "active",
   "commit": {
-    "commitid": "e78c28c5a247abd921e314834d0d22f1b6e79d2d",
-    "message": "Add common actions to cluster entitites\n"
+    "commitid": "da82216011e5e0106a47a2e155006eaa6faaa6fc",
+    "message": "Add cronjob monitor, trigger and remove triggered actions\n"
   }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571058152,
   "status": "active",
   "commit": {
-    "commitid": "313856e1c6b79177bafac4c9228cf5ac8ff31f1b",
-    "message": "ITERATION:1\n"
+    "commitid": "78c00811cfb93b164a99cf3bbcf2f261becbd70d",
+    "message": "Add action groups\n"
   }
 }

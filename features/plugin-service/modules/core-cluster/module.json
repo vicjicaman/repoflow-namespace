@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-cluster.git",
   "fullname": "@nebulario/core-cluster",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571239192,
   "status": "active",
   "commit": {
-    "commitid": "93839fd2be8ec318e55a5541b18c3241414d116e",
-    "message": "Add common actions to cluster entitites\n"
+    "commitid": "a531a7152fafb5d03bdd338d2002f9a085b25ebc",
+    "message": "Add cronjob monitor, trigger and remove triggered actions\n"
   }
 }

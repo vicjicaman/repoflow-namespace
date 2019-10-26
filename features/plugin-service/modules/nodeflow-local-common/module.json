@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571058097,
   "status": "active",
   "commit": {
-    "commitid": "fc2a9570fa053f1d01f2c4100dc9600cfcc96ba3",
-    "message": "Add common actions to cluster entitites\n"
+    "commitid": "18bf309f41248bc7bd4be32006889b52ac50e07e",
+    "message": "Add cronjob monitor, trigger and remove triggered actions\n"
   }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-remote.git",
   "fullname": "@nebulario/core-remote",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571239259,
   "status": "active",
   "commit": {
-    "commitid": "5ee50f57c61fe55bd5ac3d5268e76a0d3f0dc6a5",
-    "message": "Add common actions to cluster entitites\n"
+    "commitid": "114b0e78f5df073932d840564206ce04261d1119",
+    "message": "Add cronjob monitor, trigger and remove triggered actions\n"
   }
 }
