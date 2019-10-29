@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-build-server.git",
   "fullname": "@nebulario/repoflow-build-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1568474855,
   "status": "active",
   "commit": {
-    "commitid": "d460bcdb609ddb740c53271eb07562a69faff10c",
-    "message": "Separate the operation from the route request\n"
+    "commitid": "a0cd3d75ac61b3dcc121a231a6618da20ebf2cfd",
+    "message": "Add handler for public to private conversion on for npm packages\n"
   }
 }
