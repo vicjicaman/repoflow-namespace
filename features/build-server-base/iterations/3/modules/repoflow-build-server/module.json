@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.2-build-server-base-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4264c694007974c2ef621f781f210c4c4092cc23",
+    "message": "Set core-cluster to iteration package\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1572362262,
+  "updated": 1572362262,
+  "status": "active"
+}
