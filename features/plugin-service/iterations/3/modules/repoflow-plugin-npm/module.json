@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.2-plugin-service-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9aa97fb8e7003bb8efc1af483d11578d930cba4d",
+    "message": "Fix issue with the multiple script target/count\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1572356451,
+  "updated": 1572356451,
+  "status": "active"
+}

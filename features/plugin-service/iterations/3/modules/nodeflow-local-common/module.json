@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.2-plugin-service-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "da749c4cf735c263075b1db2c8e0fca9b4215f42",
+    "message": "Separate layout of entities by common filename\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1572356451,
+  "updated": 1572356451,
+  "status": "active"
+}
