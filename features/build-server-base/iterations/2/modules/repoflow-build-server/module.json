@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.1-build-server-base-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a0cd3d75ac61b3dcc121a231a6618da20ebf2cfd",
+    "message": "Add handler for public to private conversion on for npm packages\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1572357283,
+  "updated": 1572357283,
+  "status": "active"
+}
