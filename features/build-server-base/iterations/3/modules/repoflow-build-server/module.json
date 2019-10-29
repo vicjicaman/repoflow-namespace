@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-build-server",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-build-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c120b32fb338e3712b596f613198422cbc7169f7",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "4264c694007974c2ef621f781f210c4c4092cc23",
     "message": "Set core-cluster to iteration package\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "4e35be343b9d6b66f74d0361da964b22daa11436",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1572362262,
   "updated": 1572362262,
