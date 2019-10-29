@@ -14,7 +14,7 @@
   "updated": 1568474855,
   "status": "active",
   "commit": {
-    "commitid": "05f867a79577778e97240ec2f963a40e93ec5e9f",
-    "message": "ITERATION:2\n"
+    "commitid": "4264c694007974c2ef621f781f210c4c4092cc23",
+    "message": "Set core-cluster to iteration package\n"
   }
 }
