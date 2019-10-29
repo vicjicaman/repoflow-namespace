@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.3-plugin-service-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a7fa03d4811adbc2ebaa168f33074dfe901827e1",
+    "message": "Add default cluster config for performer\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1572368673,
+  "updated": 1572368673,
+  "status": "active"
+}
