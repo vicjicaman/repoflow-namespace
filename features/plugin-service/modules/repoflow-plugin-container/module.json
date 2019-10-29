@@ -14,7 +14,7 @@
   "updated": 1571200680,
   "status": "active",
   "commit": {
-    "commitid": "156c04b097dca0fd453282493e490321d66514e3",
-    "message": "ITERATION:4\n"
+    "commitid": "60d8813df60b580392af8d9dc45ce80e47f0dd12",
+    "message": "Add default cluster config for performer\n"
   }
 }
