@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-server",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "afc02c3e849fd7e2c4896063af1b447b093dac4d",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "ae3dd3e6d108d31c366f3ece9adf16e5d7828c54",
     "message": "Add  operation based exec\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "bab803e81c7bee4b086e18b7a3ede3108fe42838",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1572356451,
   "updated": 1572356451,
