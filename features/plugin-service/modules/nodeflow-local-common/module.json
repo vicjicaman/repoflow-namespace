@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
   "fullname": "@nebulario/nodeflow-local-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571058097,
   "status": "active",
   "commit": {
-    "commitid": "18bf309f41248bc7bd4be32006889b52ac50e07e",
-    "message": "Add cronjob monitor, trigger and remove triggered actions\n"
+    "commitid": "da749c4cf735c263075b1db2c8e0fca9b4215f42",
+    "message": "Separate layout of entities by common filename\n"
   }
 }

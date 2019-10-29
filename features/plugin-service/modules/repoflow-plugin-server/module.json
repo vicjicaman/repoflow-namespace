@@ -14,7 +14,7 @@
   "updated": 1571058080,
   "status": "active",
   "commit": {
-    "commitid": "da82216011e5e0106a47a2e155006eaa6faaa6fc",
-    "message": "Add cronjob monitor, trigger and remove triggered actions\n"
+    "commitid": "ae3dd3e6d108d31c366f3ece9adf16e5d7828c54",
+    "message": "Add  operation based exec\n"
   }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571058160,
   "status": "active",
   "commit": {
-    "commitid": "217adbf473feb95474e0509d1d98063a7d513fe3",
-    "message": "Add action groups\n"
+    "commitid": "3f2e4fe5c4c48c213929ab9e66dd5c9fe68ce23e",
+    "message": "Update/link package version\n"
   }
 }

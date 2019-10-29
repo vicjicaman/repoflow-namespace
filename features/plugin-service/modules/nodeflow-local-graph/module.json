@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
   "fullname": "@nebulario/nodeflow-local-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1571058118,
   "status": "active",
   "commit": {
-    "commitid": "b98f7b87cea28343257cef90060efd5e1f3c96c6",
-    "message": "start/stop plugged functionality for plugin home\n"
+    "commitid": "9075478a5804f9f903caa782b20bdd1c8aaee0a7",
+    "message": "Improve hash and common repository execution times\n"
   }
 }
