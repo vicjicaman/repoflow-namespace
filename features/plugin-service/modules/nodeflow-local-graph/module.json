@@ -14,7 +14,7 @@
   "updated": 1571058118,
   "status": "active",
   "commit": {
-    "commitid": "9d242cac1ef95cf35982ae2c9b79015d7cc41a52",
-    "message": "ITERATION:6\n"
+    "commitid": "4c6b8e3ca2f16818ec85d93c585297043128e867",
+    "message": "Check the baseline summary before a release\n"
   }
 }
