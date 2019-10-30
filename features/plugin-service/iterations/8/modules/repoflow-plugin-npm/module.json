@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.7-plugin-service-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "99c59db1de97904058bb583bd994bacd7b8dd609",
+    "message": "Add cluster sync option\n"
+  },
+  "mergeback": null,
+  "releasedOn": 8,
+  "created": 1572450782,
+  "updated": 1572450782,
+  "status": "active"
+}

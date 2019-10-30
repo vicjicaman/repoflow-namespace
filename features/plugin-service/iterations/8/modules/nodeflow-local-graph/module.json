@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.5-plugin-service-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4c6b8e3ca2f16818ec85d93c585297043128e867",
+    "message": "Check the baseline summary before a release\n"
+  },
+  "mergeback": null,
+  "releasedOn": 8,
+  "created": 1572450782,
+  "updated": 1572450782,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.3-plugin-service-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6baf979f5b64c4cd81be9a7072adb19bed431e0e",
+    "message": "Change pull baseline to fetch\n"
+  },
+  "mergeback": null,
+  "releasedOn": 8,
+  "created": 1572450782,
+  "updated": 1572450782,
+  "status": "active"
+}
