@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-build-server.git",
   "fullname": "@nebulario/repoflow-build-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1568474855,
   "status": "active",
   "commit": {
-    "commitid": "5c3be546e2c553540a9913444bff234df821e5a7",
-    "message": "ITERATION:4\n"
+    "commitid": "7e8fbd38217a133b135e35833b5f4935f1e1d919",
+    "message": "Add folder publish routes\n"
   }
 }
