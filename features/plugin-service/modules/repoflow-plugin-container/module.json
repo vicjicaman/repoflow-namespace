@@ -14,7 +14,7 @@
   "updated": 1571200680,
   "status": "active",
   "commit": {
-    "commitid": "9820c4eed578237df970a7350d6121655d0f8e0e",
-    "message": "ITERATION:9\n"
+    "commitid": "174f4a79ea21c8c2fb4490965bb454814a31badd",
+    "message": "Handler source information in container publish\n"
   }
 }
