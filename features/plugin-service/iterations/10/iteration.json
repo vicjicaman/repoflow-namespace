@@ -1,0 +1,73 @@
+{
+  "iterationid": 10,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-plugin-server",
+    "repoflow-plugin-container"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-plugin-server",
+      "version": "1.70.9-plugin-service-prod",
+      "iterationid": 10
+    },
+    {
+      "moduleid": "repoflow-plugin-realm",
+      "version": "1.70.6-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "version": "1.70.9-plugin-service-prod",
+      "iterationid": 10
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "version": "1.70.8-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.70.6-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "repoflow-plugin-config",
+      "version": "1.70.1-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "version": "1.70.6-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "core-remote",
+      "version": "1.70.1-plugin-service-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.70.4-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "version": "1.70.6-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "core-cluster",
+      "version": "1.70.6-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "repoflow-plugin-folder",
+      "version": "1.70.0-plugin-service-prod",
+      "iterationid": 9
+    }
+  ],
+  "created": 1573078322,
+  "updated": 1573078322,
+  "status": "active"
+}
