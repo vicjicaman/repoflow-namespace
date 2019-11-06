@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.5-build-server-base-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "34beeb094fd17a9ec9051e89cb72e7504543d60c",
+    "message": "Remove env file from repository\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1573081553,
+  "updated": 1573081553,
+  "status": "active"
+}
