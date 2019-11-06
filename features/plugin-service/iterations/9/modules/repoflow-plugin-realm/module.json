@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-realm",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "1687c9bd9ddc43f00fe7ff21fb87039f77837f8d",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "f166d1ea497b4f20b64d67b97dca528f50c2b6d4",
     "message": "Add baseline refetch for baseline module\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "0d68d0e20c9ccdbf866ad12f8a5c5b3a7710c357",
+    "message": "ITERATION:9\n"
+  },
   "releasedOn": 9,
   "created": 1573071296,
   "updated": 1573071296,

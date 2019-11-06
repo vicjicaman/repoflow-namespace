@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-server",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "bb3d6cf0e572b44a064b3d5be25e957667b32e3b",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "f0096851da410b70a0af2dff5b656bd993977c83",
     "message": "Change container functionality to execute based on dist folder\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5c18b79646388f230d71f94cb8dc4cd9ad90bf0a",
+    "message": "ITERATION:9\n"
+  },
   "releasedOn": 9,
   "created": 1573071296,
   "updated": 1573071296,

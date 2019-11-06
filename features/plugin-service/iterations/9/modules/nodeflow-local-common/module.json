@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-common",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "4ff348af7fbd08ce1d7dd69dbed9632e4ffd024c",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "2dbe5691fc9f01aef688f7a88f3df75dddf27b98",
     "message": "Add deployment to cluster entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "bee282108520c3fb9d4e9e31c4b7e1682cb13eea",
+    "message": "ITERATION:9\n"
+  },
   "releasedOn": 9,
   "created": 1573071297,
   "updated": 1573071297,

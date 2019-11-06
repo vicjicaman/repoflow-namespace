@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b842d76897ccda6f04d9adc70d900c7a9db6ceed",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "531759f60f50eccb29039d76401f57326b844d8e",
     "message": "Change container functionality to execute based on dist folder\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a28f24c764a32b49eecc706f727822803c123e6c",
+    "message": "ITERATION:9\n"
+  },
   "releasedOn": 9,
   "created": 1573071297,
   "updated": 1573071297,
