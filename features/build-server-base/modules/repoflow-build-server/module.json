@@ -14,7 +14,7 @@
   "updated": 1568474855,
   "status": "active",
   "commit": {
-    "commitid": "7e8fbd38217a133b135e35833b5f4935f1e1d919",
-    "message": "Add folder publish routes\n"
+    "commitid": "34beeb094fd17a9ec9051e89cb72e7504543d60c",
+    "message": "Remove env file from repository\n"
   }
 }
