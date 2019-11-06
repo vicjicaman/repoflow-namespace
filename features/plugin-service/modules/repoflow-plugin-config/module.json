@@ -14,7 +14,7 @@
   "updated": 1571281547,
   "status": "active",
   "commit": {
-    "commitid": "4ba21ad9a8b2cb1b4f2d807c530cecfff745788b",
-    "message": "ITERATION:1\n"
+    "commitid": "1086cda0fa977ab0f1fe186fee1df134a4e2f7af",
+    "message": "Change container functionality to execute based on dist folder\n"
   }
 }
