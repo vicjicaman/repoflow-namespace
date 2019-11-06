@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-build-server.git",
   "fullname": "@nebulario/repoflow-build-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1568474855,
   "status": "active",
   "commit": {
-    "commitid": "4e35be343b9d6b66f74d0361da964b22daa11436",
-    "message": "ITERATION:3\n"
+    "commitid": "bc069506fdb7c9717c055793bed515d14a857890",
+    "message": "Add realm deployment\n"
   }
 }
