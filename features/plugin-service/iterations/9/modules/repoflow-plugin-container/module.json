@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-container",
+  "mode": "prod",
+  "version": "1.70.8-plugin-service-prod",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d761731eaf8f263e5c0b9979152d644f599663e5",
+    "message": "Change container functionality to execute based on dist folder\n"
+  },
+  "mergeback": null,
+  "releasedOn": 9,
+  "created": 1573071296,
+  "updated": 1573071296,
+  "status": "active"
+}

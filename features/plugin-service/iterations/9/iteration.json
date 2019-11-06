@@ -1,0 +1,82 @@
+{
+  "iterationid": 9,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-plugin-server",
+    "repoflow-plugin-realm",
+    "repoflow-plugin-folder",
+    "repoflow-plugin-container",
+    "nodeflow-local-server",
+    "repoflow-plugin-config",
+    "repoflow-plugin-npm",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph",
+    "core-cluster"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-plugin-server",
+      "version": "1.70.8-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "repoflow-plugin-realm",
+      "version": "1.70.6-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "version": "1.70.8-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "version": "1.70.8-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.70.6-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "repoflow-plugin-config",
+      "version": "1.70.1-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "version": "1.70.6-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "core-remote",
+      "version": "1.70.1-plugin-service-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "version": "1.70.4-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "version": "1.70.6-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "core-cluster",
+      "version": "1.70.6-plugin-service-prod",
+      "iterationid": 9
+    },
+    {
+      "moduleid": "repoflow-plugin-folder",
+      "iterationid": 9,
+      "version": "1.70.0-plugin-service-prod"
+    }
+  ],
+  "created": 1573071296,
+  "updated": 1573071296,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.6-plugin-service-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4dce4933c2a8ee6304b24da1b933db3ecac1edac",
+    "message": "Add realm deployment\n"
+  },
+  "mergeback": null,
+  "releasedOn": 9,
+  "created": 1573071297,
+  "updated": 1573071297,
+  "status": "active"
+}
