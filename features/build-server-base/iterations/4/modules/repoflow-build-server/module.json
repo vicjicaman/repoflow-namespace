@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.3-build-server-base-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "bc069506fdb7c9717c055793bed515d14a857890",
+    "message": "Add realm deployment\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1573071163,
+  "updated": 1573071163,
+  "status": "active"
+}
