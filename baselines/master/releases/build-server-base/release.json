@@ -1,6 +1,6 @@
 {
   "releaseid": "build-server-base",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-agent-npm",
     "repoflow-build-server"

@@ -24,7 +24,7 @@
         {
           "dependencyid": "dependency|docker-compose.yml|.+web:\\s+image:(?:\\s+|)(?:.+):(.+)",
           "fullname": "repoflow/repoflow-container-server",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "docker-compose.yml",
           "path": ".+web:\\s+image:(?:\\s+|)(?:.+):(.+)"
@@ -39,7 +39,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
           "fullname": "@nebulario/nodeflow-local-server",
-          "version": "1.71.4-master",
+          "version": "1.71.9-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-server"
