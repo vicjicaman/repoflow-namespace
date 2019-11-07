@@ -1,0 +1,20 @@
+{
+  "releaseid": "build-server-base",
+  "moduleid": "repoflow-agent-npm",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/repoflow-agent-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-agent-npm.git",
+  "publish": null,
+  "released": {
+    "commitid": "2f386b93ab80fc3b15d529c96d349de668152e58",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container agent for NPM based services",
+  "dependencies": [],
+  "created": 1573102419,
+  "updated": 1573102419,
+  "status": "active"
+}
