@@ -1,0 +1,21 @@
+{
+  "releaseid": "plugin-service",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-plugin-server",
+    "repoflow-plugin-realm",
+    "repoflow-plugin-folder",
+    "repoflow-plugin-container",
+    "nodeflow-local-server",
+    "repoflow-plugin-config",
+    "repoflow-plugin-npm",
+    "nodeflow-local-web",
+    "nodeflow-local-common",
+    "nodeflow-local-graph",
+    "core-cluster",
+    "core-remote"
+  ],
+  "created": 1573103757,
+  "updated": 1573103757,
+  "status": "active"
+}

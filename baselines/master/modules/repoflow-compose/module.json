@@ -25,7 +25,7 @@
         {
           "dependencyid": "dependency|docker-compose.yml|.+web:\\s+image:(?:\\s+|)(?:.+):(.+)",
           "fullname": "repoflow/repoflow-container-server",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "docker-compose.yml",
           "path": ".+web:\\s+image:(?:\\s+|)(?:.+):(.+)"
@@ -38,7 +38,7 @@
         {
           "dependencyid": "dependency|docker-compose.yml|.+graph:\\s+image:(?:\\s+|)(?:.+):(.+)",
           "fullname": "repoflow/repoflow-container-graph",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "docker-compose.yml",
           "path": ".+graph:\\s+image:(?:\\s+|)(?:.+):(.+)"

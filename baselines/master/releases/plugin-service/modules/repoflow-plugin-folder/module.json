@@ -1,0 +1,20 @@
+{
+  "releaseid": "plugin-service",
+  "moduleid": "repoflow-plugin-folder",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/repoflow-plugin-folder",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-folder.git",
+  "publish": null,
+  "released": {
+    "commitid": "bae0e31e903070449c6fb3f4ee75bb08b012168b",
+    "message": "ITERATION:9\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for repositories that only hold files without runtime or build requirements",
+  "dependencies": [],
+  "created": 1573103757,
+  "updated": 1573103757,
+  "status": "active"
+}

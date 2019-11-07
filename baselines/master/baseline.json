@@ -3,6 +3,12 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "plugin-service"
+    },
+    {
+      "releaseid": "build-server-base"
+    },
+    {
       "releaseid": "compose-plugin-v2"
     },
     {

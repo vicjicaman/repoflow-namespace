@@ -24,7 +24,7 @@
         {
           "dependencyid": "dependency|docker-compose.yml|.+graph:\\s+image:(?:\\s+|)(?:.+):(.+)",
           "fullname": "repoflow/repoflow-container-graph",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "docker-compose.yml",
           "path": ".+graph:\\s+image:(?:\\s+|)(?:.+):(.+)"
@@ -39,7 +39,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.73.0-master",
+          "version": "1.73.4-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
