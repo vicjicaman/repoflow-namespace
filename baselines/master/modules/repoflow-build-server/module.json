@@ -2,6 +2,12 @@
   "moduleid": "repoflow-build-server",
   "releases": [
     {
+      "releaseid": "build-server-base"
+    },
+    {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
       "releaseid": "fix-fragments"
     },
     {
@@ -40,7 +46,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-logger",
           "fullname": "@nebulario/core-logger",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-logger"
@@ -79,10 +85,23 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-config",
           "fullname": "@nebulario/core-config",
-          "version": "1.70.4-master",
+          "version": "1.70.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-config"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-repository",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-repository",
+          "fullname": "@nebulario/core-repository",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-repository"
         }
       ]
     },
@@ -92,7 +111,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
           "fullname": "@nebulario/core-cluster",
-          "version": "1.70.1-master",
+          "version": "link:/home/victor/repoflow/app/data/iteration/workspace/workspaces/repoflow.com/instances/plugin-service/modules/core-cluster",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-cluster"

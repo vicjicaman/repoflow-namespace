@@ -2,6 +2,12 @@
   "moduleid": "core-cluster",
   "releases": [
     {
+      "releaseid": "plugin-service"
+    },
+    {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
       "releaseid": "bundle-cluster"
     },
     {
@@ -21,20 +27,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
           "fullname": "@nebulario/core-cluster",
-          "version": "1.70.1-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/core-cluster"
-        }
-      ]
-    },
-    {
-      "moduleid": "repoflow-plugin-container",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
-          "fullname": "@nebulario/core-cluster",
-          "version": "1.70.2-master",
+          "version": "link:/home/victor/repoflow/app/data/iteration/workspace/workspaces/repoflow.com/instances/plugin-service/modules/core-cluster",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-cluster"
@@ -60,7 +53,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
           "fullname": "@nebulario/core-cluster",
-          "version": "1.70.2-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-cluster"
@@ -144,6 +137,19 @@
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-repository"
+        }
+      ]
+    },
+    {
+      "moduleid": "core-remote",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-remote",
+          "fullname": "@nebulario/core-remote",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-remote"
         }
       ]
     }

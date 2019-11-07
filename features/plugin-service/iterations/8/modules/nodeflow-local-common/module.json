@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.3-plugin-service-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": {
+    "commitid": "edf85a9c9c829c2fe2ac47da09a417edd239b379",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "6baf979f5b64c4cd81be9a7072adb19bed431e0e",
+    "message": "Change pull baseline to fetch\n"
+  },
+  "mergeback": {
+    "commitid": "1bb359a195c58f8ef80c79009585b352cf9840b8",
+    "message": "ITERATION:8\n"
+  },
+  "releasedOn": 8,
+  "created": 1572450782,
+  "updated": 1572450782,
+  "status": "active"
+}

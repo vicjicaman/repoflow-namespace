@@ -2,6 +2,12 @@
   "moduleid": "nodeflow-local-graph",
   "releases": [
     {
+      "releaseid": "plugin-service"
+    },
+    {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
       "releaseid": "fix-fragments"
     },
     {
@@ -69,7 +75,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.73.4-master",
+          "version": "1.73.6-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"
@@ -82,7 +88,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.73.0-master",
+          "version": "1.73.4-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-graph"

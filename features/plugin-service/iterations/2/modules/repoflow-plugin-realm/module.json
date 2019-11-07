@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-realm",
+  "mode": "prod",
+  "version": "1.70.1-plugin-service-prod",
+  "fullname": "@nebulario/repoflow-plugin-realm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
+  "publish": {
+    "commitid": "2aa1e18b61ae6c0091b2dae06b5824751a2a43d8",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "0719558c6fb370c46dd1a410ddd94f0ff586dd71",
+    "message": "start/stop plugged functionality for plugin home\n"
+  },
+  "mergeback": {
+    "commitid": "a1f426bcefb78b1cd1ec510e37c6df9857491c4c",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1572111539,
+  "updated": 1572111539,
+  "status": "active"
+}

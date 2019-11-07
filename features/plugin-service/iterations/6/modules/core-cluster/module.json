@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-cluster",
+  "mode": "prod",
+  "version": "1.70.5-plugin-service-prod",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": {
+    "commitid": "094b71b3c114f982756a30e69f064bbe2f6ffd02",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "219d521048eef2e2aa306f8aeb12cfd8126f3e7b",
+    "message": "Sync to latest iteration\n"
+  },
+  "mergeback": {
+    "commitid": "36d7bc54c63b00628eafc467877126dcd112b7e1",
+    "message": "ITERATION:6\n"
+  },
+  "releasedOn": 6,
+  "created": 1572381670,
+  "updated": 1572381670,
+  "status": "active"
+}

@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-web",
+  "mode": "prod",
+  "version": "1.70.1-plugin-service-prod",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": {
+    "commitid": "6f81b0f514543afaee74aa3f4984aaa21e190d6f",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "78c00811cfb93b164a99cf3bbcf2f261becbd70d",
+    "message": "Add action groups\n"
+  },
+  "mergeback": {
+    "commitid": "6042b4becfade046b5ac3330ff010136f3995497",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1572111539,
+  "updated": 1572111539,
+  "status": "active"
+}

@@ -2,6 +2,12 @@
   "moduleid": "repoflow-plugin-container",
   "releases": [
     {
+      "releaseid": "plugin-service"
+    },
+    {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
       "releaseid": "bundle-cluster"
     },
     {
@@ -53,18 +59,32 @@
   "created": 1551926971,
   "updated": 1551926971,
   "status": "active",
-  "dependants": [],
-  "dependents": [
+  "dependants": [
     {
-      "moduleid": "core-cluster",
+      "moduleid": "repoflow-plugin-server",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
-          "fullname": "@nebulario/core-cluster",
-          "version": "1.70.2-master",
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-container",
+          "fullname": "@nebulario/repoflow-plugin-container",
+          "version": "1.70.17-master",
           "kind": "dependency",
           "filename": "package.json",
-          "path": "dependencies.@nebulario/core-cluster"
+          "path": "dependencies.@nebulario/repoflow-plugin-container"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "core-remote",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-remote",
+          "fullname": "@nebulario/core-remote",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-remote"
         }
       ]
     },
@@ -108,6 +128,19 @@
       ]
     },
     {
+      "moduleid": "core-repository",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-repository",
+          "fullname": "@nebulario/core-repository",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-repository"
+        }
+      ]
+    },
+    {
       "moduleid": "core-process",
       "references": [
         {
@@ -117,6 +150,19 @@
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-npm",
+          "fullname": "@nebulario/repoflow-plugin-npm",
+          "version": "1.70.16-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-npm"
         }
       ]
     }

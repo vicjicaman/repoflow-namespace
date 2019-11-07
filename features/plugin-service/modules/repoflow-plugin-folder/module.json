@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-plugin-folder",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-folder.git",
+  "fullname": "@nebulario/repoflow-plugin-folder",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Plugin for repositories that only hold files without runtime or build requirements",
+  "created": 1573013373,
+  "updated": 1573013373,
+  "status": "active",
+  "commit": {
+    "commitid": "bae0e31e903070449c6fb3f4ee75bb08b012168b",
+    "message": "ITERATION:9\n"
+  }
+}

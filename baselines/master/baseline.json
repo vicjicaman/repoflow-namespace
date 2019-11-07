@@ -3,6 +3,15 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "plugin-service"
+    },
+    {
+      "releaseid": "build-server-base"
+    },
+    {
+      "releaseid": "compose-plugin-v2"
+    },
+    {
       "releaseid": "compose-v2"
     },
     {
@@ -157,43 +166,46 @@
     }
   ],
   "hierarchy": [
+    "repoflow-plugin-bundle",
     "repoflow-tool",
-    "repoflow-plugin-container",
-    "repoflow-plugin-stateful",
     "repoflow-plugin-site",
     "repoflow-plugin-service",
-    "repoflow-plugin-config",
-    "repoflow-plugin-realm",
-    "repoflow-plugin-npm",
+    "repoflow-plugin-server",
     "repoflow-plugin-compose",
-    "repoflow-plugin-bundle",
+    "repoflow-plugin-stateful",
     "repoflow-plugin-namespace",
     "repoflow-compose",
+    "repoflow-site",
     "repoflow-build-server",
     "repoflow-agent-npm",
-    "repoflow-site",
     "repoflow-container-graph",
+    "repoflow-plugin-folder",
+    "repoflow-plugin-realm",
+    "repoflow-plugin-container",
     "repoflow-container-server",
+    "repoflow-plugin-config",
+    "repoflow-plugin-npm",
     "nodeflow-local-server",
     "nodeflow-local-web",
     "core-render-stateful-server",
-    "dll-apollo",
+    "dll-react",
+    "dll-utils",
+    "core-render-stateful-web",
     "nodeflow-local-common",
     "dll-vendor",
     "dll-redux",
-    "core-render-stateful-web",
-    "dll-react",
+    "dll-apollo",
+    "app-lang",
     "core-performer",
-    "dll-utils",
     "app-layout",
     "app-notify",
     "core-cluster",
-    "app-lang",
     "nodeflow-local-graph",
     "core-node",
     "core-logger",
     "core-config",
     "core-repository",
+    "core-remote",
     "core-plugin-request",
     "core-json",
     "core-process"

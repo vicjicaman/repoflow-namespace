@@ -1,0 +1,8 @@
+{
+  "featureid": "monitor-plugin",
+  "baselineid": "master",
+  "description": "Add monitoring and custom actions plugin functionality",
+  "created": 1571023170,
+  "updated": 1571023170,
+  "status": "active"
+}

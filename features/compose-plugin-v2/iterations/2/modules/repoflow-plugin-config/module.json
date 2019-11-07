@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-config",
+  "mode": "prod",
+  "version": "1.70.0-compose-plugin-v2-prod",
+  "fullname": "@nebulario/repoflow-plugin-config",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "17ccf4f53ba9d60b7a7fde7860cfe728dc63627d",
+    "message": "Add configurable publish endpoint to all plugins\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570994486,
+  "updated": 1570994486,
+  "status": "active"
+}
