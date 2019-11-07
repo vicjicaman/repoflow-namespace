@@ -1,0 +1,11 @@
+{
+  "releaseid": "build-server-base",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-agent-npm",
+    "repoflow-build-server"
+  ],
+  "created": 1573102419,
+  "updated": 1573102419,
+  "status": "active"
+}
