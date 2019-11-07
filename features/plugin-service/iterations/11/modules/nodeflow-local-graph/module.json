@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.7-plugin-service-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0efc5420ee5b20511588fd16b71f19b2ed83af1d",
+    "message": "Reset cache on finish instance release mutation\n"
+  },
+  "mergeback": null,
+  "releasedOn": 11,
+  "created": 1573102439,
+  "updated": 1573102439,
+  "status": "active"
+}
