@@ -49,6 +49,19 @@
       ]
     },
     {
+      "moduleid": "core-remote",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
       "moduleid": "core-repository",
       "references": [
         {
@@ -180,6 +193,19 @@
     },
     {
       "moduleid": "repoflow-plugin-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-server",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",

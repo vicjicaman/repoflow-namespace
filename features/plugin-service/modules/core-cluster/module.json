@@ -1,0 +1,20 @@
+{
+  "moduleid": "core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "fullname": "@nebulario/core-cluster",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Functionality for kubernetes cluster entities configuration and utilities",
+  "created": 1571239192,
+  "updated": 1571239192,
+  "status": "active",
+  "commit": {
+    "commitid": "f32f07cb3a164ad67f93b2c74a908472351f358c",
+    "message": "ITERATION:9\n"
+  }
+}

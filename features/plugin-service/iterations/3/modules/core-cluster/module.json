@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-cluster",
+  "mode": "prod",
+  "version": "1.70.2-plugin-service-prod",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": {
+    "commitid": "d8c339c1093ef0a1bfbf30f485799609f5ae8cbe",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "a8b66fd3cf986e2ed38887b798a5c7b9dfd2021d",
+    "message": "Add monitor to service based entitites\n"
+  },
+  "mergeback": {
+    "commitid": "3e5db55d6b42790b5aa6a9fa7b80c90bed7d5463",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1572356451,
+  "updated": 1572356451,
+  "status": "active"
+}

@@ -1,0 +1,92 @@
+{
+  "moduleid": "repoflow-plugin-server",
+  "releases": [
+    {
+      "releaseid": "plugin-service"
+    }
+  ],
+  "created": 1573105651,
+  "updated": 1573105651,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "core-process",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+          "fullname": "@nebulario/core-process",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-process"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-npm",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-npm",
+          "fullname": "@nebulario/repoflow-plugin-npm",
+          "version": "1.70.16-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-npm"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-container",
+          "fullname": "@nebulario/repoflow-plugin-container",
+          "version": "1.70.17-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-container"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-config",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-config",
+          "fullname": "@nebulario/repoflow-plugin-config",
+          "version": "1.70.12-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-config"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-realm",
+          "fullname": "@nebulario/repoflow-plugin-realm",
+          "version": "1.70.3-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-realm"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-folder",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-folder",
+          "fullname": "@nebulario/repoflow-plugin-folder",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-folder"
+        }
+      ]
+    }
+  ]
+}

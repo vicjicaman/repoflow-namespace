@@ -1,6 +1,6 @@
 {
   "releaseid": "plugin-service",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-plugin-server",
     "repoflow-plugin-realm",

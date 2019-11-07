@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-common",
   "releases": [
     {
+      "releaseid": "plugin-service"
+    },
+    {
       "releaseid": "fix-fragments"
     },
     {
@@ -69,7 +72,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.9-master",
+          "version": "1.71.10-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
@@ -82,7 +85,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.9-master",
+          "version": "1.71.10-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"

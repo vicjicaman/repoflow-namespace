@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.4-plugin-service-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f633d62f8fe844a8d69d0aa6960ab1766c64fab5",
+    "message": "Add default cluster config for performer\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1572368673,
+  "updated": 1572368673,
+  "status": "active"
+}

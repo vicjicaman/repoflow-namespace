@@ -5,15 +5,246 @@
   "fullname": "@nebulario/repoflow-plugin-npm",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3c98f8293cf11d94932de97e2cdfb3df0f851d5a",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "98480ce906ddae96c20260983d2effb8152be8d0",
     "message": "ITERATION:9\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "28178aeca0a348435e1069a9599be2037e9719e9",
+    "message": "RELEASE:plugin-service:1.70.16-master\n"
+  },
   "releaseType": "patch",
   "description": "- Plugin for NPM repositories",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/repoflow-plugin-npm",
+      "version": "1.70.16-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-remote",
+      "fullname": "@nebulario/core-remote",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-remote"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-json",
+      "fullname": "@nebulario/core-json",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-json"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-performer",
+      "fullname": "@nebulario/core-performer",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-performer"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+      "fullname": "@nebulario/core-process",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-process"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.axios",
+      "fullname": "axios",
+      "version": "^0.18.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.axios"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.babel-runtime",
+      "fullname": "babel-runtime",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.babel-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.bluebird",
+      "fullname": "bluebird",
+      "version": "^3.5.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.bluebird"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.chokidar",
+      "fullname": "chokidar",
+      "version": "^3.0.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.chokidar"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql-request",
+      "fullname": "graphql-request",
+      "version": "^1.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql-request"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.tree-kill",
+      "fullname": "tree-kill",
+      "version": "^1.2.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.tree-kill"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.uuid",
+      "fullname": "uuid",
+      "version": "^3.2.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.uuid"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.yamljs",
+      "fullname": "yamljs",
+      "version": "^0.3.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.yamljs"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-cli",
+      "fullname": "babel-cli",
+      "version": "^6.26.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-core",
+      "fullname": "babel-core",
+      "version": "6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^7.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-dynamic-import-webpack",
+      "fullname": "babel-plugin-dynamic-import-webpack",
+      "version": "^1.0.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-dynamic-import-webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-syntax-dynamic-import",
+      "fullname": "babel-plugin-syntax-dynamic-import",
+      "version": "^6.18.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-syntax-dynamic-import"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-plugin-transform-runtime",
+      "fullname": "babel-plugin-transform-runtime",
+      "version": "^6.23.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-env",
+      "fullname": "babel-preset-env",
+      "version": "^1.6.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-react",
+      "fullname": "babel-preset-react",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-react"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-0",
+      "fullname": "babel-preset-stage-0",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-0"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-preset-stage-2",
+      "fullname": "babel-preset-stage-2",
+      "version": "^6.24.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-preset-stage-2"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.npm-run-all",
+      "fullname": "npm-run-all",
+      "version": "^4.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.npm-run-all"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.uglifyjs-webpack-plugin",
+      "fullname": "uglifyjs-webpack-plugin",
+      "version": "^1.1.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.uglifyjs-webpack-plugin"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^3.8.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-bundle-analyzer",
+      "fullname": "webpack-bundle-analyzer",
+      "version": "^2.9.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-bundle-analyzer"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
   "created": 1573103757,
   "updated": 1573103757,
   "status": "active"

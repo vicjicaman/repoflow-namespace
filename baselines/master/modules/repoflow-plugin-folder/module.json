@@ -1,0 +1,41 @@
+{
+  "moduleid": "repoflow-plugin-folder",
+  "releases": [
+    {
+      "releaseid": "plugin-service"
+    }
+  ],
+  "created": 1573105651,
+  "updated": 1573105651,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "repoflow-plugin-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-folder",
+          "fullname": "@nebulario/repoflow-plugin-folder",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-folder"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "core-remote",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-remote",
+          "fullname": "@nebulario/core-remote",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-remote"
+        }
+      ]
+    }
+  ]
+}

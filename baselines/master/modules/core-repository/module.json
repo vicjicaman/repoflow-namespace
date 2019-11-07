@@ -50,6 +50,19 @@
           "path": "dependencies.@nebulario/core-repository"
         }
       ]
+    },
+    {
+      "moduleid": "repoflow-plugin-container",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-repository",
+          "fullname": "@nebulario/core-repository",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-repository"
+        }
+      ]
     }
   ],
   "dependents": [
