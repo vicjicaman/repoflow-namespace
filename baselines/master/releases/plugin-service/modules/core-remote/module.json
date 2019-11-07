@@ -1,0 +1,20 @@
+{
+  "releaseid": "plugin-service",
+  "moduleid": "core-remote",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/core-remote",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-remote.git",
+  "publish": null,
+  "released": {
+    "commitid": "010a6fbaf59a2cb227fbd6952aa7bfaec0871c70",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Fucntionality for remote execution and utilities",
+  "dependencies": [],
+  "created": 1573103757,
+  "updated": 1573103757,
+  "status": "active"
+}
