@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-config",
   "releases": [
     {
+      "releaseid": "plugin-service"
+    },
+    {
       "releaseid": "compose-plugin-v2"
     },
     {
@@ -44,7 +47,34 @@
   "created": 1558958645,
   "updated": 1558958645,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "repoflow-plugin-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-config",
+          "fullname": "@nebulario/repoflow-plugin-config",
+          "version": "1.70.12-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-config"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-server",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-config",
+          "fullname": "@nebulario/repoflow-plugin-config",
+          "version": "1.70.12-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/repoflow-plugin-config"
+        }
+      ]
+    }
+  ],
   "dependents": [
     {
       "moduleid": "core-performer",
