@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.4-build-server-base-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7e8fbd38217a133b135e35833b5f4935f1e1d919",
+    "message": "Add folder publish routes\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1573078318,
+  "updated": 1573078318,
+  "status": "active"
+}

@@ -2,6 +2,9 @@
   "moduleid": "repoflow-agent-npm",
   "releases": [
     {
+      "releaseid": "build-server-base"
+    },
+    {
       "releaseid": "bundle-cluster"
     },
     {
@@ -12,19 +15,5 @@
   "updated": 1569459816,
   "status": "active",
   "dependants": [],
-  "dependents": [
-    {
-      "moduleid": "core-process",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
-          "fullname": "@nebulario/core-process",
-          "version": "1.70.1-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/core-process"
-        }
-      ]
-    }
-  ]
+  "dependents": []
 }
