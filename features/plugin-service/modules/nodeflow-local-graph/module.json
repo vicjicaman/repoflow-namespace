@@ -14,7 +14,7 @@
   "updated": 1571058118,
   "status": "active",
   "commit": {
-    "commitid": "a28f24c764a32b49eecc706f727822803c123e6c",
-    "message": "ITERATION:9\n"
+    "commitid": "0efc5420ee5b20511588fd16b71f19b2ed83af1d",
+    "message": "Reset cache on finish instance release mutation\n"
   }
 }
