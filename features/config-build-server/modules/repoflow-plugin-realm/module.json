@@ -14,7 +14,7 @@
   "updated": 1573163426,
   "status": "active",
   "commit": {
-    "commitid": "a14df7468d956c4fc6312f33392bd1d16d8fa281",
-    "message": "Update dependencies to the latest version\n"
+    "commitid": "c3887a39b5e1797ac966ff05c1be2458841eb29e",
+    "message": "Update core-cluster dependency\n"
   }
 }
