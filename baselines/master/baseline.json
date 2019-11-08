@@ -3,6 +3,12 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "config-build-server"
+    },
+    {
+      "releaseid": "monitor-plugin"
+    },
+    {
       "releaseid": "common-cluster-deploy"
     },
     {

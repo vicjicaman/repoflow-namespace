@@ -1,0 +1,20 @@
+{
+  "releaseid": "config-build-server",
+  "moduleid": "repoflow-plugin-container",
+  "version": "1.70.18-master",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "1bad503eb9633669a653746b33baf3e7b82bf3b8",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Plugin for container image with a NPM package as service",
+  "dependencies": [],
+  "created": 1573250424,
+  "updated": 1573250424,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "monitor-plugin",
+  "moduleid": "nodeflow-local-common",
+  "version": "1.71.11-master",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "released": {
+    "commitid": "bbd5a39f2378a83141f753f4dd6f9607843ed403",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Tool, graphql queries and workflow code\n- Common code for web and server repoflow tool UI",
+  "dependencies": [],
+  "created": 1573249647,
+  "updated": 1573249647,
+  "status": "active"
+}
