@@ -1,0 +1,10 @@
+{
+  "releaseid": "common-cluster-deploy",
+  "phase": "releasing",
+  "hierarchy": [
+    "core-cluster"
+  ],
+  "created": 1573248074,
+  "updated": 1573248074,
+  "status": "active"
+}
