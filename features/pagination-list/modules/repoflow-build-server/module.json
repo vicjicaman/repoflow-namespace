@@ -14,7 +14,7 @@
   "updated": 1573136069,
   "status": "active",
   "commit": {
-    "commitid": "dfb90b2875bbed7ea20b29ccb7abb69e72f4c530",
-    "message": "Improve deploy and publish error handling for realm\n"
+    "commitid": "2d5d84d8e35b5d99a808e107c9c781b592373679",
+    "message": "Update core-cluster dependency\n"
   }
 }
