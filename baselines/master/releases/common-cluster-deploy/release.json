@@ -1,6 +1,6 @@
 {
   "releaseid": "common-cluster-deploy",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "core-cluster"
   ],
