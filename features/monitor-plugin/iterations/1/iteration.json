@@ -1,0 +1,35 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "nodeflow-local-graph",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common"
+  ],
+  "latest": [
+    {
+      "moduleid": "nodeflow-local-graph",
+      "iterationid": 1,
+      "version": "1.70.0-monitor-plugin-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "iterationid": 1,
+      "version": "1.70.0-monitor-plugin-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-web",
+      "iterationid": 1,
+      "version": "1.70.0-monitor-plugin-prod"
+    },
+    {
+      "moduleid": "nodeflow-local-common",
+      "iterationid": 1,
+      "version": "1.70.0-monitor-plugin-prod"
+    }
+  ],
+  "created": 1573247805,
+  "updated": 1573247805,
+  "status": "active"
+}

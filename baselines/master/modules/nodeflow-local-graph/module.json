@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-graph",
   "releases": [
     {
+      "releaseid": "monitor-plugin"
+    },
+    {
       "releaseid": "plugin-service"
     },
     {
@@ -69,19 +72,6 @@
     }
   ],
   "dependants": [
-    {
-      "moduleid": "nodeflow-local-web",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
-          "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.73.6-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/nodeflow-local-graph"
-        }
-      ]
-    },
     {
       "moduleid": "repoflow-container-graph",
       "references": [

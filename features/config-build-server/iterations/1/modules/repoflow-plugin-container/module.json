@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-plugin-container",
+  "mode": "prod",
+  "version": "1.70.0-config-build-server-prod",
+  "fullname": "@nebulario/repoflow-plugin-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-container.git",
+  "publish": {
+    "commitid": "ed4bd7ce489476c0a81dd2d1e31980da3769b152",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "6552f2eb89fc9a53e7ea98b03dc4dea1f8fa13ac",
+    "message": "Take performer sync and linked state in consideration for the remote init and exec\n"
+  },
+  "mergeback": {
+    "commitid": "1bad503eb9633669a653746b33baf3e7b82bf3b8",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1573249294,
+  "updated": 1573249294,
+  "status": "active"
+}

@@ -1,0 +1,12 @@
+{
+  "releaseid": "config-build-server",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-plugin-server",
+    "repoflow-plugin-container",
+    "repoflow-plugin-realm"
+  ],
+  "created": 1573250424,
+  "updated": 1573250424,
+  "status": "active"
+}
