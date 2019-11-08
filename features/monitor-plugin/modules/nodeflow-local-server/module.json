@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1573136168,
   "updated": 1573136168,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d0f98187942751b8812c3a580200dd0b5ca40c82",
+    "message": "Add sync linked dependencies\n"
+  }
 }

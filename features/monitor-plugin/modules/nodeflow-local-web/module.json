@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-web.git",
   "fullname": "@nebulario/nodeflow-local-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1573136463,
   "updated": 1573136463,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "75ac9a037951eba414aeebe3a07f1dc43f0225af",
+    "message": "Add sync linked dependencies\n"
+  }
 }
