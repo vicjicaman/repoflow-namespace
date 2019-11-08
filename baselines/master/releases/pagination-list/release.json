@@ -1,6 +1,6 @@
 {
   "releaseid": "pagination-list",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-build-server"
   ],
