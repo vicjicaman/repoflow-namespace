@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-cluster.git",
   "fullname": "@nebulario/core-cluster",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Functionality for kubernetes cluster entities configuration and utilities",
   "created": 1573144877,
   "updated": 1573144877,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "893c463cd6c996fcc60603b2adb08c51c27080c9",
+    "message": "Remove secret from deploy and consider local-storage as production volume\n"
+  }
 }
