@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-container.git",
   "fullname": "@nebulario/repoflow-plugin-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for container image with a NPM package as service",
   "created": 1573177429,
   "updated": 1573177429,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6552f2eb89fc9a53e7ea98b03dc4dea1f8fa13ac",
+    "message": "Take performer sync and linked state in consideration for the remote init and exec\n"
+  }
 }

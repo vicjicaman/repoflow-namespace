@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-server.git",
   "fullname": "@nebulario/repoflow-plugin-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Proxy server for local env modules interaction",
   "created": 1573137428,
   "updated": 1573137428,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b6698eb9061f069e4baa8835a386f0715167e6ff",
+    "message": "Catch and return error in dependencies routes\n"
+  }
 }

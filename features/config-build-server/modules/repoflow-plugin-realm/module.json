@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
   "fullname": "@nebulario/repoflow-plugin-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Plugin for the kubernetes entities",
   "created": 1573163426,
   "updated": 1573163426,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a14df7468d956c4fc6312f33392bd1d16d8fa281",
+    "message": "Update dependencies to the latest version\n"
+  }
 }
