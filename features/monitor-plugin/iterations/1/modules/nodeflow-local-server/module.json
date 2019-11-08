@@ -1,0 +1,24 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.0-monitor-plugin-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": {
+    "commitid": "440780040473eb749f90fabdf30585711cd339eb",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "d0f98187942751b8812c3a580200dd0b5ca40c82",
+    "message": "Add sync linked dependencies\n"
+  },
+  "mergeback": {
+    "commitid": "d89a599fe6b681e23f04a90e5b8b984603468f70",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1573247805,
+  "updated": 1573247805,
+  "status": "active"
+}

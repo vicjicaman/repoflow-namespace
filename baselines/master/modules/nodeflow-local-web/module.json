@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-web",
   "releases": [
     {
+      "releaseid": "monitor-plugin"
+    },
+    {
       "releaseid": "plugin-service"
     },
     {
@@ -72,7 +75,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-web",
           "fullname": "@nebulario/nodeflow-local-web",
-          "version": "1.71.10-master",
+          "version": "1.71.11-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-web"
@@ -165,23 +168,10 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-common",
           "fullname": "@nebulario/nodeflow-local-common",
-          "version": "1.71.10-master",
+          "version": "1.71.11-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/nodeflow-local-common"
-        }
-      ]
-    },
-    {
-      "moduleid": "nodeflow-local-graph",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
-          "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.73.6-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/nodeflow-local-graph"
         }
       ]
     }
