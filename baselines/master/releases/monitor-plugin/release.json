@@ -1,6 +1,6 @@
 {
   "releaseid": "monitor-plugin",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "nodeflow-local-graph",
     "nodeflow-local-server",
