@@ -1,0 +1,20 @@
+{
+  "releaseid": "monitor-plugin",
+  "moduleid": "nodeflow-local-web",
+  "version": "1.71.11-master",
+  "fullname": "@nebulario/nodeflow-local-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "2534dc350a919f941d733a1fc37f40e6729d6b33",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Generate web deliberable based on the common code",
+  "dependencies": [],
+  "created": 1573249646,
+  "updated": 1573249646,
+  "status": "active"
+}

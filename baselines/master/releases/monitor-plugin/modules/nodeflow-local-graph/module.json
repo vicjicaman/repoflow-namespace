@@ -1,0 +1,20 @@
+{
+  "releaseid": "monitor-plugin",
+  "moduleid": "nodeflow-local-graph",
+  "version": "1.73.7-master",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "d99364dd8f8edd77baa18df25816f1d620a3b5ea",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "dependencies": [],
+  "created": 1573249646,
+  "updated": 1573249646,
+  "status": "active"
+}

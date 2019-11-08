@@ -2,6 +2,9 @@
   "moduleid": "core-cluster",
   "releases": [
     {
+      "releaseid": "common-cluster-deploy"
+    },
+    {
       "releaseid": "plugin-service"
     },
     {
