@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-cluster",
+  "mode": "prod",
+  "version": "1.70.0-common-cluster-deploy-prod",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "893c463cd6c996fcc60603b2adb08c51c27080c9",
+    "message": "Remove secret from deploy and consider local-storage as production volume\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573247753,
+  "updated": 1573247753,
+  "status": "active"
+}

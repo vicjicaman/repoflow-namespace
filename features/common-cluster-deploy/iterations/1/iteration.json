@@ -1,0 +1,17 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "core-cluster"
+  ],
+  "latest": [
+    {
+      "moduleid": "core-cluster",
+      "iterationid": 1,
+      "version": "1.70.0-common-cluster-deploy-prod"
+    }
+  ],
+  "created": 1573247753,
+  "updated": 1573247753,
+  "status": "active"
+}
