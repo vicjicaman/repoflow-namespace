@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-server",
+  "mode": "prod",
+  "version": "1.70.0-config-build-server-prod",
+  "fullname": "@nebulario/repoflow-plugin-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b6698eb9061f069e4baa8835a386f0715167e6ff",
+    "message": "Catch and return error in dependencies routes\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573249294,
+  "updated": 1573249294,
+  "status": "active"
+}
