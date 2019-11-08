@@ -1,6 +1,6 @@
 {
   "releaseid": "config-build-server",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-plugin-server",
     "repoflow-plugin-container",

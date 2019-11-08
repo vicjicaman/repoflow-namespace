@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-realm",
   "releases": [
     {
+      "releaseid": "config-build-server"
+    },
+    {
       "releaseid": "plugin-service"
     },
     {
@@ -24,7 +27,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-realm",
           "fullname": "@nebulario/repoflow-plugin-realm",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-realm"
@@ -39,7 +42,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
           "fullname": "@nebulario/core-cluster",
-          "version": "1.70.4-master",
+          "version": "1.70.5-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-cluster"
