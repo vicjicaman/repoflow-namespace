@@ -1,0 +1,8 @@
+{
+  "featureid": "common-cluster-deploy",
+  "baselineid": "master",
+  "description": "Remove the cluster deploy for secrets and volumes",
+  "created": 1573144842,
+  "updated": 1573144842,
+  "status": "active"
+}
