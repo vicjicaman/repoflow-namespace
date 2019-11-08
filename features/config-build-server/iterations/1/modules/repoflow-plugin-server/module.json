@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-server",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "54124e57759cb8fd2b7b6c916f3a4a919447c46b",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "b6698eb9061f069e4baa8835a386f0715167e6ff",
     "message": "Catch and return error in dependencies routes\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "4c853ee63f8ff1aeaa28a84abfe68b7bd7a04596",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1573249294,
   "updated": 1573249294,
