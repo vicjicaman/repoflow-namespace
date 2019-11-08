@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-build-server",
+  "mode": "prod",
+  "version": "1.70.0-pagination-list-prod",
+  "fullname": "@nebulario/repoflow-build-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-build-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2d5d84d8e35b5d99a808e107c9c781b592373679",
+    "message": "Update core-cluster dependency\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573249294,
+  "updated": 1573249294,
+  "status": "active"
+}
