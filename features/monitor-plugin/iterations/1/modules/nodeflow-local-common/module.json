@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-common",
+  "mode": "prod",
+  "version": "1.70.0-monitor-plugin-prod",
+  "fullname": "@nebulario/nodeflow-local-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "eaf76bb7db1367fd90354174ca1e3c23fbd4de13",
+    "message": "RELEASE:plugin-service:1.71.10-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573247805,
+  "updated": 1573247805,
+  "status": "active"
+}
