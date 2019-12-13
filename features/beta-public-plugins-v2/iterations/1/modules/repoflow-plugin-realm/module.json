@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-realm",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-plugins-v2-prod",
+  "fullname": "@nebulario/repoflow-plugin-realm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b94cb110309f5cea0fdf214f82f507bea23a0195",
+    "message": "Fix container folder for npm and source\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1576275697,
+  "updated": 1576275697,
+  "status": "active"
+}

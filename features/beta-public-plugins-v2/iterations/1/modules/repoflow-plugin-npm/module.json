@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-npm",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-plugins-v2-prod",
+  "fullname": "@nebulario/repoflow-plugin-npm",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-npm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "49246d4fa2d88a25b586ebc80d3db57441da5dcb",
+    "message": "Fix container folder for npm and source\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1576275698,
+  "updated": 1576275698,
+  "status": "active"
+}
