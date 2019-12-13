@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-cluster.git",
   "fullname": "@nebulario/core-cluster",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
