@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-services-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d162b9f18a243e328da18e4b7c83b57bfde85de2",
+    "message": "Fix container folder for npm and source\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1576275699,
+  "updated": 1576275699,
+  "status": "active"
+}

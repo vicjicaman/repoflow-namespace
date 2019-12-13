@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-services-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b44083cc1f295610481bea75d6c6ef6d78347d08",
+    "message": "Fix container folder for npm and source\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1576275699,
+  "updated": 1576275699,
+  "status": "active"
+}
