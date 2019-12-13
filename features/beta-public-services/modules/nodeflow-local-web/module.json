@@ -12,5 +12,9 @@
   "description": "- Generate web deliberable based on the common code",
   "created": 1573317079,
   "updated": 1573317079,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "87a31be87597d01d5614d32514e530fb4a840bbe",
+    "message": "Fix container folder for npm and source\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
   "created": 1573317066,
   "updated": 1573317066,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d162b9f18a243e328da18e4b7c83b57bfde85de2",
+    "message": "Fix container folder for npm and source\n"
+  }
 }

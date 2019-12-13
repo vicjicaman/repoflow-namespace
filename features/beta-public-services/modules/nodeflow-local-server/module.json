@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1573317084,
   "updated": 1573317084,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b44083cc1f295610481bea75d6c6ef6d78347d08",
+    "message": "Fix container folder for npm and source\n"
+  }
 }
