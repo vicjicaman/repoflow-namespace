@@ -12,5 +12,9 @@
   "description": "Plugin for the kubernetes entities",
   "created": 1573332742,
   "updated": 1573332742,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b94cb110309f5cea0fdf214f82f507bea23a0195",
+    "message": "Fix container folder for npm and source\n"
+  }
 }

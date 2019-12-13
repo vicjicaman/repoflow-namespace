@@ -12,5 +12,9 @@
   "description": "Proxy server for local env modules interaction",
   "created": 1573317202,
   "updated": 1573317202,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8c3cf1289d888222a265d90b7a85eb353658c016",
+    "message": "Fix container folder for npm and source\n"
+  }
 }

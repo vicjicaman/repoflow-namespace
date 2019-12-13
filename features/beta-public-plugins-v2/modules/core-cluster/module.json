@@ -12,5 +12,9 @@
   "description": "Functionality for kubernetes cluster entities configuration and utilities",
   "created": 1573332425,
   "updated": 1573332425,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c8a431ce783b90bd1ec7087a946913d1b898378d",
+    "message": "Fix container folder for npm and source\n"
+  }
 }

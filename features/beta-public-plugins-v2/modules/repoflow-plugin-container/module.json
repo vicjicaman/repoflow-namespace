@@ -12,5 +12,9 @@
   "description": "Plugin for container image with a NPM package as service",
   "created": 1573328142,
   "updated": 1573328142,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ca8a2c6a49676baebf9329a81e62300f81c386d6",
+    "message": "Fix container folder for npm and source\n"
+  }
 }
