@@ -1,0 +1,24 @@
+{
+  "moduleid": "core-logger",
+  "mode": "prod",
+  "version": "1.70.0-beta-public-build-prod",
+  "fullname": "@nebulario/core-logger",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-logger.git",
+  "publish": {
+    "commitid": "09fc4efa289006a3ccf06fd288acf8aa0555d467",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "b9cd0640f14906b0d694760188e3659d747beef9",
+    "message": "Add service links\n"
+  },
+  "mergeback": {
+    "commitid": "63d4b1dce6db9064a07c587209a1839dd57dd590",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1576771410,
+  "updated": 1576771410,
+  "status": "active"
+}

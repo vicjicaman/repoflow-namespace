@@ -1,0 +1,23 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "repoflow-build-server",
+    "core-logger"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-build-server",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-build-prod"
+    },
+    {
+      "moduleid": "core-logger",
+      "iterationid": 1,
+      "version": "1.70.0-beta-public-build-prod"
+    }
+  ],
+  "created": 1576771410,
+  "updated": 1576771410,
+  "status": "active"
+}
