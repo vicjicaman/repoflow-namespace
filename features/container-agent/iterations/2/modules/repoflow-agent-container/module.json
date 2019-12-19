@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-agent-container",
+  "mode": "prod",
+  "version": "1.70.1-container-agent-prod",
+  "fullname": "@nebulario/repoflow-agent-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-agent-container.git",
+  "publish": {
+    "commitid": "2b420ee4e7316e988cb89cfe1e30de0547639ffa",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "2c1563ae8de78af61782cb12dbfd433fe2d0da4e",
+    "message": "Add container agent\n"
+  },
+  "mergeback": {
+    "commitid": "e45da63ed72d2cd2460959efe04359847d3d1835",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1576785602,
+  "updated": 1576785602,
+  "status": "active"
+}
