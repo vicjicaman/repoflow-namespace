@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-build-server",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-build-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a6e8679a4eefa0fbce0566168d3f4c853d476046",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "876177b8e88492f4ec4687499722adf3e263468b",
     "message": "Add script handler\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "37e8913b9cacb8e285f9fc1fcf930f9df4180728",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1576771410,
   "updated": 1576771410,
