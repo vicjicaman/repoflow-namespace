@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-server",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "923b80e14cf83fed00718abf401a93883a716572",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "b44083cc1f295610481bea75d6c6ef6d78347d08",
     "message": "Fix container folder for npm and source\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "44ac82cff1ea8eeca30f9b9069c03e85e3d672e2",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1576275699,
   "updated": 1576275699,
