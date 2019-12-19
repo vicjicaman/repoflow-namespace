@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-plugins-v2",
+  "moduleid": "core-cluster",
+  "version": "1.70.6-master",
+  "fullname": "@nebulario/core-cluster",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-cluster.git",
+  "publish": null,
+  "released": {
+    "commitid": "77aebab9270840484d33c946d42aa2e8fa9bcd50",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Functionality for kubernetes cluster entities configuration and utilities",
+  "dependencies": [],
+  "created": 1576786298,
+  "updated": 1576786298,
+  "status": "active"
+}
