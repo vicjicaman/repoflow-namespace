@@ -124,6 +124,19 @@
       ]
     },
     {
+      "moduleid": "repoflow-plugin-script",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-plugin-request",
+          "fullname": "@nebulario/core-plugin-request",
+          "version": "1.70.11-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-plugin-request"
+        }
+      ]
+    },
+    {
       "moduleid": "repoflow-plugin-service",
       "references": [
         {
