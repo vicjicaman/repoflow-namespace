@@ -14,7 +14,7 @@
   "updated": 1573332425,
   "status": "active",
   "commit": {
-    "commitid": "c8a431ce783b90bd1ec7087a946913d1b898378d",
-    "message": "Fix container folder for npm and source\n"
+    "commitid": "c38a81627c2ecd111555d5187aaa334d13d7d388",
+    "message": "Merge branch 'beta-public-plugins-v2/master' of github.com:vicjicaman/core-cluster into beta-public-plugins-v2/master\n"
   }
 }
