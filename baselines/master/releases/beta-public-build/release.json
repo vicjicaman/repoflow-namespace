@@ -1,0 +1,11 @@
+{
+  "releaseid": "beta-public-build",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-build-server",
+    "core-logger"
+  ],
+  "created": 1576774191,
+  "updated": 1576774191,
+  "status": "active"
+}

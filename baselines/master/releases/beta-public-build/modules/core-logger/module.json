@@ -1,0 +1,20 @@
+{
+  "releaseid": "beta-public-build",
+  "moduleid": "core-logger",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/core-logger",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-logger.git",
+  "publish": null,
+  "released": {
+    "commitid": "63d4b1dce6db9064a07c587209a1839dd57dd590",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- Specific config of logger package\n- Common logger configuration across the namespace",
+  "dependencies": [],
+  "created": 1576774191,
+  "updated": 1576774191,
+  "status": "active"
+}
