@@ -1,0 +1,13 @@
+{
+  "releaseid": "beta-public-services",
+  "phase": "releasing",
+  "hierarchy": [
+    "nodeflow-local-graph",
+    "nodeflow-local-server",
+    "nodeflow-local-web",
+    "nodeflow-local-common"
+  ],
+  "created": 1576788202,
+  "updated": 1576788202,
+  "status": "active"
+}
