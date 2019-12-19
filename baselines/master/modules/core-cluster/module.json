@@ -2,6 +2,9 @@
   "moduleid": "core-cluster",
   "releases": [
     {
+      "releaseid": "beta-public-plugins-v2"
+    },
+    {
       "releaseid": "common-cluster-deploy"
     },
     {
@@ -56,7 +59,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-cluster",
           "fullname": "@nebulario/core-cluster",
-          "version": "1.70.5-master",
+          "version": "1.70.6-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-cluster"

@@ -73,6 +73,19 @@
           "path": "dependencies.@nebulario/core-performer"
         }
       ]
+    },
+    {
+      "moduleid": "repoflow-plugin-script",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/core-performer",
+          "fullname": "@nebulario/core-performer",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/core-performer"
+        }
+      ]
     }
   ],
   "dependents": [
