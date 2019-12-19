@@ -14,7 +14,7 @@
   "updated": 1576719987,
   "status": "active",
   "commit": {
-    "commitid": "00d71d6b99aca5dd8e2ef73f5dfaa18da928c1d1",
-    "message": "Add script plugin\n"
+    "commitid": "8e86fbe5ea26baba3f2afd12241f8eab5e61a2b2",
+    "message": "Fix package/moduleid name issue\n"
   }
 }
