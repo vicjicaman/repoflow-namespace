@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-script",
+  "mode": "prod",
+  "version": "1.70.1-beta-public-plugins-v2-prod",
+  "fullname": "@nebulario/repoflow-plugin-script",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-script.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8e86fbe5ea26baba3f2afd12241f8eab5e61a2b2",
+    "message": "Fix package/moduleid name issue\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1576772790,
+  "updated": 1576772790,
+  "status": "active"
+}
