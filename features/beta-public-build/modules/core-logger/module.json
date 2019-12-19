@@ -12,5 +12,9 @@
   "description": "- Specific config of logger package\n- Common logger configuration across the namespace",
   "created": 1573333864,
   "updated": 1573333864,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b9cd0640f14906b0d694760188e3659d747beef9",
+    "message": "Add service links\n"
+  }
 }
