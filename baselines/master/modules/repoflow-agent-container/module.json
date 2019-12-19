@@ -1,0 +1,13 @@
+{
+  "moduleid": "repoflow-agent-container",
+  "releases": [
+    {
+      "releaseid": "container-agent"
+    }
+  ],
+  "created": 1576786230,
+  "updated": 1576786230,
+  "status": "active",
+  "dependants": [],
+  "dependents": []
+}
