@@ -1,0 +1,16 @@
+{
+  "moduleid": "repoflow-plugin-script",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-script.git",
+  "fullname": "@nebulario/repoflow-plugin-script",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Plugin for bash/sh bundle script",
+  "created": 1576719987,
+  "updated": 1576719987,
+  "status": "active"
+}
