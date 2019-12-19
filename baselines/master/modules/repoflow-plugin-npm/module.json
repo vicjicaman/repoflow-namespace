@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-npm",
   "releases": [
     {
+      "releaseid": "beta-public-plugins-v2"
+    },
+    {
       "releaseid": "plugin-service"
     },
     {
@@ -63,7 +66,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-npm",
           "fullname": "@nebulario/repoflow-plugin-npm",
-          "version": "1.70.16-master",
+          "version": "1.70.17-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-npm"
@@ -76,7 +79,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-npm",
           "fullname": "@nebulario/repoflow-plugin-npm",
-          "version": "1.70.16-master",
+          "version": "1.70.17-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/repoflow-plugin-npm"

@@ -1,0 +1,10 @@
+{
+  "releaseid": "container-agent",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-agent-container"
+  ],
+  "created": 1576785890,
+  "updated": 1576785890,
+  "status": "active"
+}

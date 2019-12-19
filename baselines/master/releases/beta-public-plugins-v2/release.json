@@ -1,0 +1,15 @@
+{
+  "releaseid": "beta-public-plugins-v2",
+  "phase": "released",
+  "hierarchy": [
+    "repoflow-plugin-server",
+    "repoflow-plugin-container",
+    "repoflow-plugin-realm",
+    "repoflow-plugin-script",
+    "repoflow-plugin-npm",
+    "core-cluster"
+  ],
+  "created": 1576786297,
+  "updated": 1576786297,
+  "status": "active"
+}

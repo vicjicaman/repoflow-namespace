@@ -1,0 +1,20 @@
+{
+  "moduleid": "core-logger",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-logger.git",
+  "fullname": "@nebulario/core-logger",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "- Specific config of logger package\n- Common logger configuration across the namespace",
+  "created": 1573333864,
+  "updated": 1573333864,
+  "status": "active",
+  "commit": {
+    "commitid": "63d4b1dce6db9064a07c587209a1839dd57dd590",
+    "message": "ITERATION:1\n"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "featureid": "beta-public-build",
+  "baselineid": "master",
+  "description": "Public release for build server\n- Add info messages",
+  "created": 1573333484,
+  "updated": 1573333484,
+  "status": "active"
+}

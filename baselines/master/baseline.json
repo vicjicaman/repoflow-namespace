@@ -3,6 +3,15 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "beta-public-plugins-v2"
+    },
+    {
+      "releaseid": "container-agent"
+    },
+    {
+      "releaseid": "beta-public-build"
+    },
+    {
       "releaseid": "pagination-list"
     },
     {
@@ -179,11 +188,12 @@
   ],
   "hierarchy": [
     "repoflow-tool",
-    "repoflow-agent-npm",
+    "repoflow-agent-container",
     "repoflow-plugin-stateful",
     "repoflow-plugin-site",
     "repoflow-plugin-service",
     "repoflow-plugin-server",
+    "repoflow-agent-npm",
     "repoflow-build-server",
     "repoflow-compose",
     "repoflow-plugin-namespace",
@@ -194,6 +204,7 @@
     "repoflow-container-server",
     "repoflow-container-graph",
     "repoflow-plugin-realm",
+    "repoflow-plugin-script",
     "repoflow-plugin-folder",
     "repoflow-plugin-config",
     "repoflow-plugin-npm",
@@ -201,24 +212,24 @@
     "nodeflow-local-server",
     "nodeflow-local-web",
     "core-render-stateful-server",
+    "nodeflow-local-common",
     "dll-vendor",
     "dll-utils",
     "dll-redux",
     "dll-react",
     "dll-apollo",
     "core-render-stateful-web",
-    "nodeflow-local-common",
-    "app-layout",
-    "app-notify",
     "app-lang",
+    "app-notify",
+    "app-layout",
     "core-cluster",
     "core-performer",
     "core-node",
     "core-logger",
     "core-config",
-    "core-plugin-request",
     "core-repository",
     "core-remote",
+    "core-plugin-request",
     "core-json",
     "core-process"
   ]

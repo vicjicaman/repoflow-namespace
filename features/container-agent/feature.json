@@ -1,0 +1,8 @@
+{
+  "featureid": "container-agent",
+  "baselineid": "master",
+  "description": "Generalize the container agent from npm to source",
+  "created": 1573402750,
+  "updated": 1573402750,
+  "status": "active"
+}
