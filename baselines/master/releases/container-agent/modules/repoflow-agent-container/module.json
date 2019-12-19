@@ -1,0 +1,20 @@
+{
+  "releaseid": "container-agent",
+  "moduleid": "repoflow-agent-container",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/repoflow-agent-container",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-agent-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "e45da63ed72d2cd2460959efe04359847d3d1835",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container mount agent to take over and control the main process in a pod",
+  "dependencies": [],
+  "created": 1576785890,
+  "updated": 1576785890,
+  "status": "active"
+}
