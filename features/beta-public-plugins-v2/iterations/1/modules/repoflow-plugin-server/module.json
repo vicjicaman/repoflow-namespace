@@ -5,12 +5,18 @@
   "fullname": "@nebulario/repoflow-plugin-server",
   "type": "npm",
   "url": "github.com:vicjicaman/repoflow-plugin-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "511e808d7fe11c839812de1f64bd996843e5eede",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "8c3cf1289d888222a265d90b7a85eb353658c016",
     "message": "Fix container folder for npm and source\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "516219d6c7f37500a7822e3cc903f436a41600d2",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1576275697,
   "updated": 1576275697,

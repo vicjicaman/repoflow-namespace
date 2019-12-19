@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-cluster",
   "type": "npm",
   "url": "github.com:vicjicaman/core-cluster.git",
-  "publish": null,
+  "publish": {
+    "commitid": "2f3a300fbe48712d38877a45de18164589e5e533",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "c8a431ce783b90bd1ec7087a946913d1b898378d",
     "message": "Fix container folder for npm and source\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ade0c376895c152b6a81999429dbe5535e6859fc",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1576275698,
   "updated": 1576275698,
