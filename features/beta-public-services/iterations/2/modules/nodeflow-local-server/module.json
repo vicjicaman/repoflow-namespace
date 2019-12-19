@@ -5,12 +5,18 @@
   "fullname": "@nebulario/nodeflow-local-server",
   "type": "npm",
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "162d26f3d0debd4287d3bcbf6d9a87d7120d506d",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "522b5408ac3ae868116cbf18e9a20b2319b69fbd",
     "message": "Update logger to the latest release\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "47d2266cb8179684a89cfee38d5671bf91b61c63",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1576787022,
   "updated": 1576787022,
