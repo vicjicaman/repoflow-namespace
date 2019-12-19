@@ -1,0 +1,17 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-agent-container"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-agent-container",
+      "version": "1.70.1-container-agent-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1576785602,
+  "updated": 1576785602,
+  "status": "active"
+}
