@@ -12,5 +12,9 @@
   "description": "Plugin for bash/sh bundle script",
   "created": 1576719987,
   "updated": 1576719987,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "00d71d6b99aca5dd8e2ef73f5dfaa18da928c1d1",
+    "message": "Add script plugin\n"
+  }
 }
