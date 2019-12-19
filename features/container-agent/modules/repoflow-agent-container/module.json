@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/repoflow-agent-container.git",
   "fullname": "@nebulario/repoflow-agent-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container mount agent to take over and control the main process in a pod",
   "created": 1573402896,
   "updated": 1573402896,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "2c1563ae8de78af61782cb12dbfd433fe2d0da4e",
+    "message": "Add container agent\n"
+  }
 }
