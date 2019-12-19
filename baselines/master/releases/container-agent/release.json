@@ -1,6 +1,6 @@
 {
   "releaseid": "container-agent",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "repoflow-agent-container"
   ],
