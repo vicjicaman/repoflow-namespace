@@ -1,6 +1,6 @@
 {
   "releaseid": "beta-public-services",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "nodeflow-local-graph",
     "nodeflow-local-server",
