@@ -1,0 +1,8 @@
+{
+  "featureid": "repoflow-tool-script",
+  "baselineid": "master",
+  "description": "Convert the tool to the script plugin type",
+  "created": 1576860169,
+  "updated": 1576860169,
+  "status": "active"
+}
