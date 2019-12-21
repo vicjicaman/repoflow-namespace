@@ -1,0 +1,20 @@
+{
+  "releaseid": "repoflow-tool-script",
+  "moduleid": "repoflow-plugin-server",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/repoflow-plugin-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-server.git",
+  "publish": null,
+  "released": {
+    "commitid": "8748312c4969e02bb51fe67dfdc514fe38012d5e",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Proxy server for local env modules interaction",
+  "dependencies": [],
+  "created": 1576944038,
+  "updated": 1576944038,
+  "status": "active"
+}
