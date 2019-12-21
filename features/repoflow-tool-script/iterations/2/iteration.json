@@ -1,0 +1,41 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-build-server",
+    "repoflow-tool",
+    "repoflow-plugin-server",
+    "nodeflow-local-graph",
+    "nodeflow-local-server"
+  ],
+  "latest": [
+    {
+      "moduleid": "repoflow-build-server",
+      "version": "1.70.1-repoflow-tool-script-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "repoflow-tool",
+      "version": "1.70.1-repoflow-tool-script-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "repoflow-plugin-server",
+      "version": "1.70.1-repoflow-tool-script-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-graph",
+      "version": "1.70.1-repoflow-tool-script-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "nodeflow-local-server",
+      "version": "1.70.1-repoflow-tool-script-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1576941505,
+  "updated": 1576941505,
+  "status": "active"
+}
