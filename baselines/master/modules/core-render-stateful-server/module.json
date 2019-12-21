@@ -2,6 +2,9 @@
   "moduleid": "core-render-stateful-server",
   "releases": [
     {
+      "releaseid": "repoflow-tool-script"
+    },
+    {
       "releaseid": "beta-public-ui-label"
     },
     {
@@ -21,7 +24,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/core-render-stateful-server",
           "fullname": "@nebulario/core-render-stateful-server",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/core-render-stateful-server"
