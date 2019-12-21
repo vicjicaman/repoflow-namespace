@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/nodeflow-local-server.git",
   "fullname": "@nebulario/nodeflow-local-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- SSR service for repoflow tool based on common code",
   "created": 1576938553,
   "updated": 1576938553,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4ace284e6fed7885e97c79c4c58c036ec40a8bf9",
+    "message": "Handle tilde in workspace path\n"
+  }
 }
