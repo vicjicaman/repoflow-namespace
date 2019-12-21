@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/core-render-stateful-server.git",
   "fullname": "@nebulario/core-render-stateful-server",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "- Core server part for a stateful web app",
   "created": 1576943210,
   "updated": 1576943210,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "beb2b25be1e72557daec375221f8a5a57a0a3fc1",
+    "message": "Remove non production messages\n"
+  }
 }
