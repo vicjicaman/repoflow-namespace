@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-graph",
+  "mode": "prod",
+  "version": "1.70.0-repoflow-tool-script-prod",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "cdfa4e0917908a283f2c5f0f563db01e8c537fac",
+    "message": "Handle tilde in workspace path\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1576941231,
+  "updated": 1576941231,
+  "status": "active"
+}
