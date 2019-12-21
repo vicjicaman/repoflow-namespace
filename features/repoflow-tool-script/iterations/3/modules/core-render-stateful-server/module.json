@@ -5,12 +5,18 @@
   "fullname": "@nebulario/core-render-stateful-server",
   "type": "npm",
   "url": "github.com:vicjicaman/core-render-stateful-server.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c33109e72c0e4c2257beebb2a13827712af7d55c",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "beb2b25be1e72557daec375221f8a5a57a0a3fc1",
     "message": "Remove non production messages\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "f14dcba736769307578f12095fde9e00780656e7",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1576943418,
   "updated": 1576943418,
