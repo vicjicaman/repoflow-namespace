@@ -1,0 +1,20 @@
+{
+  "releaseid": "repoflow-tool-script",
+  "moduleid": "nodeflow-local-graph",
+  "version": "1.73.9-master",
+  "fullname": "@nebulario/nodeflow-local-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "0c475403ff9ea3fe8b44100a73f2f40eb63f29ae",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "- GraphQL API for the workspace, instance and repositories\n- Runtime and plugins API for:\n   - Publish\n   - Run\n   - Build",
+  "dependencies": [],
+  "created": 1576944038,
+  "updated": 1576944038,
+  "status": "active"
+}

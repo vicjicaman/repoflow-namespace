@@ -1,0 +1,15 @@
+{
+  "releaseid": "repoflow-tool-script",
+  "phase": "releasing",
+  "hierarchy": [
+    "repoflow-build-server",
+    "repoflow-tool",
+    "repoflow-plugin-server",
+    "nodeflow-local-graph",
+    "nodeflow-local-server",
+    "core-render-stateful-server"
+  ],
+  "created": 1576944038,
+  "updated": 1576944038,
+  "status": "active"
+}
