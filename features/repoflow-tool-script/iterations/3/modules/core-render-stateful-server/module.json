@@ -1,0 +1,18 @@
+{
+  "moduleid": "core-render-stateful-server",
+  "mode": "prod",
+  "version": "1.70.0-repoflow-tool-script-prod",
+  "fullname": "@nebulario/core-render-stateful-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-render-stateful-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "beb2b25be1e72557daec375221f8a5a57a0a3fc1",
+    "message": "Remove non production messages\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1576943418,
+  "updated": 1576943418,
+  "status": "active"
+}

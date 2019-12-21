@@ -1,0 +1,18 @@
+{
+  "moduleid": "nodeflow-local-server",
+  "mode": "prod",
+  "version": "1.70.2-repoflow-tool-script-prod",
+  "fullname": "@nebulario/nodeflow-local-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/nodeflow-local-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "1b2695b725f74c955fee5a0c86c9d09db535fd1a",
+    "message": "Remove non production messages\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1576943418,
+  "updated": 1576943418,
+  "status": "active"
+}
