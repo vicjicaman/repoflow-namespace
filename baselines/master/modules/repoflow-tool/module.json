@@ -2,6 +2,9 @@
   "moduleid": "repoflow-tool",
   "releases": [
     {
+      "releaseid": "repoflow-tool-script"
+    },
+    {
       "releaseid": "plugin-upgrade"
     },
     {
@@ -38,12 +41,12 @@
       "moduleid": "nodeflow-local-graph",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
+          "dependencyid": "dependency|start.sh|=(.+)\\s+#module\\s+@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.73.2-master",
+          "version": "1.73.9-master",
           "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/nodeflow-local-graph"
+          "filename": "start.sh",
+          "path": "=(.+)\\s+#module\\s+@nebulario/nodeflow-local-graph"
         }
       ]
     },
@@ -51,12 +54,25 @@
       "moduleid": "nodeflow-local-server",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-server",
+          "dependencyid": "dependency|start.sh|=(.+)\\s+#module\\s+@nebulario/nodeflow-local-server",
           "fullname": "@nebulario/nodeflow-local-server",
-          "version": "1.71.7-master",
+          "version": "1.71.13-master",
           "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/nodeflow-local-server"
+          "filename": "start.sh",
+          "path": "=(.+)\\s+#module\\s+@nebulario/nodeflow-local-server"
+        }
+      ]
+    },
+    {
+      "moduleid": "repoflow-plugin-server",
+      "references": [
+        {
+          "dependencyid": "dependency|start.sh|=(.+)\\s+#module\\s+@nebulario/repoflow-plugin-server",
+          "fullname": "@nebulario/repoflow-plugin-server",
+          "version": "1.70.3-master",
+          "kind": "dependency",
+          "filename": "start.sh",
+          "path": "=(.+)\\s+#module\\s+@nebulario/repoflow-plugin-server"
         }
       ]
     }
