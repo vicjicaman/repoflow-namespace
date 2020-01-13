@@ -1,0 +1,16 @@
+{
+  "moduleid": "core-remote",
+  "type": "npm",
+  "url": "github.com:vicjicaman/core-remote.git",
+  "fullname": "@nebulario/core-remote",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Fucntionality for remote execution and utilities",
+  "created": 1578935763,
+  "updated": 1578935763,
+  "status": "active"
+}
