@@ -2,6 +2,9 @@
   "moduleid": "repoflow-plugin-server",
   "releases": [
     {
+      "releaseid": "repoflow-tool-script"
+    },
+    {
       "releaseid": "beta-public-plugins-v2"
     },
     {
@@ -14,7 +17,21 @@
   "created": 1573105651,
   "updated": 1573105651,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "repoflow-tool",
+      "references": [
+        {
+          "dependencyid": "dependency|start.sh|=(.+)\\s+#module\\s+@nebulario/repoflow-plugin-server",
+          "fullname": "@nebulario/repoflow-plugin-server",
+          "version": "1.70.3-master",
+          "kind": "dependency",
+          "filename": "start.sh",
+          "path": "=(.+)\\s+#module\\s+@nebulario/repoflow-plugin-server"
+        }
+      ]
+    }
+  ],
   "dependents": [
     {
       "moduleid": "core-process",

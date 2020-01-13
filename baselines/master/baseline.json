@@ -3,6 +3,9 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "repoflow-tool-script"
+    },
+    {
       "releaseid": "beta-public-services"
     },
     {
@@ -195,7 +198,6 @@
     "repoflow-plugin-stateful",
     "repoflow-plugin-site",
     "repoflow-plugin-service",
-    "repoflow-plugin-server",
     "repoflow-agent-npm",
     "repoflow-build-server",
     "repoflow-compose",
@@ -203,9 +205,10 @@
     "repoflow-site",
     "repoflow-plugin-bundle",
     "repoflow-plugin-compose",
-    "repoflow-plugin-container",
     "repoflow-container-server",
     "repoflow-container-graph",
+    "repoflow-plugin-server",
+    "repoflow-plugin-container",
     "repoflow-plugin-realm",
     "repoflow-plugin-script",
     "repoflow-plugin-folder",
@@ -225,10 +228,10 @@
     "app-lang",
     "app-notify",
     "app-layout",
-    "core-cluster",
-    "core-performer",
     "core-node",
     "core-logger",
+    "core-cluster",
+    "core-performer",
     "core-config",
     "core-repository",
     "core-remote",

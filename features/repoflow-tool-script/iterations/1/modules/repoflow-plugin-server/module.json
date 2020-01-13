@@ -1,0 +1,18 @@
+{
+  "moduleid": "repoflow-plugin-server",
+  "mode": "prod",
+  "version": "1.70.0-repoflow-tool-script-prod",
+  "fullname": "@nebulario/repoflow-plugin-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-server.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a0ceae168084a28ad5192e94f588da307f9f3a6d",
+    "message": "Handle tilde in workspace path\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1576941231,
+  "updated": 1576941231,
+  "status": "active"
+}

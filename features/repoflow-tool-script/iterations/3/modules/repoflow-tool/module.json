@@ -1,0 +1,24 @@
+{
+  "moduleid": "repoflow-tool",
+  "mode": "prod",
+  "version": "1.70.2-repoflow-tool-script-prod",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "script",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": {
+    "commitid": "c9627fd3336e5c0a62a7b1047f8ab607e5733bfb",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "326bcd1853fbc0fbb899df7617c389ece7cd87b4",
+    "message": "Change NODE_ENV flag\n"
+  },
+  "mergeback": {
+    "commitid": "b4a696c1358f41d3f59521a43b881d972cfd3fe0",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1576943418,
+  "updated": 1576943418,
+  "status": "active"
+}

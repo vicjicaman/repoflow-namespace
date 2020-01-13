@@ -2,6 +2,9 @@
   "moduleid": "nodeflow-local-graph",
   "releases": [
     {
+      "releaseid": "repoflow-tool-script"
+    },
+    {
       "releaseid": "beta-public-services"
     },
     {
@@ -92,12 +95,12 @@
       "moduleid": "repoflow-tool",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/nodeflow-local-graph",
+          "dependencyid": "dependency|start.sh|=(.+)\\s+#module\\s+@nebulario/nodeflow-local-graph",
           "fullname": "@nebulario/nodeflow-local-graph",
-          "version": "1.73.2-master",
+          "version": "1.73.9-master",
           "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/nodeflow-local-graph"
+          "filename": "start.sh",
+          "path": "=(.+)\\s+#module\\s+@nebulario/nodeflow-local-graph"
         }
       ]
     }

@@ -1,0 +1,20 @@
+{
+  "moduleid": "repoflow-plugin-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-server.git",
+  "fullname": "@nebulario/repoflow-plugin-server",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Proxy server for local env modules interaction",
+  "created": 1576939446,
+  "updated": 1576939446,
+  "status": "active",
+  "commit": {
+    "commitid": "8748312c4969e02bb51fe67dfdc514fe38012d5e",
+    "message": "ITERATION:2\n"
+  }
+}

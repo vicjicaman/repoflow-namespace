@@ -1,0 +1,227 @@
+{
+  "releaseid": "repoflow-tool-script",
+  "moduleid": "repoflow-plugin-server",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/repoflow-plugin-server",
+  "type": "npm",
+  "url": "github.com:vicjicaman/repoflow-plugin-server.git",
+  "publish": {
+    "commitid": "47a5e1920fc403ec609150deb97823de6c31b4ae",
+    "message": "Sync to iteration version\n"
+  },
+  "released": {
+    "commitid": "8748312c4969e02bb51fe67dfdc514fe38012d5e",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "8e5e622618b7f8c3c57b0b59313732e5e5088d78",
+    "message": "RELEASE:repoflow-tool-script:1.70.3-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Proxy server for local env modules interaction",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/repoflow-plugin-server",
+      "version": "1.70.3-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime",
+      "fullname": "@babel/runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime-corejs3",
+      "fullname": "@babel/runtime-corejs3",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime-corejs3"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/core-process",
+      "fullname": "@nebulario/core-process",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/core-process"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-npm",
+      "fullname": "@nebulario/repoflow-plugin-npm",
+      "version": "1.70.17-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-npm"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-container",
+      "fullname": "@nebulario/repoflow-plugin-container",
+      "version": "1.70.19-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-container"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-script",
+      "fullname": "@nebulario/repoflow-plugin-script",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-script"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-config",
+      "fullname": "@nebulario/repoflow-plugin-config",
+      "version": "1.70.12-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-config"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-realm",
+      "fullname": "@nebulario/repoflow-plugin-realm",
+      "version": "1.70.5-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-realm"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/repoflow-plugin-folder",
+      "fullname": "@nebulario/repoflow-plugin-folder",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/repoflow-plugin-folder"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.axios",
+      "fullname": "axios",
+      "version": "^0.19.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.axios"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.body-parser",
+      "fullname": "body-parser",
+      "version": "^1.19.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.body-parser"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.dotenv",
+      "fullname": "dotenv",
+      "version": "^7.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.dotenv"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.express",
+      "fullname": "express",
+      "version": "^4.16.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.express"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.socket.io-client",
+      "fullname": "socket.io-client",
+      "version": "^2.3.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.socket.io-client"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.tree-kill",
+      "fullname": "tree-kill",
+      "version": "^1.2.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.tree-kill"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.uuid",
+      "fullname": "uuid",
+      "version": "^3.3.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.uuid"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/core",
+      "fullname": "@babel/core",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/plugin-transform-runtime",
+      "fullname": "@babel/plugin-transform-runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/preset-env",
+      "fullname": "@babel/preset-env",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^8.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.nodemon",
+      "fullname": "nodemon",
+      "version": "^1.19.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.nodemon"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^4.39.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-cli",
+      "fullname": "webpack-cli",
+      "version": "^3.3.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
+  "created": 1576944038,
+  "updated": 1576944038,
+  "status": "active"
+}

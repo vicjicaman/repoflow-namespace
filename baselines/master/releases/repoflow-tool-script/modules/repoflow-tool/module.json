@@ -1,0 +1,51 @@
+{
+  "releaseid": "repoflow-tool-script",
+  "moduleid": "repoflow-tool",
+  "version": "1.70.7-master",
+  "fullname": "@nebulario/repoflow-tool",
+  "type": "script",
+  "url": "github.com:vicjicaman/repoflow-tool.git",
+  "publish": {
+    "commitid": "758a5196ffb58148e68b67e94c30a8de9352f69f",
+    "message": "Sync to iteration version\n"
+  },
+  "released": {
+    "commitid": "b4a696c1358f41d3f59521a43b881d972cfd3fe0",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": {
+    "commitid": "886a9d104bdb9e9c612ee932763116c17d76f9b8",
+    "message": "RELEASE:repoflow-tool-script:1.70.7-master\n"
+  },
+  "releaseType": "patch",
+  "description": "- Install and startup boundle package\n- Included default plugins and default workspace",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|start.sh|=(.+)\\s+#module\\s+@nebulario/nodeflow-local-graph",
+      "fullname": "@nebulario/nodeflow-local-graph",
+      "version": "1.73.9-master",
+      "kind": "dependency",
+      "filename": "start.sh",
+      "path": "=(.+)\\s+#module\\s+@nebulario/nodeflow-local-graph"
+    },
+    {
+      "dependencyid": "dependency|start.sh|=(.+)\\s+#module\\s+@nebulario/nodeflow-local-server",
+      "fullname": "@nebulario/nodeflow-local-server",
+      "version": "1.71.13-master",
+      "kind": "dependency",
+      "filename": "start.sh",
+      "path": "=(.+)\\s+#module\\s+@nebulario/nodeflow-local-server"
+    },
+    {
+      "dependencyid": "dependency|start.sh|=(.+)\\s+#module\\s+@nebulario/repoflow-plugin-server",
+      "fullname": "@nebulario/repoflow-plugin-server",
+      "version": "1.70.3-master",
+      "kind": "dependency",
+      "filename": "start.sh",
+      "path": "=(.+)\\s+#module\\s+@nebulario/repoflow-plugin-server"
+    }
+  ],
+  "created": 1576944038,
+  "updated": 1576944038,
+  "status": "active"
+}

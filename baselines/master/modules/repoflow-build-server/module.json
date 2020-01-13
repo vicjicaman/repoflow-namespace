@@ -2,6 +2,9 @@
   "moduleid": "repoflow-build-server",
   "releases": [
     {
+      "releaseid": "repoflow-tool-script"
+    },
+    {
       "releaseid": "beta-public-build"
     },
     {
