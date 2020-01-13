@@ -1,0 +1,8 @@
+{
+  "featureid": "remote-standalone",
+  "baselineid": "master",
+  "description": "Isolate the remote package",
+  "created": 1578935645,
+  "updated": 1578935645,
+  "status": "active"
+}
