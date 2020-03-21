@@ -1,0 +1,8 @@
+{
+  "featureid": "plugin-v3",
+  "baselineid": "master",
+  "description": "Stream feedback features for plugin service",
+  "created": 1584824053,
+  "updated": 1584824053,
+  "status": "active"
+}
